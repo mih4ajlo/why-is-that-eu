@@ -9,7 +9,7 @@ const directives = defineCollection({
     year: z.number(),
     tags: z.array(z.string()).default([]),
     summary: z.string(),
-    status: z.enum(['in-force', 'proposed', 'repealed']).default('in-force'),
+    status: z.enum(['in-force', 'proposed', 'repealed', 'withdrawn']).default('in-force'),
     related: z.array(z.string()).default([]),
   }),
 });

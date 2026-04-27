@@ -70,6 +70,7 @@ function parseArgs(argv: string[]): Args {
   let noContext = false;
   let pollId: string | null = null;
   let saveId: string | null = null;
+  let topicsFile: string | null = null;
   const topics: string[] = [];
 
   for (let i = 0; i < args.length; i++) {
@@ -94,16 +95,25 @@ function parseArgs(argv: string[]): Args {
       pollId = args[++i];
     } else if (args[i] === '--save' && args[i + 1]) {
       saveId = args[++i];
+    } else if (args[i] === '--topics-file' && args[i + 1]) {
+      topicsFile = args[++i];
     } else {
       topics.push(args[i]);
     }
+  }
+
+  let resolvedTopics = topics.length > 0 ? topics : DEFAULT_TOPICS;
+  if (topicsFile) {
+    const filePath = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', topicsFile);
+    resolvedTopics = JSON.parse(fs.readFileSync(filePath, 'utf8')) as string[];
+    console.log(`Loaded ${resolvedTopics.length} topics from ${topicsFile}`);
   }
 
   return {
     provider,
     model: model ?? DEFAULT_MODELS[provider],
     parallel,
-    topics: topics.length > 0 ? topics : DEFAULT_TOPICS,
+    topics: resolvedTopics,
     noContext,
     pollId,
     saveId,
