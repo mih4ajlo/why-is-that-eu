@@ -3,9 +3,10 @@ title: "Common Charger Directive"
 directive: "2022/2380/EU"
 category: "Consumer Electronics"
 year: 2022
-tags: ["usb-c", "chargers", "standardization", "e-waste", "smartphones"]
+tags: [usb-c, chargers, standardization, e-waste, smartphones]
 summary: "Mandates USB-C as the common charging port for most consumer electronics sold in the EU, and separates charger sales from device sales. Driven by a decade of lobbying, e-waste concerns, and consumer frustration."
 status: "in-force"
+related: []
 ---
 
 ## What is it?
@@ -63,16 +64,20 @@ For accessory makers with Lightning-based products (cables, cases, speaker docks
 
 ## Key questions answered
 
-**Why USB-C specifically, and not a different standard?**
+### Why USB-C specifically, and not a different standard?
+
 USB-C was the only cable and connector type that met all the technical requirements: it supports both charging and data transfer, can deliver sufficient power for everything from earbuds to laptops, has broad industry support, and was already dominant on most non-Apple devices. The alternative — defining a new EU-specific standard — would have been counterproductive and taken years longer.
 
-**Why did Apple fight this so hard?**
+### Why did Apple fight this so hard?
+
 Lightning was a significant source of revenue. Apple licensed the MFi (Made for iPhone) programme to accessory manufacturers, earning royalties on every certified Lightning cable and accessory sold. USB-C accessories are not subject to Apple licensing fees. The transition also meant consumers' existing Lightning accessories became less useful.
 
-**Why wasn't this done sooner?**
+### Why wasn't this done sooner?
+
 The Commission genuinely believed the 2009 voluntary agreement would work. It did reduce fragmentation — from 30+ types down to essentially two (Micro-USB and Lightning). But the failure to achieve full convergence, combined with the environmental cost, eventually justified binding legislation. The political will in Parliament had been building since at least 2014.
 
-**Why do chargers need to be sold separately?**
+### Why do chargers need to be sold separately?
+
 Bundling chargers with devices drives unnecessary manufacturing. If a consumer already has a compatible charger (increasingly likely as USB-C proliferates), the bundled charger is waste from the moment the box is opened. Unbundling forces the cost to be visible and lets consumers who already have chargers skip the purchase.
 
 ## Official sources

@@ -9,6 +9,7 @@
  *   npm run harvest -- --list Digital     # filter list by category name
  */
 
+import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';

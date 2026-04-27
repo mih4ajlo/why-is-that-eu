@@ -10,6 +10,7 @@ const directives = defineCollection({
     tags: z.array(z.string()).default([]),
     summary: z.string(),
     status: z.enum(['in-force', 'proposed', 'repealed']).default('in-force'),
+    related: z.array(z.string()).default([]),
   }),
 });
 

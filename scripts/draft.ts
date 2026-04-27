@@ -10,6 +10,7 @@
  *   npm run draft -- --no-context "topic"    # skip EUR-Lex context fetch
  */
 
+import 'dotenv/config';
 import Anthropic from '@anthropic-ai/sdk';
 import OpenAI from 'openai';
 import fs from 'fs';
@@ -34,21 +35,45 @@ const CATEGORIES = [
   'Other',
 ];
 
-const SYSTEM_PROMPT = `You are an expert on EU law, policy, and history. Your task is to write knowledge base entries explaining EU directives, regulations, and standards — with a focus on the *why*: the historical context, political motivations, economic drivers, and industry dynamics that led to each piece of legislation.
+export const SYSTEM_PROMPT = `You are an expert on EU law, policy, and history. Your task is to write knowledge base entries explaining EU directives, regulations, and standards — with a focus on the *why*: the historical context, political motivations, economic drivers, and industry dynamics that led to each piece of legislation.
 
-Entries should be accurate, well-structured, and accessible to a general audience. Always explain things from first principles — assume the reader asks "but why?".`;
+Write like a well-informed journalist covering EU policy, not a legal textbook. Be specific: name the commissioners, the companies, the incidents, the vote counts, the fines. Prefer active voice. Lead with what is surprising or consequential.
 
-const ENTRY_PROMPT = (topic: string, context?: string) => `Write a knowledge base entry about: "${topic}"
+## Analytical framework for "Why was it introduced?"
+
+Apply all four lenses:
+1. **Structural tension** — what contradiction or failure in the existing system made legislation inevitable? (e.g. ETS free allowances creating windfall profits while carbon leakage continued; safe-harbour rules written for bulletin boards being applied to billion-user platforms)
+2. **Coalition dynamics** — who formed the majority that got this passed and what held them together? Who opposed it, why, and how close did they come to blocking it?
+3. **Timing** — why did this succeed under THIS Commission in THIS political moment? What crisis, election, court ruling, or geopolitical event broke a previous deadlock?
+4. **What changed** — if earlier attempts failed or stalled, name the specific event that unblocked them.
+
+## Attribution rules — strictly enforced
+
+- Every statistic must name its source inline: "the Commission's 2020 impact assessment found…", "according to Eurostat…", "the EEA's 2022 State of Nature report showed…"
+- Never invent a quote. If you cannot attribute a quote to a specific named person in a verifiable context, paraphrase their position instead.
+- If you are uncertain about a specific number, use qualitative language: "the Commission cited rising emissions" rather than a figure you cannot verify.
+- Statistics and dates from the source document provided in the prompt are reliable — use them. Statistics from training memory should be attributed with the source name; if the source is unclear, omit the number and describe the situation qualitatively.
+- It is better to write "European industry warned of significant job losses" than to invent a specific figure.
+
+## Style anti-patterns — never use these
+
+- "concerns grew" → say who raised them, when, and in which document
+- "various stakeholders" / "industry" → name specific companies, associations, or officials
+- "it was recognised that" / "experts noted" → attribute to a specific actor
+- "has had significant impact" → give a specific number, case, fine, or outcome
+- opening "Why was it introduced?" with a generic background sentence → start with the most specific, dramatic element: a scandal, a court ruling, a political crisis, a CEO threat, an industry collapse`;
+
+export const ENTRY_PROMPT = (topic: string, context?: string) => `Write a knowledge base entry about: "${topic}"
 ${context ? `
-## Official EUR-Lex source document
+## Source documents
 
-Use the following official text as your primary factual source. The recitals (numbered paragraphs in the preamble) explicitly state the legislative intent — lean on them heavily for the "Why was it introduced?" section. Verify all dates, regulation numbers, and causal claims against this text.
+The following context was fetched from official EU sources. Where recitals are included, they are the Commission's own stated justification — treat statistics and causal claims from recitals as authoritative and cite them as "the regulation's preamble states…" or "recital N of the regulation notes…". For other statistics in this context, cite the named source. Do not add statistics from training memory unless you can name the source document.
 
 <source_document>
 ${context}
 </source_document>
 
-` : ''}
+` : 'No source document was fetched. Use only statistics you can attribute to a named official source (Commission report, Eurostat, EEA, etc.). If uncertain, describe qualitatively.\n\n'}
 The entry must be in this EXACT format (frontmatter + markdown body):
 
 ---
@@ -56,9 +81,10 @@ title: "<full official title>"
 directive: "<official number like 2022/2380/EU, or omit if not applicable>"
 category: "<one of: ${CATEGORIES.join(' | ')}>"
 year: <4-digit year the directive/regulation came into force>
-tags: [<3-6 lowercase tags>]
+tags: [<3-6 tags — lowercase, hyphenated, no spaces, no quotes e.g. data-protection, circular-economy>]
 summary: "<one or two sentences explaining what this is and why it matters>"
 status: "in-force"
+related: [<directive refs of closely linked legislation, e.g. "2016/679/EU", or empty []>]
 ---
 
 ## What is it?
@@ -67,11 +93,11 @@ status: "in-force"
 
 ## Why was it introduced?
 
-[The core section. Explain the history: what problem existed, who lobbied for it, what triggered EU action, what alternatives were considered. Be specific about dates, companies, incidents, and political dynamics.]
+[The core section. Open with the most specific, dramatic element — a court ruling, a scandal, a political crisis — not a general background sentence. Explain the history: what problem existed, who lobbied for it, what triggered EU action, what alternatives were considered. Name commissioners, companies, organisations, and incidents. Be specific about dates and amounts.]
 
 ## Timeline
 
-[A bullet-point chronology of key events, from early concerns to adoption to implementation]
+[A bullet-point chronology of key events: early triggers, Commission proposal, Parliament/Council adoption, entry into force, application date, first enforcement actions]
 
 - **YYYY** — [event]
 - **YYYY** — [event]
@@ -79,16 +105,18 @@ status: "in-force"
 
 ## Impact and consequences
 
-[Who was affected, how industry responded, what changed in practice]
+[Who was affected, how industry responded, what changed in practice. Use specific numbers: fines issued, companies affected, countries that struggled to comply.]
 
 ## Key questions answered
 
-[2-4 specific "why" questions people commonly ask, answered concisely]
+[2-4 specific "why" questions people commonly ask, answered concisely in 2-4 sentences each]
 
-**Why [specific question]?**
+### Why [specific question]?
+
 [Answer]
 
-**Why [specific question]?**
+### Why [specific question]?
+
 [Answer]
 
 ## Official sources
@@ -147,7 +175,7 @@ function parseArgs(argv: string[]): { provider: Provider; model: string; topic: 
 
 interface CandidateRef { celex: string; title: string }
 
-function lookupCandidate(topic: string): CandidateRef | null {
+export function lookupCandidate(topic: string): CandidateRef | null {
   if (!fs.existsSync(CANDIDATES_FILE)) return null;
 
   const candidates: Array<{ celex: string; directive: string; title: string }> =
@@ -238,6 +266,39 @@ LIMIT 60`.trim();
   const bases = [...new Set(bindings.map(b => b.basisCelex?.value).filter(Boolean))];
   const amends = [...new Set(bindings.map(b => b.amendsCelex?.value).filter(Boolean))];
 
+  // Also query for related Commission preparatory documents (impact assessments, proposals)
+  const relQuery = `
+PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
+SELECT DISTINCT ?relCelex ?relTitle WHERE {
+  ?mainWork cdm:resource_legal_id_celex ?mc . FILTER(STR(?mc) = "${celex}")
+  { ?mainWork cdm:work_cites ?rel . } UNION { ?rel cdm:work_cites ?mainWork . }
+  ?rel cdm:resource_legal_id_celex ?relCelex .
+  FILTER(REGEX(STR(?relCelex), "^5[0-9]"))
+  OPTIONAL {
+    ?relExp cdm:expression_belongs_to_work ?rel ;
+            cdm:expression_uses_language <http://publications.europa.eu/resource/authority/language/ENG> ;
+            cdm:expression_title ?relTitle .
+  }
+} LIMIT 10`.trim();
+
+  let relDocs: string[] = [];
+  try {
+    const relRes = await fetch('https://publications.europa.eu/webapi/rdf/sparql', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'Accept': 'application/sparql-results+json' },
+      body: new URLSearchParams({ query: relQuery }).toString(),
+      signal: AbortSignal.timeout(10_000),
+    });
+    if (relRes.ok) {
+      const relJson = await relRes.json() as { results: { bindings: Record<string, { value: string }>[] } };
+      relDocs = (relJson.results?.bindings ?? []).map(b => {
+        const c = b.relCelex?.value ?? '';
+        const t = b.relTitle?.value ?? '';
+        return t ? `${c} — ${t.slice(0, 80)}` : c;
+      }).filter(Boolean);
+    }
+  } catch { /* ignore */ }
+
   const lines = [
     `OFFICIAL METADATA (EUR-Lex CELLAR):`,
     `Title: ${title}`,
@@ -246,13 +307,53 @@ LIMIT 60`.trim();
     subjects.length  ? `EUROVOC subjects: ${subjects.join('; ')}` : '',
     bases.length     ? `Legal basis: ${bases.join(', ')}` : '',
     amends.length    ? `Amends: ${amends.join(', ')}` : '',
+    relDocs.length   ? `Related Commission docs (impact assessments, proposals):\n  ${relDocs.join('\n  ')}` : '',
     `EUR-Lex URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:${celex}`,
   ].filter(Boolean);
 
   return lines.join('\n');
 }
 
-// ── Source 2: Wikipedia extract ───────────────────────────────────────────────
+// ── Source 2: EUR-Lex recitals ────────────────────────────────────────────────
+// The preamble recitals explicitly state the Commission's justification and
+// often cite the statistical evidence used to motivate the legislation.
+
+async function fetchEurlexRecitals(celex: string): Promise<string> {
+  const url = `https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:${celex}`;
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+      'Accept': 'text/html,application/xhtml+xml',
+    },
+    signal: AbortSignal.timeout(20_000),
+  });
+
+  if (!res.ok) return '';
+
+  const buf = await res.arrayBuffer();
+  if (buf.byteLength < 5000) return ''; // WAF challenge page is small
+
+  const html = new TextDecoder().decode(buf);
+
+  // Strip scripts, styles, then all tags; normalise whitespace and entities
+  const plain = html
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ').replace(/&#\d+;/g, '')
+    .replace(/\s+/g, ' ').trim();
+
+  // Recitals follow "Whereas:" and precede the operative articles
+  const whereIdx = plain.indexOf('Whereas:');
+  if (whereIdx < 0) return '';
+  const articleIdx = plain.indexOf('Article 1', whereIdx);
+  const recText = plain.slice(whereIdx, articleIdx > 0 ? articleIdx : whereIdx + 12_000);
+
+  // Cap to keep context manageable — first ~6 000 chars covers ~15 recitals
+  return `EUR-LEX RECITALS (official preamble — cite as "the regulation's preamble states" or "recital N notes"):\n${recText.slice(0, 6_000)}`;
+}
+
+// ── Source 3: Wikipedia extract ───────────────────────────────────────────────
 
 async function fetchWikipediaExtract(query: string): Promise<string> {
   // Search Wikipedia for the most relevant article
@@ -311,19 +412,21 @@ async function fetchWikipediaExtract(query: string): Promise<string> {
 
 // ── Combined context fetch ────────────────────────────────────────────────────
 
-async function fetchContext(celex: string, title: string): Promise<string | undefined> {
+export async function fetchContext(celex: string, title: string): Promise<string | undefined> {
   process.stdout.write(`Fetching context for ${celex}...\n`);
 
-  const [metadata, wiki] = await Promise.all([
+  const [metadata, recitals, wiki] = await Promise.all([
     fetchCellarMetadata(celex).catch(() => ''),
+    fetchEurlexRecitals(celex).catch(() => ''),
     fetchWikipediaExtract(title).catch(() => ''),
   ]);
 
-  const parts = [metadata, wiki].filter(Boolean);
+  const parts = [metadata, recitals, wiki].filter(Boolean);
   if (parts.length === 0) return undefined;
 
   const context = parts.join('\n\n---\n\n');
-  const sources = [metadata && 'CELLAR', wiki && 'Wikipedia'].filter(Boolean).join(' + ');
+  const sources = [metadata && 'CELLAR', recitals && 'EUR-Lex recitals', wiki && 'Wikipedia']
+    .filter(Boolean).join(' + ');
   process.stdout.write(`  Context sources: ${sources} (${(context.length / 1000).toFixed(1)}k chars)\n`);
   return context;
 }
@@ -431,7 +534,7 @@ async function draftWithDeepSeek(topic: string, model: string, context?: string)
   finalize(fullContent);
 }
 
-function finalize(fullContent: string): void {
+export function finalize(fullContent: string): void {
   const fmStart = fullContent.indexOf('---');
   if (fmStart === -1) {
     console.error('\nError: Generated content does not contain valid frontmatter.');
@@ -440,34 +543,38 @@ function finalize(fullContent: string): void {
   save(fullContent.slice(fmStart));
 }
 
-// ── Main ──────────────────────────────────────────────────────────────────────
+// ── Main (only runs when invoked directly, not when imported) ─────────────────
 
-const { provider, model, topic, noContext } = parseArgs(process.argv);
+const isMain = process.argv[1]?.replace(/\\/g, '/').endsWith('scripts/draft.ts') ||
+               process.argv[1]?.replace(/\\/g, '/').endsWith('scripts/draft.js');
 
-if (!topic) {
-  console.error('Usage: npm run draft -- [--provider anthropic|deepseek] [--model <model>] [--no-context] "topic"');
-  process.exit(1);
-}
+if (isMain) {
+  const { provider, model, topic, noContext } = parseArgs(process.argv);
 
-console.log(`\nDrafting entry for: "${topic}"`);
-console.log(`Provider: ${provider}  Model: ${model}`);
-
-// Context injection: look up candidate, then fetch CELLAR metadata + Wikipedia
-let context: string | undefined;
-if (!noContext) {
-  const candidate = lookupCandidate(topic);
-  if (candidate) {
-    console.log(`Matched: ${candidate.title.slice(0, 70)}…`);
-    context = await fetchContext(candidate.celex, candidate.title);
-  } else {
-    console.log('No candidate match — drafting from model knowledge only.');
+  if (!topic) {
+    console.error('Usage: npm run draft -- [--provider anthropic|deepseek] [--model <model>] [--no-context] "topic"');
+    process.exit(1);
   }
+
+  console.log(`\nDrafting entry for: "${topic}"`);
+  console.log(`Provider: ${provider}  Model: ${model}`);
+
+  let context: string | undefined;
+  if (!noContext) {
+    const candidate = lookupCandidate(topic);
+    if (candidate) {
+      console.log(`Matched: ${candidate.title.slice(0, 70)}…`);
+      context = await fetchContext(candidate.celex, candidate.title);
+    } else {
+      console.log('No candidate match — drafting from model knowledge only.');
+    }
+  }
+
+  console.log('─'.repeat(50));
+
+  const run = provider === 'deepseek' ? draftWithDeepSeek : draftWithAnthropic;
+  run(topic, model, context).catch(err => {
+    console.error('\nError:', err.message);
+    process.exit(1);
+  });
 }
-
-console.log('─'.repeat(50));
-
-const run = provider === 'deepseek' ? draftWithDeepSeek : draftWithAnthropic;
-run(topic, model, context).catch(err => {
-  console.error('\nError:', err.message);
-  process.exit(1);
-});
