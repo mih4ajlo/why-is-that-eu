@@ -443,8 +443,9 @@ function slugify(title: string): string {
 }
 
 function extractTitle(content: string): string {
-  const match = content.match(/^---[\s\S]*?title:\s*"([^"]+)"/m);
-  return match?.[1] ?? 'untitled';
+  const match = content.match(/^---[\s\S]*?title:\s*"([^"]+)"/m)
+    ?? content.match(/^---[\s\S]*?title:\s*([^\n"#]+)/m);
+  return match?.[1]?.trim() ?? 'untitled';
 }
 
 function save(content: string): void {
