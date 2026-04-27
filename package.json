@@ -1,0 +1,22 @@
+{
+  "name": "why-is-that-eu",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "draft": "tsx scripts/draft.ts",
+    "harvest": "tsx scripts/harvest.ts"
+  },
+  "dependencies": {
+    "astro": "^5.7.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.91.1",
+    "openai": "^4.98.0",
+    "pagefind": "^1.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

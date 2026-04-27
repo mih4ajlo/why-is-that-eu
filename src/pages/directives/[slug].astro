@@ -1,0 +1,146 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('directives');
+  return entries.map(entry => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const base = import.meta.env.BASE_URL;
+---
+<Layout title={entry.data.title} description={entry.data.summary}>
+  <style>
+    .back {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 2rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .back:hover { color: var(--accent); }
+
+    .entry-header {
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .entry-title {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin-bottom: 0.75rem;
+    }
+    .entry-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.75rem;
+    }
+    .category-badge {
+      font-size: 0.78rem;
+      padding: 0.25rem 0.65rem;
+      border-radius: 4px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 500;
+    }
+    .directive-ref {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: monospace;
+      background: var(--tag-bg);
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+    }
+    .tag {
+      font-size: 0.72rem;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      background: var(--tag-bg);
+      color: var(--muted);
+    }
+    .year {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+    .entry-summary {
+      font-size: 1rem;
+      color: var(--muted);
+      max-width: 60ch;
+      line-height: 1.5;
+    }
+
+    .content {
+      font-size: 0.95rem;
+      line-height: 1.8;
+    }
+    .content :global(h2) {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin: 2rem 0 0.75rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      color: var(--text);
+    }
+    .content :global(h3) {
+      font-size: 1rem;
+      font-weight: 600;
+      margin: 1.5rem 0 0.5rem;
+      color: var(--text);
+    }
+    .content :global(p) {
+      margin-bottom: 1rem;
+    }
+    .content :global(ul), .content :global(ol) {
+      margin: 0 0 1rem 1.5rem;
+    }
+    .content :global(li) {
+      margin-bottom: 0.35rem;
+    }
+    .content :global(a) {
+      color: var(--accent);
+    }
+    .content :global(strong) {
+      font-weight: 600;
+      color: var(--text);
+    }
+    .content :global(blockquote) {
+      border-left: 3px solid var(--border);
+      padding-left: 1rem;
+      color: var(--muted);
+      margin: 1rem 0;
+    }
+    .content :global(code) {
+      font-size: 0.85em;
+      background: var(--tag-bg);
+      padding: 0.1em 0.35em;
+      border-radius: 3px;
+    }
+  </style>
+
+  <a href={base} class="back">← All directives</a>
+
+  <div class="entry-header">
+    <h1 class="entry-title">{entry.data.title}</h1>
+    <div class="entry-meta">
+      <span class="category-badge" data-pagefind-meta="category">{entry.data.category}</span>
+      {entry.data.directive && <span class="directive-ref" data-pagefind-meta="directive">{entry.data.directive}</span>}
+      <span class="year">{entry.data.year}</span>
+      {entry.data.tags.map(tag => <span class="tag">{tag}</span>)}
+    </div>
+    <p class="entry-summary">{entry.data.summary}</p>
+  </div>
+
+  <div class="content" data-pagefind-body>
+    <Content />
+  </div>
+</Layout>
