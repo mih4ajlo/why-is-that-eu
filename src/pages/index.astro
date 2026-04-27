@@ -14,6 +14,18 @@ const STATUS_LABEL: Record<string, string> = {
   'repealed': 'Repealed',
   'withdrawn': 'Withdrawn',
 };
+
+function llmLabel(model: string | undefined): string {
+  if (!model) return '';
+  if (model.startsWith('claude-opus-4-7')) return 'Claude Opus 4.7';
+  if (model.startsWith('claude-opus-4-6')) return 'Claude Opus 4.6';
+  if (model.startsWith('claude-opus')) return 'Claude Opus';
+  if (model.startsWith('claude-sonnet')) return 'Claude Sonnet';
+  if (model.startsWith('claude-haiku')) return 'Claude Haiku';
+  if (model === 'deepseek-reasoner') return 'DeepSeek R1';
+  if (model.startsWith('deepseek')) return 'DeepSeek';
+  return model;
+}
 ---
 <Layout title="Browse EU Directives & Regulations">
   <style>
@@ -144,6 +156,16 @@ const STATUS_LABEL: Record<string, string> = {
     .status-repealed  { background: #f1f5f9; color: #64748b; }
     .status-withdrawn { background: #fee2e2; color: #991b1b; }
 
+    .llm-badge {
+      font-size: 0.68rem;
+      font-weight: 500;
+      padding: 0.15rem 0.5rem;
+      border-radius: 999px;
+      background: #f0f0f0;
+      color: #555;
+      border: 1px solid #ddd;
+    }
+
     .empty {
       text-align: center;
       padding: 3rem 0;
@@ -187,6 +209,11 @@ const STATUS_LABEL: Record<string, string> = {
             {entry.data.status !== 'in-force' && (
               <span class={`status-badge status-${entry.data.status}`}>
                 {STATUS_LABEL[entry.data.status] ?? entry.data.status}
+              </span>
+            )}
+            {entry.data.llm && (
+              <span class="llm-badge" title={entry.data.llm}>
+                {llmLabel(entry.data.llm)}
               </span>
             )}
           </div>

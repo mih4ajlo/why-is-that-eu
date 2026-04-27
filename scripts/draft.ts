@@ -497,7 +497,7 @@ async function draftWithAnthropic(topic: string, model: string, context?: string
   }
 
   console.log('\n' + '─'.repeat(50));
-  finalize(fullContent);
+  finalize(fullContent, model);
 }
 
 async function draftWithDeepSeek(topic: string, model: string, context?: string): Promise<void> {
@@ -532,16 +532,23 @@ async function draftWithDeepSeek(topic: string, model: string, context?: string)
   }
 
   console.log('\n' + '─'.repeat(50));
-  finalize(fullContent);
+  finalize(fullContent, model);
 }
 
-export function finalize(fullContent: string): void {
+export function finalize(fullContent: string, model?: string): void {
   const fmStart = fullContent.indexOf('---');
   if (fmStart === -1) {
     console.error('\nError: Generated content does not contain valid frontmatter.');
     process.exit(1);
   }
-  save(fullContent.slice(fmStart));
+  let content = fullContent.slice(fmStart);
+  if (model) {
+    const fmEndIdx = content.indexOf('\n---', 3);
+    if (fmEndIdx !== -1) {
+      content = content.slice(0, fmEndIdx) + `\nllm: "${model}"` + content.slice(fmEndIdx);
+    }
+  }
+  save(content);
 }
 
 // ── Main (only runs when invoked directly, not when imported) ─────────────────

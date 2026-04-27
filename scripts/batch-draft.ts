@@ -171,6 +171,7 @@ async function buildContextMap(topics: string[]): Promise<Map<string, string | u
 
 interface BatchState {
   batchId: string;
+  model: string;
   topics: string[];
   customIds: string[];
   submittedAt: string;
@@ -218,6 +219,7 @@ async function submitAnthropicBatch(topics: string[], model: string, noContext: 
 
   const state: BatchState = {
     batchId: batch.id,
+    model,
     topics,
     customIds,
     submittedAt: new Date().toISOString(),
@@ -230,7 +232,7 @@ async function submitAnthropicBatch(topics: string[], model: string, noContext: 
   console.log(`  State:     data/batch-state.json`);
   console.log(`\nResume with:  npm run batch-draft -- --poll ${batch.id}`);
 
-  await pollAndSave(client, batch.id, topics, customIds);
+  await pollAndSave(client, batch.id, topics, customIds, model);
 }
 
 async function pollAndSave(
@@ -238,6 +240,7 @@ async function pollAndSave(
   batchId: string,
   topics: string[],
   customIds: string[],
+  model: string,
 ): Promise<void> {
   console.log('\nPolling (Ctrl+C to detach — resume with --poll)...\n');
 
@@ -254,7 +257,7 @@ async function pollAndSave(
 
     if (batch.processing_status === 'ended') {
       console.log('\n');
-      await saveAnthropicResults(client, batchId, topics, customIds);
+      await saveAnthropicResults(client, batchId, topics, customIds, model);
       return;
     }
 
@@ -267,6 +270,7 @@ async function saveAnthropicResults(
   batchId: string,
   topics: string[],
   customIds: string[],
+  model: string,
 ): Promise<void> {
   const idToTopic = new Map(customIds.map((id, i) => [id, topics[i]]));
   let saved = 0;
@@ -293,7 +297,7 @@ async function saveAnthropicResults(
     }
 
     console.log(`  Saving: ${topic}`);
-    finalize(textBlock.text);
+    finalize(textBlock.text, model);
     saved++;
   }
 
@@ -309,8 +313,9 @@ async function pollOnly(batchId: string): Promise<void> {
   const state = loadBatchState();
   const topics = state?.batchId === batchId ? state.topics : [];
   const customIds = state?.batchId === batchId ? state.customIds : [];
+  const stateModel = state?.batchId === batchId ? state.model : DEFAULT_MODELS.anthropic;
   const client = new Anthropic();
-  await pollAndSave(client, batchId, topics, customIds);
+  await pollAndSave(client, batchId, topics, customIds, stateModel);
 }
 
 async function saveOnly(batchId: string): Promise<void> {
@@ -329,7 +334,7 @@ async function saveOnly(batchId: string): Promise<void> {
     console.log(`Batch still processing (${batch.processing_status}). Try again later.`);
     process.exit(0);
   }
-  await saveAnthropicResults(client, batchId, state.topics, state.customIds);
+  await saveAnthropicResults(client, batchId, state.topics, state.customIds, state.model ?? DEFAULT_MODELS.anthropic);
 }
 
 // ── DeepSeek parallel path ────────────────────────────────────────────────────
@@ -376,7 +381,7 @@ async function submitDeepSeekParallel(
     const text = completion.choices[0]?.message?.content ?? '';
     if (!text) throw new Error('Empty response');
 
-    finalize(text);
+    finalize(text, model);
     completed++;
     process.stdout.write(`  [${completed}/${total}] Saved: ${topic}\n`);
 

@@ -11,6 +11,7 @@ const directives = defineCollection({
     summary: z.string(),
     status: z.enum(['in-force', 'proposed', 'repealed', 'withdrawn']).default('in-force'),
     related: z.array(z.string()).default([]),
+    llm: z.string().optional(),
   }),
 });
 
