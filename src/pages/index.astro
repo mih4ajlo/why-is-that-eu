@@ -88,8 +88,6 @@ function llmLabel(model: string | undefined): string {
       transition: border-color 0.15s;
     }
     .card:hover { border-color: var(--accent); }
-    .card a { color: inherit; display: block; }
-    .card a:hover { text-decoration: none; }
 
     .card-header {
       display: flex;
@@ -101,7 +99,11 @@ function llmLabel(model: string | undefined): string {
     .card-title {
       font-size: 1rem;
       font-weight: 600;
-      color: var(--text);
+      color: var(--accent);
+      line-height: 1.35;
+    }
+    .card-title:hover {
+      text-decoration: underline;
     }
     .card-year {
       font-size: 0.78rem;
@@ -194,30 +196,28 @@ function llmLabel(model: string | undefined): string {
     )}
     {sorted.map(entry => (
       <div class="card" data-category={entry.data.category}>
-        <a href={`${base}directives/${entry.slug}`}>
-          <div class="card-header">
-            <span class="card-title">{entry.data.title}</span>
-            <span class="card-year">{entry.data.year}</span>
-          </div>
-          <p class="card-summary">{entry.data.summary}</p>
-          <div class="card-meta">
-            <span class="category-badge">{entry.data.category}</span>
-            {entry.data.directive && <span class="directive-ref">{entry.data.directive}</span>}
-            {entry.data.tags.slice(0, 3).map(tag => (
-              <span class="tag">{tag}</span>
-            ))}
-            {entry.data.status !== 'in-force' && (
-              <span class={`status-badge status-${entry.data.status}`}>
-                {STATUS_LABEL[entry.data.status] ?? entry.data.status}
-              </span>
-            )}
-            {entry.data.llm && (
-              <span class="llm-badge" title={entry.data.llm}>
-                {llmLabel(entry.data.llm)}
-              </span>
-            )}
-          </div>
-        </a>
+        <div class="card-header">
+          <a href={`${base}directives/${entry.slug}`} class="card-title">{entry.data.title}</a>
+          <span class="card-year">{entry.data.year}</span>
+        </div>
+        <p class="card-summary">{entry.data.summary}</p>
+        <div class="card-meta">
+          <span class="category-badge">{entry.data.category}</span>
+          {entry.data.directive && <span class="directive-ref">{entry.data.directive}</span>}
+          {entry.data.tags.slice(0, 3).map(tag => (
+            <span class="tag">{tag}</span>
+          ))}
+          {entry.data.status !== 'in-force' && (
+            <span class={`status-badge status-${entry.data.status}`}>
+              {STATUS_LABEL[entry.data.status] ?? entry.data.status}
+            </span>
+          )}
+          {entry.data.llm && (
+            <span class="llm-badge" title={entry.data.llm}>
+              {llmLabel(entry.data.llm)}
+            </span>
+          )}
+        </div>
       </div>
     ))}
   </div>
