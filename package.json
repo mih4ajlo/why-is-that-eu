@@ -11,6 +11,7 @@
     "harvest": "tsx scripts/harvest.ts"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.2",
     "astro": "^5.7.0"
   },
   "devDependencies": {

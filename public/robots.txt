@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mih4ajlo.github.io/why-is-that-eu/sitemap-index.xml
