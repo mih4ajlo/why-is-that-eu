@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "tsx scripts/extract-questions.ts && astro build && pagefind --site dist",
     "preview": "astro preview",
     "draft": "tsx scripts/draft.ts",
     "batch-draft": "tsx scripts/batch-draft.ts",
