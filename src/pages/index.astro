@@ -1,63 +1,25 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import { llmLabel, categorySlug, STATUS_LABEL } from '../lib/format';
 
 const allEntries = await getCollection('directives');
 const sorted = allEntries.sort((a, b) => b.data.year - a.data.year);
 
 const categories = [...new Set(allEntries.map(e => e.data.category))].sort();
 const base = import.meta.env.BASE_URL;
-
-const STATUS_LABEL: Record<string, string> = {
-  'in-force': 'In force',
-  'proposed': 'Proposed',
-  'repealed': 'Repealed',
-  'withdrawn': 'Withdrawn',
-};
-
-function llmLabel(model: string | undefined): string {
-  if (!model) return '';
-  if (model.startsWith('claude-opus-4-7')) return 'Claude Opus 4.7';
-  if (model.startsWith('claude-opus-4-6')) return 'Claude Opus 4.6';
-  if (model.startsWith('claude-opus')) return 'Claude Opus';
-  if (model.startsWith('claude-sonnet')) return 'Claude Sonnet';
-  if (model.startsWith('claude-haiku')) return 'Claude Haiku';
-  if (model === 'deepseek-reasoner') return 'DeepSeek R1';
-  if (model.startsWith('deepseek')) return 'DeepSeek';
-  return model;
-}
 ---
 <Layout title="Browse EU Directives & Regulations">
   <style>
-    .intro {
-      margin-bottom: 2rem;
-    }
-    .intro h1 {
-      font-size: 1.75rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin-bottom: 0.5rem;
-    }
-    .intro p {
-      color: var(--muted);
-      max-width: 52ch;
-    }
-    .intro .count {
-      display: inline-block;
-      margin-top: 0.6rem;
-      font-size: 0.82rem;
-      color: var(--muted);
-    }
-    .intro .count strong {
-      color: var(--text);
-    }
+    .intro { margin-bottom: 2rem; }
+    .intro h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.5rem; }
+    .intro p { color: var(--muted); max-width: 52ch; }
+    .intro .count { display: inline-block; margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); }
+    .intro .count strong { color: var(--text); }
 
-    .filter-bar {
-      display: flex;
-      gap: 0.5rem;
-      flex-wrap: wrap;
-      margin-bottom: 1.75rem;
-    }
+    .filter-section { margin-bottom: 1.75rem; display: flex; flex-direction: column; gap: 0.6rem; }
+    .filter-row { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+    .filter-label { font-size: 0.75rem; color: var(--muted); min-width: 4rem; }
     .filter-btn {
       padding: 0.35rem 0.85rem;
       border-radius: 999px;
@@ -75,104 +37,29 @@ function llmLabel(model: string | undefined): string {
       color: #fff;
     }
 
-    .entries {
-      display: grid;
-      gap: 1rem;
-    }
+    .entries { display: grid; gap: 1rem; }
 
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 1.25rem 1.5rem;
-      transition: border-color 0.15s;
-    }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; transition: border-color 0.15s; }
     .card:hover { border-color: var(--accent); }
-
-    .card-header {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 1rem;
-      margin-bottom: 0.4rem;
-    }
-    .card-title {
-      font-size: 1rem;
-      font-weight: 600;
-      color: var(--accent);
-      line-height: 1.35;
-    }
-    .card-title:hover {
-      text-decoration: underline;
-    }
-    .card-year {
-      font-size: 0.78rem;
-      color: var(--muted);
-      white-space: nowrap;
-      padding-top: 0.15rem;
-    }
-    .card-summary {
-      font-size: 0.875rem;
-      color: var(--muted);
-      margin-bottom: 0.75rem;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .card-meta {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      flex-wrap: wrap;
-    }
-    .category-badge {
-      font-size: 0.72rem;
-      padding: 0.2rem 0.6rem;
-      border-radius: 4px;
-      background: var(--accent-soft);
-      color: var(--accent);
-      font-weight: 500;
-    }
-    .tag {
-      font-size: 0.72rem;
-      padding: 0.2rem 0.55rem;
-      border-radius: 4px;
-      background: var(--tag-bg);
-      color: var(--muted);
-    }
-    .directive-ref {
-      font-size: 0.72rem;
-      color: var(--muted);
-      font-family: monospace;
-    }
-    .status-badge {
-      font-size: 0.68rem;
-      font-weight: 500;
-      padding: 0.15rem 0.5rem;
-      border-radius: 999px;
-      margin-left: auto;
-    }
+    .card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; margin-bottom: 0.4rem; }
+    .card-title { font-size: 1rem; font-weight: 600; color: var(--accent); line-height: 1.35; }
+    .card-title:hover { text-decoration: underline; }
+    .card-year { font-size: 0.78rem; color: var(--muted); white-space: nowrap; padding-top: 0.15rem; }
+    .card-summary { font-size: 0.875rem; color: var(--muted); margin-bottom: 0.75rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .card-meta { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .category-badge { font-size: 0.72rem; padding: 0.2rem 0.6rem; border-radius: 4px; background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+    .category-badge:hover { text-decoration: underline; }
+    .tag { font-size: 0.72rem; padding: 0.2rem 0.55rem; border-radius: 4px; background: var(--tag-bg); color: var(--muted); }
+    .tag:hover { background: var(--border); }
+    .directive-ref { font-size: 0.72rem; color: var(--muted); font-family: monospace; }
+    .status-badge { font-size: 0.68rem; font-weight: 500; padding: 0.15rem 0.5rem; border-radius: 999px; margin-left: auto; }
     .status-in-force  { background: #dcfce7; color: #166534; }
     .status-proposed  { background: #fef9c3; color: #854d0e; }
     .status-repealed  { background: #f1f5f9; color: #64748b; }
     .status-withdrawn { background: #fee2e2; color: #991b1b; }
+    .llm-badge { font-size: 0.68rem; font-weight: 500; padding: 0.15rem 0.5rem; border-radius: 999px; background: #f0f0f0; color: #555; border: 1px solid #ddd; }
 
-    .llm-badge {
-      font-size: 0.68rem;
-      font-weight: 500;
-      padding: 0.15rem 0.5rem;
-      border-radius: 999px;
-      background: #f0f0f0;
-      color: #555;
-      border: 1px solid #ddd;
-    }
-
-    .empty {
-      text-align: center;
-      padding: 3rem 0;
-      color: var(--muted);
-    }
+    .empty { text-align: center; padding: 3rem 0; color: var(--muted); }
   </style>
 
   <div class="intro">
@@ -181,11 +68,21 @@ function llmLabel(model: string | undefined): string {
     <span class="count"><strong>{allEntries.length}</strong> laws explained</span>
   </div>
 
-  <div class="filter-bar">
-    <button class="filter-btn active" data-category="all">All</button>
-    {categories.map(cat => (
-      <button class="filter-btn" data-category={cat}>{cat}</button>
-    ))}
+  <div class="filter-section">
+    <div class="filter-row">
+      <span class="filter-label">Category</span>
+      <button class="filter-btn active" data-filter="category" data-value="all">All</button>
+      {categories.map(cat => (
+        <button class="filter-btn" data-filter="category" data-value={cat}>{cat}</button>
+      ))}
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Era</span>
+      <button class="filter-btn active" data-filter="year" data-value="all">All</button>
+      <button class="filter-btn" data-filter="year" data-value="pre2010">Pre-2010</button>
+      <button class="filter-btn" data-filter="year" data-value="2010s">2010–2019</button>
+      <button class="filter-btn" data-filter="year" data-value="2020s">2020+</button>
+    </div>
   </div>
 
   <div class="entries" id="entries">
@@ -195,17 +92,17 @@ function llmLabel(model: string | undefined): string {
       </div>
     )}
     {sorted.map(entry => (
-      <div class="card" data-category={entry.data.category}>
+      <div class="card" data-category={entry.data.category} data-year={entry.data.year}>
         <div class="card-header">
           <a href={`${base}directives/${entry.slug}`} class="card-title">{entry.data.title}</a>
           <span class="card-year">{entry.data.year}</span>
         </div>
         <p class="card-summary">{entry.data.summary}</p>
         <div class="card-meta">
-          <span class="category-badge">{entry.data.category}</span>
+          <a href={`${base}categories/${categorySlug(entry.data.category)}`} class="category-badge">{entry.data.category}</a>
           {entry.data.directive && <span class="directive-ref">{entry.data.directive}</span>}
           {entry.data.tags.slice(0, 3).map(tag => (
-            <span class="tag">{tag}</span>
+            <a href={`${base}tags/${tag}`} class="tag">{tag}</a>
           ))}
           {entry.data.status !== 'in-force' && (
             <span class={`status-badge status-${entry.data.status}`}>
@@ -223,18 +120,42 @@ function llmLabel(model: string | undefined): string {
   </div>
 
   <script>
-    const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    let activeCat = 'all';
+    let activeYear = 'all';
+
+    const catBtns = document.querySelectorAll<HTMLButtonElement>('[data-filter="category"]');
+    const yearBtns = document.querySelectorAll<HTMLButtonElement>('[data-filter="year"]');
     const cards = document.querySelectorAll<HTMLElement>('.card[data-category]');
 
-    buttons.forEach(btn => {
+    function yearBucket(year: number): string {
+      if (year < 2010) return 'pre2010';
+      if (year < 2020) return '2010s';
+      return '2020s';
+    }
+
+    function applyFilters() {
+      cards.forEach(card => {
+        const matchCat = activeCat === 'all' || card.dataset.category === activeCat;
+        const matchYear = activeYear === 'all' || yearBucket(Number(card.dataset.year)) === activeYear;
+        card.style.display = matchCat && matchYear ? '' : 'none';
+      });
+    }
+
+    catBtns.forEach(btn => {
       btn.addEventListener('click', () => {
-        const cat = btn.dataset.category!;
-        buttons.forEach(b => b.classList.remove('active'));
+        catBtns.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        cards.forEach(card => {
-          const show = cat === 'all' || card.dataset.category === cat;
-          card.style.display = show ? '' : 'none';
-        });
+        activeCat = btn.dataset.value!;
+        applyFilters();
+      });
+    });
+
+    yearBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        yearBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeYear = btn.dataset.value!;
+        applyFilters();
       });
     });
   </script>

@@ -38,6 +38,21 @@ const ogTitle = `${title} — Why Is That, EU?`;
     <meta name="twitter:description" content={description} />
 
     <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+
+    <!-- Anti-FOUC: apply saved theme before first paint -->
+    <script is:inline>
+      (function() {
+        try {
+          var t = localStorage.getItem('theme');
+          if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.dataset.theme = 'dark';
+          }
+        } catch(e) {}
+      })();
+    </script>
+
+    <slot name="head" />
+
     <style>
       *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -53,6 +68,17 @@ const ogTitle = `${title} — Why Is That, EU?`;
         --radius: 8px;
         --max-w: 860px;
         font-size: 16px;
+      }
+
+      :global([data-theme="dark"]) {
+        --bg: #111110;
+        --surface: #1c1b1a;
+        --border: #2e2c2a;
+        --text: #e8e4df;
+        --muted: #8a8480;
+        --accent: #60a5fa;
+        --accent-soft: #1e3a5f;
+        --tag-bg: #262422;
       }
 
       body {
@@ -98,13 +124,23 @@ const ogTitle = `${title} — Why Is That, EU?`;
         margin-left: auto;
         display: flex;
         gap: 1rem;
+        align-items: center;
       }
-      .header-nav a {
+      .header-nav a { color: var(--muted); }
+      .header-nav a:hover { color: var(--accent); }
+
+      .theme-toggle {
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 0.2rem 0.6rem;
+        font-size: 0.8rem;
         color: var(--muted);
+        cursor: pointer;
+        font-family: inherit;
+        transition: border-color 0.15s, color 0.15s;
       }
-      .header-nav a:hover {
-        color: var(--accent);
-      }
+      .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
       main {
         flex: 1;
@@ -123,6 +159,12 @@ const ogTitle = `${title} — Why Is That, EU?`;
         color: var(--muted);
         width: 100%;
       }
+
+      :global([data-theme="dark"]) :global(.status-in-force)  { background: #14532d; color: #86efac; }
+      :global([data-theme="dark"]) :global(.status-proposed)  { background: #713f12; color: #fde68a; }
+      :global([data-theme="dark"]) :global(.status-repealed)  { background: #1e293b; color: #94a3b8; }
+      :global([data-theme="dark"]) :global(.status-withdrawn) { background: #7f1d1d; color: #fca5a5; }
+      :global([data-theme="dark"]) :global(.llm-badge) { background: #262422; color: #8a8480; border-color: #2e2c2a; }
     </style>
   </head>
   <body>
@@ -133,6 +175,7 @@ const ogTitle = `${title} — Why Is That, EU?`;
         <nav class="header-nav">
           <a href={`${base}search`}>Search</a>
           <a href={`${base}about`}>About</a>
+          <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">◐</button>
         </nav>
       </div>
     </header>
@@ -142,5 +185,13 @@ const ogTitle = `${title} — Why Is That, EU?`;
     <footer>
       AI-assisted knowledge base. Not legal advice. Always verify with official EU sources.
     </footer>
+    <script>
+      const btn = document.getElementById('theme-toggle');
+      btn?.addEventListener('click', () => {
+        const isDark = document.documentElement.dataset.theme === 'dark';
+        document.documentElement.dataset.theme = isDark ? '' : 'dark';
+        try { localStorage.setItem('theme', isDark ? 'light' : 'dark'); } catch(e) {}
+      });
+    </script>
   </body>
 </html>
