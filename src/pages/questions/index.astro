@@ -26,23 +26,24 @@ function excerpt(text: string, max = 180): string {
     .count { display: inline-block; margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); }
     .count strong { color: var(--text); }
 
-    .filter-bar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.75rem; }
-    .filter-btn {
-      padding: 0.35rem 0.85rem;
+    .filter-bar { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.75rem; flex-wrap: wrap; }
+    .filter-label { font-size: 0.75rem; color: var(--muted); }
+    .filter-select {
+      padding: 0.35rem 2.2rem 0.35rem 0.85rem;
       border-radius: 999px;
       border: 1px solid var(--border);
       background: var(--surface);
-      color: var(--muted);
+      color: var(--text);
       font-size: 0.82rem;
       cursor: pointer;
-      transition: all 0.15s;
       font-family: inherit;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%236b6560'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
     }
-    .filter-btn:hover, .filter-btn.active {
-      background: var(--accent);
-      border-color: var(--accent);
-      color: #fff;
-    }
+    .filter-select:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
 
     .questions { display: grid; gap: 0.75rem; }
 
@@ -149,10 +150,11 @@ function excerpt(text: string, max = 180): string {
   </div>
 
   <div class="filter-bar">
-    <button class="filter-btn active" data-cat="all">All</button>
-    {categories.map(cat => (
-      <button class="filter-btn" data-cat={cat}>{cat}</button>
-    ))}
+    <span class="filter-label">Filter by</span>
+    <select class="filter-select" id="cat-select">
+      <option value="all">All categories</option>
+      {categories.map(cat => <option value={cat}>{cat}</option>)}
+    </select>
   </div>
 
   <div class="questions" id="questions">
@@ -181,12 +183,12 @@ function excerpt(text: string, max = 180): string {
     let activeCat = 'all';
     let page = 0;
 
-    const btns     = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-    const allCards = [...document.querySelectorAll<HTMLElement>('.q-card')];
-    const empty    = document.getElementById('empty')!;
-    const prevBtn  = document.getElementById('prev-btn') as HTMLButtonElement;
-    const nextBtn  = document.getElementById('next-btn') as HTMLButtonElement;
-    const counter  = document.getElementById('page-counter')!;
+    const catSelect = document.getElementById('cat-select') as HTMLSelectElement;
+    const allCards  = [...document.querySelectorAll<HTMLElement>('.q-card')];
+    const empty     = document.getElementById('empty')!;
+    const prevBtn   = document.getElementById('prev-btn') as HTMLButtonElement;
+    const nextBtn   = document.getElementById('next-btn') as HTMLButtonElement;
+    const counter   = document.getElementById('page-counter')!;
 
     function filtered(): HTMLElement[] {
       return allCards.filter(c => activeCat === 'all' || c.dataset.cat === activeCat);
@@ -208,14 +210,10 @@ function excerpt(text: string, max = 180): string {
       document.getElementById('pagination')!.style.display = total <= PAGE_SIZE ? 'none' : '';
     }
 
-    btns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        activeCat = btn.dataset.cat!;
-        page = 0;
-        btns.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        render();
-      });
+    catSelect.addEventListener('change', () => {
+      activeCat = catSelect.value;
+      page = 0;
+      render();
     });
 
     prevBtn.addEventListener('click', () => { page--; render(); window.scrollTo({top: 0, behavior: 'smooth'}); });

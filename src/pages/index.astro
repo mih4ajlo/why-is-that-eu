@@ -17,9 +17,25 @@ const base = import.meta.env.BASE_URL;
     .intro .count { display: inline-block; margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); }
     .intro .count strong { color: var(--text); }
 
-    .filter-section { margin-bottom: 1.75rem; display: flex; flex-direction: column; gap: 0.6rem; }
+    .filter-section { margin-bottom: 1.75rem; display: flex; flex-direction: column; gap: 0.75rem; }
     .filter-row { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
     .filter-label { font-size: 0.75rem; color: var(--muted); min-width: 4rem; }
+    .filter-select {
+      padding: 0.35rem 2.2rem 0.35rem 0.85rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font-size: 0.82rem;
+      cursor: pointer;
+      font-family: inherit;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%236b6560'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
+    }
+    .filter-select:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
     .filter-btn {
       padding: 0.35rem 0.85rem;
       border-radius: 999px;
@@ -71,10 +87,10 @@ const base = import.meta.env.BASE_URL;
   <div class="filter-section">
     <div class="filter-row">
       <span class="filter-label">Category</span>
-      <button class="filter-btn active" data-filter="category" data-value="all">All</button>
-      {categories.map(cat => (
-        <button class="filter-btn" data-filter="category" data-value={cat}>{cat}</button>
-      ))}
+      <select class="filter-select" id="cat-select">
+        <option value="all">All categories</option>
+        {categories.map(cat => <option value={cat}>{cat}</option>)}
+      </select>
     </div>
     <div class="filter-row">
       <span class="filter-label">Era</span>
@@ -123,7 +139,7 @@ const base = import.meta.env.BASE_URL;
     let activeCat = 'all';
     let activeYear = 'all';
 
-    const catBtns = document.querySelectorAll<HTMLButtonElement>('[data-filter="category"]');
+    const catSelect = document.getElementById('cat-select') as HTMLSelectElement;
     const yearBtns = document.querySelectorAll<HTMLButtonElement>('[data-filter="year"]');
     const cards = document.querySelectorAll<HTMLElement>('.card[data-category]');
 
@@ -141,13 +157,9 @@ const base = import.meta.env.BASE_URL;
       });
     }
 
-    catBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        catBtns.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeCat = btn.dataset.value!;
-        applyFilters();
-      });
+    catSelect.addEventListener('change', () => {
+      activeCat = catSelect.value;
+      applyFilters();
     });
 
     yearBtns.forEach(btn => {
