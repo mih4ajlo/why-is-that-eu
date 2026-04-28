@@ -20,6 +20,11 @@ const pageUrl = `${siteOrigin}${base}questions/${q.id}`;
 
 const siblings = questions.filter(x => x.slug === q.slug && x.id !== q.id);
 
+const related = questions
+  .filter(x => x.category === q.category && x.slug !== q.slug)
+  .sort((a, b) => b.year - a.year || a.question.localeCompare(b.question))
+  .slice(0, 5);
+
 function renderAnswer(md: string): string {
   return md
     .split(/\n{2,}/)
@@ -93,6 +98,18 @@ const jsonLd = {
     .sibling { font-size: 0.875rem; color: var(--accent); padding: 0.5rem 0; border-bottom: 1px solid var(--border); display: block; }
     .sibling:last-child { border-bottom: none; }
     .sibling:hover { text-decoration: underline; }
+
+    .related { border-top: 1px solid var(--border); padding-top: 1.5rem; margin-top: 1.5rem; }
+    .related h2 { font-size: 0.9rem; font-weight: 700; margin-bottom: 0.9rem; color: var(--text); }
+    .related-list { display: grid; gap: 0.4rem; }
+    .related-item {
+      display: flex; align-items: flex-start; gap: 0.75rem;
+      padding: 0.6rem 0; border-bottom: 1px solid var(--border);
+    }
+    .related-item:last-child { border-bottom: none; }
+    .related-item-q { font-size: 0.875rem; color: var(--accent); flex: 1; line-height: 1.4; }
+    .related-item-q:hover { text-decoration: underline; }
+    .related-item-source { font-size: 0.72rem; color: var(--muted); white-space: nowrap; padding-top: 0.15rem; }
   </style>
 
   <Breadcrumb crumbs={[
@@ -126,6 +143,20 @@ const jsonLd = {
       <div class="sibling-list">
         {siblings.map(s => (
           <a href={`${base}questions/${s.id}`} class="sibling">{s.question}</a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  {related.length > 0 && (
+    <div class="related">
+      <h2>Related questions in {q.category}</h2>
+      <div class="related-list">
+        {related.map(r => (
+          <div class="related-item">
+            <a href={`${base}questions/${r.id}`} class="related-item-q">{r.question}</a>
+            <span class="related-item-source">{r.title}</span>
+          </div>
         ))}
       </div>
     </div>
