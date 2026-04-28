@@ -7,6 +7,7 @@ tags: [company-law, corporate-governance, worker-participation, single-market, s
 summary: "The European Company Statute (SE) allows companies from different EU member states to merge into a single legal entity governed by EU law, with the aim of reducing cross-border operational costs and enabling a unified management structure, but its limited adoption has exposed practical and political challenges."
 status: "in-force"
 related: ["2001/86/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

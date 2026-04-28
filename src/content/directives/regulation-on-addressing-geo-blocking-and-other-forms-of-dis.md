@@ -7,6 +7,7 @@ tags: [digital-single-market, e-commerce, consumer-protection, internal-market, 
 summary: "The Geo-Blocking Regulation prohibits unjustified discrimination against EU consumers based on their nationality or location when shopping online, banning practices such as blocking access to websites or rerouting visitors to different stores."
 status: "in-force"
 related: ["2006/2004/EC", "2019/2161/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

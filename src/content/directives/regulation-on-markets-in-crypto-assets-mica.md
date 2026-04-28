@@ -7,6 +7,7 @@ tags: [crypto-assets, stablecoins, financial-services, digital-finance, consumer
 summary: "MiCA is the world's first comprehensive regulatory framework for crypto-assets, creating a single licensing regime across the EU for stablecoin issuers, exchanges, wallet providers, and other crypto service firms. It matters because it forced the global crypto industry — previously operating in regulatory grey zones — to choose between EU-authorised operations or exit the bloc."
 status: "in-force"
 related: ["2015/2366/EU", "2014/65/EU", "2023/1113/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

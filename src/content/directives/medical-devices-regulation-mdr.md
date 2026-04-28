@@ -7,6 +7,7 @@ tags: [medical-devices, patient-safety, clinical-trials, notified-bodies, in-vit
 summary: "The MDR replaced the EU's Medical Devices Directive (MDD) and Active Implantable Medical Devices Directive (AIMDD) with a more stringent regulatory framework following high-profile scandals like the PIP breast implant fraud and metal-on-metal hip failures."
 status: "in-force"
 related: ["2017/746/EU (IVDR)", "93/42/EEC (MDD - repealed)", "90/385/EEC (AIMDD - repealed)"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

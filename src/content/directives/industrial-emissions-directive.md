@@ -7,6 +7,7 @@ tags: [industrial-emissions, pollution-control, best-available-techniques, integ
 summary: "The Industrial Emissions Directive sets EU-wide rules for permitting and controlling emissions from around 50,000 large industrial installations, consolidating seven existing directives into a single framework."
 status: "in-force"
 related: ["2024/1785/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

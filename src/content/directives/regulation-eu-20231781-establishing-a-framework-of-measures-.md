@@ -7,6 +7,7 @@ tags: [semiconductors, industrial-policy, supply-chain, strategic-autonomy, stat
 summary: "A €43 billion industrial policy package aimed at doubling the EU's share of global semiconductor production to 20% by 2030, triggered by the pandemic-era chip shortage that idled European car factories. It loosens state aid rules for first-of-a-kind fabs and creates emergency powers for the Commission during future supply crises."
 status: "in-force"
 related: ["2022/2560/EU", "2024/1252/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

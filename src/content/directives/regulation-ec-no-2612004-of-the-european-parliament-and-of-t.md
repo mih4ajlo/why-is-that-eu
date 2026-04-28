@@ -7,6 +7,7 @@ tags: [passenger-rights, aviation, consumer-protection, air-travel, compensation
 summary: "Establishes minimum rights for air passengers when flights are cancelled, delayed, or when boarding is denied, including the right to compensation, reimbursement, and care."
 status: "in-force"
 related: ["2011/83/EU", "2006/2004/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

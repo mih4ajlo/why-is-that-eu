@@ -7,6 +7,7 @@ tags: [product-safety, electrical-equipment, single-market, standardisation, con
 summary: "The EU's central legislative framework ensuring electrical equipment operating between 50V and 1000V AC poses no danger to people, pets, or property. It replaced the 1973 original to align with the New Legislative Framework."
 status: "in-force"
 related: ["2006/42/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

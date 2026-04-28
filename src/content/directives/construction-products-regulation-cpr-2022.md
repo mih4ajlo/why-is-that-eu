@@ -7,6 +7,7 @@ tags: [construction-products, product-safety, ce-marking, internal-market, harmo
 summary: "A recast of the 2011 Construction Products Regulation aimed at simplifying CE marking rules, improving market surveillance, and addressing fraud in the construction products sector."
 status: "in-force"
 related: ["305/2011/EU", "765/2008/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

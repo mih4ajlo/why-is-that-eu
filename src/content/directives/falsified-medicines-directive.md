@@ -7,6 +7,7 @@ tags: [medicines, supply-chain, pharmaceutical, patient-safety, serialisation]
 summary: "Directive 2011/62/EU strengthens the EU pharmaceutical supply chain to prevent falsified medicines from reaching patients, introducing mandatory safety features and stricter import rules."
 status: "in-force"
 related: ["2001/83/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

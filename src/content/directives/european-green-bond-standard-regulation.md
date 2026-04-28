@@ -7,6 +7,7 @@ tags: [green-bonds, sustainable-finance, taxonomy-alignment, climate-disclosure,
 summary: The EU Green Bond Standard creates a voluntary, high-quality benchmark for green bonds, requiring proceeds to be fully aligned with the EU Taxonomy for sustainable activities, aiming to combat greenwashing and scale up credible green investment.
 status: in-force
 related: [2020/852/EU]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

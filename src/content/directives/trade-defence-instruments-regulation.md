@@ -7,6 +7,7 @@ tags: [trade-defence, anti-dumping, countervailing-measures, market-distortion, 
 summary: "The Trade Defence Instruments Regulation updates EU rules for investigating and countering dumped and subsidised imports, with a focus on addressing market distortions from state-influenced economies."
 status: "in-force"
 related: ["2016/1036/EU", "2018/825/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

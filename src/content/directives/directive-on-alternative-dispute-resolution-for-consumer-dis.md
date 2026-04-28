@@ -7,6 +7,7 @@ tags: [consumer-protection, out-of-court-settlement, e-commerce, single-market, 
 summary: "The ADR Directive requires EU member states to ensure that quality out-of-court dispute resolution bodies exist for all consumer complaints against traders, covering nearly all sectors including e-commerce."
 status: "in-force"
 related: ["524/2013/EU", "2006/2004/EC", "2005/29/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [cybersecurity, product-safety, iot, software, ce-marking, vulnerability-d
 summary: "The Cyber Resilience Act imposes mandatory cybersecurity requirements on virtually every product with digital elements sold in the EU — from smart fridges to industrial firewalls — backed by fines of up to €15 million or 2.5% of global turnover. Manufacturers must provide security updates, disclose actively exploited vulnerabilities to ENISA within 24 hours, and affix CE marks attesting to cyber-compliance."
 status: "in-force"
 related: ["2022/2555/EU", "2019/881/EU", "2016/679/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

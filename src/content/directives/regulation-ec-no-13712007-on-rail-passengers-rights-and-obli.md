@@ -7,6 +7,7 @@ tags: [rail-passenger-rights, compensation, accessibility, consumer-protection, 
 summary: "Establishes minimum rights for rail passengers across the EU, including compensation for delays, assistance for persons with disabilities, and liability for damages."
 status: "in-force"
 related: ["181/2011/EU", "2021/782/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

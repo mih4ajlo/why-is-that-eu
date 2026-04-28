@@ -7,6 +7,7 @@ tags: [deforestation, supply-chain, due-diligence, agriculture, trade, sustainab
 summary: "The EUDR bans seven commodities — cattle, cocoa, coffee, oil palm, rubber, soya and wood — and their derivatives from the EU market unless companies prove via geolocation data that they were not produced on land deforested after 31 December 2020. It makes the EU the first jurisdiction to outlaw imports linked to deforestation worldwide."
 status: "in-force"
 related: ["2024/1760/EU", "2023/956/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

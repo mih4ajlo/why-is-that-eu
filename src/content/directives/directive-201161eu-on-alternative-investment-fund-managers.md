@@ -7,6 +7,7 @@ tags: [alternative-investment-funds, hedge-funds, private-equity, financial-regu
 summary: "The AIFMD created a comprehensive regulatory framework for managers of alternative investment funds (hedge funds, private equity, real estate) in the EU, requiring authorization, transparency, and risk controls after the 2008 financial crisis exposed regulatory gaps."
 status: "in-force"
 related: ["2009/65/EC", "2014/65/EU", "2013/34/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

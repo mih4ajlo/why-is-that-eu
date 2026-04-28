@@ -7,6 +7,7 @@ tags: [digital-single-market, copyright, consumer-rights, streaming, geo-blockin
 summary: "Regulation allowing EU consumers to access their online content subscriptions (streaming, e-books, games) when temporarily traveling within the EU, eliminating geo-blocking for portable use."
 status: "in-force"
 related: ["2018/302/EU", "2019/790/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

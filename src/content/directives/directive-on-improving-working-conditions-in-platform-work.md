@@ -7,6 +7,7 @@ tags: [platform-work, gig-economy, worker-classification, algorithmic-management
 summary: "The Platform Work Directive creates a presumption of employment for platform workers and introduces rules on algorithmic management, aiming to reclassify millions of self-employed gig workers as employees across the EU."
 status: "in-force"
 related: [2019/1152/EU, 2003/88/EC]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

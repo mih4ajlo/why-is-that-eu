@@ -7,6 +7,7 @@ tags: [common-agricultural-policy, green-deal, farm-to-fork, direct-payments, ru
 summary: "The reformed CAP for 2023-2027 is the EU's flagship agricultural subsidy programme, tying a third of its €387 billion budget to mandatory environmental practices for the first time, and shifting from compliance-based to performance-based delivery through national strategic plans."
 status: "in-force"
 related: ["2024/3019/EU", "2018/848/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

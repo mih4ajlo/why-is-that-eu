@@ -7,6 +7,7 @@ tags: [cross-border-parcel-delivery, e-commerce, digital-single-market, parcel-t
 summary: "This regulation requires parcel delivery operators to provide transparent pricing and delivery information, and empowers national regulators to enforce cross-border tariff parity for European consumers and small businesses."
 status: "in-force"
 related: ["2018/1999/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

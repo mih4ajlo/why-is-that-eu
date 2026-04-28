@@ -7,6 +7,7 @@ tags: [competition, big-tech, gatekeepers, platforms, antitrust]
 summary: "The Digital Markets Act imposes ex-ante obligations on large online platforms designated as 'gatekeepers' to ensure fair and contestable digital markets. It marks a fundamental shift from reactive antitrust enforcement to preventive regulation of Big Tech."
 status: "in-force"
 related: ["2022/2065/EU", "2016/679/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

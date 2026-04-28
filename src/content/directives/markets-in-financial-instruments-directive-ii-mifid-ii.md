@@ -7,6 +7,7 @@ tags: [financial-markets, investor-protection, trading-transparency, market-stru
 summary: "MiFID II overhauled EU securities markets by introducing mandatory trading on regulated venues, pre- and post-trade transparency for equities and non-equities, and stricter rules on algorithmic trading and commodity speculation."
 status: "in-force"
 related: ["2014/65/EU", "600/2014/EU", "2004/39/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

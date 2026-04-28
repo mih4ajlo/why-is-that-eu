@@ -7,6 +7,7 @@ tags: [machinery-safety, ce-marking, digital-products, worker-protection, harmon
 summary: "The Machinery Regulation modernises 2006 machinery safety rules for the digital age, addressing software-driven risks, AI integration, and cyber security while maintaining single-market conformity assessment."
 status: "in-force"
 related: ["2006/42/EC", "2024/2740/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [animal-welfare, farm-animals, food-safety, common-agricultural-policy, eu
 summary: "A comprehensive update to EU rules on the protection of farm animals during rearing, transport, and slaughter, aiming to harmonize standards across member states and respond to public demand for higher welfare in livestock production."
 status: "in-force"
 related: ["2005/1/EC", "2004/33/EC", "2019/6/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

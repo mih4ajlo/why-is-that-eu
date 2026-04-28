@@ -7,6 +7,7 @@ tags: [human-rights, environmental-due-diligence, supply-chain, corporate-accoun
 summary: "The CSDDD requires large companies operating in the EU to identify, prevent, and remedy human rights and environmental harms in their own operations and value chains, backed by civil liability."
 status: "in-force"
 related: ["2022/2464/EU", "2019/1937/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [instant-payments, payments-union, financial-services, digital-economy, fi
 summary: "Requires payment service providers in the EU to offer instant credit transfers in euros at the same cost as standard transfers, with the goal of making instant payments the new normal across the Single Euro Payments Area (SEPA)."
 status: "in-force"
 related: [(EU) 2018/389, (EU) 2021/1230]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

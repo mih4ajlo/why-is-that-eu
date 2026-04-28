@@ -7,6 +7,7 @@ tags: [late-payments, sme-protection, single-market, cash-flow, business-transac
 summary: "EU legislation that sets maximum payment terms for business-to-business and business-to-public authority transactions to combat late payment, a key barrier for small and medium-sized enterprises."
 status: "in-force"
 related: ["2000/35/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

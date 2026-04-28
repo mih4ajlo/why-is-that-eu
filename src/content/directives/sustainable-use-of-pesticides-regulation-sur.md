@@ -7,6 +7,7 @@ tags: [pesticides, sustainable-agriculture, biodiversity, farm-to-fork, green-de
 summary: "A proposed EU regulation to reduce the use and risk of chemical pesticides by 50% by 2030, part of the Farm to Fork Strategy, which was withdrawn in 2024 after failing to secure sufficient support in the European Parliament and Council."
 status: "withdrawn"
 related: ["1107/2009/EC", "2009/128/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [energy-efficiency, fit-for-55, green-deal, building-renovation, energy-sa
 summary: "The EU's updated framework for reducing energy consumption, setting a binding target to cut final energy use by 11.7% by 2030 compared to 2020 projections, with strengthened annual savings obligations for member states."
 status: "in-force"
 related: ["2018/2002/EU", "2021/0203/COD", "2024/1275/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

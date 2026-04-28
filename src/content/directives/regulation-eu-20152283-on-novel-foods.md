@@ -7,6 +7,7 @@ tags: [novel-foods, food-safety, food-innovation, regulatory-harmonisation, euro
 summary: "The Novel Foods Regulation establishes a centralised EU-wide authorisation procedure for foods not consumed to a significant degree before 1997, balancing innovation with consumer safety by replacing a fragmented national approval system."
 status: "in-force"
 related: ["Regulation (EC) No 258/97", "Regulation (EU) No 1169/2011"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

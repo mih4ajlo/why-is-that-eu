@@ -7,6 +7,7 @@ tags: [product-safety, consumer-protection, e-commerce, market-surveillance, onl
 summary: "The General Product Safety Regulation (GPSR) replaces the 2001 General Product Safety Directive, extending safety obligations to online marketplaces like Amazon, Temu and AliExpress, and forcing recalls of dangerous goods sold across the EU. It applies from 13 December 2024."
 status: "in-force"
 related: ["2019/1020/EU", "2022/2065/EU", "2001/95/EC"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [biocides, chemical-safety, environmental-protection, public-health, singl
 summary: "The Biocidal Products Regulation (BPR) harmonises the EU market for biocidal products—like disinfectants, preservatives, and insecticides—by requiring active substances to be approved and products to be authorised before sale, replacing a patchwork of national rules."
 status: "in-force"
 related: ["1907/2006/EC (REACH)", "1272/2008/EC (CLP)"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

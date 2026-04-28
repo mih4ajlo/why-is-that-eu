@@ -7,6 +7,7 @@ tags: [clean-tech-manufacturing, strategic-projects, net-zero, industrial-policy
 summary: "The Net-Zero Industry Act (NZIA) aims to scale up EU manufacturing of clean technologies—such as solar, wind, batteries, heat pumps, and electrolysers—to secure at least 40% of the bloc’s annual deployment needs by 2030, amid fears of import dependency on China and the US Inflation Reduction Act."
 status: "in-force"
 related: ["2022/2060/EU", "2023/956/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [accessibility, disability, digital-inclusion, consumer-protection, single
 summary: "The European Accessibility Act (EAA) sets mandatory EU-wide accessibility requirements for key products and services, aiming to harmonise national rules and improve the functioning of the internal market for accessible products."
 status: "in-force"
 related: ["2000/78/EC", "2016/2102/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

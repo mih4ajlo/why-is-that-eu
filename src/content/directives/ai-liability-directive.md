@@ -7,6 +7,7 @@ tags: [artificial-intelligence, liability, civil-law, digital-single-market, pro
 summary: "The AI Liability Directive introduces harmonised rules for damage claims involving AI systems, easing the burden of proof for victims and addressing gaps in existing product liability law."
 status: "in-force"
 related: ["2022/2380/EU", "2019/1024/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

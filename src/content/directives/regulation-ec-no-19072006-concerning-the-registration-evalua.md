@@ -7,6 +7,7 @@ tags: [chemicals, health, environment, product-safety, carcinogens]
 summary: "REACH is the EU's flagship chemicals regulation, requiring manufacturers and importers to register substances, prove they can be used safely, and restrict or authorise the most hazardous ones. It shifted the burden of proof from regulators to industry and remains the world's most comprehensive chemicals law."
 status: "in-force"
 related: []
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

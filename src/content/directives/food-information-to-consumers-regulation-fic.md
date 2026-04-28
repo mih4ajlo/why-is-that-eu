@@ -7,6 +7,7 @@ tags: [food-labelling, consumer-rights, allergen-labelling, nutrition, origin-la
 summary: "The EU's central regulation on food labelling, mandating clear allergen declarations, nutrition information, and origin labelling to empower consumers and harmonize national rules across the single market."
 status: "in-force"
 related: ["2000/13/EC", "1924/2006/EC", "1925/2006/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

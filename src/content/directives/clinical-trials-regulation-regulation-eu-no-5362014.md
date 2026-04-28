@@ -7,6 +7,7 @@ tags: [clinical-trials, pharmaceuticals, patient-safety, data-transparency, eu-m
 summary: "The Clinical Trials Regulation harmonises rules for conducting clinical trials in the EU, replacing a patchwork of national laws to streamline approvals while enhancing transparency and patient safety."
 status: "in-force"
 related: ["2001/83/EC", "726/2004/EC", "2016/679/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

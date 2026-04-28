@@ -7,6 +7,7 @@ tags: [renewable-energy, climate-targets, green-deal, energy-security, fit-for-5
 summary: "A revised EU directive raising the binding renewable energy target to 42.5% by 2030, with an aspirational 2.5% top-up, streamlining permitting and accelerating deployment in response to the energy crisis and the Green Deal's increased climate ambition."
 status: "in-force"
 related: ["2018/2001/EU", "2023/1799/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [ai, digital, fundamental-rights, product-safety, risk-based]
 summary: "The world's first comprehensive horizontal law on artificial intelligence, regulating AI systems based on the level of risk they pose to safety and fundamental rights. It bans certain uses outright, imposes strict obligations on 'high-risk' AI, and sets transparency rules for general-purpose models like ChatGPT."
 status: "in-force"
 related: ["2016/679/EU", "2022/2065/EU", "2022/1925/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

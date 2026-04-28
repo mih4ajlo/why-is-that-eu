@@ -7,6 +7,7 @@ tags: [greenwashing, consumer-protection, circular-economy, product-durability, 
 summary: "The Directive amends EU consumer law to ban generic environmental claims, introduce standardised durability information, and prohibit planned obsolescence practices, aiming to protect consumers from misleading green marketing."
 status: "in-force"
 related: ["2005/29/EC", "2019/2161/EU", "2022/2065/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

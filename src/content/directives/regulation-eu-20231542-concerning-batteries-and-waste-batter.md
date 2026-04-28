@@ -7,6 +7,7 @@ tags: [batteries, circular-economy, recycling, evs, critical-raw-materials]
 summary: "A comprehensive EU regulation covering the entire lifecycle of batteries — from raw material sourcing to recycling — replacing the old 2006 Batteries Directive. It introduces carbon footprint declarations, mandatory recycled content, due diligence on minerals, and the famous requirement that smartphone batteries be user-replaceable by 2027."
 status: "in-force"
 related: ["2012/19/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

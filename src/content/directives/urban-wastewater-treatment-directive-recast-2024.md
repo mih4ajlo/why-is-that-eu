@@ -7,6 +7,7 @@ tags: [water-quality, wastewater-treatment, environmental-standards, circular-ec
 summary: "The recast Urban Wastewater Treatment Directive tightens pollution limits, expands treatment obligations to smaller towns, introduces producer responsibility for micropollutants, and sets energy neutrality targets for wastewater treatment plants."
 status: "in-force"
 related: []
+llm: "deepseek-chat"
 ---
 
 ## What is it?

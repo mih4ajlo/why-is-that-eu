@@ -7,6 +7,7 @@ tags: [nature-conservation, biodiversity, protected-areas, eu-environmental-poli
 summary: "The Habitats Directive establishes a EU-wide system for protecting endangered species and natural habitats through a network of Special Areas of Conservation, forming the Natura 2000 network alongside the Birds Directive."
 status: "in-force"
 related: ["79/409/EEC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

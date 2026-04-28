@@ -7,6 +7,7 @@ tags: [customs-union, trade-facilitation, digitalisation, customs-compliance, si
 summary: "The Union Customs Code (UCC) modernises EU customs rules, replacing the Community Customs Code to create a fully electronic and harmonised customs environment across all Member States."
 status: "in-force"
 related: ["2022/2399/EU", "2023/2778/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

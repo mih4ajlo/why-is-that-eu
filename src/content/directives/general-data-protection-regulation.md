@@ -7,6 +7,7 @@ tags: [privacy, data-protection, digital, fundamental-rights, gdpr]
 summary: "The GDPR is the EU's comprehensive data protection law, governing how personal data of EU residents may be collected, processed, and stored. It replaced a fragmented 1995 framework and introduced fines of up to 4% of global turnover, making privacy a board-level concern worldwide."
 status: "in-force"
 related: ["2022/2065/EU", "2022/1925/EU", "2024/1689/EU", "2002/58/EC"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [labour-mobility, professional-qualifications, single-market, mutual-recog
 summary: "The directive establishes a system for mutual recognition of professional qualifications between EU member states, enabling lawyers, doctors, architects, and other regulated professionals to practice across borders without requalifying from scratch."
 status: "in-force"
 related: ["2006/123/EC", "2013/55/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

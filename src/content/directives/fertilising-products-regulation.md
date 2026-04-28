@@ -7,6 +7,7 @@ tags: [circular-economy, fertilisers, soil-health, single-market, waste-to-resou
 summary: "Harmonises EU rules for fertilising products, enabling free trade of organic and waste-based fertilisers while limiting cadmium and other contaminants, to support circular economy and reduce reliance on imported mineral fertilisers."
 status: "in-force"
 related: ["2003/2003/EC", "1907/2006/EC", "2008/98/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

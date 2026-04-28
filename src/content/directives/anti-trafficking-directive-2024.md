@@ -7,6 +7,7 @@ tags: [human-trafficking, labour-rights, forced-labour, gender-equality, fundame
 summary: "The directive strengthens EU rules to combat human trafficking by explicitly including forced marriage, illegal adoption, and surrogacy for exploitation; criminalising the knowing use of trafficked services; and mandating national referral mechanisms with a focus on gender-sensitive and victim-centred investigation."
 status: "in-force"
 related: ["2011/36/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

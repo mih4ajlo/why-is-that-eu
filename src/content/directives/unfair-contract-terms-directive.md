@@ -7,6 +7,7 @@ tags: [consumer-protection, contract-law, standard-contracts, european-commissio
 summary: "Directive protecting consumers from unfair terms in standard-form contracts, requiring transparency and fairness in pre-formulated agreements."
 status: "in-force"
 related: ["2011/83/EU", "2019/2161/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

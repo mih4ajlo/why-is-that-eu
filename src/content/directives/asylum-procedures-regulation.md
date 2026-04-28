@@ -7,6 +7,7 @@ tags: [asylum, migration, border-procedures, fundamental-rights, ceas]
 summary: "The Asylum Procedures Regulation establishes a single, streamlined EU-wide process for examining international protection applications, replacing divergent national systems and introducing mandatory border procedures for certain categories of applicants."
 status: "in-force"
 related: ["2024/1351/EU", "2024/1350/EU", "2024/1352/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [crowdfunding, capital-markets, sme-finance, fintech, investor-protection,
 summary: "Harmonises EU crowdfunding rules, allowing platforms to operate across borders with a single authorisation, while imposing uniform investor protection and disclosure requirements."
 status: "in-force"
 related: ["2014/65/EU", "2017/1129/EU", "2020/1504/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

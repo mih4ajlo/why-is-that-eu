@@ -7,6 +7,7 @@ tags: [international-procurement, market-access, china, medical-devices, trade-s
 summary: "The EU imposes the first-ever International Procurement Instrument measure, restricting Chinese medical device suppliers from bidding on EU public tenders after China refused to open its own procurement market."
 status: "in-force"
 related: [2022/1031/EU]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

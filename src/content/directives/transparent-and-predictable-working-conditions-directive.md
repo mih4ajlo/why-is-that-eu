@@ -7,6 +7,7 @@ tags: [labour-rights, precarious-work, gig-economy, working-conditions, employme
 summary: "This directive mandates that all workers in the EU receive a written statement of their essential working conditions from day one, limits probationary periods, bans exclusivity clauses, and forces employers to provide predictable work schedules. It closes a gap left by the 1991 Written Statement Directive, which had failed to cover new forms of non-standard employment."
 status: "in-force"
 related: ["2019/1158/EU", "2003/88/EC", "91/533/EEC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [posting-of-workers, internal-market, labour-mobility, social-dumping, ser
 summary: "Sets minimum employment terms and conditions for workers temporarily posted to another EU member state, aiming to balance free movement of services with fair competition and worker rights."
 status: "in-force"
 related: ["2014/67/EU", "2018/957/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

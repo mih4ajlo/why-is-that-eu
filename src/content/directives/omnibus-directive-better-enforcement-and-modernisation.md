@@ -7,6 +7,7 @@ tags: [consumer-protection, digital-markets, enforcement, e-commerce, penalty-ha
 summary: "The Omnibus Directive strengthens consumer protection enforcement by introducing harmonised penalties, extending rights to digital content and services, and closing loopholes in online marketplaces and dual-quality products."
 status: "in-force"
 related: ["2005/29/EC", "2011/83/EU", "93/13/EEC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

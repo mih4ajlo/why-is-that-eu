@@ -7,6 +7,7 @@ tags: [consumer-rights, e-commerce, digital-market, contract-law, distance-selli
 summary: "The Consumer Rights Directive harmonises EU rules on distance selling, off-premises contracts, and standard contract terms, giving consumers a 14-day withdrawal right and requiring clear upfront cost disclosure."
 status: "in-force"
 related: ["2006/2004/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

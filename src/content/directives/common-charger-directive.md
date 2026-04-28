@@ -7,6 +7,7 @@ tags: [usb-c, chargers, standardization, e-waste, smartphones]
 summary: "Mandates USB-C as the common charging port for most consumer electronics sold in the EU, and separates charger sales from device sales. Driven by a decade of lobbying, e-waste concerns, and consumer frustration."
 status: "in-force"
 related: []
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

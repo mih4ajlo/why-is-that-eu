@@ -7,6 +7,7 @@ tags: [right-to-repair, consumer-protection, circular-economy, sustainability, e
 summary: "EU directive establishing a 'right to repair' framework that obliges manufacturers to repair certain products beyond the legal warranty period, creates an online repair platform, and bans practices that obstruct independent repair. It aims to extend product lifetimes, reduce e-waste, and cut household costs."
 status: "in-force"
 related: []
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

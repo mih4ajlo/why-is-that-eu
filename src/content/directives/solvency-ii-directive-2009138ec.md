@@ -7,6 +7,7 @@ tags: [insurance, risk-management, capital-requirements, financial-stability, si
 summary: "Solvency II is a comprehensive EU directive overhauling insurance and reinsurance regulation, introducing risk-based capital requirements and governance standards to protect policyholders and foster a stable single insurance market."
 status: "in-force"
 related: ["2014/51/EU", "2019/2177/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

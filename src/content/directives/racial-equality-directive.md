@@ -7,6 +7,7 @@ tags: [racial-equality, non-discrimination, employment, fundamental-rights, eu-l
 summary: "Prohibits discrimination on grounds of race or ethnic origin in employment, education, social protection, and access to goods and services, establishing a minimum standard across the EU."
 status: "in-force"
 related: ["2000/78/EC", "2002/73/EC", "2010/13/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [digital-identity, electronic-signatures, data-protection, trust-services,
 summary: "The eIDAS 2 Regulation introduces the European Digital Identity Wallet, a mandatory cross-border digital identity framework for EU member states, aiming to give citizens control over personal data while enabling secure online transactions across the bloc."
 status: "in-force"
 related: ["2016/679/EU", "2022/2555/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

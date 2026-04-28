@@ -7,6 +7,7 @@ tags: [soil-monitoring, soil-health, environmental-monitoring, nature-restoratio
 summary: "The Soil Monitoring Law establishes the first EU-wide framework for monitoring and assessing soil health, requiring member states to measure key indicators and take remedial action for degraded soils."
 status: "in-force"
 related: []
+llm: "deepseek-chat"
 ---
 
 ## What is it?

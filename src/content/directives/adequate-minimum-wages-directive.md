@@ -7,6 +7,7 @@ tags: [minimum-wages, social-policy, labour-rights, collective-bargaining, worki
 summary: "Sets EU-level framework to ensure minimum wages are adequate through collective bargaining coverage and statutory minimum wage criteria, aiming to reduce in-work poverty and wage inequality across Member States."
 status: "in-force"
 related: ["2019/1152/EU", "2019/1158/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

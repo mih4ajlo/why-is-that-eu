@@ -7,6 +7,7 @@ tags: [return-directive, irregular-migration, border-control, migration-policy, 
 summary: "The Return Directive establishes common EU standards and procedures for returning non-EU nationals staying illegally, balancing enforcement with safeguards for fundamental rights before removal."
 status: "in-force"
 related: ["2004/81/EC", "2011/36/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

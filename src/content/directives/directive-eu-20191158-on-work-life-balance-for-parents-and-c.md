@@ -7,6 +7,7 @@ tags: [work-life-balance, parental-leave, carers-leave, gender-equality, labour-
 summary: "The EU Work-Life Balance Directive establishes minimum standards for parental, paternity, and carers' leave across member states, mandating pay for paternity and parental leave to encourage men to take it, aiming to close the gender employment gap."
 status: "in-force"
 related: ["2006/54/EC", "2010/18/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

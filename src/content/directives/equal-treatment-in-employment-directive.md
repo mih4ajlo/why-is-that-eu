@@ -7,6 +7,7 @@ tags: [employment-discrimination, fundamental-rights, social-policy, non-discrim
 summary: "Sets a general EU framework for combating discrimination in employment on grounds of religion or belief, disability, age, or sexual orientation, requiring member states to ensure equal treatment in hiring, promotion, working conditions, and dismissal."
 status: "in-force"
 related: ["2000/43/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

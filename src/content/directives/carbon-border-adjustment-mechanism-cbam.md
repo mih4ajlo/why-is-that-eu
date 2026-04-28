@@ -7,6 +7,7 @@ tags: [carbon-pricing, climate, trade, ets, carbon-leakage, green-deal]
 summary: "The world's first carbon border tariff, requiring importers of cement, iron, steel, aluminium, fertilisers, electricity and hydrogen to buy CBAM certificates priced at the EU ETS carbon price. It is designed to stop EU industry relocating to countries with weaker climate rules."
 status: "in-force"
 related: ["2003/87/EC", "2021/1119/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [foreign-subsidies, internal-market, competition-law, state-aid, trade-def
 summary: "The Foreign Subsidies Regulation (FSR) empowers the European Commission to investigate and remedy market distortions caused by subsidies granted by non-EU governments to companies operating in the EU, closing a long-standing regulatory gap in competition and trade law."
 status: "in-force"
 related: []
+llm: "deepseek-chat"
 ---
 
 ## What is it?

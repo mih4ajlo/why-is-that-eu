@@ -7,6 +7,7 @@ tags: [food-safety, food-law, efssa, traceability, risk-analysis, precautionary-
 summary: "This foundational regulation established the modern EU food safety system, created the European Food Safety Authority, and introduced the principle of farm-to-fork traceability in response to the BSE crisis and other food scandals."
 status: "in-force"
 related: ["852/2004/EC", "853/2004/EC", "854/2004/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [package-travel, consumer-protection, insolvency-protection, tourism, holi
 summary: "The Package Travel Directive modernises consumer protections for package holidays and linked travel arrangements, requiring clearer pricing, insolvency protection, and cancellation rights."
 status: "in-force"
 related: ["2008/122/EC", "261/2004"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

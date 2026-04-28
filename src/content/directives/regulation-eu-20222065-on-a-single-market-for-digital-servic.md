@@ -7,6 +7,7 @@ tags: [digital-services, online-platforms, content-moderation, platform-liabilit
 summary: "The Digital Services Act (DSA) establishes a comprehensive framework for regulating digital services, including social media, marketplaces, and platforms, to enhance user safety, accountability, and transparency across the EU single market."
 status: "in-force"
 related: ["2016/679/EU", "2022/1925/EU", "2000/31/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

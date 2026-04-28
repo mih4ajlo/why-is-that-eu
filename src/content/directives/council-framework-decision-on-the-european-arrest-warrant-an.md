@@ -7,6 +7,7 @@ tags: [mutual-recognition, cross-border-crime, extradition, justice-and-home-aff
 summary: "The European Arrest Warrant (EAW) replaced lengthy extradition procedures between EU Member States with a streamlined judicial surrender system, triggered by the 9/11 attacks and a political consensus to close impunity gaps in the single market."
 status: "in-force"
 related: ["2002/584/JHA", "2009/299/JHA", "2018/1612/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

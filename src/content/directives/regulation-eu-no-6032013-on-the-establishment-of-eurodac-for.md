@@ -7,6 +7,7 @@ tags: [asylum, migration, fingerprints, data-protection, dublin-regulation, bord
 summary: "The Eurodac Regulation established a centralised EU-wide database of fingerprints from asylum seekers and irregular border-crossers, designed to enforce the Dublin system by identifying the Member State responsible for examining an asylum application."
 status: "in-force"
 related: ["604/2013/EU (Dublin III)", "656/2014/EU", "2016/679/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

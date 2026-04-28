@@ -7,6 +7,7 @@ tags: [cybersecurity, financial-services, ict-risk, third-party-risk, operationa
 summary: "DORA forces every bank, insurer, asset manager and crypto provider in the EU — plus their critical IT suppliers — to harden their systems against cyberattacks and IT failures, and gives EU supervisors direct oversight powers over hyperscalers like AWS, Microsoft and Google for the first time."
 status: "in-force"
 related: ["2016/1148/EU", "2022/2555/EU", "2023/1114/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

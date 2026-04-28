@@ -7,6 +7,7 @@ tags: [critical-raw-materials, supply-chain, strategic-autonomy, green-transitio
 summary: "A regulation establishing EU targets for domestic extraction, processing, and recycling of 34 critical raw materials, aimed at reducing dependency on China and securing supply chains for green and digital transitions."
 status: "in-force"
 related: []
+llm: "deepseek-chat"
 ---
 
 ## What is it?

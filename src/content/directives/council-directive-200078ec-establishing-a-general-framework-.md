@@ -7,6 +7,7 @@ tags: [employment-discrimination, equal-treatment, fundamental-rights, labor-law
 summary: "A landmark EU directive prohibiting discrimination in employment and occupation on grounds of religion or belief, disability, age, or sexual orientation — expanding protections beyond the earlier race and gender directives and forcing major shifts in national employment laws across member states."
 status: "in-force"
 related: ["2000/43/EC", "2006/54/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

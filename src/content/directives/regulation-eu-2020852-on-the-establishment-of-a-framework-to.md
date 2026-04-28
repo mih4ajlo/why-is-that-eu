@@ -7,6 +7,7 @@ tags: [taxonomy, sustainable-finance, climate, esg, green-deal]
 summary: "The EU Taxonomy Regulation establishes a classification system for environmentally sustainable economic activities, aiming to prevent greenwashing and guide capital towards the European Green Deal objectives."
 status: "in-force"
 related: ["2019/2088/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

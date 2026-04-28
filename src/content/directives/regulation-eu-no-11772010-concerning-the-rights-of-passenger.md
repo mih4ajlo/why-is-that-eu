@@ -7,6 +7,7 @@ tags: [maritime-transport, passenger-rights, consumer-protection, accessibility,
 summary: "Establishes minimum rights for passengers on sea and inland waterway voyages within the EU, including protection against cancellations, delays, and discrimination, and sets rules for assistance to persons with disabilities."
 status: "in-force"
 related: ["261/2004/EC", "1107/2006/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

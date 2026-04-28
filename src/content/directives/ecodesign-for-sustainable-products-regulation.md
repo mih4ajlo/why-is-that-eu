@@ -7,6 +7,7 @@ tags: [circular-economy, product-sustainability, digital-product-passport, ecode
 summary: "The Ecodesign for Sustainable Products Regulation expands EU ecodesign rules beyond energy-related products to almost all physical goods, requiring durability, repairability, recyclability, and digital product passports."
 status: "in-force"
 related: [2009/125/EC, 2020/1828/EU, 2022/2380/EU]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

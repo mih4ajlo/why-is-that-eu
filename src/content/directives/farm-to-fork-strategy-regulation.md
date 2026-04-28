@@ -7,6 +7,7 @@ tags: [farm-to-fork, european-green-deal, sustainable-food, biodiversity, pestic
 summary: "A comprehensive EU strategy to reshape food systems for sustainability, health, and fairness, forming a core pillar of the European Green Deal."
 status: "in-force"
 related: ["2019/2021 of the European Parliament and of the Council on the European Green Deal", "2021/2117 on the common agricultural policy (CAP Strategic Plans Regulation)"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

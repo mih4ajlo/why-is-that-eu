@@ -7,6 +7,7 @@ tags: [plastics, marine-litter, packaging, circular-economy, waste]
 summary: "EU law banning or restricting the most commonly littered single-use plastic items — including straws, cutlery, plates, cotton buds and polystyrene food containers — and imposing extended producer responsibility, labelling and collection targets on others. It marked the EU's most aggressive intervention against plastic pollution to date."
 status: "in-force"
 related: ["2018/851/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

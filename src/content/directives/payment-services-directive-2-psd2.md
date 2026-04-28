@@ -7,6 +7,7 @@ tags: [open-banking, consumer-protection, payment-services, data-privacy, financ
 summary: "PSD2 transformed European payments by requiring banks to open customer data to third-party providers via APIs, enabling new fintech services while mandating stronger security through two-factor authentication."
 status: "in-force"
 related: ["2016/679/EU", "2007/64/EC", "2018/389/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

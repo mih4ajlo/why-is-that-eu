@@ -7,6 +7,7 @@ tags: [energy-efficiency, building-renovation, decarbonization, climate-neutrali
 summary: "The 2024 recast of the Energy Performance of Buildings Directive sets a trajectory for zero-emission buildings by 2050, introducing mandatory renovation requirements for the worst-performing buildings and phasing out fossil fuel heating in new buildings."
 status: "in-force"
 related: ["2018/844/EU", "2010/31/EU", "2023/2413/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

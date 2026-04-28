@@ -7,6 +7,7 @@ tags: [esg, sustainability-reporting, corporate-governance, climate-disclosure, 
 summary: "The CSRD forces roughly 50,000 EU and non-EU companies to publish audited sustainability data — covering climate, biodiversity, workforce and supply-chain impacts — using mandatory European Sustainability Reporting Standards. It replaces the weaker 2014 Non-Financial Reporting Directive and turns ESG disclosure into a legal obligation on par with financial accounts."
 status: "in-force"
 related: ["2014/95/EU", "2020/852/EU", "2024/1760/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

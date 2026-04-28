@@ -7,6 +7,7 @@ tags: [co2-standards, zero-emission-vehicles, internal-combustion-engine-phaseou
 summary: "Sets a 100% CO2 reduction target for new cars and vans from 2035, effectively banning the sale of new internal combustion engine vehicles. The first legally binding EU phase-out date for a combustion technology."
 status: "in-force"
 related: ["2019/631/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [organic-farming, food-labelling, agricultural-policy, sustainability, con
 summary: "The EU's comprehensive regulatory framework for organic farming, setting production rules, labelling requirements, and control systems across the member states."
 status: "in-force"
 related: ["889/2008", "2018/848"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

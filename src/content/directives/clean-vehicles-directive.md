@@ -7,6 +7,7 @@ tags: [clean-vehicles, public-procurement, green-transport, air-quality, sustain
 summary: "The Clean Vehicles Directive requires public authorities in EU member states to consider energy and environmental impacts when purchasing road transport vehicles, promoting markets for low- and zero-emission vehicles through public procurement."
 status: "in-force"
 related: ["2019/1161/EU", "2014/24/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

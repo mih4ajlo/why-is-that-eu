@@ -7,6 +7,7 @@ tags: [public-health, health-policy, pandemic-preparedness, eu-funding, health-s
 summary: "The EU4Health Programme is a standalone EU health funding programme with a €5.3 billion budget for 2021-2027, created in direct response to the COVID-19 pandemic to strengthen EU health systems, crisis preparedness, and cross-border health security."
 status: "in-force"
 related: ["Regulation (EU) 2022/2371 on serious cross-border threats to health", "Regulation (EU) 2022/2372 on Council recommendations on a coordinated approach to travel measures"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

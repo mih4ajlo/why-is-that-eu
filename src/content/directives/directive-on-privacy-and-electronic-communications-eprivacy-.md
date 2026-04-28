@@ -7,6 +7,7 @@ tags: [privacy, cookies, telecoms, data-protection, marketing]
 summary: "The ePrivacy Directive governs privacy in electronic communications across the EU, famously requiring websites to obtain consent before storing cookies and regulating unsolicited marketing, traffic data, and confidentiality of communications."
 status: "in-force"
 related: ["2016/679/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

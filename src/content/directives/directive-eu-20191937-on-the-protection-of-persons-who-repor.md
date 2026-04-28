@@ -7,6 +7,7 @@ tags: [whistleblower-protection, corporate-governance, anti-corruption, complian
 summary: "The EU Whistleblower Directive forces companies with 50+ employees and all public bodies to set up confidential reporting channels and protects whistleblowers from retaliation. It was triggered by the LuxLeaks trial of Antoine Deltour and a string of scandals — Panama Papers, Cambridge Analytica, Dieselgate — that exposed how fragmented national protections left EU-wide wrongdoing-spotters legally defenceless."
 status: "in-force"
 related: ["2016/679/EU", "2015/849/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [victims-rights, criminal-justice, procedural-safeguards, eu-justice, crim
 summary: "Establishes minimum standards on the rights, support and protection of victims of crime across the European Union, guaranteeing them access to information, participation in proceedings, and recognition as victims."
 status: "in-force"
 related: ["2004/80/EC", "2011/99/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

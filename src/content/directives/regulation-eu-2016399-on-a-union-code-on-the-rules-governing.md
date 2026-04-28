@@ -7,6 +7,7 @@ tags: [schengen, border-control, free-movement, internal-security, migration]
 summary: "The Schengen Borders Code codifies EU rules on crossing internal and external borders, balancing the abolition of internal border checks with compensatory measures for security and migration management."
 status: "in-force"
 related: ["2006/960/JHA", "2013/32/EU", "2017/2226/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

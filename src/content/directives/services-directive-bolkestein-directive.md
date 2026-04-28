@@ -7,6 +7,7 @@ tags: [single-market, internal-market, services, liberalisation, country-of-orig
 summary: "A landmark EU directive aimed at creating a single market for services by removing barriers to cross-border service provision, but which sparked massive political controversy over fears of social dumping and public service privatisation."
 status: "in-force"
 related: ["96/71/EC", "2014/67/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

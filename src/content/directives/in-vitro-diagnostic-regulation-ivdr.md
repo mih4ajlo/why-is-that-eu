@@ -7,6 +7,7 @@ tags: [ivd, medical-devices, patient-safety, notified-bodies, ce-marking, diagno
 summary: "The In Vitro Diagnostic Regulation overhauls the EU's system for approving diagnostic tests like HIV tests and cancer screens, imposing stricter clinical evidence rules and transitioning from national to EU-level oversight after a scandal over faulty breast implants exposed weak oversight of medical devices."
 status: "in-force"
 related: ["2017/745/EU", "98/79/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

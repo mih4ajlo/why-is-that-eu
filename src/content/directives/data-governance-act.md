@@ -7,6 +7,7 @@ tags: [data-governance, data-sharing, data-altruism, trust, eu-data-strategy, di
 summary: "A regulation establishing a framework for trusted data sharing across the EU, including rules for data intermediaries, data altruism, and reuse of protected public sector data."
 status: "in-force"
 related: ["2025/45/EU", "2016/679/EU", "2022/2557/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

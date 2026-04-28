@@ -7,6 +7,7 @@ tags: [radio-spectrum, cybersecurity, mobile-phones, iot, energy-efficiency, bat
 summary: "The Radio Equipment Directive (RED) harmonises EU rules for products that use radio spectrum, including phones, WiFi routers, and IoT devices. Its 2022 revision introduced mandatory USB-C charging and security requirements, reshaping the electronics industry."
 status: "in-force"
 related: ["2014/53/EU", "2022/2380/EU", "2009/125/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [consumer-protection, misleading-advertising, aggressive-practices, intern
 summary: "The Unfair Commercial Practices Directive harmonises EU rules against deceptive and aggressive business-to-consumer marketing, banning practices like false scarcity claims and hidden adverts across all member states."
 status: "in-force"
 related: ["2006/114/EC", "2011/83/EU", "2019/2161/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

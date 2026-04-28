@@ -7,6 +7,7 @@ tags: [cybersecurity, network-security, digital-resilience, critical-infrastruct
 summary: "The NIS2 Directive is an EU cybersecurity law that requires essential and important entities in critical sectors to implement stronger risk management measures, report significant incidents, and face stricter enforcement, replacing the original 2016 NIS Directive."
 status: "in-force"
 related: ["2019/881/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

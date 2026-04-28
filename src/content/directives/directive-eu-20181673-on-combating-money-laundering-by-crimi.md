@@ -7,6 +7,7 @@ tags: [anti-money-laundering, criminal-law, financial-crime, beneficial-ownershi
 summary: "Harmonises criminal offences and sanctions for money laundering across the EU, closing gaps that allowed criminals to exploit legal differences between member states."
 status: "in-force"
 related: ["2015/849/EU", "2018/843/EU", "2024/1624/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

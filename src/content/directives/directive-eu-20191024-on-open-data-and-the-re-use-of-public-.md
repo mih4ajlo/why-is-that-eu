@@ -7,6 +7,7 @@ tags: [open-data, public-sector-information, data-reuse, digital-economy, transp
 summary: "The Open Data Directive establishes a common EU framework for the re-use of public sector information, making government-held data freely available by default to boost innovation, transparency, and the data economy."
 status: "in-force"
 related: ["2003/98/EC", "2013/37/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

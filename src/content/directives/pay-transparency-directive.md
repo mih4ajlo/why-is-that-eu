@@ -7,6 +7,7 @@ tags: [pay-transparency, gender-pay-gap, equal-pay, labour-rights, non-discrimin
 summary: "The EU Pay Transparency Directive requires companies to disclose salary information and report on gender pay gaps, reversing the burden of proof in pay discrimination cases."
 status: "in-force"
 related: ["2006/54/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

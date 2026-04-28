@@ -7,6 +7,7 @@ tags: [sustainable-finance, esg-disclosure, greenwashing, taxonomy-regulation, a
 summary: "The SFDR mandates financial market participants and advisers to disclose how they integrate sustainability risks and adverse impacts into their investment decisions, aiming to curb greenwashing and standardize ESG terminology across EU capital markets."
 status: "in-force"
 related: ["2020/852/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

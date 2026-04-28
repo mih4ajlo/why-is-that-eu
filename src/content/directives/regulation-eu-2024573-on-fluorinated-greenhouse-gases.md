@@ -7,6 +7,7 @@ tags: [f-gases, climate-change, ozone-layer, refrigerants, hydrofluorocarbons, c
 summary: "The 2024 revision of the EU's F-Gas Regulation tightens quotas for hydrofluorocarbons (HFCs), aiming for an 80% reduction in HFC supply by 2050, phasedown from 2015 levels, with bans on certain products and enhanced enforcement."
 status: "in-force"
 related: ["517/2014/EU", "1005/2009/EC", "2018/1999/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

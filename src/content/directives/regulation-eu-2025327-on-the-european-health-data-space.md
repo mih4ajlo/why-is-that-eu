@@ -7,6 +7,7 @@ tags: [health-data, data-governance, digital-health, secondary-use, ehr-interope
 summary: "The European Health Data Space (EHDS) Regulation creates a single market for electronic health records, mandating cross-border interoperability and establishing a controlled framework for secondary use of health data in research and policy-making."
 status: "in-force"
 related: ["2016/679/EU", "2022/868/EU", "2024/1689/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [water-quality, environmental-protection, river-basin-management, ecologic
 summary: "A landmark EU law that established a comprehensive framework for protecting and restoring all water bodies — rivers, lakes, groundwater, and coastal waters — to 'good ecological status' by 2027, moving from fragmented national standards to integrated river-basin management."
 status: "in-force"
 related: ["91/271/EEC", "98/83/EC", "2006/118/EC", "2008/105/EC", "2013/39/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

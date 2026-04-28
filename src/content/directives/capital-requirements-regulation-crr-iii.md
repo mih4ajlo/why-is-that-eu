@@ -7,6 +7,7 @@ tags: [banking-regulation, capital-requirements, basel-iii, financial-stability,
 summary: "The CRR III implements the final Basel III standards in EU law, tightening bank capital requirements and introducing binding output floors to prevent undercapitalised banks from using internal models to reduce capital charges."
 status: "in-force"
 related: ["2013/36/EU", "575/2013/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

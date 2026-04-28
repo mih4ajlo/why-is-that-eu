@@ -7,6 +7,7 @@ tags: [forced-labour, supply-chain, human-rights, due-diligence, trade-policy, u
 summary: "The Forced Labour Regulation prohibits placing and making available on the EU market any product made with forced labour, including child labour, and requires companies to conduct due diligence to ensure their supply chains are free of such practices."
 status: "in-force"
 related: ["2022/2465/EU", "2024/1760/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

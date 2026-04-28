@@ -7,6 +7,7 @@ tags: [worker-representation, labour-rights, industrial-relations, transnational
 summary: "This directive mandates that multinational companies with at least 1,000 employees across EU Member States inform and consult their workers on cross-border decisions, such as mass layoffs, relocations, or restructuring."
 status: "in-force"
 related: ["94/45/EC", "1998/59/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

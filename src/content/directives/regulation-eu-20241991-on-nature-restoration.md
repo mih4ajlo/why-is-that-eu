@@ -7,6 +7,7 @@ tags: [biodiversity, nature-restoration, ecosystems, green-deal, peatlands, poll
 summary: "The EU's first continent-wide law forcing member states to actively restore degraded ecosystems — not just protect what remains. It survived one of the most bruising political fights of the von der Leyen Commission, passing the Council by a single vote after Austria's environment minister broke ranks with her own government."
 status: "in-force"
 related: ["1992/43/EEC", "2009/147/EC", "2000/60/EC"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?

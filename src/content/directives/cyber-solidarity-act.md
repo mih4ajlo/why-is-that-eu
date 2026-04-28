@@ -7,6 +7,7 @@ tags: [cybersecurity, critical-infrastructure, cyber-resilience, incident-respon
 summary: "The Cyber Solidarity Act (CSA) establishes an EU-wide mechanism for coordinated response to major cyberattacks, creating a Cyber Solidarity Fund and a network of Security Operations Centres (European SOCs) to detect, prepare for, and respond to large-scale cyber threats."
 status: "in-force"
 related: ["2022/2555/EU", "2019/881/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

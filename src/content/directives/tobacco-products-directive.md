@@ -7,6 +7,7 @@ tags: [tobacco-control, public-health, consumer-protection, packaging-standards,
 summary: "A landmark EU directive that tightened rules on the manufacture, presentation, and sale of tobacco products, banning characterising flavours, introducing large pictorial health warnings, and regulating e-cigarettes."
 status: "in-force"
 related: ["2003/33/EC", "2001/37/EC", "2012/9/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

@@ -7,6 +7,7 @@ tags: [defence-industry, joint-procurement, european-defence-fund, military-mobi
 summary: "A short-term EU regulation to incentivise EU member states to jointly procure defence equipment, aiming to replenish stocks after transfers to Ukraine and strengthen the European defence industrial base."
 status: "in-force"
 related: []
+llm: "deepseek-chat"
 ---
 
 ## What is it?

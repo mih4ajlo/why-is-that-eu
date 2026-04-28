@@ -7,6 +7,7 @@ tags: [emissions-trading, climate-change, carbon-market, decarbonization, enviro
 summary: "The EU ETS is the world's first and largest carbon market, capping greenhouse gas emissions from over 10,000 installations and airlines, requiring them to buy allowances for each ton of CO2 emitted."
 status: "in-force"
 related: ["2023/959/EU", "2018/410/EU", "2004/101/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

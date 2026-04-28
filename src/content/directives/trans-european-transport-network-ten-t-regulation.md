@@ -7,6 +7,7 @@ tags: [transport-infrastructure, cross-border-connectivity, cohesion-policy, gre
 summary: "The TEN-T Regulation establishes a unified, multimodal transport network across the EU, setting binding deadlines and technical standards to eliminate bottlenecks, connect peripheral regions, and shift freight from road to rail and water, aiming to complete the core network by 2030 and the comprehensive network by 2050."
 status: "in-force"
 related: ["2021/1187/EU", "2021/1153/EU (CEF Regulation)"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

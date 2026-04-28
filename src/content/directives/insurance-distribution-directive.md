@@ -7,6 +7,7 @@ tags: [insurance-distribution, consumer-protection, financial-services, mis-sell
 summary: "The Insurance Distribution Directive (IDD) replaced the Insurance Mediation Directive to harmonise regulation of all insurance distributors across the EU, tightening conduct-of-business rules, disclosure requirements, and conflict-of-interest management following a series of high-profile mis-selling scandals."
 status: "in-force"
 related: ["2002/92/EC", "2014/65/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

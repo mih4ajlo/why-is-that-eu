@@ -7,6 +7,7 @@ tags: [product-liability, digital-products, software, safety, consumer-protectio
 summary: "The 2024 Product Liability Directive updates EU liability rules to cover software, AI, and digital products, shifting the burden of proof for defendants in complex cases and addressing gaps exposed by the rise of smart devices and platform economies."
 status: "in-force"
 related: ["85/374/EEC", "2022/2065/EU", "2024/1689/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

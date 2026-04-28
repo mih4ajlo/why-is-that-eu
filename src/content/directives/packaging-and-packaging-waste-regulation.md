@@ -7,6 +7,7 @@ tags: [packaging-waste, circular-economy, waste-reduction, recyclability, extend
 summary: "The Packaging and Packaging Waste Regulation (PPWR) replaces the 1994 Packaging Directive, setting mandatory recycling targets, recyclability requirements for all packaging placed on the EU market, and restrictions on single-use plastic packaging formats."
 status: "in-force"
 related: ["94/62/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?

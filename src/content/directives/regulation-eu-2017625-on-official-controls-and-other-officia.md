@@ -7,6 +7,7 @@ tags: [food-safety, animal-health, plant-health, official-controls, eu-regulatio
 summary: "The Official Controls Regulation modernises and consolidates EU rules on how member states inspect and enforce food safety, animal health and welfare, and plant health standards, creating a single legal framework after previous fragmentation led to enforcement gaps and scandals."
 status: "in-force"
 related: ["178/2002/EC", "882/2004/EC", "854/2004/EC"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?
