@@ -48,15 +48,15 @@ The probationary period for new drivers sparked controversy. In Italy, where the
 
 ## Key questions answered
 
-### Why does the Driving Licence Directive require a plastic-card format?
+### Why do EU driving licences have to be a plastic card instead of paper?
 
 To reduce forgery and fraud. In 2003, the Commission estimated that 3% of all EU driving licences were fraudulently obtained or forged. Paper licences were easy to alter digitally; the plastic card with embedded security features (holograms, microchips, UV ink) made counterfeiting far harder. The cost of re-issuing licences was estimated at €200 million across the EU, but the Commission projected savings of €1.2 billion over ten years from reduced fraud and road accidents.
 
-### Why are professional drivers required to undergo periodic medical checks under the Driving Licence Directive?
+### Why do professional drivers in the EU have to take regular medical exams to keep their licence?
 
 The Beaune crash exposed a gap: truck and bus drivers could obtain licences in one member state with no medical examination, then drive across the EU. The directive mandated medical checks every five years for categories C, CE, C1, C1E, D, DE, D1, and D1E (trucks, buses, and minibuses). The ETSC had reported in 2003 that 30% of fatal bus crashes in the EU involved drivers with untreated medical conditions (diabetes, epilepsy, vision impairment). The checks are conducted by national medical authorities; the cost is borne by the driver (average €50–€100 per check).
 
-### Why is the validity period limited to 10 years under the Driving Licence Directive?
+### Why are EU driving licences only valid for 10 years before they need to be renewed?
 
 To force periodic renewal and prevent licences from remaining valid indefinitely, which allowed fraud to go undetected. Before the directive, some EU countries (e.g., Spain, Italy) issued licences that never expired, meaning a licence issued in 1985 was still valid in 2005 even if the holder had developed a medical condition or moved abroad. The 10-year cap applies to cars (B) and motorcycles (A); professional licences (C, D) are limited to 5 years. The Commission’s 2016 evaluation showed that renewal rates exceeded 90% across the EU, with only 6.5% of drivers failing to renew within the grace period.
 

@@ -54,19 +54,19 @@ Consumer groups have criticised the implementation. BEUC's Deputy Director Gener
 
 ## Key questions answered
 
-### Why did the Volkswagen scandal specifically trigger the Omnibus Directive, rather than environmental or competition rules?
+### Why did the Volkswagen scandal lead to new EU consumer protection rules instead of just using existing environmental or competition laws?
 
 The Volkswagen scandal was the catalyst because it demonstrated concretely that European consumer enforcement was structurally incapable of deterring large-scale, pan-European corporate violations. German consumer authorities admitted in internal memos that maximum fines of €100,000 — representing roughly 0.0002% of Volkswagen's €213 billion annual revenue — were "completely inadequate." The scandal was not about environmental damages but about the failure of consumer protection systems to match market reality.
 
-### Why were "free" digital services included in the Omnibus Directive when consumers pay nothing?
+### Why do EU rules now cover "free" digital services like social media and cloud storage, even though consumers don't pay money for them?
 
 The Commission's 2018 impact assessment argued that consumers provide personal data as counter-performance when using "free" platforms like Facebook, Google, and Instagram, and should therefore be entitled to the same consumer rights as paying customers. The inclusion was pushed by MEP Evelyne Gebhardt and supported by the S&D group, over opposition from DigitalEurope and Google, which argued in a March 2018 submission that "users of free services are not consumers in the legal sense." The final text applied consumer rights to digital services where "the consumer pays with personal data."
 
-### Why did the Omnibus Directive not create a single EU consumer enforcement body?
+### Why didn't the EU create one single agency to enforce consumer rights across all member countries?
 
 The Commission initially considered creating a European Consumer Enforcement Authority modelled on the European Securities and Markets Authority (ESMA) or the European Competition Network, but this was rejected by the Council. A June 2018 Council legal opinion concluded that EU consumer enforcement lacked the legal basis under Article 114 TFEU for a centralised enforcement agency. Instead, the directive strengthened the Consumer Protection Cooperation (CPC) Regulation from 2017, which had created a network of national authorities. The compromise allowed for harmonised penalties without establishing new EU-level institutions.
 
-### Why did dual-quality products become a political priority in the Omnibus Directive?
+### Why did the EU decide to specifically crack down on companies selling lower-quality versions of the same product in different countries?
 
 The issue gained prominence through a 2016 study by the Slovakian consumer authority, which found that identical-brand products (including Coca-Cola, Nestlé coffee, and Pringles) had different compositions in Eastern versus Western Europe. Commissioner Jourová called a 2017 summit with food manufacturers in Brussels, where PepsiCo and Unilever publicly denied the practice. The European Consumer Organisation (BEUC) tested 128 products across 12 member states in 2018 and found 23% had materially different compositions under the same brand. The Western European industry associations — FoodDrinkEurope and AIM — lobbied against the prohibition, arguing that "market preferences legitimately vary," but the Commission concluded that the practice was misleading when packaging and branding were identical.
 

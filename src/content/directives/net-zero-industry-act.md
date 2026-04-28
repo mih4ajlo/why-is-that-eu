@@ -57,15 +57,15 @@ The first major enforcement test concerns Member States’ failure to set up "on
 
 ## Key questions answered
 
-### Why 40% and not 50% or 30% in the Net-Zero Industry Act?
+### Why does the EU want to produce 40% of its own clean-tech equipment instead of a different target like 30% or 50%?
 
 The 40% target was a compromise between the European Parliament (which initially pushed for 60%) and the Commission’s original non-binding benchmark. The Parliament’s industry committee commissioned a 2023 study from the Joint Research Centre showing that 40% of EU deployment demand equated to roughly €150 billion in annual manufacturing investment—enough to be "game-changing" but not so aggressive as to require a full "buy European" mandate that would violate WTO rules. The Council pushed back against a higher target, with Germany arguing that 60% would force member states to accept higher costs for domestic equipment.
 
-### How does the Net-Zero Industry Act relate to the Critical Raw Materials Act?
+### How do EU rules for boosting clean-tech manufacturing connect with rules for securing supplies of rare minerals and metals?
 
 The NZIA and the Critical Raw Materials Act (CRMA, 2024/1252/EU) are complementary halves of the EU’s clean-tech sovereignty push. The CRMA sets targets for domestic extraction and processing of rare earths, lithium, and other materials (10% of annual EU consumption extracted domestically by 2030; 40% processed). The NZIA covers the manufacturing stage. Together, they create a "from mine to factory" industrial policy. However, the NZIA does not require that NZSP manufacturers use CRMA-compliant inputs—a deliberate gap, as the Commission acknowledged in a 2024 internal memo that "binding vertical integration would exceed WTO constraints."
 
-### Why didn't the NZIA include a carbon border adjustment mechanism (CBAM) for clean-tech imports?
+### Why didn't the EU's clean-tech manufacturing plan include a carbon border tax on imported solar panels, batteries, and other green equipment?
 
 CBAM (Regulation 2023/956/EU) already covers aluminium, steel, and electricity—key inputs for clean-tech manufacturing—but not completed solar panels or wind turbines. A majority of Member States, led by Denmark and Ireland, supported extending CBAM to clean-tech products, arguing that Chinese-manufactured solar panels have embedded carbon emissions roughly double the EU average (based on JRC 2023 lifecycle analysis). However, the Commission’s Legal Service warned that applying CBAM to manufactured goods would require complex new methodologies for embedded carbon tracing, risking WTO challenges from China. The proposal was dropped in the December 2023 trilogue, with the promise of a review by 2027.
 

@@ -61,19 +61,19 @@ The Commission tabled its proposal in December 2020. Negotiations took two and a
 
 ## Key questions answered
 
-### Why replace the 2006 directive with Regulation (EU) 2023/1542 instead of amending it?
+### Why replace the 2006 battery rules with a whole new law instead of just updating them?
 
 The old directive was designed for a world of AA batteries and laptop packs. It said nothing about EVs, grid storage, or supply chains. A patchwork of amendments would have been unworkable, and a regulation (directly applicable) was preferred over a directive to avoid 27 different national interpretations of complex technical rules.
 
-### Why does Regulation (EU) 2023/1542 force user-replaceable batteries when waterproof glued designs are popular?
+### Why do new EU battery rules force manufacturers to make batteries user-replaceable, even though people like waterproof glued-in designs?
 
 Because the Commission concluded that planned obsolescence via battery degradation was the single largest driver of premature smartphone replacement. The environmental cost outweighed the design preferences. Manufacturers can still meet IP-rated waterproofing — they just need to engineer it differently.
 
-### Why include carbon footprint rules in Regulation (EU) 2023/1542 concerning batteries and waste batteries?
+### Why do battery rules now include carbon footprint requirements?
 
 Because batteries are extremely energy-intensive to produce, and Europe wanted to avoid a situation where its EV transition was powered by coal-fired Chinese gigafactories. By making carbon footprint a market-access criterion, the EU rewards cleaner production — which happens to favour European and Korean producers running on cleaner grids.
 
-### Why does Regulation (EU) 2023/1542 require a battery passport?
+### Why do new battery rules require a digital passport for each battery?
 
 To enable a circular economy. Without standardised data on what's actually in a battery, recyclers cannot efficiently process it, second-life applications are hard to develop, and consumers cannot make informed choices. The passport also makes due diligence enforceable: regulators can trace a battery back to its mineral sources.
 

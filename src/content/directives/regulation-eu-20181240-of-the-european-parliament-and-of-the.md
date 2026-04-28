@@ -54,15 +54,15 @@ Rights groups continue to criticise the system. In 2020, the EDPS issued a follo
 
 ## Key questions answered
 
-### Why does the EU need ETIAS when it already has the Schengen Information System (SIS II)?
+### Why does the EU need a separate travel authorisation system when it already has a shared security database for border checks?
 
 SIS II only contains data on people who have been flagged for specific reasons (e.g. wanted criminals, missing persons, refused entry). It does not screen the 1.4 billion visa-exempt travellers who have never been flagged — meaning a person with no criminal record could travel to the Schengen Area without any pre-check. ETIAS fills this gap by automatically querying SIS II, Interpol databases, and other systems for every single traveller before they arrive, not just those flagged in the past.
 
-### Why is ETIAS not a visa? What is the difference between ETIAS and a visa?
+### Why is the EU travel authorisation not a visa, and how is it different from needing a visa to enter?
 
 A visa requires a formal application, often with an in-person interview at an embassy, submission of supporting documents (bank statements, letters of invitation), and a face-to-face decision. Processing can take weeks. ETIAS is a purely online, automated process that submits a traveller's data against existing security databases. There is no interview, no physical sticker in the passport, and the decision is usually instant. The key distinction is that ETIAS authorisation does not guarantee entry — it is a pre-screening that allows the traveller to board transport. Final entry decisions still rest with border guards at the point of arrival.
 
-### Why did the UK not have ETIAS before Brexit?
+### Why didn't the UK require this travel authorisation before it left the EU?
 
 The UK was an EU member state until 31 January 2020 and a full participant in the Schengen Area's border rules. Since ETIAS applies only to non-EU nationals entering the Schengen Area, British citizens travelling to other EU countries before Brexit were EU citizens and exempt. After Brexit, British passport holders became third-country nationals — and, because they remain visa-exempt for short stays, they must now obtain ETIAS authorisation to travel to the Schengen Area.
 

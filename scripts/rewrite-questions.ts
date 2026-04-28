@@ -33,16 +33,23 @@ function field(content: string, key: string): string {
 }
 
 async function rewriteQuestions(title: string, questions: string[]): Promise<string[]> {
-  const prompt = `The following are question headings from a knowledge base article about the EU regulation: "${title}".
+  const prompt = `The following are question headings from a knowledge base article about: "${title}".
 
-Rewrite each question to be fully self-contained — it must mention the name of this regulation (or a recognized short form like an acronym) so the question makes sense without any other context.
+Rewrite each question so a regular person can understand it without knowing the regulation name. The question should describe the real-world topic or problem — not the legal instrument.
 
 Rules:
-- Replace generic references ("the directive", "the regulation", "this law", "it", "this framework") with the specific regulation name or its common acronym.
-- For questions like "What changed with the 2024 revision?" → "What changed with the 2024 revision of [name]?"
-- If a question already clearly names the regulation, return it unchanged.
-- Keep each question natural and concise — don't pad it unnecessarily.
+- NEVER use the regulation name, directive title, or its number in the question.
+- Replace legal names with plain-language concepts: "EU air pollution limits", "the right to be forgotten", "EU minimum wage rules", "the carbon border tax", "AI liability in Europe", etc.
+- The question must still be specific enough to stand alone — use the core concept the regulation addresses.
+- If a question already describes the real-world topic without naming the regulation, return it unchanged.
+- Phrase questions the way a curious non-expert would naturally ask them.
+- Keep each question concise and natural.
 - Return ONLY the rewritten questions, one per line, numbered the same way as input.
+
+Examples:
+  "Does the Adequate Minimum Wages Directive set a wage floor?" → "Does every EU country have to set a minimum wage?"
+  "Why did the Air Quality Directive (2008/50/EC) fail to solve Europe's air pollution problem?" → "Why do EU air quality rules allow cities to keep polluting years after setting emission limits?"
+  "Why did ATAD not harmonise corporate tax rates across the EU?" → "Why didn't EU anti-tax-avoidance rules also harmonise corporate tax rates?"
 
 Questions:
 ${questions.map((q, i) => `${i + 1}. ${q}`).join('\n')}`;

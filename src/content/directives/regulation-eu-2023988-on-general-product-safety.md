@@ -50,19 +50,19 @@ Consumer remedies have also tightened. Recall notices must now offer a genuine c
 
 ## Key questions answered
 
-### Why does every product need an EU-based "responsible person" under Regulation (EU) 2023/988 on General Product Safety?
+### Why does every product sold in the EU need a company based there to be legally responsible for it?
 
 Because national market surveillance authorities had no one to fine, sue or summon when a dangerous product came from a Chinese drop-shipper. Under Article 4 of Regulation 2019/1020 (extended in scope by GPSR), there must be a natural or legal person in the EU who can be served legal notice, hold technical documentation, and cooperate with authorities. This effectively forces non-EU sellers to either set up an EU subsidiary or hire an authorised representative.
 
-### Why was the 2018 voluntary Product Safety Pledge insufficient under Regulation (EU) 2023/988?
+### Why wasn't the 2018 voluntary safety promise from online marketplaces enough to protect shoppers?
 
 The Pledge was signed by only four marketplaces and contained no enforcement mechanism. BEUC's 2020 testing showed signatories continued to host dangerous products, and Wish — the worst offender in many tests — never signed. Reynders explicitly cited the Pledge's failure when proposing binding rules.
 
-### Why a Regulation instead of updating the 2001 Directive under Regulation (EU) 2023/988?
+### Why did the EU choose a strict new law instead of just updating the old 2001 safety rules?
 
 Uneven transposition had created a regulatory race to the bottom: importers routed goods through whichever member state had the laxest enforcement. A Regulation applies identically and directly in all 27 states, eliminating forum-shopping. It also allowed faster alignment with the parallel Market Surveillance Regulation (2019/1020) and Digital Services Act (2022/2065).
 
-### Why are small Etsy and eBay sellers complaining loudest about Regulation (EU) 2023/988?
+### Why are small sellers on Etsy and eBay the ones complaining most about the new EU product safety rules?
 
 Large brands already had EU subsidiaries; small UK, US and Australian sellers did not. The cost of an authorised representative is fixed per product family, making it disproportionate for low-volume artisan sellers. The Commission has acknowledged the issue but argued that consumer safety cannot depend on seller size.
 

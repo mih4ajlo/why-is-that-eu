@@ -53,19 +53,19 @@ The directive also signals a regulatory philosophy shift: products in the EU are
 
 ## Key questions answered
 
-### Why does the Directive on Common Rules Promoting the Repair of Goods only cover certain product categories?
+### Why do EU repair rules only cover certain types of products?
 
 It is tied to the EU's ecodesign framework, which sets reparability requirements product-by-product through detailed technical regulations. Mandating repair only makes sense where spare parts, technical documentation, and repair feasibility have already been defined. As ecodesign expands (e.g., to textiles, furniture, more electronics), the scope of the right to repair will automatically grow.
 
-### Why didn't the EU simply ban planned obsolescence outright in the Directive on Common Rules Promoting the Repair of Goods?
+### Why didn't the EU just ban planned obsolescence outright?
 
 Proving deliberate obsolescence in court is notoriously hard — France's pioneering law has produced very few prosecutions. The EU instead chose a structural approach: make repair easy, cheap, and legally enforceable, so that obsolescence becomes commercially unattractive rather than criminally prohibited.
 
-### Why does the Directive on Common Rules Promoting the Repair of Goods allow third-party and used spare parts?
+### Why do EU repair rules allow third-party and used spare parts?
 
 Manufacturers had increasingly used "part pairing" — software locks tying a specific component (battery, screen, camera) to a specific device serial number — to force consumers into official channels. The directive treats this as an anti-competitive obstacle to repair, ensuring that independent shops, refurbishers, and even 3D-printed parts can keep older devices alive.
 
-### Why is the Directive on Common Rules Promoting the Repair of Goods a directive rather than a regulation?
+### Why is this a directive that each country has to turn into its own law, instead of a single rule for everyone?
 
 A directive sets binding objectives but lets each Member State adapt the rules to its legal system, consumer protection traditions, and existing repair-bonus schemes. Many Member States (France, Austria, Germany, Sweden) already had partial frameworks, and a directive avoids overriding them while ensuring a common floor of consumer rights.
 

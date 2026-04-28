@@ -53,19 +53,19 @@ Market uptake of the Taxonomy proved slower than anticipated. The Commission's 2
 
 ## Key questions answered
 
-### Why does the EU need a taxonomy instead of relying on private green labels under the EU Taxonomy Regulation?
+### Why does the EU need its own official list of what counts as "green" instead of just trusting private eco-labels?
 
 Private green labels proliferated in the 2010s without a common standard, creating confusion and enabling greenwashing. A 2020 study by the European Securities and Markets Authority found that there were 68 different green bond frameworks globally, with no consistent criteria for what counted as "green." The EU's 2019 Behavioural Insights study showed that 89% of EU consumers considered it difficult to identify genuinely sustainable investments. The Taxonomy creates a single, legally enforceable standard that regulators can audit and that investors can rely on.
 
-### Why was nuclear energy included in the EU Taxonomy Regulation?
+### Why was nuclear power officially labelled as a sustainable investment in Europe?
 
 Nuclear was included through the Complementary Climate Delegated Act (February 2022) after intensive lobbying by France, which generates 70% of its electricity from nuclear power, and by a coalition of central European countries with existing nuclear fleets. The Commission's own Joint Research Centre had concluded in 2021 that nuclear "does not cause more harm to human health or the environment than other electricity generation technologies" when lifecycle impacts are considered. Inclusion was opposed by Austria, Luxembourg, Germany, and environmental NGOs, who argued that nuclear creates long-term radioactive waste storage risks. The legal basis for inclusion is Article 10(2) of the Taxonomy Regulation, which allows the Commission to include activities that support the transition to climate neutrality, provided they do not lock in fossil-fuel assets.
 
-### What are the consequences for a company that claims to be taxonomy-aligned under the EU Taxonomy Regulation but is not?
+### What happens to a company that says its activities are environmentally friendly under EU rules but actually isn't?
 
 The Taxonomy Regulation itself does not impose fines for incorrect self-declaration, but it creates liability through the broader EU regulatory framework. Article 23 of the Taxonomy Regulation requires Member States to establish effective penalties for misleading taxonomy-related claims. The European Securities and Markets Authority (ESMA) has issued enforcement priorities each year since 2022, and the 2023 coordinated enforcement action by national competent authorities resulted in 47 investigations into potential greenwashing by fund managers. Additionally, the Corporate Sustainability Reporting Directive (2022/2464/EU), which amends the Taxonomy's disclosure framework, requires limited assurance from statutory auditors on taxonomy-related data from 2024 and reasonable assurance from 2026. Fines under national transpositions vary: the German financial regulator BaFin can impose penalties of up to €5 million or 5% of annual turnover for misleading sustainability claims.
 
-### How does the EU Taxonomy Regulation relate to the EU's broader sustainability reporting requirements?
+### How does the EU's official green investment list connect to the other rules companies must follow when reporting their environmental impact?
 
 The Taxonomy Regulation sits within a pyramid of linked legislation. At its base is the Sustainable Finance Disclosure Regulation (2019/2088/EU), which requires financial market participants to disclose how they integrate sustainability risks. The Taxonomy provides the definitional framework for those disclosures. Above it sits the Corporate Sustainability Reporting Directive (CSRD, 2022/2464/EU), which requires large companies to report according to European Sustainability Reporting Standards (ESRS) — and the ESRS explicitly reference Taxonomy-alignment data. At the apex is the European Green Deal, whose 2050 climate-neutrality target sets the overarching policy goal. The European Commission's 2024 review proposed a "simplification package" to harmonise reporting deadlines across these instruments, acknowledging that overlapping requirements had created compliance burdens.
 

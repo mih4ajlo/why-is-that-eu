@@ -61,15 +61,15 @@ Industry response was critical. The European Association of Fish Producers Organ
 
 ## Key questions answered
 
-### Why did the landing obligation under Regulation (EU) No 1380/2013 take so long to implement?
+### Why did the EU ban on throwing caught fish back into the sea take so long to put into practice?
 
 The landing obligation faced fierce resistance from fishing industry groups who argued it was impractical for mixed fisheries — where fishermen cannot selectively catch only quota-rich species. Derogations for "high survivability" (fish likely to survive discarding) and "de minimis" exemptions (for unavoidable bycatch) allowed member states to delay full implementation until 2019 for most stocks. Spain and France pushed for even later dates, but lost in Council votes.
 
-### Why did the MSY target under Regulation (EU) No 1380/2013 fail by 2020?
+### Why did the EU goal of fishing at sustainable levels by 2020 fail?
 
 The 2020 target was always ambitious, given that only 14% of EU stocks were fished at MSY levels in 2010. The main failure was political: Council of Fisheries Ministers continued to set TACs above scientific advice. In 2017-2019, the Commission noted that TACs were set on average 20% above ICES recommendations for the Baltic, North Sea, and Northeast Atlantic. The 2019 TAC for western Baltic cod was set at 219 tonnes — ICES had recommended zero catch. This pattern persisted because the reform gave the Commission no power to unilaterally impose scientifically based quotas.
 
-### Did the CFP reform under Regulation (EU) No 1380/2013 actually reduce overfishing?
+### Did the EU's overhaul of its fishing rules actually reduce overfishing?
 
 Partially. The EEA's 2022 "State of Nature in the EU" report showed that the proportion of overfished stocks in EU Atlantic waters fell from 96% in 2005 to 38% in 2020 — a significant improvement. However, the Mediterranean remained at 78% overfished. The reform's biggest success was in the North Sea, where cod and haddock stocks have recovered to sustainable levels, thanks in part to reduced fishing pressure from the landing obligation. But the European Court of Auditors in 2020 and the Commission's own 2023 fitness check found that the reform had not achieved its foundational goal of ending overfishing.
 

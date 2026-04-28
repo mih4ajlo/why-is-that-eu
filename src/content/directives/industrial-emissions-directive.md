@@ -59,19 +59,19 @@ The most controversial change came in 2024: the IED revision extended the direct
 
 ## Key questions answered
 
-### Why does the IED use "Best Available Techniques" rather than fixed emissions limits?
+### Why do EU rules for industrial pollution use "best available techniques" instead of fixed emission limits?
 
 The IED's architects deliberately avoided rigid EU-wide emission caps because industrial processes vary too widely. A cement kiln in Greece (using limestone with high chlorine content) cannot meet the same limits as a kiln in Germany using cleaner raw materials without excessive cost. Instead, BAT conclusions — negotiated through the Seville Process with industry, NGOs, and Member States — set reference levels that regulators use to issue site-specific permits. The CJEU's 2018 ruling in *ClientEarth v. Commission* (C-629/16) clarified that Member States cannot grant derogations from BREF conclusions without demonstrating specific local circumstances justifying the deviation.
 
-### Why did the IED take from 1996 to 2010 to replace the IPPC Directive?
+### Why did it take from 1996 to 2010 to replace the old EU rules on industrial pollution?
 
 Three factors delayed consolidation. First, industry opposition: the chemicals, steel, and cement sectors argued that binding BAT conclusions would damage competitiveness, and their lobbying delayed the Commission proposal until late 2007. Second, the 2008 financial crisis: Member States insisted on incorporating "crisis derogations" allowing time-limited exemptions for plants facing economic hardship. Third, agricultural scope: disagreement over whether intensive livestock farms should be included — the Commission proposed 40,000-poultry threshold, but the Council wanted higher — consumed 18 months of negotiations.
 
-### How does the IED relate to other EU environmental law?
+### How do these industrial pollution rules fit with other EU environmental laws?
 
 The IED serves as the operational backbone for several EU environmental priorities. Its emission limits support compliance with the Ambient Air Quality Directive (2008/50/EC) by reducing transboundary air pollution. Its water provisions align with the Water Framework Directive (2000/60/EC), requiring permits to prevent groundwater contamination. And its accident prevention rules connect to the Seveso III Directive (2012/18/EU) on major industrial hazards. Since 2021, the Commission has required IED permits to include decarbonisation roadmaps, linking industrial pollution control to the European Green Deal's 2050 net-zero target.
 
-### What happens if a Member State does not enforce IED requirements?
+### What happens if a country doesn't enforce the EU's industrial pollution limits?
 
 The Commission maintains a dedicated IED compliance unit that monitors transposition and enforcement. Between 2013 and 2023, the Commission opened infringement proceedings against 22 of the 27 Member States for late transposition or failure to update permits. In 2021, the CJEU fined Poland €70 million plus a daily penalty of €480,000 for failing to close or retrofit the Turów coal mine and power plant — a ruling that turned on IED compliance as well as water abstraction and air quality. The relatively high attention from Brussels reflects the IED's centrality to the EU's environmental acquis: non-compliance in one Member State undermines emission reductions across the entire EU internal market.
 

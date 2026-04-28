@@ -64,19 +64,19 @@ A concrete consequence: the carbon price spike of 2021–2023 forced several coa
 
 ## Key questions answered
 
-### Why did the ETS price collapse in Phase I of the EU ETS?
+### Why did the price of pollution permits crash in the first trial period of Europe's carbon market?
 
 Because national governments were allowed to allocate their own allowances, and nearly every country overallocated to protect its industries. In Poland, the government issued 28% more allowances than actual emissions. In Germany, the steel lobby succeeded in getting allowances for planned new plants that were never built. The 2006 price crash was entirely predictable — it had happened in the US SO2 program in the 1990s after early over-allocation.
 
-### Why did the EU include aviation in the EU ETS?
+### Why did Europe decide to make airlines buy pollution permits for their flights?
 
 To close a gaping loophole: airlines were entirely exempt from any carbon pricing while the rest of the economy was being regulated. The 2012 inclusion of aviation followed a 2008 Commission proposal, driven by the mounting evidence that air travel emissions were growing 5% annually while road transport declined. Non-European airlines, especially from the US, China, and India, protested, threatening World Trade Organization challenges. The EU ultimately scaled back aviation coverage to intra-EU flights only after a 2011 legal threat from the US.
 
-### Why is the EU ETS considered a success now but a failure in its early years?
+### Why is Europe's carbon market now seen as working well, even though it failed badly at the start?
 
 Because the switch from free allowances to auctioning, combined with the Market Stability Reserve, finally created scarcity. The 2005–2012 system was essentially a giant subsidy to polluters — they got free permits worth billions of euros. By 2021, auctioning had raised over €57 billion for member states, according to the Commission. The market price signal drove real investment decisions: RWE, Germany's largest CO2 emitter, closed 2.8 GW of lignite capacity in 2022 citing carbon costs. The ETS now works, but only after 15 years of painful reform.
 
-### Why did the EU not just use a carbon tax instead of the EU ETS?
+### Why did Europe choose a cap-and-trade system for pollution instead of just taxing carbon directly?
 
 A carbon tax required unanimous approval from all 27 member states, while a directive like the ETS only required qualified majority voting. A single country could veto a tax; Poland vetoed the 1992 carbon tax proposal, and has blocked carbon tax discussion ever since. The cap-and-trade approach was a second-best solution that could pass without unanimity. The irony: the ETS now effectively functions as a carbon tax, but with a variable price set by market conditions rather than a fixed legislative number.
 

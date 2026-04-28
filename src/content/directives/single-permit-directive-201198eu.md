@@ -62,15 +62,15 @@ The most practical consequence has been the creation of a single application poi
 
 ## Key questions answered
 
-### Why didn't the Single Permit Directive (2011/98/EU) apply to the UK, Ireland, and Denmark?
+### Why didn't the EU's single work-and-residence permit rules apply to the UK, Ireland, and Denmark?
 
 Under Protocol 21 of the Treaty on the Functioning of the European Union, the UK and Ireland can choose whether to opt into Justice and Home Affairs measures; both opted out, fearing loss of control over national migration policy. Denmark has a separate opt-out under Protocol 22, which automatically exempts it from such legislation. All three countries considered the directive would create "a single EU immigration system" — despite the Commission's insistence it was merely procedural — and preferred to maintain their independent permit regimes.
 
-### Why are social security rights so limited under the Single Permit Directive (2011/98/EU)?
+### Why do non-EU workers get so few social security rights under the EU's single permit system?
 
 The directive's Article 12 on equal treatment in social security was the most contested provision. Member States led by Germany and Austria insisted that equal treatment in social security should apply only to matters already covered by EU coordination regulations (Regulation 883/2004), effectively excluding family benefits, child allowances, and unemployment benefits. This limitation was a direct response to the Commission's earlier Blue Card Directive, which had granted full equal treatment and was seen as too generous. The compromise allowed Member States to preserve welfare-state protections for their own citizens while still offering basic protections.
 
-### Why is enforcement of the Single Permit Directive (2011/98/EU) still weak in some Member States?
+### Why are some EU countries still not properly enforcing the rules for a single work-and-residence permit?
 
 The directive is minimum-harmonisation: it sets a floor, not a ceiling. Member States can maintain stricter national rules, including on documentation requirements, fees, and processing times. The Commission's 2019 report found that 8 Member States had "insufficient administrative capacity" to implement the single procedure effectively, particularly in smaller regions. The lack of a binding EU-wide enforcement mechanism means that individual workers must pursue complaints through national courts, a process that is slow, expensive, and often inaccessible to low-wage migrant workers. The Fundamental Rights Agency's 2020 report noted that only 6 Member States had specific anti-discrimination bodies for migrant workers.
 

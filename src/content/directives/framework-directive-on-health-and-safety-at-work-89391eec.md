@@ -47,15 +47,15 @@ The directive also created an enforcement infrastructure: it required member sta
 
 ## Key questions answered
 
-### Why does the Framework Directive on Health and Safety at Work (89/391/EEC) cover all sectors including public administration?
+### Why do EU workplace safety rules apply to all jobs, including government offices and schools?
 
 The original Commission proposal in 1988 excluded public administration, following the precedent of earlier directives. But the European Parliament — led by socialist rapporteur Luciana Castellina and backed by the ETUC — successfully amended it to cover "all sectors of activity, both public and private." This was driven by evidence that public sector workers (hospitals, schools, government offices) faced identical risks but had weaker protections under national laws. The Parliament's 1988 committee report cited a French study showing that hospital staff had a 30% higher accident rate than construction workers in the public sector.
 
-### Why is risk assessment the central obligation of the Framework Directive on Health and Safety at Work (89/391/EEC) rather than specific rules?
+### Why do EU workplace safety laws focus on employers doing risk assessments instead of listing specific hazards to avoid?
 
 The choice of risk assessment over prescriptive technical rules reflects a deliberate political compromise. The Commission's 1988 impact assessment showed that 12 member states already had specific rules — but they diverged wildly. A blanket technical harmonisation would have required thousands of pages of legislation. Instead, the directive requires a general duty to assess risks and implement preventive measures "on the basis of the principles of prevention" listed in Article 6. This gave flexibility to adapt to different industries while imposing a uniform legal standard. The UK's opposition was partly based on preferring voluntary guidance, but the qualified majority vote defeated this.
 
-### What happens if an employer fails to conduct a risk assessment under the Framework Directive on Health and Safety at Work (89/391/EEC)?
+### What are the consequences for an employer who never does a workplace risk assessment?
 
 Failure to conduct or document a risk assessment is a criminal offence in all 27 member states. The 2004 European Court of Justice case C-127/05 (Commission v. Greece) established that mere reference to general legal obligations is insufficient — member states must impose concrete sanctions. Penalties range from fines (up to €150,000 in Germany or £400,000 in the UK) to imprisonment (up to 5 years in France for gross negligence resulting in death). The 2019 REFIT evaluation found that enforcement actions increased by 60% between 2000 and 2018 across EU member states.
 

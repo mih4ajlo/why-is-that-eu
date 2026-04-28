@@ -52,15 +52,15 @@ The regulation's greatest vulnerability is its reliance on single-page risk clas
 
 ## Key questions answered
 
-### Why did the UCITS exemption from the PRIIPs Regulation finally end on 1 January 2023?
+### Why did the special exemption for traditional investment funds finally end on 1 January 2023?
 
 The UCITS exemption was a political compromise from 2014, when asset managers argued their existing Key Investor Information Document (KIID) already met EU standards. By 2019, the ESAs' review found UCITS funds accounted for 40% of EU retail investment sales but lacked risk-reward comparability with non-UCITS products, creating consumer confusion. The European Parliament and Council agreed to phase in the PRIIPs KID for UCITS after industry pressure delayed the original 2020 deadline.
 
-### Why do critics say the PRIIPs KID's risk indicator is misleading?
+### Why do critics say the summary risk score shown to investors is misleading?
 
 The Summary Risk Indicator (SRI) combines market risk and credit risk into a single 1–7 scale, but critics such as Finance Watch (2019) found that products with high market risk but strong issuer backing could score the same as low-risk products with weaker counterparties. A 2021 Commission study concluded investors consistently misinterpreted the SRI, especially when comparing structured products versus simple ETFs.
 
-### Why did the UK repeal PRIIPs after Brexit?
+### Why did the UK scrap the standardised investment disclosure rules after Brexit?
 
 The UK's 2022 Financial Services and Markets Act gave HM Treasury power to replace PRIIPs with domestic rules. The UK government stated in its 2023 consultation that the PRIIPs KID "did not meet its objectives" and caused "unpredictable liability costs" for firms. UK regulators argued the standardised format was unsuited to British retail investors, who often prefer simpler unit-linked products. However, UK-based firms selling into the EU must still comply with PRIIPs.
 

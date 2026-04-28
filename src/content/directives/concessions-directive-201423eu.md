@@ -56,15 +56,15 @@ The main losers were small municipalities. The Commission's 2023 evaluation note
 
 ## Key questions answered
 
-### Why did the EU regulate concessions separately from public procurement under the Concessions Directive (2014/23/EU)?
+### Why did the EU create separate rules for long-term infrastructure deals (like toll roads or water services) instead of treating them like regular government contracts?
 
 Concessions differ fundamentally from procurement: the concessionaire bears operating risk (e.g., if a toll road gets fewer cars than expected, the private partner loses money). Applying the full public procurement rules would have forced authorities to treat risk-bearing contracts as simple purchases, which the Commission's 2011 impact assessment argued would discourage PPPs and infrastructure investment. The separate directive was also a political compromise to limit regulatory burden on smaller contracts.
 
-### Why were water and energy concessions excluded from the Concessions Directive (2014/23/EU)?
+### Why were water and energy supply deals left out of the EU’s rules for long-term public service contracts?
 
 Water and energy concessions were structurally different: many EU Member States, especially Germany and France, had long-standing public monopolies in these sectors, and local authorities feared losing control over essential services. The Commission agreed to exclude them in the final text, but later addressed them through separate sector-specific rules (2014/24/EU for utilities). The exclusion was a key condition for German *Länder* support.
 
-### How has the Concessions Directive (2014/23/EU) affected public-private partnerships (PPPs)?
+### How have EU rules for long-term public-private projects changed the way governments partner with private companies?
 
 Mixed. The Commission's 2023 evaluation found that PPPs for transport and waste management increased by 12% in volume between 2016 and 2022, partly because the directive made award processes more predictable. However, the European Court of Auditors noted in 2018 that PPPs remain risky: 3 in 10 concessions ended in renegotiation within five years, and the directive did little to prevent cost overruns.
 

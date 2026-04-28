@@ -109,21 +109,27 @@ related: [<directive refs of closely linked legislation, e.g. "2016/679/EU", or 
 
 ## Key questions answered
 
-[2-4 questions people commonly ask, answered concisely in 2-4 sentences each.
+[2-4 questions a curious non-expert might ask, answered concisely in 2-4 sentences each.
 
-CRITICAL: Every question must be self-contained — it must name this specific regulation/directive by its common name or acronym so the question makes sense on its own, without reading the article title. Never write "the directive", "the regulation", or "this law" — always use the actual name. Examples of the required pattern:
-  ✓ "Why did the GDPR introduce the right to erasure?"
-  ✓ "Does the Adequate Minimum Wages Directive set a specific wage floor?"
-  ✓ "What changed in the 2024 revision of the Air Quality Directive?"
-  ✗ "Why did the directive introduce this right?" (too generic)
-  ✗ "What changed with the 2024 revision?" (no context)
+CRITICAL RULES for question phrasing:
+- Write questions around the real-world TOPIC or PROBLEM, not the legal instrument. A regular person searches "does Europe have a minimum wage?" — not "does the Adequate Minimum Wages Directive set a wage floor?".
+- Never use the regulation name, directive number, or legal title in the question.
+- The question must still be specific enough to stand alone — use the core concept: "EU air pollution limits", "the right to be forgotten", "the carbon border tax", "EU minimum wage rules", "AI liability in Europe".
+- Phrase questions the way a curious person would naturally ask them.
+
+  ✓ "Does every EU country have to set a minimum wage?"
+  ✓ "Why does EU law allow cities to keep polluting for years after setting emission limits?"
+  ✓ "Can someone sue an AI company for damages in the EU?"
+  ✓ "Why did European data protection rules take so long to pass?"
+  ✗ "Does the Adequate Minimum Wages Directive set a specific wage floor?" (names the regulation)
+  ✗ "Why did the directive take three years to pass?" (too generic)
 ]
 
-### [Self-contained question naming this regulation]?
+### [Plain-language question about the real-world topic]?
 
 [Answer]
 
-### [Self-contained question naming this regulation]?
+### [Plain-language question about the real-world topic]?
 
 [Answer]
 

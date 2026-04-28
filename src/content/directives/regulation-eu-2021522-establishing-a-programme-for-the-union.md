@@ -62,15 +62,15 @@ A major unintended consequence is that EU4Health's existence has been used to ju
 
 ## Key questions answered
 
-### Why did EU4Health need to be a standalone programme rather than part of other EU funds?
+### Why did the EU need a separate health funding programme instead of just using other existing EU money pots?
 
 The Commission's impact assessment showed that previous health funding was fragmented across 14 different instruments (including the European Social Fund, the Regional Development Fund, the Health Programme) with no overall coordination. A standalone programme allows for strategic planning and cross-border crisis response that no other EU fund is designed for — the European Social Fund can't stockpile vaccines, and the Regional Development Fund can't train health workers from different member states to work together. However, the initial proposal for €9.4 billion was rejected by the Council because the Commission's own projections (SWD(2020) 275) showed that member states collectively spend €2.7 trillion annually on health — meaning even the final €5.3 billion represents just 0.2% of total EU health spending.
 
-### Why did the budget of Regulation (EU) 2021/522 (EU4Health Programme) get cut from €9.4 billion to €5.3 billion?
+### Why did the budget for EU health funding get slashed from €9.4 billion to €5.3 billion?
 
 The reduction was the result of the classic EU "frugal vs. spender" budget battle. The Commission's May 2020 proposal of €9.4 billion was deliberately ambitious as a negotiating tactic, but the frugal four (Netherlands, Sweden, Denmark, Austria) and Germany insisted that health remains a national competence, arguing that a budget that large would create a "parallel health system" undermining Article 168 TFEU. The final €5.3 billion was agreed during the marathon 17-21 July 2020 European Council summit as part of a broader trade-off: the frugal countries accepted higher health spending in exchange for larger rebates (Germany's rebate increased from €3.1 billion to €3.6 billion annually) and the spender countries (France, Italy, Spain) got a bigger overall recovery fund. Importantly, the Commission was forced to commit that EU4Health would not create a EU health insurance system or interfere with national health delivery.
 
-### Why did the European Parliament approve the EU4Health Programme when it said it was underfunded?
+### Why did the European Parliament approve the EU health programme even though they said it didn't have enough money?
 
 The Parliament used the leverage it had: it delayed approval of the MFF regulation in November 2020, demanding a tripartite agreement on future budget increases. The final compromise guaranteed a mid-term review clause (Article 12) allowing the budget to be increased, and a political commitment from the Commission that next MFF (2028-2034) would have a health budget at least as large. The Parliament also secured the 20% health promotion ring-fence, the mental health priority, and a requirement that 30% of funding go to cross-border projects involving at least three member states. Rapporteur Bușoi told the plenary on 24 March 2021: "This is not the health union we wanted, but it is the one we need. We will fight for more in the next MFF."
 

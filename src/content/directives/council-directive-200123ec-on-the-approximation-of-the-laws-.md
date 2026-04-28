@@ -53,15 +53,15 @@ Enforcement actions were limited: the Commission launched formal infringement pr
 
 ## Key questions answered
 
-### Why does TUPE still matter if the UK left the EU?
+### Why do UK employee transfer protections still matter after Brexit?
 
 The UK's TUPE regulations remain based on the 2001 directive, and the UK retained them after Brexit under the European Union (Withdrawal) Act 2018. However, the UK government has consulted on reducing TUPE obligations for businesses, and EU case law — including ECJ rulings — no longer binds UK courts, creating potential divergence.
 
-### Why doesn't Council Directive 2001/23/EC protect against all dismissals during a transfer?
+### Why aren't all workers protected from being fired when their workplace changes hands?
 
 The directive allows dismissals for "economic, technical or organisational reasons" (ETO reasons) that require changes in the workforce. This exception, heavily lobbied for by employer groups like BUSINESSEUROPE, permits redundancy if the new employer can prove the dismissal is unrelated to the transfer itself. The Commission's 2013 report found that this exception was the most litigated provision, with employee representatives arguing it was too easily abused.
 
-### Why didn't Council Directive 2001/23/EC harmonise insolvency protections?
+### Why don't EU rules on employee rights during business transfers also cover what happens when a company goes bankrupt?
 
 The 2001 directive explicitly allows Member States to decide whether employee rights transfer when a business is transferred from an insolvent entity. This was a political compromise: Germany and France wanted to protect struggling companies from inheriting liabilities, while the UK and Sweden pushed for full protection. The European Parliament's 1997 resolution had called for uniform insolvency rules, but the Council dropped the proposal under pressure from the German Bundesrat.
 

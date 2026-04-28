@@ -44,15 +44,15 @@ The regulation did not, however, measurably increase cross-border content use: a
 
 ## Key questions answered
 
-### Why does the Regulation on Cross-border Portability of Online Content Services only cover paid services?
+### Why does the rule for taking your online subscriptions abroad only apply to paid services?
 
 The regulation covers paid services because verifying subscriber residence is straightforward (billing address, payment method, contract details). For free services, verifying residence is harder and less justified, as the European Parliament argued in 2017 that free services could be used anywhere by anyone regardless, making portability "an administrative burden without consumer benefit." The Commission’s 2015 impact assessment estimated that extending portability to free services would impose compliance costs of €50-150 million across the EU.
 
-### Why did the Regulation on Cross-border Portability of Online Content Services not lead to a surge in cross-border content use?
+### Why didn't the ability to use your streaming subscriptions while traveling across Europe actually make people watch more content from other countries?
 
 Despite eliminating legal barriers, practical barriers remain: language differences (most content is in local language), licensing contracts that still limit catalogues per country, and consumer habits (people tend to watch content in their home-language environment). The Commission’s 2020 evaluation noted that portability use "remains concentrated among frequent travellers" and that "the main obstacle to cross-border consumption is not legal but linguistic and cultural."
 
-### Why did big streaming companies not oppose the Regulation on Cross-border Portability of Online Content Services more strongly?
+### Why didn't major streaming companies fight harder against the law that lets you use your subscriptions when you travel in the EU?
 
 Large providers like Netflix and Spotify had already been exploring voluntary portability as a competitive advantage — Netflix introduced a "travel-friendly" feature in 2016 for its European users. The regulation codified what they had already begun practicing, and the narrow scope (temporary travel only) did not threaten their territorial licensing deals. The Motion Picture Association’s initial opposition softened after the EU made clear that permanent cross-border licensing was not required.
 

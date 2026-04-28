@@ -60,15 +60,15 @@ The most contested area remains sanctions. The directive itself does not specify
 
 ## Key questions answered
 
-### Why does Council Directive 98/59/EC allow member states to set different thresholds?
+### Why do EU rules on mass layoffs let each country set its own thresholds for when they apply?
 
 The directive sets minimum EU thresholds but allows member states to implement stricter rules because labour market structures vary enormously. The 1998 text included a "non-regression clause" to ensure that countries like France (which required consultation for any 10+ dismissals) could keep their higher standards. The compromise was brokered to avoid a one-size-fits-all formula that would have broken existing social models.
 
-### Why doesn't Council Directive 98/59/EC cover public sector workers in some countries?
+### Why don't some EU countries protect public sector workers under the same mass layoff rules as private sector workers?
 
 Article 1(3) allows member states to exclude workers in public administration, a loophole originally inserted to accommodate German and French civil service traditions where employment is governed by public law, not private contracts. The 2018 Commission study found that 12 member states have used this exclusion, leaving an estimated 2.5 million public sector workers outside the directive's scope — a situation the European Parliament's Employment Committee has repeatedly criticised.
 
-### Why is there no EU-wide enforcement body for Council Directive 98/59/EC?
+### Why isn't there a single EU agency that enforces the rules on mass layoffs across all countries?
 
 The directive relies on national enforcement because the EU Treaty — even after Amsterdam — does not grant the Commission direct investigatory powers over individual employer decisions. The 1998 text deliberately avoided creating a European-level supervisory agency, partly due to subsidiarity concerns and partly because member states (led by the UK and Germany) insisted that labour law remained a national competence. The Commission's role is limited to infringement proceedings against member states that fail to properly transpose the directive.
 

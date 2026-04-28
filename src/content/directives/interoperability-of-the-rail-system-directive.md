@@ -55,19 +55,19 @@ But the directive's critics — notably **Deutsche Bahn** and **SNCF** — point
 
 ## Key questions answered
 
-### Why is the Interoperability of the Rail System Directive needed if national railways already work across borders?
+### Why do we need EU-wide rules for trains if national railways already cross borders?
 
 They don't work efficiently. A train crossing from France to Germany must meet two sets of national technical rules, often requiring a locomotive swap that adds hours. The Commission's 2016 impact assessment estimated that technical barriers added 30-50% to the cost of a cross-border rail journey compared to a domestic one, making rail uncompetitive with road freight.
 
-### Why was the 2008 Interoperability of the Rail System Directive replaced so quickly?
+### Why were the 2008 EU train compatibility rules replaced so quickly?
 
 The 2008 directive (2008/57/EC) made cross-border authorisation voluntary, and only 12 approvals were granted in 6 years. The 2016 directive makes it mandatory, with ERA taking over national approval powers from 2019, forcing member states to cede authority.
 
-### Why did France and Germany oppose the Interoperability of the Rail System Directive?
+### Why did France and Germany oppose common EU train standards?
 
 Both countries had powerful national railway incumbents (SNCF and Deutsche Bahn) that benefited from controlling their domestic technical standards. They also had well-funded national safety authorities (EPSF in France, EBA in Germany) that faced losing staff and influence. The German Railway Association (DB) warned of "reduced safety" in a 2013 position paper, while SNCF argued that TSIs could not be applied to its older network.
 
-### How does the Interoperability of the Rail System Directive reduce costs for rail operators?
+### How do common EU train standards lower costs for rail companies?
 
 By eliminating duplicative national approvals. A single manufacturer like Siemens now gets one ERA authorisation for a "Vectron" locomotive valid in all 27 member states, instead of 27 separate national certificates. UNIFE estimated in 2022 that this saves the industry €200 million annually in certification costs.
 

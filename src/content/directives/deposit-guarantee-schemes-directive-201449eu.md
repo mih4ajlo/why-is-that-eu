@@ -51,15 +51,15 @@ Smaller banks — notably German *Sparkassen* and Austrian *Raiffeisen* — succ
 
 ## Key questions answered
 
-### Why does the Deposit Guarantee Schemes Directive (2014/49/EU) set the coverage at €100,000 and not a higher or lower amount?
+### Why is the amount of money protected in a European bank account set at €100,000 instead of more or less?
 
 The €100,000 figure was chosen to cover roughly 90% of EU depositors while limiting moral hazard. The European Commission's 2010 impact assessment found that raising the limit above this would protect large corporate deposits and wealthy individuals, reducing market discipline on banks. The figure was also aligned with the Irish unilateral guarantee of 2008, which had set a de facto political floor.
 
-### Why was the faster payout deadline in the Deposit Guarantee Schemes Directive (2014/49/EU) so controversial?
+### Why was the plan to pay people back faster when their bank fails so controversial?
 
 Banks, particularly smaller German and Austrian savings banks, claimed that upgrading IT systems to process payouts within seven days would cost €50–100 million per institution. The European Banking Authority's 2016 implementation report found actual costs averaged €1.2 million per bank — though 14% of smaller banks reported IT cost increases of over 15% of annual operational budgets.
 
-### Why hasn't the EU created a single deposit guarantee scheme under the Deposit Guarantee Schemes Directive (2014/49/EU)?
+### Why hasn't the EU set up one single system to protect all bank deposits across Europe?
 
 Germany and the Netherlands block it on the principle of risk sharing. German Finance Minister **Wolfgang Schäuble** argued in 2015 that a single scheme would require "German savers to pay for the mistakes of Italian banks." The European Central Bank and Commission have repeatedly proposed EDIS, but Council unanimity is required and these two countries hold a blocking minority. As of 2024, the proposal remains in legislative limbo.
 

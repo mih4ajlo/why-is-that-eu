@@ -49,15 +49,15 @@ The directive remains politically contentious. In 2020, the Commission declined 
 
 ## Key questions answered
 
-### Why did some Member States oppose Council Directive 2003/86/EC so strongly?
+### Why did some EU countries strongly oppose the rules on letting immigrants bring their families to join them?
 
 Germany, Austria, and the Netherlands argued that the directive infringed on national sovereignty over immigration and that family reunification could become a "magnet" for irregular migration, especially from Muslim-majority countries. They insisted on integration conditions, such as language tests, as a tool to manage cultural integration and prevent forced marriages. Germany's then-Interior Minister Otto Schily warned in 2002 that the directive would "create legal titles for family members that cannot be revoked," a position that reflected domestic political anxiety after the 9/11 attacks.
 
-### Why did the European Parliament fail to strengthen family protections in Council Directive 2003/86/EC?
+### Why didn't the European Parliament manage to make the EU's family reunification rules more protective of families?
 
 The Parliament voted overwhelmingly for stronger protections in 2000 but was overridden by the Council, which acted under the consultation procedure — meaning MEPs gave non-binding opinion only. The 2006 Court challenge (Case C-540/03) failed to overturn the integration clause because the Court ruled that the directive's objective was legitimate and the clause did not violate the right to family life per se, provided it was applied proportionally. This precedent limited the scope for future legislative revision.
 
-### Why does Council Directive 2003/86/EC still matter after the 2015 migration crisis?
+### Why do the EU's family reunification rules still matter after the 2015 migration crisis?
 
 The directive remains the only EU-wide legal instrument for non-EU residents to bring family members, covering long-term residents (often from former colonies or labour migration schemes). After 2015, political attention shifted to asylum and humanitarian protection, leading to a separate "Family Reunification for Beneficiaries of International Protection" clause in the 2011 Qualification Directive. However, the 2003 directive still governs the vast majority of family reunification cases for third-country nationals — estimated by the Commission in 2019 to cover over one million applications per year across the EU.
 

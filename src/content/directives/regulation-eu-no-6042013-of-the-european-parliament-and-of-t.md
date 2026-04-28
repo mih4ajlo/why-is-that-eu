@@ -48,19 +48,19 @@ Member State courts and national human rights bodies have systematically blocked
 
 ## Key questions answered
 
-### Why does Dublin III still exist if it clearly failed during the 2015 crisis?
+### Why does the EU still use the rule that forces asylum seekers to apply in the first country they enter, even though it clearly broke down during the 2015 migration crisis?
 
 The Dublin III Regulation has survived not because it works, but because Member States cannot agree on a replacement. The Commission's 2016 Dublin IV proposal, which sought mandatory relocation quotas, was blocked by the Visegrád group, particularly Hungary's Viktor Orbán and Poland's Mateusz Morawiecki, who argued that forced relocations violated national sovereignty. The 2020 New Pact on Migration and Asylum tried a different approach—"mandatory solidarity" with a choice between relocation, financial contributions, or operational support—but remained deadlocked. The regulation's survival represents a political failure, not a technical one.
 
-### How does Dublin III interact with the GDPR?
+### How do EU asylum rules that share personal data between countries interact with Europe's data privacy laws?
 
 Dublin III requires systematic sharing of biometric data (fingerprints) through the EURODAC system, which the regulation governs. This creates a direct tension with the General Data Protection Regulation (GDPR) and the EU's Charter of Fundamental Rights. In 2022, the European Data Protection Board (EDPB) issued guidelines noting that Dublin III's data retention periods (up to 10 years for asylum seekers) may violate the proportionality principle under Article 5(1)(c) GDPR. Several national data protection authorities, including the Irish DPC, have raised concerns, but no court has yet ruled on the conflict.
 
-### Why was the UK still participating in Dublin III until 2020?
+### Why did the UK keep following EU rules that send asylum seekers back to the first EU country they entered, all the way until 2020?
 
 The United Kingdom had an opt-out under Protocol 21 of the Treaty of Lisbon but chose to opt into Dublin III via a Council Decision in 2014. This was because the UK saw the regulation as a tool to return asylum seekers to the first Member State of entry, primarily France through the Channel crossings. After Brexit, the UK left the Dublin system on 31 January 2020, though the transition period maintained cooperation until December 2020. Since then, the UK and EU have reached no replacement agreement, leading to the current Channel crossing crisis.
 
-### Can Dublin III transfers be made to Turkey or other non-EU countries?
+### Can EU countries send asylum seekers back to Turkey or other non-EU countries under the current asylum responsibility rules?
 
 No. The Dublin system only applies between EU Member States plus Norway, Iceland, Switzerland, and Liechtenstein (associate countries). The EU-Turkey Statement of March 2016, which allowed Greece to return migrants to Turkey as a "safe third country," was not a Dublin transfer but an informal political agreement. In 2020, the CJEU ruled in Case C-540/19 that Turkey could not be considered a "first country of asylum" under Dublin for Greece, effectively limiting the statement's legal force.
 

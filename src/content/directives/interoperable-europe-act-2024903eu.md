@@ -55,19 +55,19 @@ The first enforcement test may come from the Digital Europe Programme, which fun
 
 ## Key questions answered
 
-### Why did voluntary cooperation fail before the Interoperable Europe Act (2024/903/EU)?
+### Why did voluntary cooperation fail before EU rules forced public services to share data and systems?
 
 The 2014 eIDAS Regulation and 2017 European Interoperability Framework were both non-binding recommendations. According to the Court of Auditors' 2021 report, only 9 of 27 member states had voluntarily made their e-ID schemes cross-border operable by 2020. National agencies had no incentive to invest in compatibility when domestic performance metrics were based on local user numbers, not cross-border usage. The Commission's 2023 impact assessment found that 72% of member states prioritised domestic digital transformation over interoperability because EU funding was not conditional on it.
 
-### Why is open-source licensing required under the Interoperable Europe Act (2024/903/EU)?
+### Why do EU rules require government digital services to use open-source licenses?
 
 The regulation mandates that "shared solutions" developed through the Interoperable Europe Board must be licensed under an open-source model, defined as a licence approved by the Open Source Initiative. This clause was pushed by the European Parliament's Green group, who argued that proprietary licensing would lock member states into vendor dependencies. The Commission's legal service warned in a March 2023 note that this could conflict with the 2016 General Data Protection Regulation (GDPR) if shared components handle personal data, leading to a late-stage amendment requiring open-source components to include "privacy-by-design" certifications. Industry opposition from Siemens and SAP in Germany failed to remove the clause.
 
-### Does the Interoperable Europe Act (2024/903/EU) apply to private companies?
+### Do the new EU rules on connecting public digital systems apply to private companies?
 
 Only indirectly. The regulation applies to "public sector bodies" as defined by Directive 2014/24/EU on public procurement. However, companies that provide digital services to governments—such as cloud providers like AWS and Microsoft, or e-ID vendors like Veridos—must ensure their products meet the interoperability standards set by the Board. The Commission's impact assessment estimated that 1,200 to 1,500 private firms would be affected through contractual obligations with public clients.
 
-### How does the Interoperable Europe Act (2024/903/EU) relate to the eIDAS reform?
+### How do the new EU rules on connecting public digital systems relate to the updated rules on electronic identification and trust services?
 
 The Interoperable Europe Act is explicitly designed to complement the 2023 reform of eIDAS (Regulation 2024/1183/EU), which introduced "European Digital Identity Wallets." The Act provides the technical governance framework that eIDAS 2.0 lacks: mandatory baseline standards for wallet interoperability. Without this Act, the Commission's own analysis warned, the eIDAS 2.0 wallets would face the same fragmentation that plagued the 2014 system—member states could issue technically incompatible wallets. A joint briefing from the Commission's legal service in January 2024 noted that the two regulations must be read together as a "coherent package."
 

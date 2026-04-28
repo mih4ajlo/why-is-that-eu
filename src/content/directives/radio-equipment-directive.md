@@ -63,19 +63,19 @@ The cybersecurity provisions for IoT devices (Article 3(3)(d)-(f)) caused the mo
 
 ## Key questions answered
 
-### Why does the Radio Equipment Directive (RED) mandate USB-C?
+### Why do new phones and laptops have to use USB-C chargers?
 
 Consumer e-waste from incompatible chargers reached 51,000 tonnes per year according to the Commission's 2019 impact assessment. The EU Parliament voted 602-13 in October 2022 to break the proprietary charger business model — particularly Apple's Lightning cable — after Apple itself demonstrated USB-C was technologically viable by shipping iPads with it since 2018.
 
-### Why did small manufacturers oppose the Radio Equipment Directive (RED)?
+### Why did small companies push back against the new EU charger and device rules?
 
 The RED requires self-declaration of conformity against harmonised standards on radio performance, EMF exposure, and cybersecurity. For a small company making a niche IoT device, hiring a notified body for Type Examination can cost €15,000-€50,000 per product. The 2020 evaluation found that 8% of micro-enterprises stopped selling radio equipment in the EU after the RED took effect, citing compliance costs they could not absorb.
 
-### Why did Germany's Bundesnetzagentur initially oppose the Radio Equipment Directive (RED)?
+### Why did Germany's telecom regulator initially object to the common charger requirement?
 
 Germany's federal network agency feared losing control of spectrum allocation for public safety services (police, fire, ambulances) that had used dedicated frequency bands since the 1970s. They worried that a single EU market would let commercial operators interfere with emergency communications. The RED addressed this by requiring "harmonised access to spectrum" while letting Member States keep national frequency planning for public services. The Bundesnetzagentur eventually became RED's most active enforcer.
 
-### Why is the Radio Equipment Directive (RED) important for cybersecurity?
+### Why are there EU rules to make wireless devices like phones and smart home gadgets more secure?
 
 The 2022 revision added cybersecurity requirements for internet-connected radio equipment (Article 3(3)(d)-(f)). This was a direct response to the 2016 **Mirai botnet attack**, which used insecure IoT cameras to take down major websites (Twitter, Netflix, GitHub). The Commission's 2020 impact assessment cited 12 billion IoT devices expected globally by 2025 and found that only 3% of connected devices in the EU met basic security standards. The RED now requires devices to implement "security by design" including unique default passwords and secure firmware updates.
 

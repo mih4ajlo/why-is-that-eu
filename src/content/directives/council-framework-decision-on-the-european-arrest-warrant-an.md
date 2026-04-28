@@ -58,19 +58,19 @@ The biggest political storm came in 2014 when the UK's then-Home Secretary There
 
 ## Key questions answered
 
-### Why did 9/11 trigger the EAW when earlier attempts had failed?
+### Why did the 9/11 attacks finally make EU countries agree to fast-track extradition for suspects?
 
 The 9/11 attacks broke the political deadlock by providing a security-driven justification for sacrificing national sovereignty in extradition. The special European Council summit on 21 September 2001 created a collective decision-making framework where Member States found it politically untenable to oppose anti-terrorism measures. The Spanish presidency turned the EAW into a flagship initiative, and the Commission drafted the text in two months — an impossible speed before the attacks.
 
-### Why does the EAW abolish dual criminality for 32 offences?
+### Why does the EU skip the usual "is it a crime in both countries" check for 32 serious offences like terrorism or fraud?
 
 The list of 32 serious offences — including terrorism, murder, and drug trafficking — was designed to ensure that no Member State could refuse surrender simply because its national law defined the offence differently. The logic was that these offences were considered serious crimes across all Member States, making the extra requirement of dual criminality an unnecessary bureaucratic hurdle. The European Court of Justice upheld this approach in 2007 (C-303/05), ruling that the list was sufficiently clear and did not violate legal certainty.
 
-### Why was mutual recognition chosen over harmonisation of criminal laws in the EAW?
+### Why did EU countries decide to just accept each other's arrest warrants instead of making their criminal laws the same?
 
 Mutual recognition was the politically feasible option. Harmonising criminal codes across 15 (now 27) legal traditions — ranging from common law to civil law, from inquisitorial to adversarial systems — would have required treaty changes and taken years. Mutual recognition allowed Member States to keep their own criminal procedures while agreeing to treat another Member State's judicial decision as equivalent to their own. This borrowed directly from the single market's "Cassis de Dijon" principle, which had already proven effective in goods trade.
 
-### Why did the UK nearly opt out of the EAW?
+### Why did the UK almost pull out of the EU's fast-track extradition system?
 
 The UK's 2014 crisis was driven by two factors: first, a series of high-profile cases where EAWs were used for minor offences (such as a man surrendered for failing to pay a £12 council tax surcharge), which the tabloid press framed as EU overreach. Second, the UK's opt-out protocol from the Lisbon Treaty gave it a political opportunity to renegotiate its justice and home affairs relationship. Home Secretary Theresa May used the threat of opting out to secure additional safeguards, including a requirement for proportionality checks by the issuing state. In fact, the UK opted back into 35 measures including the EAW, recognising the system's operational value.
 

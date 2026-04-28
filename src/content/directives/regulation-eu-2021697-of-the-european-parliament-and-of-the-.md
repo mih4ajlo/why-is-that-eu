@@ -58,14 +58,14 @@ Geopolitical effects are more significant. The EDF has deepened the split betwee
 
 ## Key questions answered
 
-### Why does the EDF fund research rather than procurement?
+### Why does the EU fund research into new military technology instead of just buying existing weapons?
 
 The EU Treaty (Article 41 TEU) explicitly bans the EU budget from financing "the purchase of equipment" with military purposes. The EDF can only fund research, development, and prototyping—the actual purchase of tanks, jets, and ships remains a national responsibility. This legal constraint explains why the Fund covers only up to 20-30% of prototype costs: member states must pay the rest, ensuring they own the final product. The Commission's 2018 legal assessment confirmed that a full procurement fund would require treaty change, which no member state supported.
 
-### Why did the UK oppose the EDF so strongly?
+### Why did the UK strongly oppose a joint EU fund for defence research and development?
 
 The UK, as Europe's largest defence spender (around £39 billion in 2020), feared the EDF would create a "Fortress Europe" that locked out British defence firms after Brexit. British companies like BAE Systems and Babcock relied heavily on EU-funded research and had previously dominated EU defence innovation networks. The UK also argued the Fund would duplicate NATO's Defence Innovation Accelerator (DIANA), which the UK had helped establish. The UK's exit in 2020 removed its blocking power, though the EDF regulation (Article 15) still allows third-country entities to participate under strict conditions—which the UK has not yet sought to use.
 
-### Does the EDF make European defence more efficient?
+### Does a shared EU defence fund actually make European military cooperation more efficient?
 
 Evidence is mixed. The Commission's 2023 mid-term evaluation found that 92% of funded projects would not have happened without the EDF, because member states would not have cooperated bilaterally. However, the European Parliamentary Research Service (EPRS) noted in 2024 that the Fund has not yet reduced the number of different weapon systems in Europe—the same number of main battle tank families (three) remains, though two are now co-developed among several member states. The real test—whether EDF-funded systems are actually procured and deployed—will not come until the 2030s, when the first prototypes mature.

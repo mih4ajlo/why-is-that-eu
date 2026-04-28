@@ -48,15 +48,15 @@ Industry initially resisted maximum harmonisation. **BusinessEurope** warned of 
 
 ## Key questions answered
 
-### Why does the UCPD have a "blacklist" instead of just general standards?
+### Why do EU rules on unfair business practices have a specific list of banned tricks instead of just general rules?
 
 The blacklist was a political compromise between maximum harmonisation advocates (who wanted strict rules) and industry (who feared uncertainty). By listing 31 specific banned practices, the directive gave businesses clear compliance guidance and national courts easy-to-apply standards, avoiding years of litigation over vague concepts like "good faith". The Commission's 2005 impact assessment argued that without a blacklist, enforcement would be "crippled by different national interpretations of the general clause".
 
-### Why did Germany and Austria oppose maximum harmonisation under the UCPD?
+### Why did Germany and Austria oppose having one strict EU-wide standard for unfair business practices?
 
 Both had strong pre-existing national consumer protection laws — Germany's *Gesetz gegen den unlauteren Wettbewerb* (UWG) and Austria's *Bundesgesetz gegen den unlauteren Wettbewerb* — that provided stricter protections than the UCPD's baseline. German officials, led by the economics ministry under Chancellor Schröder, argued that maximum harmonisation would force them to weaken these laws, particularly regarding "aggressive" selling practices in door-to-door sales. They ultimately lost, but the UCPD's blacklist preserved some of their key prohibitions.
 
-### How does the UCPD interact with national advertising laws?
+### How do EU rules on unfair business practices work alongside each country's own advertising laws?
 
 Under maximum harmonisation, member states cannot extend the UCPD's scope or add new banned practices. However, they can maintain or adopt stricter rules in two areas explicitly excluded from the directive: (1) financial services (e.g., banking, insurance) and (2) health and safety regulation (e.g., food labelling, tobacco advertising). This means countries like Belgium can have tougher rules on financial product advertising, but not on general retail advertising.
 

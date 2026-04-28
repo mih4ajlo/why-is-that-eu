@@ -50,19 +50,19 @@ Investor protection effects were debated. The European Consumer Organisation (BE
 
 ## Key questions answered
 
-### Why did the EU move from a directive to a regulation for the Prospectus Regulation (2017/1129/EU)?
+### Why did the EU switch from letting each country set its own rules to a single set of rules for company investment documents?
 
 A directive required each Member State to transpose the rules into national law, leading to persistent divergences—for example, in 2016, France required a 10-page risk section while the UK required only 5. A regulation applies directly and uniformly across the EU, eliminating legal uncertainty for cross-border offers. The Commission’s 2015 impact assessment estimated that the move would reduce compliance costs by 15-20% for multi-jurisdictional issuances.
 
-### Why was the exemption threshold set at €1 million in the Prospectus Regulation (2017/1129/EU)?
+### Why did the EU set the limit at €1 million for when a company can skip publishing a detailed investment document?
 
 The Commission originally proposed €500,000, but the European Parliament pushed for €10 million in its initial reading, arguing that even small bonds for infrastructure projects should be exempted. The final compromise of €1 million was a political deal negotiated in the trilogue in May 2017, with Member States able to lower the threshold to €100,000 for purely domestic offers. The compromise reflected Germany’s insistence on protecting local investors and the UK’s support for a higher ceiling to accommodate its large junior stock market, AIM.
 
-### How did the Prospectus Regulation (2017/1129/EU) affect cross-border capital raising?
+### How did the new EU rules on company investment documents make it easier for businesses to raise money across different countries?
 
 The impact was disappointing. A 2022 ESMA study found that fewer than 8% of prospectuses approved since 2019 were passported into another Member State, little changed from the 5% under the Directive. The Commission attributed this to persistent language barriers and differences in national investor protection rules, which the regulation did not address. The European Equity Crowdfunding Regulation (2020/1503/EU), adopted later, was designed to tackle this gap.
 
-### What is the European growth prospectus under the Prospectus Regulation (2017/1129/EU) and who uses it?
+### What is the "EU growth prospectus" for smaller companies, and who is allowed to use it?
 
 The European growth prospectus is a simplified disclosure document for companies with a market capitalisation below €500 million, allowing them to use a standardised format with reduced financial information (e.g., only two years of audited accounts instead of three). By 2022, ESMA reported that it had been used by approximately 40 issuers, mostly on the Euronext Growth and AIM Italia markets. Critics argued that the threshold was still too low, as the vast majority of European SMEs had market caps below €200 million.
 

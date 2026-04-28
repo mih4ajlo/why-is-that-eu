@@ -49,15 +49,15 @@ In practice, NIS2 has shortened incident reporting times from 72 hours (under or
 
 ## Key questions answered
 
-### Why was NIS2 needed instead of just updating the original NIS Directive?
+### Why did Europe need a completely new cybersecurity law instead of just updating the old one?
 
 The original 2016 directive had weak enforcement, insufficient sector coverage (only 7 sectors), and inconsistent incident reporting thresholds across member states. Cyberattacks on hospitals, energy grids, and digital infrastructure surged after 2017, and the EU feared that national fragmentation would undermine the single market and collective resilience. A new directive allowed the EU to expand scope, introduce stricter liability, and mandate faster reporting without the direct binding effect of a regulation.
 
-### Why are top-level managers now personally liable under NIS2?
+### Why can company executives now be held personally responsible for cybersecurity failures?
 
 The EU determined that previous laws gave cybersecurity insufficient boardroom attention. In national consultations, many companies reported that security budgets were cut or delayed because executives saw it as a technical issue, not a business risk. By imposing personal liability for negligence, NIS2 aims to embed cybersecurity into corporate governance—similar to how GDPR made data protection a board-level priority. This was inspired by the US Sarbanes-Oxley Act for financial accountability.
 
-### Why does NIS2 cover food supply and public administration?
+### Why do food delivery companies and government offices now have to follow the same cybersecurity rules as banks and hospitals?
 
 The 2020 review found that attacks on food processors and local governments—such as the 2021 ransomware attack on the Irish Health Service Executive—could disrupt essential public services and supply chains. Food supply was added after the COVID-19 pandemic exposed digital dependence in logistics; public administration was included because many member states had not regulated their own government IT. The EU’s goal was to widen the net so no critical operator is left unprotected.
 

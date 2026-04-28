@@ -49,19 +49,19 @@ Environmental gains were also modest. The Commission calculated that ATM ineffic
 
 ## Key questions answered
 
-### Why did the SES fail to deliver on its promises?
+### Why did Europe's plan to unify its air traffic control system fail to deliver on its promises?
 
 The core reason is that member states refused to cede sovereignty over their airspace. National ANSPs, often state-owned or protected by law, resisted mergers and cross-border integration. Military airspace reservations remained national prerogatives. The Commission had no power to enforce FAB creation; it could only cajole. The 2004 regulation was a political compromise that preserved the very fragmentation it sought to eliminate.
 
-### Why were air traffic controllers opposed to the Single European Sky Regulation?
+### Why were air traffic controllers opposed to the EU's plan to merge national airspace into one system?
 
 Controllers feared job losses and relocation. A single European airspace would have allowed cross-border air traffic control centres, meaning a controller in Maastricht could handle flights over Portugal. National unions — particularly in France (SNCTA) and Germany (GdF) — argued that national safety cultures and labour laws would be undermined. The 2009 SES II included a "social guarantee" protecting existing controllers' employment conditions, but unions remained sceptical.
 
-### What will it take to make the Single European Sky Regulation work?
+### What will it take to make a single, unified air traffic control system for Europe actually work?
 
 The Commission's 2021 SES 2+ revised proposal attempted to break the deadlock by making performance targets binding and allowing the Commission to impose financial corrections on inefficient ANSPs. It also mandated the creation of a European ATM regulator. As of 2024, this proposal is still stuck in the Council, blocked by a minority of member states led by France, which controls Europe's largest ANSP (DSNA) and opposes binding targets.
 
-### How does the SES relate to SESAR?
+### How does the plan to merge Europe's airspace relate to the technology project for modernizing air traffic management?
 
 SESAR (Single European Sky ATM Research) is the technological pillar — a €2.5 billion public-private partnership to develop digital systems (like remote towers, 4D trajectories, and automated conflict detection). SES provides the legal and institutional framework; SESAR provides the tools. Without SES reform, SESAR's technologies cannot unlock their full capacity gains, because the fragmentation in airspace structure is larger than any technology can solve.
 

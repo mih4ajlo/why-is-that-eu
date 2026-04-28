@@ -57,15 +57,15 @@ Member states varied in their transposition. Austria adopted the cadmium limit i
 
 ## Key questions answered
 
-### Why did the EU regulate fertilisers under the Fertilising Products Regulation when they are already covered by national laws?
+### Why did the EU create its own rules for fertilisers when each country already has its own laws?
 
 The 2003 regulation only covered conventional mineral fertilisers, creating a two-tier market: mineral fertiliser makers could use a single CE mark across the EU, while organic and recycled fertiliser manufacturers had to navigate 27 different national approval systems. This contradicted the core principle of the single market and blocked development of a circular economy for nutrients, where recovered phosphorus and nitrogen from waste streams could replace imported mineral fertilisers. The FPR solved this by extending the CE-marking system to all fertilising products, provided they meet EU-wide safety and quality standards.
 
-### Why did the cadmium limit in the Fertilising Products Regulation take 15 years to adopt despite known health risks?
+### Why did it take 15 years for the EU to set a limit on toxic cadmium in fertilisers, even though the health risks were known?
 
 The 2006 Soil Thematic Strategy failed because southern member states with high-cadmium phosphate deposits — particularly Spain — assembled a blocking minority in the Council. These countries argued that the scientific evidence was insufficient and that limits would destroy their phosphate processing industry. By 2015, two things had changed: the circular economy agenda gave the Commission a new policy framework to bundle cadmium limits with market-opening benefits for recycled fertilisers, and the 2017 "Cadmium in Chocolate" scandal increased consumer and political pressure. The FPR's structure — offering single-market access to organic fertiliser producers in exchange for strict cadmium limits — created a coalition that the earlier, standalone cadmium-proposal had lacked.
 
-### Why are biostimulants treated differently from fertilisers under the Fertilising Products Regulation?
+### Why do plant biostimulants have different rules than traditional fertilisers under EU law?
 
 Biostimulants — products that enhance plant growth through mechanisms other than nutrient supply, such as improving nutrient uptake or tolerance to abiotic stress — were previously unregulated at EU level and fell into a legal grey area between fertiliser, plant protection, and plant health legislation. The FPR created a distinct category for them, recognising that they are not fertilisers (they do not provide nutrients) but serve an agricultural function. This classification allowed the EU to set specific safety and efficacy requirements without subjecting biostimulants to the more stringent plant protection product rules under Regulation 1107/2009, which would have been disproportionate for products that work through natural processes like microbial activity or humic acid stimulation.
 

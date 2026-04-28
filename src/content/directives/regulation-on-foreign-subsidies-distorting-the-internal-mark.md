@@ -52,19 +52,19 @@ The FSR has also created tension with trading partners. Beijing has warned that 
 
 ## Key questions answered
 
-### Why didn't existing EU state aid rules already cover foreign subsidies under the Regulation on Foreign Subsidies Distorting the Internal Market?
+### Why didn't existing EU rules on government handouts to companies already cover subsidies from non-EU countries?
 
 EU state aid rules (Articles 107-109 TFEU) apply only to subsidies granted by EU member states. They have no jurisdiction over financial contributions from non-EU governments. The EU's trade defence instruments (anti-subsidy and anti-dumping regulations) cover only goods traded across borders—not services, investments, or public procurement. The FSR was designed specifically to fill this gap for all economic activities within the internal market.
 
-### Why are the notification thresholds set at €50 million and €250 million under the Regulation on Foreign Subsidies Distorting the Internal Market?
+### Why do companies have to report foreign subsidies worth €50 million or €250 million to the EU?
 
 The €50 million threshold for foreign financial contributions from a single non-EU country over three years was set after the Commission's impact assessment found that below this level, distortions were rarely material. The €250 million threshold for public procurement bids was a political compromise: the Commission initially proposed €500 million, but smaller member states argued this would miss too many cases, while industry groups wanted a higher threshold to reduce administrative burden. The final figure was chosen to capture the largest, most strategically sensitive bids while not overloading the Commission with notifications for routine contracts.
 
-### How does the FSR interact with WTO rules?
+### How do the EU's new rules on foreign subsidies fit with global trade agreements?
 
 The FSR's compatibility with WTO law is contested. China filed a WTO dispute in December 2023, arguing that the regulation violates the Most-Favoured-Nation principle and the General Agreement on Trade in Services (GATS) by singling out companies from specific countries. The EU defends the FSR as a unilateral internal market regulation, not a trade instrument, and points to precedent: the US has similar rules under the US International Emergency Economic Powers Act. The WTO case is still pending as of mid-2025.
 
-### What happens if a company does not comply with the FSR?
+### What happens if a company ignores the EU's rules on foreign subsidies?
 
 Companies that fail to notify notifiable transactions can face fines of up to 10% of their global annual turnover. The Commission can also reverse completed transactions. In practice, the deterrent effect has been strong: after the CRRC Bulgaria case, several Chinese companies voluntarily disclosed financial contributions that they had previously not reported. The Commission's investigation powers include dawn raids and requests for internal documents covering up to 10 years of transactions.
 

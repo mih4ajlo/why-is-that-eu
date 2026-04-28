@@ -56,19 +56,19 @@ Spain remains the only major EU economy that has not joined the unitary patent s
 
 ## Key questions answered
 
-### Why did the Unitary Patent take so long to create?
+### Why did it take so long to create a single patent that works across the EU?
 
 The 40-year delay stemmed from three unresolved conflicts: translation costs (French- and German-speaking countries refused English-only patents), litigation structure (national courts versus a single EU patent court), and the CJEU's 2011 ruling that destroyed the original unified court proposal. Only after the CJEU opinion forced a fundamental redesign into a separate international treaty did the political logjam break in 2011–2012.
 
-### Why did Spain and Italy oppose the Unitary Patent system?
+### Why did Spain and Italy oppose the new Europe-wide patent system?
 
 Spain and Italy opposed because the translation arrangements favoured English, French, and German — their languages were excluded from the "linguistic regime." Spain particularly argued this discriminated against smaller language communities and would disadvantage its businesses. Both countries challenged the regulation at the CJEU in 2013 but lost (Joined Cases C-274/11 and C-295/11). Italy joined the system in 2023; Spain remains outside.
 
-### How does the Unitary Patent reduce litigation costs?
+### How does a single EU-wide patent save money on court cases?
 
 Under the previous system, a patent dispute involving just four EU countries required separate lawsuits in four national courts, each with different procedures, timelines, and potential for contradictory rulings — costing €250,000–€1 million per case, according to a 2013 European Commission study. The Unified Patent Court consolidates all infringement and validity challenges into a single binding decision covering all participating states, slashing both legal fees and business uncertainty.
 
-### What happens if a UPC ruling is challenged under Regulation (EU) No 1257/2012?
+### What happens if a court ruling on a Europe-wide patent is challenged?
 
 UPC decisions can be appealed to the UPC Court of Appeal (based in Luxembourg), with further referral to the CJEU on questions of EU law. This creates a hybrid system: the UPC handles patent-specific issues, while the CJEU interprets EU regulations. Critics warn this two-tier appeal structure could lead to delays — the first CJEU referral took 18 months to be resolved in a 2025 case.
 

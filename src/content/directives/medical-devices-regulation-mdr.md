@@ -61,19 +61,19 @@ Small and medium-sized enterprises (SMEs) were disproportionately affected. A 20
 
 ## Key questions answered
 
-### Why was the MDR a regulation rather than a directive?
+### Why did the EU choose a single binding law for medical devices instead of letting each country adapt its own rules?
 
 A regulation is directly binding in all member states without national transposition, preventing the fragmented implementation that plagued the MDD. The MDD had been interpreted differently across countries — for example, the UK's MHRA permitted less rigorous clinical evidence than Germany's BfArM. The PIP scandal showed that a directive allowed notified bodies to operate under inconsistent national rules, with TÜV Rheinland's lax inspections in Germany going unpunished by regulators in France, where the devices were sold.
 
-### Why did the MDR cause a shortage of medical devices?
+### Why did new EU safety rules for medical devices lead to shortages of things like pacemakers and hip implants?
 
 The MDR demanded far more clinical evidence — for many devices, full clinical trials where the MDD had allowed literature reviews or small studies. Notified bodies, the private organisations that certify devices, were also required to meet stricter standards (more expert staff, unannounced inspections, liability insurance). Many existing notified bodies simply applied for designation under the MDR and failed to qualify; the Commission's 2022 report showed only 22 had been designated by 2024. This created a capacity crisis where manufacturers waited 12-18 months for certifications, forcing them to withdraw products that could not afford the wait or the cost.
 
-### Why did the PIP scandal not lead to reform of the Medical Devices Regulation (MDR) sooner?
+### Why did the faulty breast implant scandal not trigger stricter EU safety rules for medical devices sooner?
 
 The PIP scandal broke in 2010, but the legislative process took seven years because of intense industry lobbying and technical complexity. The European Parliament wanted a "strict liability" regime for notified bodies, while the Council (member states) and the Commission initially favoured a lighter touch. The metal-on-metal hip scandal of 2012-2013, which killed the "self-certification" model for hip implants, provided the political momentum to overcome industry objections. A key turning point was the 2013 loss-of-innocence report by the UK's Standard Procedure Committee, which found that DePuy's hip system had been certified with "inadequate clinical evidence" under the MDD.
 
-### How does the MDR differ from the US FDA's approach?
+### How do Europe's medical device safety rules differ from the US FDA's approach?
 
 The FDA requires pre-market approval for high-risk devices (Class III) with independent agency review, while the MDR relies on notified bodies — private, for-profit organisations — designated by national governments. The FDA also mandates device tracking and recalls more aggressively. However, the MDR now requires significantly more clinical evidence for all devices than the MDD did, bringing it closer to the FDA's threshold. A key difference: the MDR applies to a broader range of "non-medical" devices like coloured contact lenses and liposuction cannulae, which are not regulated as medical devices in the US.
 

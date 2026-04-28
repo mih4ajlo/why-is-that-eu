@@ -53,19 +53,19 @@ By 2024, the Commission reported that 16 member states had used the ESF+ to fund
 
 ## Key questions answered
 
-### Why merge YEI, FEAD, and EaSI into one fund under the ESF+ Regulation (2021/1057/EU)?
+### Why merge three separate EU funds for youth, food aid, and social innovation into one single pot?
 
 The merger addressed administrative fragmentation that the Commission’s 2018 impact assessment identified as "costly and confusing." Member states running separate programmes for youth employment (YEI), food aid (FEAD), and mainstream labour market support (ESF) often failed to coordinate them, leading to gaps—for example, young people completing YEI-funded training but lacking FEAD-backed social support. The merger forced strategic alignment by requiring all programmes to be part of a single national ESF+ plan.
 
-### Why reserve 3% of ESF+ for food and material aid under the ESF+ Regulation (2021/1057/EU)?
+### Why set aside 3% of EU social funding specifically for food and basic material assistance?
 
 The European Anti-Poverty Network (EAPN) and FEAD practitioners had lobbied for at least 5%, arguing that 4.8 million EU citizens used FEAD food parcels in 2018 according to the Commission’s support system evaluation. The compromise of 3% in the final regulation protected existing FEAD recipients in member states like Portugal and Romania, while not over-committing resources from wealthier states that feared funding would be diverted from active labour market policies.
 
-### Why does the ESF+ include health spending under the ESF+ Regulation (2021/1057/EU)?
+### Why does EU social funding now also cover health-related spending?
 
 The addition was a late compromise during pandemic negotiations. Before COVID-19, health spending under the 2014-2020 MFF was small and fragmented. The Commission’s June 2020 revised MFF proposal merged health into ESF+ while creating a separate, smaller EU4Health programme. The trade-off helped secure parliamentary support from MEPs who wanted larger health buffers after the pandemic, while keeping the main fund focused on social and employment objectives.
 
-### Why did the ESF+ Regulation (2021/1057/EU) take four years from proposal to final adoption?
+### Why did it take four years for the EU to agree on the rules for its main social and employment fund?
 
 The delay reflected the broader MFF negotiation, including the pandemic revision. The Commission proposed ESF+ in May 2018, but the MFF negotiations were stalling over net contribution disputes. The pandemic created both the urgency and the budgetary space—by July 2020, the Council had agreed on a €1.8 trillion MFF-plus-NextGenerationEU package. Without the pandemic, the ESF+ might have been adopted in 2020 under the original MFF, but the crisis-linked bump in EU funding actually allowed for a slightly larger fund than initially planned.
 

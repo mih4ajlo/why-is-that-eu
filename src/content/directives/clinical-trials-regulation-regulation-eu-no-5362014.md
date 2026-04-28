@@ -57,19 +57,19 @@ Germany, the Netherlands, and Austria faced the biggest transition challenges du
 
 ## Key questions answered
 
-### Why did it take eight years for the Clinical Trials Regulation (Regulation (EU) No 536/2014) to apply after adoption?
+### Why did it take eight years for new EU rules on medical trials to actually start working?
 
 The regulation required a fully functional IT system — the CTIS — to operate. The European Medicines Agency (EMA) encountered repeated delays in developing and testing the system. A 2020 audit by the European Court of Auditors found that EMA underestimated the system’s complexity, particularly the need to handle 24 official languages and integrate with 27 national systems. The COVID-19 pandemic further delayed testing. The final go-live date of 31 January 2022 was set after a 2021 stress test with 150 mock applications.
 
-### Why does the CTR (Clinical Trials Regulation) not require sharing individual patient data?
+### Why don't EU rules on medical trials require drug companies to share individual patient data?
 
 This was the key industry demand during negotiations. Pharmaceutical companies, led by EFPIA, argued that releasing raw data could violate EU data protection law and enable competitors to “free-ride” on sponsor investments. Patient privacy groups and the AllTrials campaign countered that aggregate results were insufficient to check trial methodology. The final compromise, Article 37, mandates a trial results summary be posted within 12 months but leaves individual patient data disclosure to a voluntary code of conduct developed by EFPIA in 2019. As of 2024, fewer than 5% of sponsors have voluntarily shared individual patient data on CTIS, according to EMA’s 2024 transparency report.
 
-### Why did academic sponsors abandon the EU under the Clinical Trials Regulation?
+### Why did university researchers stop running medical trials in the EU under the new rules?
 
 Academic-led trials dropped from 36% to 8% of applications mainly because the cost and complexity of the CTR — primarily CTIS — outweighed the benefits for single-country or small-multicentre studies. Before 2022, an academic sponsor could file a simple 20-page application in one member state. Under the CTR, they must use a complex online portal designed for multi-country submissions. The European Parliament’s own 2023 implementation report noted that academic sponsors cited “excessive administrative burden” and “lack of dedicated user support” as barriers. The Commission launched a simplified “reduced application” module for academic trials in May 2024.
 
-### What happened to trials still running under the old directive after the Clinical Trials Regulation (Regulation (EU) No 536/2014) took effect?
+### What happened to medical trials that were still running under the old EU rules when the new ones took effect?
 
 The CTR granted all clinical trials approved under the Clinical Trials Directive 2001/20/EC a three-year transition period ending 31 January 2025. By that date, sponsors had to either convert them to the CTR framework or terminate them. According to EMA, as of December 2024, approximately 1,200 trials (about 15% of the total) had not been converted, meaning they were effectively ended. The Commission attributed this to sponsors choosing to stop long-running studies rather than incur conversion costs.
 

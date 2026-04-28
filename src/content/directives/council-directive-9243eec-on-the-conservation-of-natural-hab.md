@@ -54,15 +54,15 @@ Countries that struggled most are those with large agricultural sectors or touri
 
 ## Key questions answered
 
-### Why did the Habitats Directive survive calls for its repeal in the 2010s?
+### Why did Europe’s main law protecting wildlife and natural areas survive attempts to scrap it in the 2010s?
 
 The 2014-2016 "Fitness Check" — a comprehensive evaluation requested by Commission President Jean-Claude Juncker amid pressure from agriculture and development lobbies — found that the directive's objectives remained valid. Environmental NGOs (WWF, BirdLife, Friends of the Earth) mounted a massive campaign, collecting over 520,000 public responses to the consultation, of which 96% supported retaining the directives. The European Parliament's Environment Committee vote in 2016 against reopening the legislation effectively killed the revision attempt. The scientific evidence — the EEA's 2015 State of Nature report showing continued biodiversity decline — argued against weakening protections.
 
-### Why is the "appropriate assessment" requirement under the Habitats Directive so controversial?
+### Why is the rule that forces developers to check if a project harms protected habitats so controversial?
 
 Article 6(3) requires any plan or project likely to have a "significant effect" on a Natura 2000 site to undergo assessment before approval. Developers and national governments argue this creates costly delays and blocks essential infrastructure. The 2007 *Waddenzee* ruling expanded its scope to cover cumulative impacts of multiple projects. The Commission estimated in 2016 that assessments take 6-18 months on average, and 67% of projects assessed received approval with conditions, 22% required significant modifications, and 11% were rejected outright — figures from the Commission's 2016 evaluation.
 
-### How does the Habitats Directive interact with the Birds Directive?
+### How do EU rules protecting natural habitats work together with the separate rules protecting wild birds?
 
 The two directives function as a single legal framework — the "Nature Directives" — with the Habitats Directive extending site and species protection to non-bird species and habitats. Birds remain protected under the 1979 Birds Directive. Both directives use the same Natura 2000 network of sites. In 2007, the Commission merged their reporting requirements into a single Article 17 reporting cycle. The 2016 Fitness Check assessed both together, concluding they were "fit for purpose" but required better implementation.
 

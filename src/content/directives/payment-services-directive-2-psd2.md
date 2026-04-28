@@ -56,15 +56,15 @@ Revenue effects were significant. According to a 2023 report by McKinsey & Compa
 
 ## Key questions answered
 
-### Why does PSD2 force banks to share customer data with third parties?
+### Why do banks have to let other companies access your account data?
 
 PSD2 requires banks to provide account access because the Commission concluded that consumers should control their own financial data, not their bank. The 2013 proposal argued that a bank “should not be allowed to refuse payment initiation or account information services” when the customer has explicitly consented. This was modelled after the UK’s 2013 “Midata” scheme, where the government forced banks to share data to stimulate competition. The EBA’s 2017 guidelines confirmed that banks could not use “security reasons” as a blanket excuse to block API access.
 
-### Why did PSD2 fail to prevent the Wirecard scandal?
+### Why didn't the rules that let companies access bank data stop the Wirecard fraud?
 
 PSD2 imposed security and licensing rules, but it did not prevent the 2020 collapse of German payment processor Wirecard, which had €1.9 billion in missing cash. The scandal exposed that BaFin, the German regulator, had granted Wirecard a payment institution license under PSD2 despite warnings. The European Commission’s 2022 “Payment Services Review” explicitly noted that PSD2’s national “passporting” regime — where a license in one member state allows operation across the EU — proved inadequate without stronger supervisory coordination. The review proposed creating a “European Payment Services Authority” to centralise oversight, a key driver of the proposed PSD3.
 
-### Why does PSD2 require strong customer authentication even for small payments?
+### Why do you still need extra security steps for tiny online payments?
 
 The requirement for SCA on transactions below €30 is not automatic: the delegated regulation (2018/389) allows exemptions for low-value payments, recurring transactions of identical amounts, and transactions to trusted beneficiaries. But the EBA made SCA mandatory for remote payments unless the merchant can prove fraud rates below 0.13% for card-not-present transactions. This was based on data showing that fraud rates for small transactions were disproportionately high: the Commission’s 2015 impact assessment estimated that fraud on card-not-present transactions under €30 was 0.18%, five times the rate for face-to-face payments of the same value.
 

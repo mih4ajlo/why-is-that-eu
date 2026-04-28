@@ -57,19 +57,19 @@ The most significant consequence has been the law's role in **managing the ASF o
 
 ## Key questions answered
 
-### Why did the AHL take five years to apply?
+### Why did the EU's new animal health rules take five years to go into effect?
 
 The five-year transition period from adoption in 2016 to application in 2021 was designed to give member states time to overhaul their national animal health systems: establish central databases, train veterinarians in the new risk-based approach, and issue secondary legislation (delegated and implementing acts) for specific diseases. The Commission's 2016 impact assessment warned that "without a sufficient transition, many member states — particularly those with fragmented livestock sectors — would fail to comply."
 
-### Does the AHL apply to pets as well as farm animals?
+### Do the EU's animal health rules cover household pets, or just farm animals?
 
 Yes, but with a narrower scope. The AHL covers **dogs, cats, and ferrets** only in the context of **commercial movements** (sale, trade, shows, or breeding establishments). For these animals, it mandates microchipping, rabies vaccination, and documentation. Non-commercial travel by pet owners (fewer than 5 animals) is still governed by the separate **EU Pet Travel Scheme (Regulation 576/2013)** . The AHL does not apply to hobby animals kept outside commercial trade.
 
-### How does the AHL handle wildlife?
+### How do the EU's animal health rules deal with wild animals?
 
 The AHL is the first EU animal health law to explicitly impose obligations regarding wildlife. It requires member states to **monitor listed diseases in wild animals**, particularly for pathogens with high spillover risk to livestock (e.g., ASF in wild boar, avian influenza in waterfowl). If a listed disease is detected in wildlife, the affected member state must establish a "restricted zone" and implement measures to reduce contact between wild and domestic animals. According to the European Environment Agency's **2022 State of Nature report**, 12 member states had reported active wildlife disease surveillance programmes under the AHL, compared to 5 under the previous regime.
 
-### What happened to the old EU animal health rules?
+### What happened to the previous EU animal health regulations?
 
 They were **repealed** in full on 21 April 2021. The AHL replaced around 40 separate directives, including the 1964 livestock trade directive and the 1991 sheep and goat regulation. However, many **detailed technical provisions** (e.g., specific diagnostic methods, vaccination protocols) were not included in the AHL itself but were delegated to **secondary acts** — Commission Delegated Regulation 2020/689 (disease prevention and surveillance rules) and Commission Implementing Regulation 2020/687 (disease control measures). This "tiered" structure was intended to make the law more adaptable to new scientific evidence.
 

@@ -59,15 +59,15 @@ Industry response has evolved. The European water industry association EurEau in
 
 ## Key questions answered
 
-### Why did the EU need a new water law when it already had 30 directives, leading to the Water Framework Directive?
+### Why did the EU need a new water law when it already had 30 different rules about water?
 
 The existing 30+ directives were enacted at different times for different purposes — the 1976 Bathing Water Directive focused on human health at beaches; the 1991 Nitrates Directive targeted agricultural runoff — but they didn't work together. A 1998 Commission study found that a river might meet its drinking water quality standard upstream, its fish water standard in the middle, and fail its bathing water standard downstream, yet no single authority had the overview. The WFD replaced this with one unified objective — good status — assessed per river basin rather than per directive.
 
-### Why does the Water Framework Directive have such a low compliance rate?
+### Why do so many EU countries fail to meet the agreed standards for clean rivers and lakes?
 
 The core problem is that achieving good ecological status requires tackling diffuse pollution from agriculture — which falls under the Common Agricultural Policy (CAP), not water policy. The Commission's 2021 fitness check found that 63% of water bodies failing good status are affected by agricultural pressures, but member states resist imposing mandatory measures on farmers. The CAP reform cycles (2003, 2013, 2023) have slowly integrated water requirements (through cross-compliance and eco-schemes), but farmers' unions have successfully fought binding nutrient reduction targets. The 2019 Court of Auditors report concluded the WFD "lacks teeth" because member states can apply unlimited exemptions for "disproportionate cost" — and all 27 have done so.
 
-### Why does the 2027 deadline matter for the Water Framework Directive?
+### Why is the 2027 deadline important for cleaning up Europe's water?
 
 2027 is the final extension granted for achieving good status under Article 4(4). After that, no further exemptions are legally possible for most water bodies. If a member state has not achieved good status by 2027, it must either justify permanent derogations to the European Court of Justice or face infringement proceedings. The Commission's 2024 assessment projected that only 45-50% of water bodies would meet the deadline based on current trajectories, setting up a likely wave of legal cases in the late 2020s.
 

@@ -53,19 +53,19 @@ The regulation is being copied: the UK, Hong Kong, Singapore, and Brazil have al
 
 ## Key questions answered
 
-### Why does MiCA cap large non-euro stablecoins at 1 million transactions per day?
+### Why do EU rules limit large non-euro digital currencies to 1 million transactions per day?
 
 The cap, in Article 23, is explicitly designed to protect monetary sovereignty. ECB officials including Fabio Panetta argued during the trilogues that widespread use of dollar-denominated stablecoins for everyday EU payments could undermine the transmission of monetary policy and the euro's role. The threshold is a soft brake: issuers exceeding it must stop issuing until usage falls back.
 
-### Why are NFTs largely excluded from MiCA?
+### Why are most digital art and collectible tokens not covered by EU crypto rules?
 
 The Commission's original draft had no clear NFT carve-out, but lobbying from digital art platforms and the gaming industry produced Recital 10, which excludes "unique and non-fungible" tokens. The exclusion is narrow — fractionalised NFTs and large series issued as collections are caught — and ESMA has signalled it will look through labels to economic substance. A review clause requires the Commission to reassess NFT treatment by 2025.
 
-### Why did the proof-of-work ban fail in MiCA?
+### Why did the attempt to ban energy-intensive crypto mining fail in Europe?
 
 A draft amendment in early 2022 would have effectively banned Bitcoin from EU exchanges by prohibiting crypto-assets using "environmentally unsustainable consensus mechanisms." Industry lobbying — particularly from Blockchain for Europe and Bitcoin advocacy groups — combined with warnings from EPP and Renew MEPs that the ban was technologically illiterate, defeated the amendment 32-24 in ECON. Instead, MiCA requires CASPs to disclose the energy consumption and climate impact of the crypto-assets they list.
 
-### Why didn't MiCA cover DeFi?
+### Why didn't EU crypto rules apply to decentralized finance platforms?
 
 The Commission concluded that "fully decentralised" protocols without an identifiable issuer or service provider could not be regulated using a traditional licensing model — there is no entity to license. Article 142 mandates a Commission report on DeFi by 30 December 2024, which is expected to inform a potential MiCA II covering decentralised lending, DEXs, and staking services.
 

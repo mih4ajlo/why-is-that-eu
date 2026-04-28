@@ -50,15 +50,15 @@ Outside Europe, CSRD has had extraterritorial bite. US groups including Apple, G
 
 ## Key questions answered
 
-### Why does CSRD use "double materiality" when the rest of the world doesn't?
+### Why do some sustainability reports have to consider both how the world affects the company and how the company affects the world, when most other countries don't require that?
 
 The European Parliament, especially Green and S&D MEPs led by rapporteur Pascal Durand, insisted that disclosure should serve citizens and NGOs — not just investors. The ISSB and SEC frameworks cover only "financial materiality" (sustainability issues that affect enterprise value). Brussels deliberately added "impact materiality" so that, for example, a company's contribution to deforestation must be reported even if it poses no financial risk to the firm. This reflects the EU's view that capital markets alone will not deliver the Green Deal.
 
-### Why does CSRD apply to non-EU companies?
+### Why do companies based outside the EU have to follow European rules on reporting their environmental and social impact?
 
 Without an extraterritorial hook, large multinationals could simply book activities outside the EU and escape disclosure, leaving European competitors at a disadvantage. The €150 million EU-turnover threshold for non-EU parents — applying from financial year 2028 — was inserted during trilogues at the Parliament's insistence. It mirrors the extraterritorial logic of GDPR and is expected to capture several thousand US, UK, Swiss and Asian groups.
 
-### Why did the Commission propose to gut CSRD barely two years after adopting it?
+### Why did the European Commission propose to weaken the new corporate sustainability reporting rules just two years after they were passed?
 
 The Draghi report on EU competitiveness (September 2024) and the Letta report on the single market (April 2024) both identified regulatory burden as a drag on European industry. With Donald Trump's re-election and aggressive deregulation in the US, von der Leyen's second Commission pivoted to a "competitiveness compass" agenda. The Omnibus simplification was the first concrete deliverable — politically necessary to keep the EPP and centre-right governments on board, even at the cost of weakening the Green Deal's data backbone.
 

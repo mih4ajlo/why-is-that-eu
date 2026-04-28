@@ -52,19 +52,19 @@ Industry adaptation has been uneven. Large chemical producers built specialised 
 
 ## Key questions answered
 
-### Why does REACH cover articles, not just chemicals?
+### Why do EU rules on chemical safety also cover everyday products like clothes and furniture, not just the chemicals themselves?
 
 Because hazardous substances reach consumers and the environment mostly through products — a child's toy, a car seat, a piece of clothing — not through bulk chemical sales. Restricting only the substance itself would leave huge exposure pathways open. That is why Annex XVII restrictions, like the 2026 measure on 2,4-dinitrotoluene, set concentration limits in finished articles such as vehicle parts.
 
-### Why was REACH so controversial?
+### Why were the EU's chemical safety rules so hotly debated when they were introduced?
 
 It reversed a fundamental principle of post-war industrial regulation: instead of regulators having to prove a chemical was harmful before restricting it, industry now had to prove it was safe before selling it. This "no data, no market" rule meant tens of thousands of substances faced testing costs, and the chemicals lobby — one of Europe's largest industrial sectors — fought it intensively for five years.
 
-### Why is ECHA in Helsinki?
+### Why is the EU's main chemical safety agency located in Helsinki?
 
 When REACH was adopted, EU agencies were distributed across member states partly to give newer or smaller members visible EU institutions. Finland, which had joined in 1995, won the bid in 2003 over competing offers from Italy, Spain and others, partly on the strength of its administrative reputation and language facilities.
 
-### Why does REACH keep being amended?
+### Why do the EU's chemical safety rules keep getting updated and changed?
 
 The regulation is a framework: the lists of restricted substances (Annex XVII) and authorised substances (Annex XIV) are continuously updated as ECHA and member states identify new substances of very high concern. The 2026 amendment on 2,4-dinitrotoluene is one of dozens of such targeted updates each year, reflecting evolving scientific evidence on carcinogenicity, persistence and endocrine disruption.
 

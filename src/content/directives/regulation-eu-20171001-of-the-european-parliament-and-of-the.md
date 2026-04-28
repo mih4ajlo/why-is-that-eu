@@ -52,15 +52,15 @@ Countries with large national trademark offices initially resisted the reform. T
 
 ## Key questions answered
 
-### Why did the EU replace the Community Trade Mark with the EU Trademark under Regulation (EU) 2017/1001?
+### Why did the EU replace the old Community Trade Mark system with a new EU-wide trademark system?
 
 The 2017 Regulation was a substantive reform, not just a renaming. The key changes were: (1) eliminating the "graphical representation" requirement, so sound, motion, and hologram marks became registerable; (2) introducing the EU certification mark; (3) harmonising national and EU trademark law through a parallel directive (2015/2436); and (4) cutting application fees by 26–40%. The new name reflected the Lisbon Treaty's renaming of "Community" bodies to "Union" bodies, but the real driver was modernisation for the digital economy.
 
-### What was the fight over counterfeit goods in transit under Regulation (EU) 2017/1001?
+### What was the legal fight about whether customs can seize fake goods just passing through the EU?
 
 Under the old regulation, goods merely passing through EU ports that were counterfeit could not be seized unless they were destined for the EU market. The new Article 9(4) gives EUTM holders the right to prevent third parties from bringing goods into the EU customs territory even if they're not intended for release onto the EU market, if those goods bear a trademark essentially identical to the protected mark. This was fiercely opposed by generic pharmaceutical manufacturers and developing-country governments, who argued it blocked legitimate trade (e.g. generic medicines in transit from India to Brazil through Rotterdam). The EU Court of Justice later clarified in its June 2023 judgment (Case C-302/21) that this power does not apply to goods merely in transit if there is no risk of diversion onto the EU market.
 
-### Why did it take 22 years to reform the fee structure of Regulation (EU) 2017/1001?
+### Why did it take 22 years to update the fees for registering an EU-wide trademark?
 
 The original 1993 Regulation set fees at a deliberately high level to make the OHIM (now EUIPO) self-funding — a politically necessary design to avoid taking money from member-state budgets. But by the 2010s, the office was accumulating reserves of over €300 million, more than three times its annual operating costs. National trademark offices had blocked earlier attempts to cut fees because their own budgets depended on national filing revenue. The Commission's 2013 proposal broke this deadlock by coupling the fee cut with a mechanism to redistribute 5% of EUIPO's annual fee revenue to national offices — a concession worth approximately €20 million per year by 2020, according to EUIPO annual reports.
 

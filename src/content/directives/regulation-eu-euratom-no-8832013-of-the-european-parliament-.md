@@ -55,19 +55,19 @@ Countries that had opposed the regulation — notably Germany and the UK — wer
 
 ## Key questions answered
 
-### Why does OLAF still exist if EPPO now prosecutes EU fraud under Regulation (EU, Euratom) No 883/2013?
+### Why does the EU still have an anti-fraud office if a separate EU prosecutor’s office now handles fraud cases?
 
 OLAF and EPPO are complementary, not substitutable. OLAF conducts administrative investigations into fraud affecting EU revenue (customs duties, VAT evasion), corruption in EU institutions, and misconduct in EU-funded projects. EPPO prosecutes criminal cases involving the EU budget — but only in its 22 participating member states. OLAF also handles non-criminal cases (e.g., conflict of interest in grants) that fall outside EPPO's mandate. Under the 2020 Cooperation Agreement, OLAF refers all potentially criminal cases to EPPO while retaining the administrative track for non-criminal follow-up.
 
-### Why was the six-year limitation period so controversial in Regulation (EU, Euratom) No 883/2013?
+### Why was the six-year time limit for investigating EU fraud so controversial?
 
 National investigation authorities, especially in Germany and Italy, argued that complex fraud cases — requiring tracing funds through multiple jurisdictions — often took longer than six years to build. The Commission's 2011 impact assessment projected that up to 30% of OLAF's open cases would be automatically closed under the time limit. Industry representatives said this "forced deadlines" would create a "race against the clock" that favoured sophisticated fraudsters. In practice, the first year after the regulation's entry saw 14% of cases closed due to time limits, not 30%, and the percentage has since fallen below 5% annually as OLAF's procedures tightened.
 
-### Why did Parliament push so hard for whistleblower protections in Regulation (EU, Euratom) No 883/2013?
+### Why did the European Parliament fight so hard to protect whistleblowers in EU fraud investigations?
 
 The 2012 LuxLeaks scandal — where whistleblower Antoine Deltour leaked tax rulings — had not yet broken when the regulation was being drafted, but the 2011 Wikileaks cables had already shown the power of whistleblowers in exposing institutional fraud. Parliament's rapporteur, Ingeborg Gräßle, explicitly linked the protection provisions to the experience of former OLAF officials who had faced retaliation for reporting misconduct — including the 2008 "Kessler case" where an OLAF investigator was demoted after challenging a case closure. The final text gave whistleblowers who report in good faith immunity from professional sanctions.
 
-### Why did member states initially oppose the reform of Regulation (EU, Euratom) No 883/2013?
+### Why did EU countries initially resist updating the rules for how the EU investigates fraud?
 
 The core dispute was control over the EU budget. Net contributors like Germany, the UK, the Netherlands, and Sweden argued that strengthening OLAF meant weakening national sovereignty over spending decisions. The German Finance Ministry's 2011 position paper warned that "procedural harmonisation would create a European fraud police without adequate democratic oversight." The UK House of Commons' European Scrutiny Committee recommended in 2012 that the UK should "opt out of the entire regulation." Both countries lost the Council vote on the final text, but secured a declaration that OLAF cannot impose "direct fines or prosecutorial decisions" — a power that remained with national authorities until EPPO's creation.
 

@@ -57,19 +57,19 @@ The COVID-19 pandemic saw a temporary reversal: the Commission allowed member st
 
 ## Key questions answered
 
-### Why did the 2011 Late Payments Directive replace the 2000 version?
+### Why did EU rules on overdue invoice payments get updated in 2011?
 
 The 2000 directive failed because it set only aspirational targets and let member states define "grossly unfair" payment terms however they chose. A 2004 Commission evaluation found it had no measurable impact; payment times actually worsened in several countries. The 2011 directive introduced hard limits, automatic interest, and fixed compensation — but enforcement remains the weak link.
 
-### Why are public authorities treated differently from businesses under the Late Payments Directive?
+### Why do government agencies have different payment deadlines than private companies?
 
 The Commission's 2008 impact assessment found that public authorities were the worst late payers, with some regional governments in Spain and Italy taking 18 months to pay. They also have little commercial incentive to pay on time — unlike businesses, they do not risk losing future contracts. The 30-day limit was considered stricter because public authorities "set the example" for the economy.
 
-### Why is the Late Payments Directive still controversial?
+### Why are EU rules on late invoice payments still causing arguments?
 
 BusinessEurope and large retail associations argue that 60-day limits are too rigid for global supply chains, where payment terms of 90-120 days are common in sectors like automotive and electronics. SME groups counter that these long terms are exactly the kind of market power abuse the directive was meant to curb. The Commission's 2023 review is examining whether to extend hard 30-day limits to all B2B transactions, a move that would face fierce opposition.
 
-### What happens if a member state ignores the Late Payments Directive?
+### What happens if a country ignores the rules on paying invoices on time?
 
 The Commission launches infringement proceedings. In 2014, it took Italy, Spain, and Portugal to court for failing to transpose the 30-day public sector limit. The European Court of Justice ruled against Italy in 2017 (C-262/15), and the Commission has continued monitoring. However, fining member states is rare — the Commission prefers "structured dialogue" and EU funds conditional on reform.
 

@@ -59,19 +59,19 @@ Compliance has been uneven. The Commission has opened infringement proceedings a
 
 ## Key questions answered
 
-### Why does Directive (EU) 2019/904 ban specific products rather than tax all plastics?
+### Why do EU rules ban certain single-use plastic items instead of taxing all plastics?
 
 The Commission deliberately chose a targeted, evidence-based approach: the ten items came directly from beach-litter monitoring data showing what was actually polluting European coasts. A general plastics tax would have been politically harder (taxation requires unanimity in the Council) and less visible to citizens. Bans send an immediate, salient signal and are legally simpler under internal-market competence.
 
-### Why does Directive (EU) 2019/904 include fishing gear?
+### Why do EU plastic waste rules include fishing nets and gear?
 
 "Ghost nets" account for roughly 27% of beach litter by volume in some EU regions and cause severe harm to marine wildlife. The Directive imposes EPR on fishing gear producers, requiring them to fund collection and recycling — addressing a problem long ignored because fishers, not consumers, are the disposers.
 
-### Why does Directive (EU) 2019/904 require tethered caps?
+### Why do EU rules require bottle caps to stay attached to the bottle?
 
 Loose bottle caps are among the most common items found on beaches. Tethering them to the bottle is a low-cost design fix that ensures caps stay with the bottle through the recycling stream, both reducing litter and improving the quality of recycled PET. It exemplifies the Directive's "design out the problem" philosophy.
 
-### Why does Directive (EU) 2019/904 exempt some bioplastics but not others?
+### Why do EU plastic rules allow some bioplastics but not others?
 
 The Directive applies to plastics regardless of origin if they behave like conventional plastics in the environment. Truly compostable items in industrial composting may receive different treatment under national rules, but the EU rejected a broad bioplastics exemption to prevent greenwashing — many "biodegradable" plastics do not actually degrade in marine conditions.
 

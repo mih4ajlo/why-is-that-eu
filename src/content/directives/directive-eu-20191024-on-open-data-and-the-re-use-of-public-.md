@@ -55,15 +55,15 @@ One unintended consequence: the mandate for API-based access forced many smaller
 
 ## Key questions answered
 
-### Why did the EU need a third iteration of PSI rules under Directive (EU) 2019/1024 on open data and the re-use of public sector information?
+### Why did the EU need a third update to its rules on sharing government data?
 
 Because the 2013 directive allowed member states to charge above marginal cost for most data, creating a fragmented market where the same meteorological data cost €500 in one country and €50,000 in another. The Commission's 2018 impact assessment found that this patchwork suppressed the data economy by roughly 60% of its potential. The new directive closed that loophole for high-value datasets and harmonised charging to marginal cost for the rest, making cross-border re-use commercially viable.
 
-### Why are cultural heritage institutions exempt from mandatory free re-use under Directive (EU) 2019/1024?
+### Why are museums and libraries allowed to charge for reusing their digital collections?
 
 Libraries, museums, and archives have digitisation and preservation costs the Commission considered disproportionate. The directive allows these institutions to charge cost-plus (actual costs plus a reasonable return on investment) for commercial re-use of cultural data, while non-commercial re-use must be free. This compromise came after intense lobbying from the European Museum Association and the European Bureau of Library, Information and Documentation Associations, which argued in their 2017 joint submission that mandatory free re-use would bankrupt small museums.
 
-### Why were public undertakings included for the first time in Directive (EU) 2019/1024?
+### Why were state-owned companies like railways and utilities suddenly required to share their data?
 
 The 2013 directive only covered public sector bodies. The Commission found that transport and utility companies (publicly owned or controlled) generated massive, commercially valuable datasets—train timetables, energy grid loads, port traffic—that were closed to re-use. Including them under the directive was championed by the European Parliament's rapporteur Neena Gill, who argued in a 2018 parliamentary working document that "publicly funded infrastructure data must be a common resource." The inclusion faced strong opposition from Deutsche Bahn and SNCF, but the Commission maintained that Article 114 TFEU gave it the power to regulate public undertakings in the internal market.
 

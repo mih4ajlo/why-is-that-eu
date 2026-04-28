@@ -51,19 +51,19 @@ China has warned it will retaliate with export restrictions on rare earths and e
 
 ## Key questions answered
 
-### Why does Regulation (EU) 2024/3015 ban re-export of seized goods?
+### Why does the EU ban re-exporting goods that were seized for being made with forced labour?
 
 The ban on re-export (Article 23) prevents companies from simply moving forced-labour-tainted products to third-country markets after EU seizure. This closes a loophole where goods could be repatriated to the country of origin or sold to non-EU buyers. The European Parliament’s committee on international trade (INTA) insisted on this provision after learning that US customs had, in 2022, allowed a shipment of Xinjiang cotton to be re-exported to Vietnam, undermining enforcement.
 
-### Why does Regulation (EU) 2024/3015 not name specific products or regions directly?
+### Why doesn't the EU forced labour ban name specific products or countries outright?
 
 The regulation takes a product-based, risk-based approach rather than a country-ban approach. This was a deliberate choice: a blanket ban on all goods from Xinjiang (as the US UFLPA does) was rejected as illegal under WTO rules, specifically the Most-Favoured-Nation principle and the prohibition on discriminatory trade measures. The EU's legal service advised that a presumption of guilt based solely on geographic origin would be challenged successfully at the WTO. Instead, the regulation creates a rebuttable presumption for products from high-risk areas, but only after an investigation has been opened.
 
-### Why did Regulation (EU) 2024/3015 take until 2024 when the US acted in 2021?
+### Why did the EU take until 2024 to ban forced labour imports when the US did it in 2021?
 
 The EU’s legislative process is slower because it requires agreement between the Commission, Parliament, and Council, with extensive stakeholder consultations. The US UFLPA was passed by simple majority and signed by President Biden within 18 months of proposal. In the EU, early attempts in 2020 to use the existing Regulation (EU) No 995/2010 on conflict minerals as a model failed because it applied only to specific minerals, not all products. A broader initiative required a new legal base under Article 207 TFEU (common commercial policy), which the Commission only proposed in 2022 after legal review. Internal divisions in the Council — with Germany, Sweden, and the Netherlands fearing trade retaliation from China — delayed adoption.
 
-### Why are smaller companies not exempt under Regulation (EU) 2024/3015?
+### Why aren't small businesses exempt from the EU forced labour product ban?
 
 The European Parliament’s lead rapporteur, MEP Samira Rafaela (Renew, Netherlands), argued that exempting SMEs would create a dual market: large companies would face strict rules while smaller importers could freely import forced-labour goods, undermining enforcement. However, the regulation (Article 19) allows SMEs to use simplified due-diligence questionnaires and to rely on industry-wide risk assessments, lowering compliance costs. The Commission estimates SME compliance costs at €5,000–€20,000 per investigation, versus €50,000–€200,000 for large companies.
 

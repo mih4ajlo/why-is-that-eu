@@ -58,19 +58,19 @@ Enforcement was sparse initially. The first major EIOPA action was a 2019 warnin
 
 ## Key questions answered
 
-### Why did Solvency II take so long to implement (7 years)?
+### Why did it take 7 years for EU insurance safety rules to take effect?
 
 The long phase-in was a direct response to industry lobbying, especially from German life insurers who feared capital shocks from low interest rates. The 2009 impact assessment projected that 15% of German firms would fail if implemented immediately. The transitional "LTG" measures allowed firms to phase in risk-based capital over 16 years for certain liabilities, effectively giving insurers until 2032 to fully comply. This delay was codified in Omnibus II, passed in 2014 after intense pressure from the German Insurance Association (GDV).
 
-### Why does Solvency II treat government bonds as risk-free?
+### Why do EU insurance rules treat government bonds as having no risk?
 
 The directive assigns a 0% risk weight to EU sovereign bonds, mirroring the bank capital framework (Basel III). This was pushed fiercely by France and Italy, whose insurers held 40% of their assets in domestic government debt. Critics argue this created a "doom loop" — insurers loading up on shaky sovereign debt — and that the AIG crisis proved no asset is truly risk-free. EIOPA’s 2022 qualitative study found that 60% of EU insurers still hold more than 20% of assets in a single member state’s sovereign bonds.
 
-### Why do smaller insurers struggle under Solvency II?
+### Why do smaller insurance companies have a harder time under EU capital rules?
 
 The directive’s complexity is designed for large, diversified global groups — its internal model approval alone requires actuarial teams of 20+ people. The Commission’s 2018 fitness check found that compliance costs for small firms (under €10 million premiums) consumed 5-8% of revenue, versus 0.5% for large firms. This drove a wave of mutual-to-stock conversions and mergers; the number of small mutual insurers fell by 40% between 2009-2019. The 2024 revision aims to exempt the smallest players from full Pillar III reporting and allow simplified SCR calculations using a "category 1" standard formula.
 
-### How does Solvency II handle climate risk?
+### How do EU insurance regulations deal with the financial risks from climate change?
 
 Initially, the directive had no explicit climate provisions — a gap highlighted by the 2021 floods in Germany and Belgium, which caused €50 billion in insured losses. The 2024 revision adds mandatory climate stress tests for all firms with over €500 million in premiums, effective 2027. The European Environment Agency’s 2022 data showed that 80% of EU insurers still lacked scenario analysis for physical risks. The Commission’s 2023 proposal included an "environmental risk" charge factor, forcing insurers to hold extra capital for fossil fuel investments — but industry opposition, led by Insurance Europe, reduced this to a reporting requirement only.
 

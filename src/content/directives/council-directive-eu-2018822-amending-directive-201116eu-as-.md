@@ -49,19 +49,19 @@ The most significant consequence was the chilling effect on aggressive tax plann
 
 ## Key questions answered
 
-### Why is it called "DAC6" rather than a directive number like "2018/822/EU"?
+### Why is it called "DAC6" instead of a boring official number?
 
 The "DAC" acronym refers to the Directive on Administrative Cooperation (2011/16/EU), which is the parent framework for tax information exchange between EU member states. Each amendment is numbered sequentially: DAC1 covered automatic exchange of financial account information (based on the Common Reporting Standard), DAC2 dealt with tax rulings, DAC3 with country-by-country reporting, DAC4 with access to anti-money-laundering information, DAC5 with beneficial ownership, and DAC6 with mandatory disclosure of aggressive tax arrangements. The numbering reflects its place as the sixth addition to this growing framework.
 
-### Who specifically is considered an "intermediary" under DAC6?
+### Who exactly counts as a "middleman" who has to report tax schemes?
 
 An intermediary is any person who designs, markets, organises, makes available, or implements a reportable cross-border arrangement, or who provides aid, assistance, or advice with respect to it. This explicitly includes tax advisors, accountants, lawyers, notaries, banks, insurance companies, and consultants. The directive also extends to any person who, given their involvement in the arrangement, could reasonably be expected to know that it is reportable. If a corporate group has an in-house tax department designing a cross-border financing structure, the department itself becomes the intermediary. The broad scope was deliberate — the OECD's 2015 BEPS Action 12 report noted that "limiting the definition to only those who are formally appointed or contracted"
 
-### Why do intermediaries report, not just taxpayers, under DAC6?
+### Why do lawyers, accountants, and advisors have to report tax deals instead of just the people paying tax?
 
 Intermediaries are the gatekeepers of tax planning schemes — they possess the technical knowledge and documentation to know immediately what is reportable, and leaking shows they were the key enablers. Taxpayers, particularly individuals or small businesses, often lack the expertise to identify aggressive arrangements. The OECD's BEPS Action 12 report argued that targeting intermediaries "makes the reporting system more effective" because they operate at scale and can be held to professional standards. Additionally, intermediaries are easier to monitor: they must register with professional bodies, making non-compliance more detectable. Had DAC6 only targeted taxpayers, the reporting rate would likely have been far lower — the Commission's 2018 impact assessment estimated that taxpayer-only reporting would capture only 20-30% of aggressive arrangements versus 70-80% with intermediary reporting.
 
-### Does DAC6 apply to arrangements that don't involve tax evasion?
+### Do these reporting rules apply to tax plans that are legal and not meant to cheat?
 
 Yes, critically. The directive covers "aggressive tax planning" — arrangements that, while technically legal, exploit mismatches between tax systems, preferential regimes, or other features to achieve a tax advantage inconsistent with the intent of the law. For example, a classic "hybrid mismatch" arrangement (where the same payment is treated as a deduction in one country and not income in another) is reportable even if fully compliant with national law. This "grey area" approach was intentional: the European Parliament's resolution of 6 July 2016, following the Panama Papers, stated that transparency should extend to "legal but abusive" structures. The consequence is that tax advisors must now report schemes they might once have defended as compliant, forcing a fundamental shift in professional ethics.
 

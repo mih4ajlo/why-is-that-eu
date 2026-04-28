@@ -46,15 +46,15 @@ The Commission's 2008 implementation report noted that 12 member states had inco
 
 ## Key questions answered
 
-### Why does the Equal Treatment in Employment Directive exclude religion-based discrimination in employment from its broader equal treatment scope?
+### Why are religious discrimination claims in the workplace treated differently from other types of discrimination under EU employment rules?
 
 The directive permits religious organisations to require employees to respect their ethos, provided the requirement is genuine, legitimate, and proportionate. This was a political compromise to secure the directive's passage in 2000, as several member states (Ireland, Poland, Italy, and Germany) had strong church interests demanding that faith-based employers (schools, hospitals, charities) retain the ability to hire co-religionists. Without this exemption, the directive would have faced a blocking minority in the Council.
 
-### Why was the Equal Treatment in Employment Directive not extended to cover goods and services?
+### Why weren't EU workplace anti-discrimination rules expanded to also cover things like buying a house or getting a service?
 
 A proposed "horizontal" directive covering access to goods and services (COM(2008) 426) was presented by Commissioner Vladimír Špidla in July 2008, but it stalled in the Council due to disagreements about the scope for services (healthcare, education, housing) and the treatment of multiple discrimination. As of 2025, the proposal remains blocked in the Council — 12 member states, led by Germany and Poland, have opposed it, arguing that it infringes national competences over social services and religious freedom.
 
-### Why did the Equal Treatment in Employment Directive take so long to enforce?
+### Why did it take so long for EU rules against workplace discrimination to actually be enforced?
 
 The directive allowed a three-year extension for the disability and age provisions, meaning that for some member states (Ireland, Luxembourg, Austria, and the UK requested and received extensions), national implementation deadlines fell in 2006. This gave member states with weaker social protection systems time to adjust. The Commission also faced a high-volume of complaints — by 2010, the Commission had received over 1,200 complaints related to age discrimination alone, according to its 2014 report on the application of the directive.
 

@@ -49,15 +49,15 @@ The crisis-response pillar has not been triggered. The design and research pilla
 
 ## Key questions answered
 
-### Why did the EU loosen state aid rules under Regulation (EU) 2023/1781 (Chips Act) instead of funding fabs directly from the EU budget?
+### Why did the EU let countries give more subsidies to chip factories instead of just paying for them with EU money?
 
 The EU budget simply does not have the firepower — the entire seven-year Multiannual Financial Framework is around €1.2 trillion, while a single leading-edge fab costs €10–20 billion. Member states, particularly Germany, hold the purse strings for industrial subsidies, so Brussels' realistic option was to relax Article 107 TFEU state aid restrictions and let national capitals write the cheques. The "first-of-a-kind" designation gave legal cover for what would otherwise have been illegal subsidies to a single company.
 
-### Why is the 20% target in the EU Chips Act considered unrealistic?
+### Why is the EU's goal to make 20% of the world's chips seen as unrealistic?
 
 Global chip demand is growing roughly 8% annually, so even doubling absolute European output leaves market share roughly flat. To actually hit 20%, Europe would need to roughly quadruple capacity by 2030 — requiring perhaps €500 billion in cumulative investment, far beyond what has been mobilised. The April 2025 European Court of Auditors report flagged this arithmetic gap explicitly and criticised the Commission for not modelling it before announcing the figure.
 
-### Why did Intel walk away from Magdeburg under the EU Chips Act?
+### Why did Intel cancel its German chip factory even with EU subsidies?
 
 Intel's foundry business burned through cash as it struggled to compete with TSMC on advanced nodes, and the company posted catastrophic results in mid-2024. Even with €9.9 billion in German subsidies, Magdeburg required Intel to commit roughly €20 billion of its own capital at a moment when activist investors were demanding spending cuts. The pause exposed a structural weakness of the Chips Act: subsidies cannot compensate for a company's underlying competitive position.
 

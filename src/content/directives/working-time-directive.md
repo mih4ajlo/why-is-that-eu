@@ -49,15 +49,15 @@ The transport sector remains a particular challenge. The directive's extension i
 
 ## Key questions answered
 
-### Why can some workers work more than 48 hours per week if the Working Time Directive says that's the maximum?
+### Why can some workers work more than 48 hours per week if the law says that's the maximum?
 
 The directive contains an "opt-out" clause (Article 22) that allows Member States to let individual workers voluntarily agree to work more than 48 hours per week, provided they give written consent. This was a concession to the UK in 1993 to get the directive passed. The opt-out is controversial because many critics argue it is not truly voluntary — workers may feel pressured to sign it to keep their jobs. The European Parliament has voted repeatedly to abolish it, but the Council has blocked reform.
 
-### Why does the Working Time Directive not cover all workers equally?
+### Why don't all workers have the same limits on how many hours they can work?
 
 The directive's scope has been gradually expanded. Initially, it excluded several sectors, including transport, fishing, and junior doctors. The 2000 amendment (2000/34/EC) extended coverage to these groups, but with significant sector-specific rules (e.g., special rules for mobile transport workers, and on-call time for doctors). Some workers — notably the self-employed, who the ECJ has held are outside the directive's scope — remain uncovered. The 2019 *Matzak* ruling (C-518/15) partially addressed this by finding that on-call time for firefighters could count as working time.
 
-### Why did the UK fight the opt-out in the Working Time Directive so hard?
+### Why did the UK fight so hard to keep the option for workers to voluntarily work longer hours?
 
 The UK's Conservative government under John Major opposed any cap on working hours on ideological grounds, viewing it as an unnecessary intrusion into the labour market and a threat to UK competitiveness. UK business groups, particularly the Confederation of British Industry (CBI), argued the directive would raise labour costs and reduce flexibility, especially in sectors like construction and financial services. The opt-out was the price the UK demanded for not blocking the directive entirely. After the UK left the EU in 2020, the UK government announced it would retain the opt-out in its own Working Time Regulations, but it has become less politically salient domestically.
 

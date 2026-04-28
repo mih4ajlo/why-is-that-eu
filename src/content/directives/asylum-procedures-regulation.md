@@ -53,19 +53,19 @@ Industry response has been muted; the main lobbying came from NGOs like Caritas 
 
 ## Key questions answered
 
-### Why was the APR needed when individual member states already had asylum procedures?
+### Why did the EU need a common set of asylum rules when each country already had its own way of handling asylum claims?
 
 The pre-existing system produced huge disparities: in 2023, the recognition rate for Syrian applicants was 98% in Sweden but 62% in Bulgaria, according to Eurostat data. This created "asylum shopping" — secondary movements within the EU — and undermined trust in the external border. The APR mandates identical procedures and deadlines, reducing incentives for forum-shopping and ensuring that applicants are assessed on the merits of their case, not the member state they reach.
 
-### Why did the EU introduce mandatory border procedures in the APR instead of keeping all procedures on the territory?
+### Why did the EU decide that some asylum applications must be processed at the border instead of inside the country?
 
 The Commission’s 2020 impact assessment found that "secondary movements remain a major challenge" — approximately 20% of applicants in 2019 had lodged claims in multiple member states. The border procedure is designed to deter unfounded applications by enabling fast-track decisions at the external border, with detention permitted to prevent absconding. It was a direct response to the 2015 crisis, where applicants could vanish into the Schengen area before their claims were processed. Critics argue it sacrifices due process for deterrence, but the political calculus was that only such measures could secure the necessary support from Austria, Denmark, and other restrictive states.
 
-### Why did Germany switch from opposing to supporting the mandatory border procedure in the APR?
+### Why did Germany change its mind and start supporting the idea of processing asylum claims at the border?
 
 Germany’s coalition government (SPD, Greens, FDP) was internally divided. The Greens opposed border detention, while the FDP demanded stricter rules. In 2023, German Interior Minister Nancy Faeser (SPD) brokered a compromise: Germany would support mandatory border procedures in exchange for a "crisis mechanism" that allows member states under mass arrival pressure to extend procedures or derogate from standards. This deal also included a "solidarity pool" of 30,000 relocations per year, although this is voluntary. Without Germany’s flip, the Pact would have collapsed in the Council.
 
-### What happens to the Dublin III Regulation under the APR?
+### What happens to the current rules that decide which EU country is responsible for an asylum claim?
 
 The APR effectively replaces the Dublin rules for first-instance procedures. Under the new system, the member state that conducts the screening at entry is responsible for the procedure, but the APR introduces a "relocation mechanism" that can transfer applicants to other member states if the first country is overwhelmed. The old Dublin Regulation (604/2013) is repealed by the Asylum and Migration Management Regulation (2024/1351/EU), which is part of the same Pact.
 

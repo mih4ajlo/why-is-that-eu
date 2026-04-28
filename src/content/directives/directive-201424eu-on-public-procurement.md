@@ -53,15 +53,15 @@ The directive's most controversial impact was on strategic autonomy. During the 
 
 ## Key questions answered
 
-### Why did the UK and the Netherlands vote against Directive 2014/24/EU on Public Procurement?
+### Why did the UK and the Netherlands vote against EU rules on how governments buy things like roads and computers?
 
 The UK argued the directive's provisions on social and environmental criteria allowed contracting authorities to discriminate against non-EU bidders, undermining the principle of open competition. The Netherlands feared that the innovation partnership procedure would be too complex for small municipalities, adding bureaucratic burden rather than reducing it.
 
-### Why did it take until 2016 to transpose Directive 2014/24/EU, with some countries failing?
+### Why did it take until 2016 for EU countries to update their national laws on government purchasing, and why did some fail to do so?
 
 Many member states lacked the administrative capacity to overhaul national procurement laws. The directive also required changes to national criminal codes to implement the mandatory exclusion of bidders convicted of fraud, corruption, or money laundering. Seven member states, including Poland and Romania, were still non-compliant with this requirement as of 2020, according to the Commission's 2022 report.
 
-### Why didn't Directive 2014/24/EU stop corruption in procurement?
+### Why didn't EU rules on government contracts stop corruption in public spending?
 
 The directive's anti-corruption measures were procedural, not investigative. Contracting authorities must exclude bidders convicted of specific crimes, but they rarely check convictions across borders — the Commission's 2020 evaluation found that only 9% of national e-procurement portals cross-referenced the European Criminal Records Information System (ECRIS). Without enforcement, the rules have limited effect.
 

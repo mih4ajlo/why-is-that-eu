@@ -51,15 +51,15 @@ Outside the EU, RoHS triggered a cascade of similar laws: China's RoHS (2006), J
 
 ## Key questions answered
 
-### Why does RoHS ban lead when it has been used in solder for centuries?
+### Why is lead banned in electronics when it’s been used in solder for hundreds of years?
 
 Lead in electronics solder was one of the largest sources of bioavailable lead in municipal waste. The World Health Organization found that even at low doses, lead leaching from landfill electronics could contaminate drinking water. The Commission's 2008 impact assessment calculated that replacing lead solder added €0.02 per mobile phone but saved €0.50 in recycling costs — a net economic benefit.
 
-### Why are medical devices included in RoHS 2?
+### Why do restrictions on hazardous substances in electronics also apply to medical devices?
 
 The original RoHS exempted medical devices after industry lobbying — the European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry warned that lead-free solder might fail in critical equipment. But a 2009 Commission study of in-use devices found no elevated failure rates, while hospital waste incinerators were releasing lead and cadmium from discarded devices. The 2011 recast closed this loophole.
 
-### Why did RoHS take until 2019 to regulate phthalates (plasticisers)?
+### Why did it take until 2019 to ban certain plastic softeners in electronics?
 
 Phthalates are not essential to electronics function but are widely used as plasticisers in cable insulation and enclosure plastics. The Commission's 2015 fitness check found that while the original six substances were well-controlled, phthalates represented the next major hazard source — responsible for an estimated 40% of remaining toxic substances in e-waste. The 2019 addition followed a 2017 European Chemicals Agency risk assessment finding "unacceptable exposure levels for children dismantling electronics."
 

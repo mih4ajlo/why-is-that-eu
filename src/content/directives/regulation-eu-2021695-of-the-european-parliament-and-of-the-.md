@@ -51,15 +51,15 @@ The most significant structural change is the shift away from a "fixed triple-A"
 
 ## Key questions answered
 
-### Why did Horizon Europe introduce "Missions" instead of just continuing Horizon 2020's structure?
+### Why did the EU's main research funding programme create "Missions" instead of sticking with the old project structure?
 
 The missions concept was championed by Commissioner Moedas and modelled on the Apollo programme and the UN Sustainable Development Goals. The idea was to shift from funding research topics to achieving clear, measurable societal outcomes. The Commission's 2018 impact assessment argued that Horizon 2020 had spread funding too thinly across "bottleneck" challenges; missions would focus resources on a few visible, high-stakes targets that could capture public and political attention. The Parliament and Council broadly supported the idea, but the Court of Auditors later criticised their implementation as underfunded and poorly coordinated.
 
-### Why was the budget of Horizon Europe cut from €100 billion to €95.5 billion?
+### Why was the budget for EU research funding cut from €100 billion to €95.5 billion?
 
 The €4.5 billion cut came during the July 2020 European Council, where net contributor states (Austria, Denmark, the Netherlands, Sweden) demanded overall MFF reductions. The Commission proposed €100 billion, the Parliament supported it, but the Council initially settled on €83.1 billion. The final figure of €95.5 billion — plus the €5.4 billion from NextGenerationEU — was a compromise brokered by European Council President Charles Michel, allowing the Parliament to claim victory (total €100.9 billion with recovery funds) while the Council saved face by capping core EU budget spending.
 
-### Why did the UK take so long to associate to Horizon Europe?
+### Why did it take the UK so long to rejoin the EU's big research funding programme?
 
 Post-Brexit, the UK became a third country but continued to participate in Horizon 2020 until the end of 2020. The EU-UK Trade and Cooperation Agreement (signed December 2020) included a protocol on Horizon Europe association, but the EU delayed formalisation due to disputes over the Northern Ireland Protocol and the UK's refusal to pay the €2.6 billion contribution the EU demanded for 2021-2027. The deadlock was broken in September 2023 when the EU and UK reached a new financial agreement after the Windsor Framework resolved the post-Brexit trading arrangements.
 

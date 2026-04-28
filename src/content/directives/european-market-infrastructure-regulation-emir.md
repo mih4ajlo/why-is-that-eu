@@ -55,19 +55,19 @@ The UK’s departure from the EU in 2020 created a major jurisdictional split. L
 
 ## Key questions answered
 
-### Why did EMIR require central clearing for derivatives?
+### Why did new rules force most derivatives trades to go through a central clearinghouse?
 
 Central clearing reduces counterparty risk by interposing a CCP that guarantees all trades. If one party defaults, the CCP absorbs losses using pooled margin and default funds — preventing the type of cascade that followed Lehman’s collapse. The 2009 G20 commitment made it a political priority, but the EU chose a phased approach: only standardised contracts (mainly interest rate swaps and credit default swaps) were mandated first.
 
-### Why does EMIR require reporting to trade repositories?
+### Why do all derivatives trades have to be reported to a central database?
 
 Before EMIR, regulators had no centralised view of OTC derivatives exposure. The 2008 crisis showed that no one — not the US Treasury, not the ECB — could measure systemic risk in derivatives. EMIR’s reporting obligation requires every derivative trade to be reported with 25 data fields to an ESMA-registered trade repository, creating a global data pool. By 2020, ESMA had 6 trade repositories handling over 50 billion reports annually.
 
-### Why did pension funds get an exemption from clearing under EMIR?
+### Why were pension funds allowed to skip the mandatory clearing requirement?
 
 Pension funds initially opposed mandatory clearing because they hold long-term, illiquid assets that make it expensive to post daily cash margin. A three-year exemption was granted in 2012, extended multiple times under political pressure from the European Association of Paritarian Institutions (AEIP) and national pension fund groups. EMIR Refit eventually made the exemption indefinite, recognising that pension funds pose lower systemic risk than banks.
 
-### How did Brexit affect EMIR?
+### How did the UK leaving the EU change the rules for trading derivatives?
 
 Brexit created a regulatory schism: London hosts LCH Ltd, the world’s largest derivatives CCP, clearing over €600 trillion notional annually. Under EMIR, UK CCPs needed equivalence to continue serving EU clients. ESMA granted temporary recognition in 2020, but the EU has since pushed for relocation — threatening to require EU banks to clear through EU-based CCPs. In 2022, ESMA extended recognition to June 2025, with the Commission calling for "reduced reliance" on UK infrastructure.
 

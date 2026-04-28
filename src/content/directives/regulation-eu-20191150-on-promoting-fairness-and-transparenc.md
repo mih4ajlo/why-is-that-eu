@@ -53,15 +53,15 @@ Enforcement remains weak. The regulation relies on platforms self-reporting comp
 
 ## Key questions answered
 
-### Why does the P2B Regulation not set price controls or ban self-preferencing?
+### Why don't EU rules for online platforms like Amazon or Google Shopping set price limits or stop them from favoring their own products?
 
 The Juncker Commission chose procedural transparency over economic regulation because it was politically achievable. The Netherlands, Ireland, and Luxembourg would have vetoed any measure that forced Booking.com, Google, or Amazon to give competitors equal commercial terms. The P2B Regulation passed because it was weak enough not to trigger Member State opposition, leaving stronger measures to the later Digital Markets Act (2022).
 
-### Why do small businesses still lose disputes despite the P2B Regulation?
+### Why do small businesses still lose arguments with big platforms even after the EU passed rules to make disputes fairer?
 
 The regulation gives procedural rights but does not create a substantive right to a fair commercial outcome. A platform can still delist a seller for a legitimate reason — such as low customer ratings or intellectual property complaints — and the seller's only recourse is mediation, which is non-binding. The Commission's 2022 report found that mediation resolved only 24% of cases, with many businesses declining to participate due to fear of retaliation.
 
-### How does the P2B Regulation relate to the Digital Markets Act (DMA)?
+### How do the EU's rules for fair treatment of businesses on online platforms connect to the separate rules for the biggest tech companies (like the Digital Markets Act)?
 
 The P2B Regulation applies to all online intermediation services regardless of size, while the DMA (2022/1925/EU) imposes stricter obligations only on designated "gatekeepers" — the largest platforms. The DMA bans self-preferencing, data combing, and most-favoured-nation clauses — practices the P2B merely requires transparency about. The P2B is thus a baseline; the DMA is the enforcement upgrade.
 

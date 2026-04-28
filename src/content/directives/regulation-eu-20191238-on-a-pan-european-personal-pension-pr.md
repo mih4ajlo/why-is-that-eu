@@ -56,14 +56,14 @@ A notable consequence has been the pressure on the European Commission to revisi
 
 ## Key questions answered
 
-### Why did the PEPP adopt a 1% fee cap when industry said it was too low?
+### Why did the EU cap fees on a new type of cross-border pension at 1% when pension companies said it was too low?
 
 The 1% cap was a political compromise between consumer groups who wanted lower fees and industry who wanted none. According to the Commission's 2017 impact assessment, the average annual management fee for personal pensions across the EU was 0.9%, but this masked enormous variation: fees in some Member States exceeded 3% annually. The European Parliament's ECON committee initially proposed a 0.75% cap, while the Council proposed 1.5%. The final 1% figure emerged from trilogue negotiations in late 2018. Insurers warned that the cap would make PEPP unprofitable for smaller providers and certain customer segments, but the Commission and Parliament prioritized consumer protection after studies showed that even 1% annual fees could reduce total retirement savings by 20% over a 40-year career.
 
-### Why hasn't PEPP succeeded despite being designed as a single-market solution?
+### Why hasn't the EU's plan for a single Europe-wide personal pension taken off?
 
 PEPP's failure to gain traction stems from a fundamental design flaw: the regulation created a product but did not harmonize the tax environment in which it operates. According to the European Commission's 2023 review, national tax rules effectively determine the product's attractiveness. In 22 of 27 Member States, PEPP contributions are not tax-deductible or are subject to less favorable treatment than national products. Additionally, the regulation left distribution and advice in national hands, meaning PEPP providers must still comply with 27 different advisory regimes and marketing rules. The product's portability, while theoretically valuable, applies only to the accumulation phase — payout structures remain subject to national rules, creating further friction.
 
-### Why did Denmark and the Netherlands vote against Regulation (EU) 2019/1238 on a Pan-European Personal Pension Product (PEPP)?
+### Why did Denmark and the Netherlands vote against the EU's new Europe-wide personal pension product?
 
 Both Denmark and the Netherlands already had mature, high-penetration occupational pension systems that cover 80-95% of their working populations. According to the European Commission's 2017 impact assessment, their existing systems offered fees well below the PEPP's 1% cap (average 0.3-0.5% annually in occupational plans). Dutch and Danish pension funds, represented by PensionsEurope, argued that a new EU product would not add value for their members but could undermine the efficiency of their collective systems by drawing assets away from low-cost, professionally managed funds. Their opposition reflected a broader tension in the PEPP negotiation between countries with well-developed private pension systems (Germany, Denmark, Netherlands, Sweden) and those with weaker coverage (particularly Southern and Eastern European Member States).

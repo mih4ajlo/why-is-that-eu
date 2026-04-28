@@ -49,15 +49,15 @@ In terms of enforcement, the Commission has already issued recommendations to se
 
 ## Key questions answered
 
-### Why is the target 42.5% instead of a round number like 45% in RED III?
+### Why is the EU's renewable energy target set at 42.5% instead of a round number like 45%?
 
 The 42.5% target emerged from a compromise between the Parliament's ambition for 45% (driven by REPowerEU) and the Council's concern about national binding targets. In the March 2023 trilogue negotiations, the Parliament accepted a binding collective target of 42.5% while gaining an additional "aspirational" 2.5% top-up to reach 45%. This structure allowed both sides to claim victory: Parliament could point to the aspiration, while member states retained flexibility, as the top-up is not legally binding. The 32% target under RED II had also been a compromise between the 27% originally proposed by the Commission and the 35% sought by Parliament.
 
-### Why did RED III introduce dedicated targets for industry and transport rather than a single overall target?
+### Why did EU rules create separate renewable energy goals for industry and transport instead of just one overall target?
 
 The introduction of sector-specific sub-targets reflects a structural issue that emerged during RED II's implementation: the overall renewable energy target masked very uneven progress across sectors. According to the Commission's 2020 Renewable Energy Progress Report, the share of renewables in electricity had reached 34% by 2018, but in transport it was only 8% and in heating and cooling it was just 22%. Industry and transport remained heavily fossil-dependent, particularly for hydrogen used in refining and steelmaking. The sector targets in RED III force action in these lagging areas, preventing countries from simply reaching the overall target through a massive build-out of cheap electricity alone.
 
-### Why did the war in Ukraine trigger a faster permitting regime under RED III?
+### Why did the war in Ukraine lead to faster approval processes for renewable energy projects in Europe?
 
 Before the war, permitting was a well-known barrier but lacked the political will to reform it. The Commission's 2020 study on permitting barriers found that wind projects in Germany took an average of 5-7 years to permit, while in Italy it could reach 10 years. These delays were widely seen as the single biggest bottleneck to deployment, but member states resisted reform because they feared losing control over local planning decisions. The 2022 energy crisis changed this calculation. When Russia cut gas flows via Nord Stream 1 in June 2022, the EU faced an immediate fuel shortage. The Commission's emergency regulation of November 2022, which introduced 6-month permitting deadlines for certain renewable projects, was explicitly justified under Article 122 of the Treaty on the Functioning of the EU, which allows emergency measures in times of crisis. RED III's permanent reforms codified these crisis-era measures into law.
 

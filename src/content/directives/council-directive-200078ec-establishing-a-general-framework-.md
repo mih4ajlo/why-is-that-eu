@@ -59,15 +59,15 @@ The directive's biggest failure has been uneven enforcement. The 2018 REFIT eval
 
 ## Key questions answered
 
-### Why does Council Directive 2000/78/EC cover employment but not goods and services?
+### Why do EU anti-discrimination rules cover jobs but not things like buying goods or using services?
 
 Political pragmatism. The Treaty of Amsterdam gave the EU legal competence for discrimination in employment, but extending protections to goods and services (like the Race Directive did) would have required unanimous support in the Council — which was impossible given that the UK, Germany, and Austria were already abstaining on the employment provisions. A 2008 Commission proposal for a horizontal directive covering all areas of life (the so-called "Equal Treatment Directive 2.0") has been blocked in the Council since 2009, with Germany and several Eastern European member states opposing the sexual orientation and disability provisions.
 
-### Why does Council Directive 2000/78/EC allow exceptions for genuine occupational requirements?
+### Why can employers sometimes require a specific characteristic for a job, like hiring only a woman to work in a women's shelter?
 
 Church lobbying and religious freedom concerns. The Catholic Church and Orthodox churches in Greece and Poland successfully argued that their organisations should be able to require employees to share their religious beliefs. Article 4(2) allows churches and other organisations with a religious ethos to require "good faith" and "loyalty" in employment — a provision that has been controversial ever since. The Court of Justice in *G4S Secure Solutions* (C-157/15, 2017) limited this exception, ruling that employers cannot ban all religious symbols in the workplace unless they have a specific policy need.
 
-### Why does Council Directive 2000/78/EC not explicitly cover gender identity?
+### Why don't EU workplace discrimination rules clearly protect people based on gender identity?
 
 Because in 2000, the trans rights movement had not yet achieved mainstream political representation. The European Parliament's 1999 report had recommended covering gender identity explicitly, but the Council removed it during negotiations. Instead, the Court of Justice later read gender identity into the scope of "sex discrimination" under the sex equality directive (2006/54/EC) through cases like *P v S* (1996) and *Richards v Secretary of State* (C-423/04, 2006). The EU Charter of Fundamental Rights, now binding through the Lisbon Treaty, does not explicitly mention gender identity either — a gap the Commission acknowledged in its 2020 LGBTIQ Equality Strategy.
 

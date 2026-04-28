@@ -56,19 +56,19 @@ Industry resistance was substantial. BusinessEurope, the main lobby group, warne
 
 ## Key questions answered
 
-### Why did ATAD not harmonize corporate tax rates across the EU?
+### Why didn't EU anti-tax-avoidance rules also harmonise corporate tax rates?
 
 ATAD deliberately avoided touching tax rates because the Commission had no legal mandate under the Treaty on the Functioning of the EU — tax rates require unanimous consent from member states, which low-tax states like Ireland vetoed. Instead, ATAD harmonized anti-abuse *measures*, which member states could justify under the single market's need to prevent internal distortions. A Commission proposal for a Common Consolidated Corporate Tax Base (CCCTB) in 2016, which would have harmonized tax bases, failed completely in 2019 due to Luxembourg and Ireland's opposition.
 
-### Why did ATAD take so long to pass given years of tax avoidance scandals?
+### Why did it take so long for the EU to pass rules against tax avoidance after years of scandals?
 
 The political cost of action only outweighed the cost of inaction after LuxLeaks made the issue a front-page scandal in every EU country simultaneously. Previous scandals (e.g., Starbucks and Amazon in 2014) had been handled through state aid investigations alone, which take years and only address individual cases. LuxLeaks directly implicated a sitting Commission President (Juncker), creating an immediate reputational crisis for the EU itself. The OECD's BEPS framework provided technical cover, but the political trigger was the ICIJ leak.
 
-### How effective is ATAD's General Anti-Abuse Rule (GAAR)?
+### How well does the EU's general rule against abusive tax schemes actually work?
 
 The GAAR is widely considered the weakest element of ATAD. Designed as a catch-all provision against "non-genuine arrangements" motivated by tax avoidance, its effectiveness depends entirely on national interpretation and court enforcement. A 2021 study by the European Tax Policy Center found that only 14 of 27 member states had explicitly incorporated the GAAR into national law with clear enforcement guidelines. The CJEU's *Hornbach-Baumarkt* ruling in 2019 limited the GAAR's scope, creating legal uncertainty. Tax advisors freely offer advice on structures that "do not trigger the GAAR."
 
-### What happens when a member state fails to implement ATAD?
+### What happens if an EU country doesn't put the bloc's tax-avoidance rules into its own laws?
 
 The European Commission can launch infringement proceedings under Article 258 TFEU. In 2021, the Commission opened cases against Cyprus, Poland, Luxembourg, and the Netherlands for incomplete transposition. In December 2022, the CJEU fined Poland €1 million per day for failing to implement the CFC rules — a rare punitive sanction. Most member states eventually comply, but the process typically takes 2-4 years, during which companies can legally exploit the gap.
 

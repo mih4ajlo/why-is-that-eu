@@ -56,19 +56,19 @@ First enforcement actions are expected from 2026 onward. The regulation does not
 
 ## Key questions answered
 
-### Why does the Data Act exclude personal data?
+### Why do new data-sharing rules exclude personal information?
 
 The Data Act is explicitly designed to complement the GDPR, not replace it. Personal data already has a regulatory framework under GDPR, which grants data subjects rights of access and portability. The Data Act focuses on the gap — non-personal data from IoT devices, such as machine performance metrics, soil composition readings, or industrial sensor logs — which had no clear legal framework for access and reuse. Where data is mixed (personal and non-personal), both regulations apply simultaneously, a complexity the Commission promised to address in guidance.
 
-### Why did John Deere oppose the Data Act?
+### Why did John Deere fight against rules that require sharing tractor data?
 
 John Deere's opposition reflected the broader agricultural equipment industry position. The company argued that revealing diagnostic data and maintenance protocols would expose proprietary algorithms and trade secrets — a claim the Commission's impact assessment acknowledged, but countered by noting that the Data Act's trade secrets provisions (Article 4) require data holders to protect trade secrets "by means of appropriate technical and organisational measures" before sharing. The practical effect: a manufacturer can refuse to share data if doing so would "likely cause serious damage" to trade secrets, but the burden of proof is on the manufacturer, not the data requester.
 
-### Why are cloud switching provisions of the Data Act delayed until 2027?
+### Why are the rules that let you switch cloud providers easily delayed until 2027?
 
 The delayed application (12 January 2027) for cloud switching provisions reflects intense industry lobbying. Cloud providers argued that implementing full interoperability and data portability for enterprise workloads required significant infrastructure changes — particularly for "vertical" cloud services like software-as-a-service platforms. The Commission accepted a phased approach, with smaller providers receiving additional time. The European Cloud Federation, representing providers like OVHcloud and Deutsche Telekom, supported the provisions but warned that overly aggressive timelines could harm Europe's still-nascent cloud competitors.
 
-### Why does the Data Act also regulate smart contracts?
+### Why do data-sharing rules also cover automated contracts?
 
 The inclusion of smart contract provisions was a late addition during trilogue negotiations, driven by concerns about the reliability of automated data-sharing agreements. The regulation requires smart contracts used for data sharing to include a "kill switch" mechanism and to be auditable. This addresses cases like the 2022 collapse of algorithmic stablecoin TerraUSD, which raised broader questions about automated code without human oversight. The provisions apply only to smart contracts executing automated data-sharing agreements, not to blockchain applications generally.
 

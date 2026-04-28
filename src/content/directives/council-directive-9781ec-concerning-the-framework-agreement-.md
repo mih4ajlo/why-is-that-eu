@@ -49,19 +49,19 @@ The directive faced significant corporate resistance. In 2003, the Confederation
 
 ## Key questions answered
 
-### Why does Council Directive 97/81/EC only cover part-time work, not other atypical forms like temporary or agency work?
+### Why do EU rules on part-time work only cover part-time jobs, not temporary or agency work?
 
 The directive was part of a trilogy of atypical work measures, but the social partners failed to agree on temporary and agency work in the 1996 negotiations. The Commission later adopted separate directives: the Fixed-term Work Directive (1999/70/EC) in 1999, and the Temporary Agency Work Directive (2008/104/EC) in 2008. The part-time agreement was the easiest to achieve because employers saw part-time work as less disruptive to business models than agency or fixed-term contracts.
 
-### Why did the UK oppose Council Directive 97/81/EC under John Major but support it under Tony Blair?
+### Why did the UK oppose EU part-time work rules under John Major but support them under Tony Blair?
 
 John Major's Conservative government regarded the Maastricht Social Protocol as a "socialist plot" to impose EU-level employment costs on British business. Major negotiated the UK's opt-out in 1991 and maintained it. The Labour Party, under Blair's "New Labour" agenda, had committed to signing the Social Chapter in its 1997 manifesto. Blair signed the Social Chapter at the Amsterdam European Council in June 1997, making UK adoption of the directive a formality.
 
-### Why did employers (UNICE) agree to negotiate the Framework Agreement on part-time work at all?
+### Why did employers agree to negotiate EU rules on part-time work in the first place?
 
 UNICE agreed to negotiate because the alternative — a Commission-drafted directive — would likely have been more prescriptive and less favourable. By negotiating the Framework Agreement, employers secured a more flexible text that allowed objective justifications for differential treatment and did not create a general right to move from full-time to part-time work. A leaked UNICE internal memorandum from 1996, cited by the ETUC, reportedly stated: "Our best outcome is a weak framework agreement that pre-empts a strong directive."
 
-### How did Council Directive 97/81/EC affect women specifically?
+### How did EU part-time work rules affect women specifically?
 
 Overwhelmingly positively. In 1996, women made up 80% of EU part-time workers, according to Eurostat. The directive eliminated explicit pay discrimination and gave women the right to equal treatment on a pro-rata basis for pensions, training, and promotion. The European Women's Lobby, in its 1998 evaluation, described the directive as "the single most important EU legal instrument for gender equality in the labour market since the Equal Pay Directive."
 

@@ -54,15 +54,15 @@ The directive also had unintended consequences. Hospital pharmacies in several c
 
 ## Key questions answered
 
-### Why does the FMD only apply to prescription medicines?
+### Why do the rules only apply to medicines you need a prescription for?
 
 The directive applies to prescription medicines because they pose the highest risk to patient safety if falsified — they are used for serious conditions where patients cannot easily detect ineffective treatment. Over-the-counter medicines were excluded after lobbying from the consumer goods industry, which argued that the costs of serialisation outweighed the benefits for products with lower safety risks. The Commission's 2015 impact assessment confirmed that 95% of falsified medicine cases involved prescription-only products.
 
-### Why didn't the EU adopt a single EU-wide logo for online pharmacies instead of national ones under the Falsified Medicines Directive?
+### Why didn't the EU create one common logo for all online pharmacies instead of letting each country have its own?
 
 The directive requires each member state to create a national logo for legally operating online pharmacies, linked to a common EU design. This was a compromise between the European Parliament, which wanted a single EU logo for simplicity, and member states, which insisted on retaining regulatory control over their national pharmacy systems. The result is that the EU logo is identical in design across all states, but each country maintains its own register of authorised online pharmacies. Patients must check the logo on their national regulator's website — a barrier the Commission acknowledged in its 2019 implementation review.
 
-### How does the Falsified Medicines Directive relate to the 2019 Brexit?
+### How did the 2019 Brexit affect the EU's rules for stopping fake medicines?
 
 Brexit created a major gap. The UK, which left the EU before the FMD's 2019 application date, was part of the EMVO database during negotiations but was excluded from access after January 2020. This meant that medicines manufactured in the UK for EU markets needed separate serialisation codes, and medicines manufactured in the EU for the UK market needed UK-specific codes. The European Medicines Agency's 2021 report noted that this duplication increased supply chain costs by approximately 5-10% for medicines traded between the UK and the EU. Northern Ireland remains subject to EU FMD requirements under the Northern Ireland Protocol.
 

@@ -55,15 +55,15 @@ Enforcement saw only one high-profile sanction: in 2017, the EMA fined a US manu
 
 ## Key questions answered
 
-### Why does Regulation (EC) No 1901/2006 require a paediatric investigation plan (PIP) but allow waivers?
+### Why do EU rules require drug companies to test medicines on children, but sometimes let them skip it?
 
 Because the regulation balances two competing principles: children must not be used as test subjects for drugs that cannot help them, but they also must not be denied access to potentially beneficial treatments. The waiver system exists for conditions that do not occur in children (e.g., prostate cancer) — the EMA's PDCO grants about 30% of initial applications a full waiver. The 2023 review found that 40% of waivers were appealed by pediatricians who argued some adult drugs could also treat rare children's diseases, leading to a appeals process.
 
-### Why did the EU choose patent extensions rather than direct subsidies in Regulation (EC) No 1901/2006?
+### Why did the EU choose to give drug companies extra patent time instead of direct cash payments to encourage children's medicine research?
 
 The Commission rejected direct subsidies in the 2004 impact assessment, estimating they would require an EU budget of €500 million–1 billion annually — politically unaffordable. Patent extensions cost governments through delayed generic entry rather than direct budget outlays, making them fiscally less visible. They also aligned with the 2003 EU Pharma Strategy's logic of using intellectual property as a policy lever. However, critics note this shifted costs to national health systems, with the 2015 *Value in Health* study calculating that EU governments paid €4 billion in extra costs over the first decade.
 
-### Why does Regulation (EC) No 1901/2006 still leave 50% of children taking off-label medicines?
+### Why do half of all children still get medicines that haven't been tested on them, despite EU rules meant to fix that?
 
 The regulation applies only to new drugs and drugs already under patent, not to older off-patent drugs. A 2020 study in the *European Journal of Clinical Pharmacology* found that 60% of paediatric off-label prescribing involves cheap, generic drugs for conditions like respiratory infections or pain — which lack market incentives for new trials. The 2017 Commission review noted that the regulation's Article 45 provision for "paediatric use marketing authorisations" for off-patent drugs received only 12 applications by 2016, as the financial rewards were too low. The European Academy of Paediatrics has called for a "grandfathering" system to extend the regulation to older drugs, but industry opposition has blocked it.
 

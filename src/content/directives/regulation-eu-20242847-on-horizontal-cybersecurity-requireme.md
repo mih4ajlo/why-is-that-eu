@@ -53,15 +53,15 @@ The open-source carve-out, while welcomed by maintainers, created a new legal ca
 
 ## Key questions answered
 
-### Why does the CRA (Regulation (EU) 2024/2847) use CE marking instead of a new cybersecurity label?
+### Why do new EU cybersecurity rules for smart devices use the existing CE mark instead of creating a separate security label?
 
 CE marking is the EU's universal conformity tool for products on the single market, with established market surveillance infrastructure in every member state. Bolting cybersecurity onto the existing system avoided creating a parallel bureaucracy and let the Commission leverage 30 years of New Legislative Framework practice. It also signals to manufacturers that cybersecurity is now a basic product-safety attribute, like electrical safety or EMC compliance.
 
-### Why did open-source maintainers push back so hard on Regulation (EU) 2024/2847?
+### Why did open-source software volunteers strongly oppose the new EU cybersecurity requirements for digital products?
 
 The original draft would have made anyone who placed software "on the market" — including unpaid maintainers of widely used libraries — liable for compliance, vulnerability handling and CE-marking obligations. Given that critical infrastructure runs on volunteer-maintained projects like OpenSSL, curl and Log4j, maintainers feared personal liability would force them to abandon European users or stop publishing entirely. The final text exempts non-commercial development and creates lighter obligations for "stewards" — typically foundations like Apache or Eclipse.
 
-### Why a 24-hour vulnerability reporting window in Regulation (EU) 2024/2847?
+### Why do the new EU cybersecurity rules require companies to report security flaws within 24 hours?
 
 Breton and Parliament negotiators argued that actively exploited vulnerabilities are time-critical: attackers move within hours, so ENISA needs early visibility to coordinate cross-border response. Critics including the Center for Cybersecurity Policy and Law warned the window was tighter than US CISA reporting (72 hours under CIRCIA) and could create a database of unpatched vulnerabilities — a high-value target. The compromise: report the existence and exploitation status within 24 hours, full technical details only once mitigations are available.
 

@@ -51,15 +51,15 @@ The RRF also deepened the shift toward joint EU borrowing: the Commission issued
 
 Chancellor Merkel's reversal was driven by the collapse of German export markets — 30% of German GDP depends on exports to the EU single market. With Italy, Spain, and France in deep recession, German carmakers and machinery companies faced collapsing demand. The alternative — national-level bailouts — risked splitting the eurozone and triggering a financial crisis. The historic taboos around eurobonds were broken by the pandemic's severity and the temporary, conditional nature of the fund: it was a one-off instrument, not a permanent fiscal union, and was tied to reform commitments.
 
-### Why does the RRF tie money to reforms instead of just spending?
+### Why does the EU's pandemic recovery fund tie money to reforms instead of just spending it?
 
 Years of structural funds had shown that simply reimbursing expenditures did not guarantee reform implementation. The Greek bailout programmes (2010-2018) had demonstrated the power of cash-for-reform conditionality — but those were imposed in crisis, not voluntarily. The RRF's novelty is that countries *themselves* propose reforms in their NRRPs, creating ownership. The Commission's capacity to withhold payment if milestones are missed creates a binding commitment device. This model was directly inspired by the experience of the 2013-2019 "Reform Delivery" contracts experimented with under the European Semester.
 
-### Why were Hungary and Poland's funds frozen under the RRF and how did they react?
+### Why were Hungary and Poland's recovery funds frozen and how did they react?
 
 The July 2020 European Council compromise included a rule-of-law conditionality mechanism (Regulation 2020/2092) that allows the Commission to suspend payments if breaches affect the EU budget's financial interests. Poland and Hungary initially challenged this mechanism before the European Court of Justice, which upheld it in February 2022. Poland's funds were unblocked only after the new Tusk government adopted judicial independence measures in 2024. Hungary's case remains deadlocked: Prime Minister Orbán's government refused to implement anti-corruption reforms, and in response, Orbán vetoed EU sanctions packages on Russia and blocked Ukraine's EU accession negotiations as leverage to unlock the funds. The standoff illustrates the RRF's evolving role as a political enforcement tool.
 
-### Will the RRF be renewed after 2026?
+### Will the EU's pandemic recovery fund be renewed after 2026?
 
 Formally, the RRF expires in August 2026 (loans must be drawn by that date, grants by December 2026). However, the Commission's 2024-2029 strategic agenda increasingly references the need for a permanent "European Competitiveness Fund" modelled on the RRF's performance-based grants. The high-level report by former Italian Prime Minister Enrico Letta ("Much More Than a Market", April 2024) and the Mario Draghi competitiveness report (September 2024) both called for permanent RRF-like instruments for industrial policy and the green transition. A renewal faces fierce opposition from frugal member states, who argue one-off debt mutualisation was an emergency measure, not a precedent. Any extension would require a new unanimity decision from the Council.
 

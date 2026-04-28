@@ -57,19 +57,19 @@ The regulation has also become a tool in the EU's broader digital sovereignty ag
 
 ## Key questions answered
 
-### Why did the EU replace the 1995 Directive with the General Data Protection Regulation instead of amending it?
+### Why did the EU scrap its old 1995 data privacy rules and write a whole new law instead of just updating them?
 
 Two reasons. The 1995 framework was structurally outdated — written before cloud computing, smartphones, social media, and behavioural advertising. And as a directive it had produced 28 inconsistent national laws; only a regulation could deliver a single market in data with uniform definitions and enforcement.
 
-### Why are the fines under the General Data Protection Regulation so high (up to 4% of global turnover)?
+### Why can companies be fined up to 4% of their worldwide revenue for breaking data privacy rules?
 
 Because previous penalties — typically capped at a few hundred thousand euros — were trivial for global tech firms and routinely treated as a cost of doing business. The drafters explicitly modelled the GDPR's penalty structure on EU competition law, where percentage-of-turnover fines have proven to be the only credible deterrent against multinationals.
 
-### Why does the General Data Protection Regulation apply to companies outside the EU?
+### Why do data privacy rules apply to companies based outside Europe?
 
 The 1995 Directive applied only to entities established in the EU, allowing US firms to argue that their European users were served from California and thus outside its scope. Article 3 of the GDPR explicitly extends jurisdiction to any organisation offering goods or services to, or monitoring the behaviour of, people in the EU — closing this loophole and asserting that the relevant connection is the data subject's location, not the controller's.
 
-### Why did it take two years for the General Data Protection Regulation to apply after adoption?
+### Why was there a two-year gap between when the data privacy law was passed and when it actually took effect?
 
 The May 2018 application date gave companies, regulators, and member states (which still had to set up authorities, adapt national laws on derogations, and train DPOs) a transition period. In practice, much of industry waited until early 2018 to begin serious preparation.
 

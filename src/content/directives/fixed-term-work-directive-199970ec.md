@@ -54,19 +54,19 @@ The directive's main achievement was to establish equal treatment for fixed-term
 
 ## Key questions answered
 
-### Why does the Fixed-Term Work Directive (1999/70/EC) not set a maximum total duration for fixed-term contracts?
+### Why don't EU rules on temporary contracts set a maximum total length for how long someone can be on a fixed-term contract?
 
 The absence of a fixed EU-wide maximum was the central political compromise. BusinessEurope (then UNICE) successfully argued during the 1997-1999 social partner negotiations that labour markets needed flexibility, and that any EU-imposed cap would be a "one-size-fits-all" constraint. The compromise allowed each Member State to choose its own anti-abuse mechanism—either a maximum total duration, a maximum number of renewals, or an objective justification requirement. This left implementation to national parliaments and social partners, ensuring the directive could be adapted to different national labour market traditions.
 
-### Does the Fixed-Term Work Directive (1999/70/EC) apply to fixed-term contracts in the public sector?
+### Do EU rules on temporary contracts apply to fixed-term workers in government and public sector jobs?
 
 Yes. The Court of Justice established this definitively in the 2004 *Marrosu* ruling (Case C-307/01), after Italy had tried to exclude the public sector from transposition. The Court ruled that the directive's scope "covers all workers, including those in the public sector", rejecting Italy's argument that constitutional traditions justified different treatment. This ruling forced several Member States with large public sectors—including Italy, Greece, and France—to bring their public sector fixed-term contract rules into compliance.
 
-### Why did the UK and Denmark vote against the Fixed-Term Work Directive (1999/70/EC) in the Council?
+### Why did the UK and Denmark vote against EU rules limiting the use of temporary contracts?
 
 The UK's Conservative government under John Major had been defeated in May 1997, but the incoming Labour government under Tony Blair still opposed the directive. Blair's position was that any EU regulation of temporary employment would reduce labour market flexibility and increase unemployment, reflecting the UK's preference for deregulated labour markets with minimal statutory protections. Denmark voted against on similar grounds, preferring its flexicurity model based on collective agreements rather than binding EU law. However, both countries were bound once the directive was adopted by qualified majority voting under the Amsterdam Treaty's social provisions.
 
-### Why did the CJEU's "Mangold" ruling under the Fixed-Term Work Directive (1999/70/EC) become so controversial?
+### Why did the European Court's "Mangold" ruling on age discrimination in temporary contracts become so controversial?
 
 The 2006 *Mangold* ruling (Case C-144/04) extended the directive's principle of non-discrimination to cover age discrimination, even though the directive itself only prohibits less favourable treatment for fixed-term workers compared to permanent workers. The Court ruled that non-discrimination on grounds of age is a "general principle of EU law" that must be upheld even in cases where the national transposition deadline had not yet passed. This was highly controversial because it effectively gave the directive a broader scope than its text, and because it allowed individuals to invoke the directive against national law even before the transposition period expired. The ruling was criticised by several Member States and legal scholars as an overreach of judicial power, but it has since been reinforced by subsequent CJEU cases.
 

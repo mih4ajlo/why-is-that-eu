@@ -55,19 +55,19 @@ The 2024 reform — Regulation 2024/1341/EU — replaced the directive with a di
 
 ## Key questions answered
 
-### Why wasn't the TPD activated during the 2015 migration crisis?
+### Why wasn't the EU's emergency mass migration plan used during the 2015 crisis?
 
 The TPD was designed for sudden, short-term mass influxes, not for migration that builds up over months. In 2015, the European Commission under Jean-Claude Juncker considered activating it in September for Syrian refugees, but the proposal never reached a Council vote. Several Member States — particularly Hungary, Poland, and the Czech Republic — refused to accept mandatory quotas, and the political climate was deeply hostile to any EU-imposed relocation. The UK also opposed activation, warning it would "encourage further flows." The Council instead relied on ad-hoc resettlement schemes and bilateral agreements, which proved inadequate.
 
-### Who opposed the adoption of Council Directive 2001/55/EC in 2001?
+### Which countries blocked the EU's temporary protection rules when they were first created in 2001?
 
 The UK, Ireland, and Denmark opted out of the directive entirely. The UK's Home Office at the time expressed concerns that binding burden-sharing would erode national control over borders. Denmark secured an opt-out under its Protocol on Justice and Home Affairs. Among Member States that did participate, negotiations on burden-sharing were the most contentious — the final text made all solidarity measures voluntary, not mandatory.
 
-### Why did the TPD work for Ukraine but not for Syria?
+### Why did the EU's emergency protection system work for Ukrainian refugees but not for Syrian refugees?
 
 The primary reasons were geographic proximity and political will. Ukraine borders four EU Member States — Poland, Slovakia, Hungary, and Romania — making it possible for large numbers to reach the EU by land. Syrian refugees arriving via the Mediterranean and Aegean faced a far more difficult journey and higher risks of death at sea. Politically, EU leaders saw the Ukraine crisis as an existential threat to European security, and the refugee flows were overwhelmingly women and children, which reduced public resistance. In contrast, the 2015 crisis was framed by many governments as an "invasion" or "security threat." The contrast prompted accusations of double standards from human rights organisations and some Global South governments.
 
-### What is the difference between the 2001 Council Directive 2001/55/EC and the 2024 regulation?
+### What changed between the EU's 2001 temporary protection rules and the 2024 version?
 
 The 2024 regulation replaces the directive and is directly applicable in all Member States, removing the need for national implementing laws. It introduces mandatory solidarity contributions — financial support or relocation — triggered by a qualified majority Council decision, replacing the voluntary system of 2001. Activation is also expedited: the Commission can now propose activation immediately upon receiving evidence of a mass influx, and the Council must vote within two weeks. The regulation also adds new protections including more detailed rules on residence permits, family reunification, and access to employment for beneficiaries.
 

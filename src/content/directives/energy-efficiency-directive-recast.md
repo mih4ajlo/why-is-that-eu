@@ -53,15 +53,15 @@ First enforcement actions are emerging: in September 2024, the Commission sent l
 
 ## Key questions answered
 
-### Why does the Energy Efficiency Directive (Recast) shift from national binding targets to an EU-level binding target?
+### Why did EU energy-saving rules switch from setting targets for each country to one overall target for the whole EU?
 
 The shift was a political compromise. Germany and France argued during Council negotiations in late 2022 that setting binding national targets was too rigid given the energy crisis and volatile forecasts. They preferred indicative national contributions with a binding EU overall target — giving them flexibility to adjust through national plans while still holding the bloc collectively accountable. This model mirrors the approach used under the Effort Sharing Regulation.
 
-### Why is the annual savings obligation nearly doubled to 1.49% in the Energy Efficiency Directive (Recast)?
+### Why are EU countries now required to save almost twice as much energy each year (1.49%) compared to before?
 
 The Commission's 2021 impact assessment modelled that achieving the original 32.5% target required a 0.8% savings rate, but reaching the new 55% emissions goal demanded deeper cuts. Commissioner Kadri Simson stated in the 14 July 2021 press conference that "efficiency is the hidden fuel of the energy transition." The 1.49% figure came from a linear interpolation between the 0.8% rate and what the Commission's modelling showed was needed to stay on the 1.5°C pathway under the Paris Agreement. The European Parliament's ITRE committee had pushed for 1.5%, settling on 1.49% during trilogue talks in March 2023.
 
-### How does the Energy Efficiency Directive (Recast) interact with the Energy Performance of Buildings Directive (EPBD)?
+### How do the EU's energy-saving rules work together with the rules on making buildings more energy efficient?
 
 The EED 2023 sets horizontal efficiency obligations across all sectors, while the EPBD (2024/1275/EU) specifically governs building performance. The EED's 3% renovation rate for public buildings complements the EPBD's new requirement for zero-emission buildings from 2030. Both directives now share the same timeline for national transposition (October 2025), and member states are expected to submit joint implementation plans. The Commission's 2023 guidance document notes that overlap exists — for instance, public building renovations required under the EED must meet the EPBD's energy performance standards.
 

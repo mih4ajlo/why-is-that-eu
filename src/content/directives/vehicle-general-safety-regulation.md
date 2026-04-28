@@ -51,15 +51,15 @@ The GSR's framework for automated driving has had a slower start. The Commission
 
 ## Key questions answered
 
-### Why did the EU mandate intelligent speed assistance (ISA) against industry opposition under the Vehicle General Safety Regulation?
+### Why did the EU force carmakers to install speed limiters even though they fought against it?
 
 The Commission's 2018 impact assessment showed that ISA could reduce collisions by up to 30% and fatalities by 20%, saving an estimated 25,000 lives over 10 years. Industry opposition—led by ACEA, which argued that ISA would annoy drivers and increase costs—was met with data from several studies, including a 2017 Swedish trial that found 85% of drivers accepted the system after using it. The Parliament insisted on ISA being mandatory, not just informative, after the ETSC provided evidence that voluntary systems had a compliance rate of only 10%.
 
-### Why does the Vehicle General Safety Regulation (GSR) require event data recorders ("black boxes") in all new vehicles?
+### Why do all new cars have to come with a "black box" that records crash data?
 
 The requirement, effective from July 2022, was pushed by accident investigation agencies and the European Court of Auditors, who argued that a lack of standardized crash data had hampered safety analysis. The European Road Safety Observatory had shown in 2016 that only 7 EU countries collected detailed event data, and that comparisons between member states were impossible. The GSR mandates that data recorders capture 11 parameters (speed, braking, steering angle, seatbelt status) for 5 seconds before and after a crash, and that the data remain anonymous unless a court orders its release.
 
-### Why did the Vehicle General Safety Regulation (GSR) also cover automated and driverless vehicles?
+### Why did EU safety rules also apply to self-driving and driverless cars?
 
 The inclusion of automated driving was a late addition, driven by the Parliament's insistence that the same regulation cover both legacy safety features and future technologies. The Commission had originally planned a separate directive, but the 2018 fatal Tesla crash in California—where the driver was using Autopilot—created a political consensus that the EU needed a single, coherent legal framework. The GSR's implementing rules, adopted in 2022, define three categories of automation: driver-only (level 0-2), assisted (level 3), and fully automated (level 4-5), with different approval requirements for each.
 

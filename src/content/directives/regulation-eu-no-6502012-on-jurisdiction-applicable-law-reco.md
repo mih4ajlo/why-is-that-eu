@@ -57,19 +57,19 @@ The regulation has not, however, solved all problems. Countries like Austria and
 
 ## Key questions answered
 
-### Why did the UK opt out of Regulation (EU) No 650/2012?
+### Why did the UK choose not to take part in the EU's common rules on cross-border inheritance?
 
 The UK opted out because its trust and estate planning industry, worth an estimated £1.5 billion annually according to a 2011 House of Lords report, feared that the habitual residence rule would cause wealthy individuals to be subject to continental forced-heirship rules, reducing demand for UK-based trust services. The UK government also objected to the regulation's treatment of trusts — the original proposal did not recognise them, and while the final text included a "compromise" allowing trusts to exist as "fiduciary relationships," the UK Law Society deemed it insufficient.
 
-### Why did Regulation (EU) No 650/2012 take so long to pass (1998–2012)?
+### Why did it take 14 years for EU countries to agree on a single set of rules for inheriting property across borders?
 
 The 14-year gap was due to three factors: the requirement for unanimity in private international law before the Lisbon Treaty (2009); deep disagreement over the connecting factor (habitual residence vs. nationality); and opposition from the UK, which blocked progress until its opt-out was formalised. The Lisbon Treaty’s introduction of qualified majority voting for judicial cooperation in civil matters (Article 81 TFEU) removed the unanimity requirement, enabling the final push.
 
-### Why does the European Certificate of Succession exist under Regulation (EU) No 650/2012 if national certificates are still valid?
+### Why does an EU-wide inheritance certificate exist if each country's own inheritance documents are still accepted?
 
 The ECS was created to solve a practical problem: national certificates were often not recognised across borders, forcing heirs to obtain multiple certificates from different countries. The ECS provides a single, standardised, multilingual document that is automatically recognised in all participating Member States, reducing time and cost. It is optional because some legal systems (e.g., France) already had robust national systems; the Commission deliberately avoided making it mandatory to allow a gradual transition.
 
-### Why does Regulation (EU) No 650/2012 not cover all types of property?
+### Why don't EU inheritance rules cover every kind of asset someone might own?
 
 The regulation explicitly excludes "rights in property" created by operation of law (e.g., certain matrimonial property regimes), as well as gifts and lifetime trusts. This was a political compromise: France pushed for exclusion of marital property regimes (covered later by Regulation 2016/1103), while the UK insisted on excluding trusts. The result is that assets held in trusts, or subject to pre-existing marital property agreements, fall outside the regulation’s scope, sometimes requiring separate legal proceedings.
 

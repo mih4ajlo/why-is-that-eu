@@ -46,15 +46,15 @@ Industry groups, particularly the construction and energy sectors, have consiste
 
 ## Key questions answered
 
-### Why does the Environmental Impact Assessment Directive (2011/92/EU) apply to private projects and not just public ones?
+### Why do environmental impact rules apply to private construction projects and not just government-funded ones?
 
 The original 1985 directive was restricted to public projects — those initiated by state authorities — because member states argued that private developers should not face the same administrative burdens. But in the 1990s, the Commission noted that private projects (chemical plants, shopping centres, wind farms) were causing major environmental damage without assessment. Amendment 97/11/EC extended the scope to all projects listed in Annex I (mandatory assessment) and Annex II (screening by member states), regardless of ownership, after the ECJ confirmed in Case C-72/95 (*Kraaijeveld*) that private projects could not be arbitrarily exempted.
 
-### Why did the 2014 amendment to the Environmental Impact Assessment Directive (2011/92/EU) add climate change to the assessment criteria?
+### Why did the 2014 update to EU environmental assessment rules require projects to consider climate change?
 
 Before 2014, the directive required assessment of "effects on climate" only indirectly through air quality or greenhouse gas emissions. The Commission's 2012 impact assessment on the reform noted that 85% of EIA reports examined ignored climate impacts entirely, even for projects like coal-fired power plants or deforestation. The amendment was pushed by MEPs Bas Eickhout (Greens/EFA) and the Parliament's rapporteur for the dossier, after the Fukushima nuclear disaster in 2011 demonstrated that climate risks (sea-level rise, extreme weather) could trigger cascading failures in infrastructure. The final text required assessment of "the impact of the project on climate" (e.g., carbon emissions and climate resilience) as a mandatory category.
 
-### How does the Environmental Impact Assessment Directive (2011/92/EU) interact with the Aarhus Convention on public participation?
+### How do EU environmental impact rules work together with the international treaty that gives the public a say in environmental decisions?
 
 The Aarhus Convention, which the EU ratified in 2005, guarantees the public's right to participate in environmental decision-making. The EIA Directive implements Aarhus by requiring that the "public concerned" — including environmental NGOs — have access to the environmental impact statement and a reasonable opportunity to comment before the decision is made. The 2003 amendment (2003/35/EC) was specifically aimed at bringing the directive into compliance with Aarhus, following a non-compliance finding by the Aarhus Compliance Committee in 2002. The European Court of Justice's 2011 ruling in *Brussels Airport* (C-165/09) confirmed that this participation right extends to non-residents whose environment is affected by transboundary projects.
 

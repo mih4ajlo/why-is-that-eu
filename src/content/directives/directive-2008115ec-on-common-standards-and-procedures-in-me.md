@@ -47,19 +47,19 @@ In 2019, Frontex reported that only 38 EU Member States (of 27) had fully transp
 
 ## Key questions answered
 
-### Why does Directive 2008/115/EC allow detention for up to 18 months?
+### Why can EU countries detain someone for up to 18 months while waiting to be deported?
 
 The 18-month cap was a compromise in the 2007-2008 negotiations. The Commission initially proposed 12 months, but Germany and France demanded longer to handle cases where migrants intentionally obstruct removal (e.g., destroying travel documents). The final text sets a six-month initial period, extendable by an additional 12 months only when removal is "likely to last longer" due to a lack of cooperation from the third-country national or delays in obtaining documents from third countries. The European Parliament had fought for a 6-month maximum, but the interior ministers won the extension.
 
-### Why is the voluntary departure period under Directive 2008/115/EC only 7 to 30 days?
+### Why is the time given to leave voluntarily only 7 to 30 days?
 
 The 7-30 day period in Article 7 was designed to balance the migrant's right to prepare for return against the state's interest in quick removal. The Commission's 2006 impact assessment found that longer voluntary periods (like 60 days in France) led to higher rates of absconding (up to 40%). However, the directive allows Member States to impose shorter periods (including zero) if there is a risk of absconding, a threat to public policy, or if the application for legal stay was found to be clearly abusive. This loophole has been heavily criticised by the UN High Commissioner for Refugees.
 
-### Why do the UK and Ireland opt out of Directive 2008/115/EC?
+### Why don't the UK and Ireland follow the EU's common rules on deporting illegal migrants?
 
 The Return Directive was adopted under Title IV of the TFEU (Area of Freedom, Security and Justice), which at the time allowed the UK, Ireland, and Denmark to opt out of any Justice and Home Affairs legislation. The UK formally opted out in 2009 under the Treaty of Lisbon protocols, preferring to keep its own "hostile environment" detention powers (up to 28 days for administrative detention) and faster removal processes. Ireland also opted out, while Denmark has a separate opt-out protocol.
 
-### What happens under Directive 2008/115/EC when a migrant appeals a return decision?
+### What happens to a deportation order when a migrant appeals it?
 
 Article 13 guarantees the right to an effective remedy before a competent judicial or administrative authority. The appeal must have suspensive effect—meaning the return decision is suspended pending the outcome—only if the Member State so decides. Critics (including the Council of Europe's Commissioner for Human Rights in 2013) argue this lack of automatic suspension violates Article 13 of the ECHR. The Court of Justice confirmed in 2015 (*Abdida*, C-562/13) that appeals against removal decisions must have automatic suspensive effect if the return would expose the migrant to a serious risk of irreparable harm.
 

@@ -61,15 +61,15 @@ Countries that struggled most with compliance included Austria, Belgium, and Fra
 
 Named after Dutch Commissioner Frits Bolkestein (internal market commissioner 1999-2004), the term became so politically toxic after the 2005 protests that the Commission deliberately stopped using it. By 2006, official communications referred only to the "Services Directive," and Bolkestein himself was widely vilified — he later wrote in his memoirs that the directive was "the most misunderstood piece of legislation in EU history." The term survives today mostly in eurosceptic media as shorthand for alleged EU neoliberalism.
 
-### Why was the country-of-origin principle in the Services Directive (Bolkestein Directive) so controversial?
+### Why was the idea that a company only has to follow its home country's rules when providing services across EU borders so controversial?
 
 It would have essentially allowed a Polish plumber to work in France under Polish labour law, paying Polish social security contributions and following Polish safety standards. Critics argued this would create a regulatory race to the bottom, with service providers choosing the most permissive home country. Supporters countered that it was no different from the Cassis de Dijon principle already applied to goods. The European Trade Union Confederation calculated it could undercut wages by up to 40% in high-cost Member States — a figure the Commission disputed but never definitively refuted.
 
-### Why did the Services Directive (Bolkestein Directive) survive at all given the opposition?
+### Why did the EU's rules on cross-border services survive at all given the massive protests against them?
 
 The key was the centre-right coalition in the European Parliament (EPP-ED) and Council holding firm, combined with a tactical retreat by the Commission on the most contested element. By sacrificing the country-of-origin principle — which McCreevy admitted in a 2006 Parliamentary hearing was "politically impossible" — the Commission secured the core administrative simplifications and mutual evaluation procedures. The alternative was no directive at all, which would have been a devastating blow to the Commission's credibility on single market reform. Business lobby groups, particularly BusinessEurope and the European Services Forum, lobbied intensively for a deal on any terms.
 
-### Did the Services Directive (Bolkestein Directive) lead to social dumping?
+### Did the EU's rules on cross-border services lead to companies undercutting local wages and worker protections?
 
 Evidence is mixed. The Commission's 2015 "Services Directive Report" found no systematic evidence of massive social dumping, but individual cases occurred — notably in the construction sector, where posted workers from Eastern Europe undercut local wages in Germany and Austria. The ECJ's 2016 ruling in Case C-256/15 (Sähköalojen ammattiliitto ry) established that home-country rules for posted workers still apply under the directive, limiting the most extreme scenarios. However, the political damage was done: the directive became a permanent cautionary tale about the limits of market integration in politically sensitive service sectors.
 

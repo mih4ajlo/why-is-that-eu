@@ -57,15 +57,15 @@ The directive's biggest success was structural: it created the infrastructure. B
 
 ## Key questions answered
 
-### Why do carmakers pay for recycling instead of owners under the End-of-Life Vehicles Directive (2000/53/EC)?
+### Why do carmakers have to pay for recycling old cars instead of the owners?
 
 The directive makes the last owner pay nothing because structural economics forced it. Before 2000, an average of 30% of ELVs were abandoned on streets or in fields across the EU — a 1997 Commission working paper found that in southern Italy, the figure reached 60%. When owners face a disposal fee, illegal dumping becomes rational. By making the manufacturer bear the cost (funded through the vehicle's sale price), the directive internalises the cost of waste management where it belongs — into the product's design and pricing — so the 2 million annual free riders (people who illegally abandoned vehicles) became recyclers instead.
 
-### Why did Germany support the End-of-Life Vehicles Directive (2000/53/EC) even though it cost its car industry money?
+### Why did Germany back rules that made its car industry pay for scrapping old vehicles?
 
 Germany's car manufacturers backed the directive pro-actively because they feared something worse: a German-only law. After the 1995 German Waste Management Act passed, states like Bavaria began drafting laws requiring carmakers to take back vehicles regardless of age or condition — a unilateral burden on German-only brands. The ELV Directive harmonised this across the EU, ensuring that BMW, Audi, and Mercedes would face the same recycling costs as Toyota, Fiat, and Renault. ACEA's internal 1998 position paper, leaked to the Commission, stated: "A common European regime is preferable to divergent national approaches."
 
-### Why didn't the End-of-Life Vehicles Directive (2000/53/EC) stop illegal exports to Africa and Eastern Europe?
+### Why didn't EU rules stop old cars from being illegally shipped to Africa and Eastern Europe?
 
 Two failures: a weak definition of "waste" and no enforcement capability. The directive treats vehicles as waste only when the owner intends to discard them — but if a trader buys a 15-year-old car for €300 and exports it to Nigeria as "a used vehicle", it's legally classified as a product, not waste. Customs officials have no reliable way to spot vehicles destined for scrapyards abroad. The Commission's 2020 Fitness Check found that 40% of exported used vehicles from the EU were more than 15 years old — effectively ELVs. The 2023 proposed revision closes this loophole by requiring that exported vehicles pass a roadworthiness test, but as of 2025, the revision is still under negotiation.
 

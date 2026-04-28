@@ -52,19 +52,19 @@ Companies affected include Meta and Google, which must implement the 24-hour del
 
 ## Key questions answered
 
-### Why does the EMFA regulate state advertising?
+### Why are there EU rules on how governments spend money on advertising?
 
 The Commission's 2022 impact assessment found that in Hungary, 95% of state advertising spending went to government-friendly outlets between 2017 and 2021, while in Poland the figure was 87%. Without transparency rules, state advertising became a tool for rewarding loyal media and starving independent outlets of revenue, creating an uneven playing field in the internal market.
 
-### Why does the European Media Freedom Act (2024/1083/EU) address content moderation by online platforms?
+### Why do EU rules address how social media platforms decide what content to remove or keep?
 
 The 2022 *New York Times* investigation into Facebook's moderation of Ukrainian media during the 2022 Russian invasion — where Facebook removed content from independent Ukrainian outlets citing its policy against "foreign government propaganda" — demonstrated that platform takedowns could silence credible journalistic content. The EMFA's 24-hour delay and media privilege clause create a procedural safeguard, forcing platforms to consult with national media regulators before removal.
 
-### Why create a new European Board for Media Services under the European Media Freedom Act (2024/1083/EU)?
+### Why set up a new EU-wide group of media regulators?
 
 The existing European Regulators Group for Audiovisual Media Services (ERGA) had no binding decision-making powers and could not resolve disputes between national regulators. The EMFA's Board can issue binding opinions when national regulators disagree on cross-border media matters, such as when one member state revokes a broadcaster's licence that another member state has granted. The Board's first such opinion, issued in December 2025, concerned the licence revocation of the Polish broadcaster TVN by Hungarian authorities.
 
-### Why does the EMFA cover public service media funding?
+### Why are there EU rules about how public broadcasters get their funding?
 
 The 2019 European Parliament resolution on media freedom documented cases in Poland and Hungary where governments cut public broadcaster funding by 40-60% within months of taking office, while simultaneously increasing funding for state-controlled outlets. The EMFA requires at least five-year funding cycles to prevent these sudden cuts, though member states retain the right to adjust budgets through annual parliamentary budget votes.
 

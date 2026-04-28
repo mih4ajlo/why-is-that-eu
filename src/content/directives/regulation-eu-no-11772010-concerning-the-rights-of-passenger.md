@@ -64,19 +64,19 @@ The regulation also exposed gaps. It does not cover multimodal journeys — a fe
 
 ## Key questions answered
 
-### Why are the compensation amounts under Regulation (EU) No 1177/2010 lower than for air travel (25–50% vs. up to 600€)?
+### Why are compensation amounts for delayed or cancelled sea travel lower than for flights (25–50% of ticket price vs. up to 600€)?
 
 The lower compensation reflects the lower average ticket prices in maritime transport — a short ferry voyage often costs €5–20, making a fixed minimum payment of €250 (as in air law) economically disproportionate. The Commission's 2008 impact assessment calculated that applying air-style compensation to maritime would raise operator costs by an estimated 60–120% on short-sea routes, which carriers argued would force route closures. The compromise was a percentage-of-ticket-price model.
 
-### Why do cruise ships have different treatment under Regulation (EU) No 1177/2010?
+### Why are cruise ships treated differently under EU passenger rights for sea travel?
 
 Cruise ships are covered, but with one key exemption: cancellation compensation does not apply when the cruise is cancelled due to "extraordinary circumstances" that genuinely could not have been avoided. This was hard-fought — cruise lines, organised under CLIA (Cruise Lines International Association), warned that a strict liability regime would cause itinerary changes or cancellations for minor mechanical issues. The compromise allowed carriers to withhold compensation if they could prove the circumstances were unavoidable, but they must still offer re-routing or reimbursement at the passenger's option.
 
-### Why does Regulation (EU) No 1177/2010 only apply to voyages over 3 nautical miles?
+### Why do EU passenger rights for boats only apply to trips longer than 3 nautical miles?
 
 This exemption, embedded in Article 2(2)(e), was introduced at the request of Member States with extensive inland waterways — particularly France and the Netherlands — where local passenger services (e.g., Amsterdam canal boats, Paris river shuttles) operate under short distance exemptions. The Commission's 2008 draft had no such exemption; the Parliament added it in the 2010 trilogues after lobbying from the French river transport association. Critics argue it creates a loophole for large ferries operating short harbour crossings (e.g., between Helsinki and its islands), but no Member State has moved to close it.
 
-### Why was the application date for Regulation (EU) No 1177/2010 set for December 2012, two and a half years after adoption?
+### Why did the EU wait two and a half years after passing the law to enforce passenger rights for sea travel?
 
 The delayed application was a direct concession to industry concerns about infrastructure investment for accessibility. The Commission's impact assessment estimated that 60–80% of EU ferry terminals needed physical modifications (ramps, accessible toilets, designated parking) to comply with the regulation's assistance provisions. Port authorities — represented by ESPO — argued that retrofitting existing terminals required major capital expenditure typically budgeted over multi-year cycles. The 2010 text therefore set a 30-month transition period, expressly to allow ports to complete modifications. According to the Commission's 2013 post-implementation report, nearly all major terminals had complied by the deadline.
 

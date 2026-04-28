@@ -55,15 +55,15 @@ First enforcement actions began in 2024 under the transitional period. The Frenc
 
 ## Key questions answered
 
-### Why does Regulation (EU) 2023/1230 specifically mention AI and software updates?
+### Why do new EU safety rules for machines specifically mention AI and software updates?
 
 Because the 2006 Directive defined "safety functions" as hardware-based (emergency stops, guards, two-hand controls). As software increasingly controls safety-critical functions — automatic braking in forklifts, collision avoidance in drones — the old framework had no legal lever to require validation of code changes. The March 2018 VW accident demonstrated that a routine software patch could bypass safety logic without triggering any regulatory obligation.
 
-### Why did the EU switch from a directive to a regulation for Regulation (EU) 2023/1230?
+### Why did the EU switch from letting each country write its own machine safety laws to having one rule for everyone?
 
 Member states had transposed the 2006 Machinery Directive into national law with substantial variation — Germany required third-party certification for certain machinery, the UK allowed self-declaration, France demanded French-language technical files. This fragmentation cost cross-border sellers an estimated €152 million annually (Commission 2018 study). A regulation eliminates transposition differences and creates a single set of rules directly available in 24 official languages.
 
-### Who lobbied hardest against the cybersecurity requirements of Regulation (EU) 2023/1230?
+### Who lobbied hardest against the cybersecurity requirements for machines sold in Europe?
 
 The agricultural machinery sector (CEMA, the European Agricultural Machinery Association) and the construction equipment sector (CECE) argued that tractors and excavators with minimal digital connectivity should be exempt. They ran a 2021 campaign warning of "€12 billion in hidden costs across Europe" — a figure the Commission's Regulatory Scrutiny Board rejected as "not supported by any cost modelling." The exemption was ultimately denied; instead, the regulation includes a "low-risk machinery" category with lighter cybersecurity obligations.
 

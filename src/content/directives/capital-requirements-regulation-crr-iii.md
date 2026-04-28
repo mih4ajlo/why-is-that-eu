@@ -46,19 +46,19 @@ Countries with concentrated banking systems — such as Estonia, Luxembourg, and
 
 ## Key questions answered
 
-### Why did EU banks oppose the output floor in CRR III so strongly?
+### Why did EU banks fight so hard against a rule that forces them to hold more capital for their own risk calculations?
 
 EU banks, particularly in Germany and France, argued that the output floor penalises their extensive use of internal models, which they claimed better reflected their actual risk profiles. The BdB and FBF lobbied the Commission repeatedly between 2017 and 2021, warning that a binding floor would raise capital requirements for SME loans by 10–20%, potentially reducing lending to the real economy. They also argued it disadvantaged European banks competing with US institutions that faced less stringent rules under the Federal Reserve's Basel III implementation.
 
-### Why was the final text of CRR III adopted after years of delay despite the 2017 Basel agreement?
+### Why did it take years to finalise new EU bank safety rules, even after a global agreement in 2017?
 
 The delay stemmed from sharp divisions within the Council of the EU: Germany, France, and other countries with large banking sectors initially pushed for a more gradual, non-binding approach, while the ECB, the European Parliament, and smaller member states like the Netherlands and Sweden demanded stricter implementation. The collapse of Credit Suisse in March 2023 broke the deadlock, providing a concrete demonstration of the risks from low capital buffers. Under the Swedish EU Council presidency (first half of 2023), negotiators reached a compromise: a binding output floor but phased in over five years, with some flexibility for mortgage and SME exposures.
 
-### How does CRR III affect SME lending in practice?
+### How do new EU bank rules actually make it harder or easier for small businesses to get loans?
 
 The regulation includes a specific "SME supporting factor" — first introduced in CRR II (2019) — which allows banks to apply a reduced risk weight of 76.19% to SME exposures under the standardised approach. CRR III maintains this factor, but the output floor limits its benefit for banks using internal models. The Commission's 2021 impact assessment estimated that the overall effect on SME lending would be "modest" — a reduction of 0.3–0.5% — while the ECB argued that improved capital quality would reduce funding costs for banks, partially offsetting any credit contraction.
 
-### Why did the European Parliament support stricter rules than the Council for CRR III?
+### Why did the European Parliament want tougher bank rules than EU governments did?
 
 The Parliament's economic committee, led by rapporteur Markus Ferber (EPP), viewed the output floor as essential to restoring confidence in EU bank capital ratios, which had been criticised by the IMF and the Basel Committee as being inflated by internal models. The Parliament's 2022 plenary vote (485 in favour) reflected a political consensus that EU banks needed to align with international standards, particularly after the ECB's 2021 stress test exposed vulnerabilities. Green and left-wing groups also supported stricter rules, arguing that capital adequacy is a precondition for prudential oversight of climate risks.
 

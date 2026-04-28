@@ -53,15 +53,15 @@ The most significant consequence has been the creation of a self-reinforcing vir
 
 ## Key questions answered
 
-### Why did the EU create a *centralised* portal rather than let each member state build its own for the e-Justice Portal and Related Regulations?
+### Why did the EU create a single online legal hub instead of letting each country build its own?
 
 Because the 2002 European Judicial Network model — where each state ran its own information site — produced wildly inconsistent quality and coverage. The Commission's 2009 evaluation found that only 12 member states had any functional cross-border legal information sites, and those that existed were often in only the national language. Without a centralised portal, a Romanian citizen seeking to claim a debt from a Swedish company would have to visit separate sites for each jurisdiction, each with different navigation, data formats, and access rules. The centralised model, based on the successful European Employment Services (EURES) portal, allowed multilingual search and single-point access, reducing user costs and ensuring consistent minimum quality.
 
-### Why did the e-Justice Portal and Related Regulations take so long (2009 to 2016) to go from prototype to formal regulation?
+### Why did it take seven years (from 2009 to 2016) to turn the EU's online court system from a test version into official law?
 
 The delay stemmed from two factors. First, the technical integration of national legal databases proved far harder than anticipated — countries like France and Germany had legacy systems built on incompatible standards (XML vs. proprietary formats) and had to invest €5-10 million each to adapt, according to the Commission's 2013 cost-benefit analysis. Second, the 2014 decision to use the e-CODEX platform (rather than a Commission-built system) required time-consuming pilot projects and legal agreements. The Regulation 2016/119/EU essentially codified what had been built and tested, standardising data exchange formats (using the European Case Law Identifier structure) and governance rules. Political will was never the bottleneck — technical complexity and cost were.
 
-### How does the e-Justice portal relate to the GDPR and data protection under the e-Justice Portal and Related Regulations?
+### How does the EU's online legal portal handle your personal data and privacy rights?
 
 The portal operates under Regulation 2018/1725/EU (the EU's data protection rules for its institutions), which mirrors the GDPR's principles but adds specific rules for judicial data. The portal processes case numbers, names of parties, and court decisions — all of which constitute personal data. The European Data Protection Supervisor (EDPS) has conducted three audits of the portal (2017, 2019, 2021) and found no major breaches, but flagged risks around the automatic retention of data from insolvency registers (which may contain sensitive financial information). Member states are responsible for the accuracy of the data they upload, and users can request data rectification via national data protection authorities. The Commission itself holds responsibility for the portal's overall security architecture, which underwent a stress test after a 2018 targeted cyberattack that affected the e-CODEX node in Austria — the attack was blocked, but it exposed the need for stronger encryption.
 

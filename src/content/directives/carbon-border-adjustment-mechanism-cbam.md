@@ -56,19 +56,19 @@ LDCs were largely exempted from concern; the bigger problem is middle-income exp
 
 ## Key questions answered
 
-### Why does CBAM only cover six sectors initially?
+### Why does the carbon border tax only apply to six industries at first?
 
 The Commission picked sectors that were both emissions-intensive and trade-exposed, where carbon leakage risk was highest and emissions were measurable: cement, iron and steel, aluminium, fertilisers, electricity and hydrogen. Including chemicals or refined products would have made the system unmanageably complex at launch given the difficulty of attributing emissions to specific molecules in integrated petrochemical sites. A 2026 review will consider extension downstream.
 
-### Why is CBAM compatible with WTO rules when other border taxes have been struck down?
+### Why is the carbon border tax allowed under global trade rules when other countries’ border taxes were rejected?
 
 The legal architecture mirrors the ETS: importers pay the same effective carbon price as EU producers, and any carbon price already paid abroad is deducted. This positions CBAM as a non-discriminatory internal measure under GATT Article III rather than a border tariff, and the General Exceptions in Article XX provide environmental cover. Whether a WTO panel agrees has not yet been tested — India and others have signalled they will file complaints once financial obligations bite in 2026.
 
-### Why did the EU phase out free ETS allowances at the same time as CBAM?
+### Why did the EU stop giving free pollution permits to industry at the same time it started charging a carbon border tax?
 
 Free allowances and CBAM are two solutions to the same problem — preventing leakage — and running both simultaneously would be double protection that the WTO would never accept. The 2022 trilogue settled on a parallel ramp: as CBAM rises from 2.5% in 2026 to 100% in 2034, free allocation falls from 97.5% to zero. Eurofer fought to keep free allowances longer; Parliament's Chahim won a faster phase-out.
 
-### Why was electricity included in CBAM given that it cannot easily be traced to a specific power plant?
+### Why does the carbon border tax cover electricity, even though you can’t easily tell which power plant it came from?
 
 Electricity imports from neighbouring grids — particularly Western Balkans coal power flowing into Italy, Greece and Croatia, and Ukrainian and Moldovan electricity — were a specific carbon leakage channel that pre-existed CBAM debates. The Energy Community Treaty had failed to harmonise carbon pricing in the Western Balkans, so CBAM provides the lever instead. Default emissions values are used since point-of-origin tracing is impossible.
 

@@ -53,15 +53,15 @@ Enforcement has been patchy. The EIA documented illegal HFC imports through the 
 
 ## Key questions answered
 
-### Why does Regulation (EU) 2024/573 ban SF₆ in electrical switchgear?
+### Why is sulfur hexafluoride being banned in electrical switchgear across Europe?
 
 SF₆ has a global warming potential 25,000 times greater than CO2, and its atmospheric concentration has been rising steadily — the European Environment Agency's 2022 report showed SF₆ emissions from Europe's power sector grew 18% from 2015 to 2021, despite the 2014 regulation recommending voluntary substitution. The Commission's 2020 impact assessment found that 80% of SF₆ in Europe is used in gas-insulated switchgear for medium- and high-voltage grids. Alternatives using commercial vacuum and solid dielectric technologies — produced by Siemens Energy, ABB, and others — became commercially available around 2019, enabling a ban without grid reliability risks.
 
-### Why did the EU delay the heat pump ban from 2027 to 2029 under Regulation (EU) 2024/573?
+### Why did the EU postpone the ban on certain heat pumps from 2027 to 2029?
 
 The initial Commission proposal of April 2022 set 2027 for banning HFCs in single-split air conditioners and heat pumps, which would have affected models using R-410A (GWP 2,088) common in Southern Europe. The European Heat Pump Association and national industry associations warned this would raise heat pump costs by 30-50% at a time when REPowerEU aimed to deploy 10 million new heat pumps by 2027. The European Parliament's ENVI Committee — notably rapporteur Bas Eickhout — secured a two-year delay in October 2023, contingent on availability of alternatives using propane or CO₂. The final text requires a review by 2027 to assess whether market-ready alternatives exist for the residential heat pump segment.
 
-### What happens to companies that exceed their HFC quota under Regulation (EU) 2024/573?
+### What are the penalties for companies that use more hydrofluorocarbons than their allowed limit?
 
 The regulation introduces a fee for quota allocation — €3 per tonne of CO2 equivalent initially, rising to €5 in 2025 — and a penalty of €10 per tonne for exceeding quota, based on the Commission's 2022 impact assessment. The first fee system was launched in January 2025. Member state authorities can impose additional fines; France's DGEC fined a French refrigeration wholesaler €1.2 million in 2022 for quota violations under the 2014 regulation. OLAF coordinates cross-border cases.
 

@@ -52,19 +52,19 @@ A notable consequence is the impact on payment innovation: the regulation forces
 
 ## Key questions answered
 
-### Why did the EU mandate instant payments under the Regulation on Instant Credit Transfers rather than rely on the market?
+### Why did the EU force banks to offer instant payments instead of letting the market decide?
 
 Because the voluntary approach had demonstrably failed. By 2022, only 11% of credit transfers were instant, despite the SCT Inst scheme being technically available since 2017. The Commission's impact assessment found that without regulation, it would take until 2030 to reach 50% adoption — too slow for a digital single market where other regions like India (Upi) and Brazil (Pix) were already processing billions of instant payments.
 
-### Why does the Regulation on Instant Credit Transfers also include fraud prevention measures?
+### Why do the new EU rules for instant bank transfers also include measures to prevent fraud?
 
 Because instant payments — irreversible within seconds — create new fraud opportunities. The European Banking Authority recorded €1.3 billion in APP fraud losses in 2021, and the UK's Payment Systems Regulator found that instant payment fraud rose 30% year-on-year in 2022. The IBAN-name matching requirement, originally proposed by the European Banking Authority in its 2022 guidelines, aims to ensure that the fastest payment method is also secure.
 
-### Why did Germany and France oppose the Regulation on Instant Credit Transfers?
+### Why did Germany and France oppose the EU's push for mandatory instant payments?
 
 German and French banking associations argued that mandatory instant payments would impose disproportionate costs on small banks, particularly German Sparkassen (savings banks) and French Caisses d'Épargne. The Bundesverband deutscher Banken estimated total compliance costs for the German banking sector at €1-2 billion, and questioned whether small institutions had the technical capacity to process payments 24/7/365. However, a compromise allowed compliance deadlines to be extended by six months for micro-enterprises.
 
-### How does the Regulation on Instant Credit Transfers relate to the digital euro project?
+### How do the new EU rules for instant payments connect to the planned digital euro?
 
 The regulation is a prerequisite for the ECB's digital euro project. The digital euro, if introduced, would be an instant payment settlement system — meaning all banks must first be capable of instant processing. The Commission's 2023 legislative proposal for a digital euro explicitly links to the Instant Payments Regulation, stating that "the legal framework for instant payments is a necessary condition for the technical feasibility of a digital euro."
 

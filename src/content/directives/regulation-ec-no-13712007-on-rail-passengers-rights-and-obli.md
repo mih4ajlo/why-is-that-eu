@@ -54,19 +54,19 @@ Enforcement, however, remains patchy. The Commission opened infringement proceed
 
 ## Key questions answered
 
-### Why did domestic exemptions last so long under Regulation (EC) No 1371/2007?
+### Why did it take so long for EU rail passenger rights to apply to domestic train journeys?
 
 Germany and France argued that domestic rail networks — where delays are more frequent than on high-speed services — would face prohibitive costs. Deutsche Bahn claimed in 2011 that full compliance would cost €200 million annually. The Commission’s 2013 report found these claims overblown, but the domestic exemption became a political trade-off: Germany demanded it in exchange for supporting aviation rights. The 2021 revision finally removed it because intra-EU rail travel had grown to 87% domestic, making the fragmented system unsustainable for single-market passenger mobility.
 
-### Why does aviation have stronger passenger rights than rail under Regulation (EC) No 1371/2007?
+### Why are airline passengers better protected than train passengers under EU rules?
 
 The 2004 Air Passenger Rights Regulation (261/2004) lifted a higher threshold — aviation had already built a unified, pan-European compensation system, whereas rail was national and fragmented. The aviation lobby was also weaker: airlines operating across Europe had already adopted unified cancellation policies for commercial reasons. Rail operators, by contrast, are often state-owned monopolies (SNCF, DB, FS) that had no commercial incentive to offer compensation. The 2021 revision narrowed the gap by requiring rail to offer re-routing (via train or alternative mode) — a right aviation has had since 2004 — but rail still lacks aviation’s right to care (meals, hotels) for delays under 60 minutes.
 
-### What changed in the 2021 revision of Regulation (EC) No 1371/2007?
+### What actually changed when EU rail passenger rights were updated in 2021?
 
 The revised regulation (2021/782/EU) eliminated the domestic exemption for all services after a 2-year transition, meaning every EU train must now offer compensation for delays. It also introduced new provisions: mandatory through-ticketing for journeys involving transfers between different operators (a key demand of the European Passengers’ Federation); strengthened liability for lost or damaged mobility equipment (wheelchairs, walkers) with a minimum compensation of €1,300; and a requirement for real-time delay information in accessible formats. The Parliament’s rapporteur, Karima Delli (France, Greens), secured the through-ticketing provision — a major win that had been blocked for years by state-owned operators.
 
-### Who opposed Regulation (EC) No 1371/2007 most aggressively?
+### Which groups fought hardest against EU rules protecting train passengers?
 
 National rail operators were the principal opponents. In 2007, SNCF’s CEO Anne-Marie Idrac sent a letter to Commissioner Barrot warning that mandatory compensation would raise ticket prices by 5–8%. Deutsche Bahn’s CEO Hartmut Mehdorn argued similar lines. In the Council, Germany, Austria, and France formed a blocking minority that secured the domestic-exemption clause. The European Rail Infrastructure Managers (EIM) lobbied for — and obtained — a clause exempting delays caused by infrastructure failures (e.g., signal faults) from compensation, arguing that operators should not pay for network faults.
 

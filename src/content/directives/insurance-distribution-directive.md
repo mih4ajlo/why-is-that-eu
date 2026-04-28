@@ -54,15 +54,15 @@ Enforcement has been uneven. In 2020, the Dutch Authority for the Financial Mark
 
 ## Key questions answered
 
-### Why did the IDD expand the definition of "insurance distributor"?
+### Why did the rules expand who counts as someone selling insurance?
 
 The original IMD only regulated insurance intermediaries — brokers and agents. The PPI scandal showed that banks, car dealers, and travel agencies selling insurance as ancillary products often lacked oversight. The IDD brought all distributors under the same rules, recognising that the sales channel — not just the product — determined consumer risk.
 
-### Why didn't the IDD ban commissions entirely?
+### Why didn't the rules ban insurance sales commissions completely?
 
 The European Parliament proposed a full ban for investment-related products, but industry opposition from Insurance Europe and some member states (notably Germany and Austria, where commission-based models dominate) forced a compromise. The IDD instead required commissions to be disclosed, banned volume-based remuneration that could distort advice, and applied MiFID-like bans only to investment life insurance with savings elements.
 
-### Why did the UK's PPI scandal drive the IDD?
+### Why did the UK's payment protection insurance scandal lead to new insurance sales rules?
 
 The UK's PPI mis-selling was the largest consumer financial scandal in EU history, with over £32 billion in compensation paid by 2017. It demonstrated the systemic harm from commission-driven sales without suitability checks. The UK's regulatory response — banning PPI sales without customer request, forcing firms to disclose commission — provided a practical template that the European Commission adopted in its 2012 proposal.
 

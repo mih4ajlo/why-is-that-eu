@@ -45,21 +45,21 @@ Countries opposed to the ban — notably Italy (where Fiat’s parent Stellantis
 
 ## Key questions answered
 
-### Why was 2035 chosen as the deadline in Regulation (EU) 2023/851?
+### Why was 2035 chosen as the deadline for banning new petrol and diesel cars?
 
 The 2035 date was derived from the EU’s 2050 climate neutrality target and the lifetime of vehicles. A new car sold in 2035 will typically remain on the road for 12-15 years. To have zero tailpipe CO2 emissions from the entire fleet by 2050, the last new fossil-fuel car must be sold around 2035. The 2030 interim target was set at 55% for cars (50% for vans) to provide a measurable trajectory.
 
-### Does Regulation (EU) 2023/851 actually ban internal combustion engines?
+### Does the EU’s 2035 car rule actually ban traditional engines?
 
 No — the regulation bans tailpipe CO2 emissions, not the engine itself. A theoretical vehicle could run on an internal combustion engine using 100% CO2-neutral synthetic fuel (e-fuels) and still comply, provided the e-fuel lifecycle emissions are verified by the 2026 review. However, current e-fuels are produced at very low volumes and high cost (€3-6 per litre), making this pathway economically uncertain at scale.
 
-### Was Regulation (EU) 2023/851 nearly blocked by a single member state?
+### Was the EU’s 2035 zero-emission car law nearly blocked by one country?
 
 Yes — Germany. After the Council adopted the text on 8 March 2023, the final step was formal approval by member state ambassadors. On 21 March, Germany announced it would not support the text, blocking the required qualified majority. Transport Minister Volker Wissing (FDP) demanded a clear legal exemption for e-fuels. The deadlock was broken on 25 March when the Commission issued a non-binding "statement" acknowledging the possible role of e-fuels, and Germany withdrew its objection. The regulation passed on 28 March with Germany voting in favour.
 
-### More broadly, what was the role of the European Parliament in Regulation (EU) 2023/851? Could they get rid of it?
+### More broadly, what power did the European Parliament have over the 2035 car ban? Could they cancel it?
 
-### Why did the German car industry not manage to block Regulation (EU) 2023/851?
+### Why didn’t the German car industry manage to stop the EU’s 2035 car emissions law?
 
 The German automotive industry was deeply divided. Volkswagen, Europe’s largest automaker, had already committed to an all-electric European fleet by 2033, and saw the EU regulation as aligning with its strategy. BMW and Mercedes-Benz, by contrast, had invested in e-fuel and hydrogen R&D, and wanted longer lead times. The German Association of the Automotive Industry (VDA) formally opposed the 2035 ban in 2022, warning of job losses. However, the industry’s influence was diluted by two factors: the "Dieselgate" scandal had eroded political trust in automakers’ voluntary commitments; and the German government coalition included the Greens, who controlled the Economy Ministry under Robert Habeck and made the ban a coalition prerequisite. The CDU/CSU opposition in the Bundestag supported the auto sector’s position, but the governing coalition’s narrow majority held.
 

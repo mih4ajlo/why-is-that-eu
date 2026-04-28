@@ -53,15 +53,15 @@ Early compliance challenges are expected. The Commission's 2024 implementation r
 
 ## Key questions answered
 
-### Why did the EU introduce an extended producer responsibility scheme for pharmaceuticals under the Urban Wastewater Treatment Directive (Recast) 2024?
+### Why did the EU make drug companies pay for cleaning up medicine residues from wastewater?
 
 The EPR scheme emerged from the failure of existing "polluter pays" mechanisms. Under the 1991 directive, the full cost of treating pharmaceutical residues — which are biologically active, persistent, and increasingly found in drinking water — fell on municipalities and water utilities, not the companies that designed and marketed the products. The Commission's 2022 impact assessment showed that quaternary treatment costs range from €0.15 to €0.50 per cubic meter of wastewater treated. By shifting 80% of these costs to producers, the EU aims to create a financial incentive for "green by design" pharmaceuticals that are more biodegradable, while also funding infrastructure upgrades that member states were unwilling or unable to finance from general taxation.
 
-### Why did the energy neutrality target in the Urban Wastewater Treatment Directive (Recast) 2024 face opposition from Central and Eastern European states?
+### Why did some Eastern European countries oppose the requirement for wastewater plants to produce as much energy as they use?
 
 Poland, Hungary, the Czech Republic, and Bulgaria argued that the 2030 target proposed by the Commission was unrealistic for countries with legacy infrastructure designed in the socialist era. According to the Polish Water Utility Association, 70% of Poland's treatment plants were built before 1995 and require complete retrofitting to integrate renewable energy systems. The compromise pushed the target to 2045, with intermediate milestones, and allowed member states to count energy recovered from sludge incineration — a common practice in Poland — toward the neutrality goal. The controversy reflected deeper east-west tensions over Green Deal timelines and the pace of decarbonization.
 
-### What happens to small towns between 200 and 1,000 population equivalent that remain excluded from the Urban Wastewater Treatment Directive (Recast) 2024?
+### What happens to small towns with fewer than 1,000 people that are still left out of EU wastewater treatment rules?
 
 Towns below 1,000 population equivalent — estimated by the Commission to number approximately 12,000 across the EU — are not covered by the directive's mandatory secondary treatment requirement. However, the recast introduces a new obligation for member states to collect data on these small agglomerations and report to the Commission every six years. The 2024 text includes a clause for a future review, by 2035, of whether the threshold should be lowered further. Environmental groups like the EEB have criticized this as a loophole, warning that rural sewage discharges continue to contaminate small streams and groundwater, particularly in regions like rural France, Ireland, and Eastern Poland.
 

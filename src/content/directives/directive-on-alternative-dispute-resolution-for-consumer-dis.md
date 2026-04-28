@@ -50,15 +50,15 @@ The directive also accelerated the professionalisation of dispute resolution: AD
 
 ## Key questions answered
 
-### Why did the EU need the Directive on Alternative Dispute Resolution for Consumer Disputes rather than just encouraging voluntary ADR?
+### Why did the EU need to make rules for resolving consumer complaints outside court instead of just asking businesses to do it voluntarily?
 
 Voluntary ADR existed in many member states before 2013, but coverage was patchy and quality varied enormously. In the 2011 impact assessment, the Commission found that only Belgium and the Netherlands had comprehensive ADR coverage; Spain, Greece, and several Eastern European countries had none. Without a directive imposing minimum standards, a trader in one country could offer a poor-quality ADR body that would undermine consumer trust across borders. The directive ensured that every member state had at least one quality-assured ADR body for every sector, making the ODR platform—which routes cases to these bodies—feasible.
 
-### Why does the Directive on Alternative Dispute Resolution for Consumer Disputes not force traders to participate in ADR?
+### Why don't EU rules force businesses to take part in out-of-court complaint resolution for consumers?
 
 The directive operates on an "opt-in" model: traders must inform consumers about ADR options, but are not required to use them. This was a deliberate political compromise to avoid ECJ challenges (following the *Caja de Ahorros* ruling) and to placate business groups, who argued that mandatory participation would impose disproportionate costs on SMEs. However, some member states—notably the Netherlands and Germany—have gone further, making ADR mandatory for specific sectors like energy and telecoms under national law. The EU's 2019 evaluation recommended against a mandatory EU-wide rule, but left the door open for national-level mandates.
 
-### What is the difference between ADR and ODR under the Directive on Alternative Dispute Resolution for Consumer Disputes?
+### What is the difference between resolving a consumer complaint through a mediator and doing it entirely online?
 
 The ADR Directive (2013/11/EU) creates the national infrastructure of impartial dispute-resolution bodies. The ODR Regulation (524/2013/EU) creates the digital interface—the consumer-facing platform where a buyer in one country can file a complaint online and have it automatically routed to the correct national ADR body. The ODR platform launched in February 2016; by 2023, it had processed over 1.2 million complaints (Commission ODR platform report). The two laws are designed as a pair: without the ADR Directive ensuring bodies exist, the ODR platform would have no destination for cases; without the ODR platform, cross-border consumers would have difficulty finding the right ADR body.
 

@@ -49,15 +49,15 @@ Industry response has been mixed. The European Feed Manufacturers' Federation (F
 
 ## Key questions answered
 
-### Why did the EU replace directives with the General Regulation on Animal Welfare (Farm Animals)?
+### Why did the EU replace older rules with a single set of animal welfare rules for farm animals?
 
 Earlier national implementations of directives 98/58/EC and 2004/33/EC led to wide divergence — for example, minimum spaces for broiler chickens ranged from 12 kg/m² in Germany to 16 kg/m² in Poland. The Commission found in its 2020 impact assessment that this created a "race to the bottom," as producers in low-welfare member states undercut higher-welfare farmers. A single regulation eliminates this variation, ensuring equal enforcement and competition across the single market.
 
-### Why are gestation crates for sows not banned until 2032 under the General Regulation on Animal Welfare (Farm Animals)?
+### Why aren't gestation crates for pigs banned until 2032 under EU farm animal welfare rules?
 
 The Council's agriculture ministers from Poland, Hungary, and Romania — whose pig industries are among the EU's largest — argued that an immediate ban would cost up to €1.8 billion in transitional costs (Commission estimate) and could drive production outside the EU. The compromise extended the transition to 2032, with a possible further two-year extension, and created a €2.5 billion fund under the CAP Strategic Plans to help farmers invest in group housing systems.
 
-### What happens to imported meat from countries with lower welfare standards under the General Regulation on Animal Welfare (Farm Animals)?
+### What happens to imported meat from countries with weaker animal welfare laws under EU farm animal welfare rules?
 
 The regulation applies only to animals raised and slaughtered within the EU. For imported meat, the Commission committed to include animal welfare provisions in all future trade agreements (as per the 2020 Farm to Fork Strategy). The first test of this was the EU-Mercosur deal, where the European Parliament inserted a "mirror clause" requiring equivalent welfare standards for beef imports — though the clause was rejected by the Council in 2024. No binding requirement for imports exists yet.
 

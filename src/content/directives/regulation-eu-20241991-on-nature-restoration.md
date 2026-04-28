@@ -51,15 +51,15 @@ Politically, the law's near-death experience reshaped the 2024 European election
 
 ## Key questions answered
 
-### Why did the EPP try to kill Regulation (EU) 2024/1991 on Nature Restoration from a Commission led by their own party?
+### Why did the EPP try to kill a major EU nature restoration plan proposed by a Commission led by their own party?
 
 Weber's calculation was electoral: with farmer protests spreading from the Netherlands to France and Germany in 2023-24, the EPP positioned itself as the rural counterweight to Greens and Socialists ahead of the June 2024 European elections. By breaking with von der Leyen on this single file, Weber signalled to centre-right voters and farming constituencies that the EPP would brake further green legislation — a strategy that paid off in the elections, where the EPP gained seats while Greens lost a quarter of theirs.
 
-### Why was peatland rewetting so controversial in Regulation (EU) 2024/1991?
+### Why was restoring drained peatlands by rewetting them so controversial in the EU nature restoration law?
 
 Drained peatlands cover only about 3% of EU land but emit roughly 5% of total EU greenhouse gases, making them among the cheapest decarbonisation options. But most drained peat in Ireland, Germany and the Baltics is now productive farmland or commercial forest, and rewetting changes what can grow there. Farming lobbies framed this as forced land-use change; the final regulation accordingly made rewetting voluntary for private landowners, with member states meeting targets via public land or incentive schemes.
 
-### Why is Regulation (EU) 2024/1991 a regulation rather than a directive?
+### Why is the EU nature restoration law a directly binding regulation instead of a directive that countries can adapt?
 
 The Commission chose a regulation — directly applicable, no national transposition — because the 1992 Habitats Directive's patchy implementation was the very problem it sought to fix. After 30 years, only 15% of habitats covered by the directive were in good status. By using a regulation with quantified, time-bound targets and Commission oversight of National Restoration Plans, Brussels gains tools closer to those it uses for climate compliance under the Effort Sharing Regulation.
 

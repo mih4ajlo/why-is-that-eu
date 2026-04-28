@@ -52,19 +52,19 @@ Implementation was uneven. The Commission’s 2020 report noted that several mem
 
 ## Key questions answered
 
-### Why did the EU need Directive 2014/104/EU instead of leaving it to national courts?
+### Why did the EU need a special law to help people sue companies for price-fixing, instead of leaving it to each country's courts?
 
 National procedural rules varied so widely that victims in some member states faced insurmountable barriers — such as impossibly short limitation periods of one year (Spain) or prohibitive costs for accessing evidence. The *Courage v. Crehan* ruling of 2001 established a right to damages, but national obstacles made it hollow in practice. The directive harmonised key rules so that the right could actually be exercised.
 
-### Why did leniency applicants oppose Directive 2014/104/EU?
+### Why did companies that first reported a cartel to the authorities oppose the new EU rules on damages claims?
 
 Leniency programmes rely on cartel members confessing in exchange for immunity from fines. If those confessions are later used in private damages lawsuits, companies will stop confessing. The directive resolved this by exempting "leniency corporate statements" from mandatory disclosure — a key compromise that kept the Commission’s enforcement programme intact while still enabling victims to access other evidence.
 
-### How did Directive 2014/104/EU change the cost of bringing a claim?
+### How did the EU's new rules make it cheaper or easier for victims to sue companies for illegal price-fixing?
 
 Before the directive, a victim suing for damages could not compel the cartelist to hand over internal pricing data. The directive introduced a "disclosure of evidence" regime, allowing courts to order the defendant to produce relevant documents (subject to proportionality and confidentiality). This dramatically reduced the upfront cost of building a case, as claimants no longer had to rely solely on Commission press releases or public investigations.
 
-### What was the *Pfleiderer* case and why did it matter for Directive 2014/104/EU?
+### What was the *Pfleiderer* court case about, and why did it force the EU to create a uniform rule on accessing cartel evidence?
 
 In *Pfleiderer v. Bundeskartellamt* (2011), the ECJ ruled that German authorities could not automatically refuse a victim’s request for access to leniency documents, but left it to national courts to balance interests. This created legal uncertainty and threatened the Commission’s leniency programme. The directive resolved this by clearly shielding leniency statements from disclosure, while protecting other evidence — a compromise that the *Pfleiderer* ruling had forced the EU to address legislatively.
 

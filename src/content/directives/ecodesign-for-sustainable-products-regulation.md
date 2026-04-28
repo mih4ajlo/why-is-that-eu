@@ -57,19 +57,19 @@ The regulation's most consequential long-term effect is procedural: by requiring
 
 ## Key questions answered
 
-### Why did the Ecodesign for Sustainable Products Regulation take until 2024 when the first ecodesign rules date back to 2009?
+### Why did it take until 2024 for EU rules to make products last longer and be repairable, when the first energy-efficiency rules for appliances came out in 2009?
 
 The 2009 Ecodesign Directive was deliberately constrained to energy-related products because that gave it a clear legal basis (Article 114 TFEU — internal market harmonization). Expanding scope to all products required a new legal justification under Article 114 as well, but industry argued it was environmental legislation in disguise, requiring a different legal basis. The Commission's 2020 impact assessment resolved this by framing the ESPR as market-creating rather than market-restricting: standardized sustainability information would lower compliance costs for companies operating across multiple EU states. The decisive factor was the 2022 energy crisis, which provided the political cover for scope expansion.
 
-### Why does the Ecodesign for Sustainable Products Regulation require a Digital Product Passport instead of just labels?
+### Why do new EU product rules require a digital passport for each item instead of just a sticker or label?
 
 The Commission rejected labels as insufficient for three reasons, according to its 2022 proposal's explanatory memorandum: labels can only carry limited information, they are easily removed, and they cannot be dynamically updated. The Digital Product Passport (QR-code-based, stored on a decentralized registry) can contain thousands of data points — material composition, supply chain emissions, repair history, disassembly instructions — and can be updated as the product moves through its lifecycle. The design was influenced by the French AGEC law (2020), which required a similar "digital product passport" for electronics, and by the German BSI's work on IT security standards for connected devices.
 
-### Does the Ecodesign for Sustainable Products Regulation ban the sale of non-repairable products?
+### Do the new EU rules ban companies from selling products that can't be repaired?
 
 Not immediately, and not universally. The regulation does not impose a flat ban on non-repairable products; instead, it sets repairability performance standards through delegated acts for specific product groups. For example, the first delegated acts (expected 2026) will require smartphones to have removable batteries and screens, and will mandate at least seven years of spare-part availability — similar to rules already in force for washing machines since 2021. Products that cannot meet these standards for their category will be prohibited from sale, but only after the delegated act for that category takes effect. The Commission estimates 60-80% of product categories will have repairability requirements by 2030.
 
-### Why are unsold goods destruction bans under the Ecodesign for Sustainable Products Regulation limited to textiles first?
+### Why do the new EU rules only ban destroying unsold clothes and shoes first, instead of all products?
 
 Textiles generate the largest volume of unsold consumer goods destruction — the EEB's 2022 investigation found that brands destroy between 15-30% of overstock, compared to 5-10% for electronics. The ban was politically feasible because the textile industry's own sustainability initiatives (such as the EU's Textiles Strategy 2022) had already acknowledged the problem. The Commission decided to phase the ban by sector, with textiles first to establish a compliance precedent, then expanding to electronics and furniture by 2030. The fashion industry's voluntary pledges under the 2021 Fashion Pact proved insufficient: participants collectively destroyed €1.2 billion in unsold goods in 2022, per the EEB's follow-up report.
 

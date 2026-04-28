@@ -53,15 +53,15 @@ The OCR also gave the Commission stronger enforcement tools. In 2020, the Commis
 
 ## Key questions answered
 
-### Why did the horse meat scandal specifically trigger Regulation (EU) 2017/625?
+### Why did the horse meat scandal lead to new EU rules on food safety checks?
 
 The scandal exposed fundamental flaws in the enforcement framework: controls were fragmented across different regulations (one for feed, another for animal products, another for fraud), and national authorities had no mechanism to share information across borders. The Commission's investigation found that horse meat had travelled through six member states before reaching UK shelves, but no single authority had the full picture. The scandal broke the political deadlock because consumer outrage was so widespread—polling by the European Commission in 2013 showed that 89% of EU citizens considered food safety a "very important" issue—forcing member states to accept stronger EU coordination.
 
-### Why did some member states oppose the fee provisions of Regulation (EU) 2017/625?
+### Why did some EU countries object to charging fees for official food and farm inspections?
 
 Poland, Hungary, and Romania argued that mandatory fees for official controls would disproportionately burden small and medium-sized slaughterhouses and farms, which operate on thin margins. In Poland, the meat sector employs over 100,000 workers, mostly in small family-run operations. These countries also viewed fees as transferring costs from the national budget to producers, which they argued would undermine competitiveness within the single market. The compromise reached in the final text allowed member states to exempt small-scale slaughterhouses from fee charging by up to 40%, and introduced a transitional period until 2024 for those meeting certain criteria.
 
-### How does the OCR (Regulation (EU) 2017/625) differ from the previous Regulation (EC) 882/2004?
+### How do the current EU rules on food and animal health inspections differ from the old ones?
 
 The OCR is broader in scope, covering not just food and feed safety but also animal health, animal welfare, plant health, plant protection products, organic production, and geographical indications. It introduced mandatory risk-based inspection frequency (replacing the previous discretion for national authorities), strengthened traceability requirements (including origin labelling for fresh, chilled, and frozen meat of pigs, sheep, goats, and poultry, introduced through a separate 2013 regulation), and created a formal system for administrative assistance and cooperation (AAC). The OCR also gave the Commission the power to conduct unannounced audits and to require corrective actions from member states, which was previously limited to recommendations.
 

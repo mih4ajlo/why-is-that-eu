@@ -54,15 +54,15 @@ Illegal exports have continued despite the directive. Operation Demeter III, con
 
 ## Key questions answered
 
-### Why are producers forced to pay for waste collection under Directive 2012/19/EU (WEEE)?
+### Why are electronics manufacturers forced to pay for collecting and recycling old devices?
 
 The directive shifts the financial burden from taxpayers to producers through extended producer responsibility. This creates an incentive to design products that are easier to repair, upgrade, and recycle — a concept known as "ecodesign." Before the directive, local authorities paid for recycling, meaning producers had no reason to avoid toxic materials or non-recyclable components. The Commission's 2008 evaluation found that countries with producer-funded systems (Germany, the Netherlands) had collection rates three times higher than those relying on municipal waste services (Greece, Portugal).
 
-### Why did the collection targets of Directive 2012/19/EU (WEEE) fail to meet expectations?
+### Why did EU targets for collecting old electronics and appliances fall short of what was expected?
 
 The 65% target assumed a simple relationship between what goes on the market and what becomes waste — but product lifespans have lengthened. A 2021 Eurostat study showed that the average lifespan of a smartphone in the EU increased from 2.3 years in 2012 to 3.8 years in 2019, meaning less waste was generated per device sold. Additionally, consumers stockpile unused electronics: a 2019 survey by the WEEE Forum found that 60% of EU households had at least three unused devices in drawers or cupboards, representing an estimated 6 million tonnes of e-waste that never enters formal collection systems.
 
-### Why are solar panels covered by Directive 2012/19/EU (WEEE)?
+### Why are solar panels included in the rules for recycling old electronics and electrical equipment?
 
 Large photovoltaic panels producing over 10 kW were exempt from the 2002 directive because they were considered "industrial equipment" rather than consumer electronics. The 2012 recast removed this exemption, largely due to the rapid growth of solar deployment after the 2009 Renewable Energy Directive. The European Photovoltaic Industry Association (EPIA) initially opposed inclusion, warning of compliance costs for installers. However, Environment Commissioner Potočnik argued in a 2012 memo that solar panels contain lead, cadmium, and gallium arsenide, and that leaving them excluded would create a future waste crisis as 10 GW of installed panels began reaching end-of-life around 2030. The Commission's 2012 impact assessment estimated that PV waste would reach 8 million tonnes by 2040 without regulation.
 

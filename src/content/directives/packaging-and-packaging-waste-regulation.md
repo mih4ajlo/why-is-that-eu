@@ -45,15 +45,15 @@ Enforcement falls on national authorities, with penalties including fines of up 
 
 ## Key questions answered
 
-### Why did the EU move from a directive to a regulation for the Packaging and Packaging Waste Regulation?
+### Why did the EU switch from letting each country write its own packaging rules to having one set of rules for everyone?
 
 The 1994 directive allowed member states significant leeway, creating 27 different national systems that made cross-border trade costly. A 2021 study by the European Court of Auditors found that national transposition led to €1.9 billion in additional administrative costs annually for businesses operating in multiple member states. The regulation’s direct applicability removes these barriers and ensures uniform rules across the single market.
 
-### Why are single-use packaging forms like mini-shampoo bottles banned under the Packaging and Packaging Waste Regulation?
+### Why are tiny single-use containers like hotel mini-shampoo bottles being banned?
 
 The ban targets packaging formats that are disproportionately wasteful relative to their utility. According to the Commission’s 2022 impact assessment, mini-shampoo bottles account for only 0.5% of total hotel packaging but generate 10 times the waste per use of larger formats. The EEB argued that such bans also serve to shift consumer behaviour by eliminating the convenience of single-use packaging in hospitality.
 
-### How will businesses comply with recycled content targets under the Packaging and Packaging Waste Regulation?
+### How will companies meet the requirement to use a certain amount of recycled material in their packaging?
 
 The regulation allows companies to meet recycled content targets through a system of compliance credits traded among industry players, similar to the approach in the Single-Use Plastics Directive (2019/904). The Commission’s 2023 implementing acts specify that recycled content must come from post-consumer waste, not production scrap, and that chemical recycling counts only if it meets life-cycle analysis standards set by the European Chemicals Agency (ECHA).
 

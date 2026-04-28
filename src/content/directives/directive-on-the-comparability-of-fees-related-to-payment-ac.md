@@ -49,15 +49,15 @@ The directive also encountered resistance in practice: a 2017 compliance check b
 
 ## Key questions answered
 
-### Why did the EU regulate bank account fees under the Payment Accounts Directive instead of leaving it to market competition?
+### Why did the EU step in to regulate bank account fees instead of letting banks compete freely on price?
 
 Despite the single market, bank fees were opaque and incomparable across borders because banks used different terminology, service bundles, and pricing methods. A 2012 Commission study showed that consumers could save up to €100 annually by switching accounts, but 82% never tried because the cost in time and complexity was too high. The directive aimed to create genuine price competition by making comparison simple — essentially, the same logic that underpins unit pricing in supermarkets.
 
-### Why are basic payment accounts required under the Payment Accounts Directive?
+### Why does everyone have a right to a basic bank account, even if they have no money or bad credit?
 
 The 2008 financial crisis and subsequent austerity drove millions of EU citizens into financial exclusion, particularly the unemployed, migrants, and low-income workers. Without an account, people could not receive wages, benefits, or pensions electronically, forcing them to use costly cash-handling services or loan sharks. The Commission estimated that 30 million EU adults had no payment account at all in 2012, making participation in the modern economy impossible. The basic account requirement is explicitly tied to the EU's fundamental right to access essential services under the European Pillar of Social Rights (proclaimed in 2017).
 
-### Why did Germany oppose the basic account provision in the Payment Accounts Directive?
+### Why did Germany fight against the rule that forces banks to offer a basic account to everyone?
 
 German banks and the federal government argued that a mandatory basic account for all legal residents would increase fraud risk and administrative burden, and that existing social banking arrangements were sufficient. The German Banking Association (BdB) claimed that the directive would cost banks €400 million annually in Germany alone. However, the Commission's impact assessment countered that the cost of basic accounts was minimal — estimated at €10-30 per customer per year — and that many Member States (France, Finland, Sweden) already had similar schemes without problems. The ECJ case challenging the directive's basic account requirement remains pending.
 

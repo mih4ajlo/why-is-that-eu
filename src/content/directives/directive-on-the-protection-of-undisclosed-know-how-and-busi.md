@@ -55,15 +55,15 @@ The first major enforcement action under the directive came in 2021, when the Fr
 
 ## Key questions answered
 
-### Why did the EU target trade secrets rather than patents or copyright in the Trade Secrets Directive?
+### Why did the EU decide to protect secret business information instead of focusing on patents or copyrights?
 
 Patent and copyright protection already had EU-wide harmonisation through directives like 2004/48/EC (IPR Enforcement) and the 1996 Database Directive (96/9/EC). Trade secrets, by contrast, were left entirely to member state law, creating a clear gap. The Commission's 2012 study showed that companies often preferred trade secret protection over patents for processes, customer lists, and algorithms — categories that patents do not easily cover.
 
-### Why did civil society oppose the Trade Secrets Directive so strongly?
+### Why were activists and public interest groups so strongly against the EU's new rules on protecting company secrets?
 
 Critics feared the directive could be used to suppress whistleblowers and investigative journalists by allowing companies to sue for "misappropriation" of documents that exposed wrongdoing. The final text included a narrow exception for disclosure in the public interest — but civil society groups argued that the burden of proof would fall on the whistleblower to show their disclosure was lawful, creating a chilling effect.
 
-### Why did the Trade Secrets Directive take so long to pass?
+### Why did it take so many years for the EU to agree on a law protecting confidential business information?
 
 The file was delayed by the 2014 European Parliament elections and the change of Commission (from Barroso II to Juncker). Additionally, the 1,200 amendments tabled in the Parliament's JURI committee required three rounds of trilogue negotiations between Parliament, Council, and Commission. The Snowden revelations in 2013-14 initially caused further delay as MEPs demanded stronger whistleblower protections.
 

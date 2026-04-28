@@ -50,19 +50,19 @@ The **coalition that got this passed** was an unusual alliance: the European Par
 
 ## Key questions answered
 
-### Why are pesticide reduction targets alone in the Farm to Fork Strategy Regulation?
+### Why are pesticide reduction targets the only binding part of Europe's farm-to-table food plan?
 
 Because Directive 2009/128/EC, which required Member States to adopt National Action Plans against pesticides, failed to drive real reduction — the Commission’s 2017 evaluation found that between 2011 and 2016, EU pesticide sales actually rose by 4% despite the directive. The Strategy’s 50% target was chosen to force actual cuts, but industry pushback (from Bayer, Syngenta, etc.) resulted in the SUR proposal’s defeat in 2023, leaving the target effectively voluntary again.
 
-### Why did the COVID-19 pandemic matter for the Farm to Fork Strategy Regulation?
+### Why did the COVID-19 pandemic affect Europe's plans to make food more sustainable?
 
 The lockdowns created a literal "food chain crisis": in April 2020, Dutch farmers ploughed under millions of tulip bulbs and dumped milk; Spanish fruit workers were stranded without transport. This gave Commissioner Kyriakides and von der Leyen the political cover to argue that food system resilience requires shorter supply chains, reducing import dependency, and healthier diets to avert future pandemics (zoonotic disease risk). The crisis turned the Strategy from a Green Deal aspiration into a crisis-response document.
 
-### Why did the European People’s Party oppose the Farm to Fork Strategy Regulation?
+### Why did the main centre-right political group in Europe oppose the plan to overhaul the food system?
 
 The EPP represents the dominant farming lobby across the EU — specifically the large-scale commodity farmers in France (FNSEA), Germany (DBV), and Poland (KOWR). These farmers, facing low commodity prices, argued the Strategy would export production to Brazil or Ukraine, where environmental standards are weaker. The EPP’s lead candidate for the 2023 European Parliament election, Manfred Weber, personally urged the Commission to shelve binding targets, stating at the March 2023 EPP Congress: "We cannot make Europe a food museum that only organic farmers can afford." The opposition reflected the structural tension: high-export countries like Poland (pork, apples) feared losing their comparative advantage.
 
-### Why did mandatory nutrition labeling fail in the Farm to Fork Strategy Regulation?
+### Why did the push for mandatory nutrition labels on food fail in Europe's food strategy?
 
 Because labeling rules require a qualified majority in the Council, and Italy, with backing from Spain and Portugal, built a blocking minority. The Nutri-Score system, designed to rank packaged foods from A (healthy) to E (unhealthy), rated traditional Mediterranean foods like olive oil and Parmigiano Reggiano as C or D due to fat content, triggering a fierce "protezione del made in Italy" campaign. The Italian government, led by Prime Minister Mario Draghi in 2022 and later Giorgia Meloni, argued this was cultural discrimination, not science. The Commission’s Secretary-General, Ilze Juhansone, appointed a working group in 2023 that recommended shelving the mandatory label until 2025, effectively kicking the issue.
 

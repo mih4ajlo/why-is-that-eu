@@ -57,19 +57,19 @@ The UK’s departure from the EU in 2020 was a major shock. Since the recast no 
 
 ## Key questions answered
 
-### Why did the EU abolish exequatur — the procedure for declaring a foreign judgment enforceable — under the Brussels I Regulation (recast)?
+### Why did the EU get rid of the extra step needed to enforce a court judgment from another EU country?
 
 The abolition was driven by the “mutual recognition” principle — the idea that if member states trust each other’s legal systems in criminal law (e.g. the European Arrest Warrant), they should do so in civil matters. Business lobbying, cost-benefit analysis (the Commission estimated the exequatur procedure added €2,200 per case), and the example of the 2007 Lugano Convention all pointed toward abolition. The UK and Ireland’s resistance was overcome by retaining a limited right for defendants to object at the enforcement stage.
 
-### Why did the recast of the Brussels I Regulation change the rules for parallel lawsuits (lis pendens)?
+### Why did the EU change the rules for when two courts in different countries are asked to decide the same lawsuit?
 
 Under the 2001 Regulation, the court first seised always had priority, even if the parties had agreed to litigate in a different court. This allowed “torpedo actions” — one party would rush to file in a slow or inconvenient court to block faster proceedings elsewhere. The ECJ’s 2003 *Gasser* judgment confirmed this rule, sparking industry outrage. The recast reversed this for choice-of-court agreements, giving the chosen court priority. For cases without such agreements, the first-seised rule remains.
 
-### What happens now that the UK has left the EU? Do Brussels I Regulation rules still apply?
+### What happens now that the UK has left the EU? Do the old EU rules on cross-border lawsuits still apply?
 
 No. The recast ceased to apply to the UK at the end of the Brexit transition period (31 January 2020). For judgments from UK courts enforced in the EU, the relevant rules are now the 2005 Hague Convention on Choice of Court Agreements (if the parties chose a court) or national laws on recognition and enforcement in each member state. The UK became a party to the 2019 Hague Judgments Convention on 1 July 2022, providing a new but narrower framework. This has been a significant loss for London as a commercial litigation hub: some estimates by law firms suggest a 30% drop in cross-border commercial cases issued in English courts since 2020.
 
-### Does the Brussels I Regulation cover all civil cases — e.g. libel, family disputes, or inheritance?
+### Does EU law on cross-border lawsuits cover all civil cases — like defamation, divorce, or inheritance?
 
 No. The regulation explicitly excludes revenue, customs, or administrative matters; the status or legal capacity of natural persons; rights in property arising out of a matrimonial relationship or equivalent; bankruptcy and insolvency; social security; arbitration; and maintenance obligations (these are covered by separate regulations). Matrimonial and parental responsibility disputes are governed by the Brussels IIbis Regulation (2201/2003/EC, later replaced by 2019/1111). Libel and defamation are covered by the recast, as they are civil and commercial, but with special jurisdiction rules (the defendant can be sued in the member state where the harmful event occurred or is likely to occur).
 

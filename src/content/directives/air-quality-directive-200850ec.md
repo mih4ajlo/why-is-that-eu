@@ -60,19 +60,19 @@ Critically, the directive's **weak PM2.5 limit** (25 µg/m³) meant that by 2021
 
 ## Key questions answered
 
-### Why did the Air Quality Directive (2008/50/EC) not solve Europe's air pollution problem?
+### Why didn't EU air quality rules fix Europe's pollution problem?
 
 The original 2008 directive set PM2.5 limits at 25 µg/m³—more than double the 10 µg/m³ level recommended by the WHO in 2006 and far above the 5 µg/m³ updated WHO guideline in 2021. Member states, led by Germany and Poland, successfully opposed stricter limits during negotiations, fearing costs for industry and cities. The result was a legal standard that did not compel sufficient action in many zones, allowing widespread non-compliance. By 2022, the Commission admitted that 96% of urban residents were still exposed to harmful PM2.5 levels.
 
-### How did member states get away with non-compliance with the Air Quality Directive (2008/50/EC) for so long?
+### How did EU countries break clean air laws for years without being forced to follow them?
 
 The directive gave member states up to 10 years to comply (until 2021), with the possibility of time-extensions (Article 23) if they submitted air quality plans. Many states used this to delay, filing plans that the Commission then accepted. Additionally, the Court of Justice's 2018 ruling on Poland's PM10 breaches showed that fines were rare and slow—Poland was fined only after 10 years of non-compliance. For NO2 breaches, the Commission only started infringement proceedings in 2014, and the first rulings came in 2024. The slow pace of litigation created a de facto tolerance for long-term non-compliance.
 
-### Why did the car industry fight the NO2 limit in the Air Quality Directive (2008/50/EC) so aggressively?
+### Why did carmakers fight so hard against the EU's nitrogen dioxide limit?
 
 The NO2 limit value of 40 µg/m³ annually (unchanged from the 1999 daughter directive) was particularly hard for diesel cars to meet because modern diesel engines, without expensive selective catalytic reduction (SCR) systems, produce high NOx emissions. The German car industry (Volkswagen, BMW, Daimler) had invested heavily in diesel technology during the 2000s to meet EU CO2 targets for cars, and they argued that tighter NO2 limits would make diesel cars uneconomical. Their lobbying effectively stalled enforcement until the Dieselgate scandal in 2015 forced the issue.
 
-### What changed with the 2024 revision of the Air Quality Directive (2008/50/EC)?
+### What changed in 2024 with Europe's clean air rules?
 
 The 2024 amendment (Directive 2024/2881/EU) tightened the PM2.5 annual limit to 10 µg/m³ by 2030, aligning it with the 2021 WHO guideline. It also strengthened NO2 standards and introduced a zero-pollution objective for 2050. The revision succeeded because the European Green Deal (2019) made environmental health a political priority, and the Commission's 2022 Zero Pollution Action Plan provided a framework. The Dieselgate scandal had also discredited the car industry's earlier arguments, and public health groups like ClientEarth had won several high-profile cases in national courts (including the UK Supreme Court in 2015) that forced governments to act.
 

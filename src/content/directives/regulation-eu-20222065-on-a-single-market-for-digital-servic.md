@@ -62,18 +62,18 @@ The DSA fundamentally reshapes the relationship between digital platforms, users
 
 ## Key questions answered
 
-### Why did the EU need the Digital Services Act (DSA) instead of updating the old E-Commerce Directive?
+### Why did the EU need new internet rules instead of just updating the old ones from the 2000s?
 
 The E-Commerce Directive was designed in 2000 for a simpler internet with limited user-generated content and few global platforms. It lacked obligations around algorithmic transparency, advertising, risk management, and accountability for systemic harms. Updating it would have been piecemeal and risked fragmentation across member states. The DSA provides a comprehensive, forward-looking framework that mandates proactive steps, not just reactive takedowns.
 
-### Why are very large online platforms (VLOPs) treated differently under the Digital Services Act (DSA)?
+### Why do the biggest online platforms like Facebook and TikTok face stricter rules than smaller ones?
 
 VLOPs, defined as those with over 45 million monthly active users in the EU, have outsized influence on public discourse, consumer safety, and economic activity. Their algorithms can amplify harmful content globally. The DSA's proportionality principle means stricter rules for the most powerful actors, including mandatory risk assessments, independent audits, and crisis response mechanisms. Smaller platforms face lighter obligations to avoid disproportionate burden.
 
 **How does the DSA affect content moderation and free speech?**
 The DSA requires platforms to act against illegal content, but also includes safeguards: users must be informed about content removals, have a right to appeal, and can complain to regulators. Platforms are not required to monitor all user content proactively (no general obligation to monitor), but must respond when notified. The requirement to make reasoning transparent aims to prevent arbitrary or opaque removals. Critics argue platforms may over-remove legal content to avoid fines, but the DSA includes countervailing rights for users to restore content.
 
-### Why does the DSA ban certain types of targeted advertising?
+### Why are some types of targeted ads being banned online in Europe?
 
 The ban on targeting minors with ads based on their personal data or on using sensitive data (race, religion, sexual orientation) aims to protect vulnerable groups from manipulation and exploitation. High-profile scandals (e.g., political micro-targeting in elections, harmful ads to teens) demonstrated how such practices can erode trust and harm individuals. The DSA also mandates that users see why they are shown an ad (transparency) and prohibits dark patterns that trick users into consent.
 

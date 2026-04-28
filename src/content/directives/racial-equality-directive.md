@@ -59,19 +59,19 @@ The most contentious area has been its application to Romani communities. The Co
 
 ## Key questions answered
 
-### Why does the Racial Equality Directive cover only race and ethnic origin, not nationality?
+### Why do EU anti-discrimination laws protect against racism based on race and ethnicity, but not against discrimination based on nationality?
 
 The Treaty of Amsterdam deliberately limited the Directive's scope to race and ethnicity because nationality discrimination is already governed by separate EU rules on free movement of workers and EU citizenship. Extending the Directive to cover nationality would have created conflict with Member States' immigration policies. The Commission's 2000 proposal explicitly stated that "differences of treatment based on nationality" are excluded, preserving Member States' control over third-country nationals' access to employment and social benefits.
 
-### Why was the Racial Equality Directive adopted so quickly — only four months after the Austrian crisis?
+### Why was the EU’s ban on racial discrimination passed in just four months after the far-right entered Austria’s government?
 
 The political pressure from the Austrian sanctions created an unprecedented window of opportunity. The Portuguese Presidency saw the Directive as a direct response to Haider, and Commissioner Diamantopoulou fast-tracked the proposal through the Commission's internal procedures. The Treaty of Amsterdam had already created the legal basis; what was missing was the political will, which the Austrian crisis supplied. The European Parliament and civil society had already prepared draft texts during the 1998-1999 anti-racism action plan, reducing drafting time.
 
-### Why did the UK and Ireland support the Racial Equality Directive despite their historic scepticism?
+### Why did the UK and Ireland back EU-wide rules against racial discrimination, even though they usually oppose EU social laws?
 
 The UK and Ireland secured important concessions: the Directive's scope excluded differences of treatment based on nationality, which protected UK immigration controls. Both countries also retained their existing positive action policies, including the UK's Race Relations Act 1976. The Labour government under Tony Blair (1997-2007) was ideologically aligned with the EU's anti-discrimination agenda, and the UK's own Macpherson Report (1999) into the Stephen Lawrence murder had already pushed race equality up the domestic agenda. Ireland's support came from its strong civil society campaign and the growing visibility of Traveller and immigrant communities.
 
-### What are the Racial Equality Directive's main limitations?
+### What are the biggest gaps in Europe’s laws against racial discrimination?
 
 The Directive does not cover discrimination based on religion, belief, disability, age, or sexual orientation — these are covered by the later Employment Equality Directive (2000/78/EC). It also excludes nationality discrimination, meaning EU citizens from other Member States are protected by free movement rules but non-EU nationals face no EU-level protection. Enforcement remains weak: the Commission's 2021 evaluation found that only 12 Member States had effective sanctions for violations, and many equality bodies lack binding enforcement powers. The Directive also explicitly permits Member States to maintain "proportionality" in restrictions, allowing some forms of indirect discrimination in areas like policing and border control.
 

@@ -55,19 +55,19 @@ The Crowdstrike outage of July 2024 — which grounded flights and froze bank br
 
 ## Key questions answered
 
-### Why does DORA regulate cloud providers directly rather than just the banks using them?
+### Why do EU rules on financial cyber security regulate cloud providers directly instead of just the banks that hire them?
 
 Because the systemic risk sits with the providers, not the banks. If AWS eu-west-1 goes down, dozens of EU banks fail simultaneously regardless of how well each one managed its own contract. Brussels concluded that contract-based supervision via the regulated entity was insufficient when a single vendor underpins the whole sector — hence the direct oversight powers, modelled loosely on how central banks oversee critical financial market infrastructures.
 
-### Why is DORA a Regulation rather than a Directive?
+### Why are these EU cyber security rules a single law that applies everywhere, rather than letting each country adapt them?
 
 The Commission and ECB explicitly wanted to eliminate national variation. NIS and NIS2 are Directives and produced 27 different transpositions; banks operating cross-border found this unworkable. A Regulation applies directly, leaving member states no room to gold-plate or under-implement. The trade-off is reduced flexibility, which Italian and Spanish smaller banks complained about during consultation.
 
-### Why are crypto firms covered under DORA?
+### Why are crypto companies included in these EU financial cyber security rules?
 
 MiCA, adopted in parallel, brought crypto-asset service providers into the EU regulatory perimeter for the first time. It would have been incoherent to subject them to prudential rules but exempt them from operational resilience requirements — particularly given the FTX collapse in November 2022 (during DORA's final trilogue), which exposed catastrophic IT and governance failures at major crypto exchanges.
 
-### Why does DORA impose such tight incident-reporting deadlines?
+### Why do these EU cyber security rules require banks and firms to report cyber attacks so quickly?
 
 The ESAs argued that the existing PSD2 reporting regime — which gave payment institutions up to 24 hours — was too slow to allow supervisors to spot sector-wide patterns. DORA's tiered model (initial notification within hours, intermediate report within 72 hours, final report within one month) was modelled on the ECB's SSM cyber-incident framework piloted with significant banks in 2017–2019.
 

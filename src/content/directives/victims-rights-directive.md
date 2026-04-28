@@ -57,11 +57,11 @@ The directive has been tested in several notable cases. In *Case C-38/13* (G.), 
 
 ## Key questions answered
 
-### Why does the Victims Rights Directive distinguish between EU and non-EU victims?
+### Why do EU rules treat crime victims differently depending on whether they are from an EU country or not?
 
 The directive applies to all victims regardless of nationality, but the Commission's 2020 evaluation noted that third-country nationals — particularly irregular migrants — often face practical barriers accessing support services due to fear of deportation. The 2011 proposal originally required equal treatment, but some member states (notably Hungary and Slovakia) argued in Council negotiations that irregular migrants should not receive the same level of support as EU citizens. The final text includes all victims within the EU's territory, but implementation varies significantly: the Commission found in 2020 that at least five member states still impose conditions linking access to victim support to immigration status.
 
-### Why were the UK, Ireland, and Denmark given opt-outs from the Victims Rights Directive?
+### Why were the UK, Ireland, and Denmark allowed to skip these EU victim protection rules?
 
 These three countries have special protocols under the Lisbon Treaty allowing them to opt out of justice and home affairs measures. The UK insisted on an opt-out during negotiations, arguing that its criminal justice system already provided stronger protections (e.g., the 2005 Domestic Violence, Crime and Victims Act). Ireland initially opted in but later withdrew its participation under Protocol 21. This means the directive does not apply in these countries, creating a gap in cross-border protection for victims moving between them and the rest of the EU — for example, a Spanish victim of domestic violence moving to Ireland cannot rely on the directive's guarantee of risk assessment or support.
 

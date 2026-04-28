@@ -51,15 +51,15 @@ In 2020, when COVID-19 triggered market panic, ESMA declined to impose an EU-wid
 
 ## Key questions answered
 
-### Why did the EU ban naked CDS on sovereign debt under Regulation (EU) No 236/2012 on short selling and certain aspects of credit default swaps when the G20 had not agreed to do so?
+### Why did the EU ban betting against a country's bonds without owning them, when the G20 hadn't agreed to that?
 
 The ban was driven by French fears in 2011 that speculators were “betting against” eurozone sovereigns. Germany and France saw the ban as a way to protect Italy and Spain from CDS-driven contagion. The UK argued that CDS pricing reflects fundamental risk, not manipulation. The Commission’s 2011 impact assessment admitted that “evidence of manipulation is limited,” but the political imperative to stabilise sovereign debt markets overrode economic analysis. The ban was unprecedented globally — no major jurisdiction had banned naked sovereign CDS before.
 
-### Why did the UK oppose Regulation (EU) No 236/2012 on short selling and certain aspects of credit default swaps so strongly?
+### Why did the UK fight so hard against EU rules that restrict betting against stocks and government bonds?
 
 The City of London dominates European short selling: the FSA’s 2012 estimate was that 70-80% of EU short positions were executed through London-based entities. The UK government and hedge fund lobby (backed by the Alternative Investment Management Association) argued that disclosure thresholds were too low, that the sovereign CDS ban would push trading to New York, and that ESMA’s emergency powers duplicated national regulators. The UK’s opposition was the most significant political barrier, but it was unable to attract other member states after the sovereign debt crisis shifted the balance.
 
-### Why didn’t ESMA use its emergency powers under Regulation (EU) No 236/2012 on short selling and certain aspects of credit default swaps during the COVID-19 crash in March 2020?
+### Why didn't Europe's market watchdog use its emergency powers to temporarily ban short selling during the COVID-19 market crash in March 2020?
 
 ESMA decided that the transparency regime (mandatory position disclosures) was sufficient, and that a ban could destabilise markets by removing liquidity. The Commission’s 2021 evaluation report explicitly cited this as a “learning effect” — that the 2008 bans had been panicked actions, while the SSR’s design allowed a more measured response. However, France, Italy, and Spain still imposed national 15-day bans on financial stocks under SSR Article 20, showing that national authorities remained more skeptical than ESMA.
 

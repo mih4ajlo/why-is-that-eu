@@ -71,19 +71,19 @@ National renovation strategies will have to be updated, and Member States must e
 
 ## Key questions answered
 
-### Why did Directive (EU) 2024/1275 target only the worst-performing 16% of non-residential buildings rather than all inefficient buildings?
+### Why did the new EU building rules target only the worst-performing 16% of offices and shops instead of all inefficient ones?
 
 The 16% threshold is a political compromise between the Commission's original proposal to target 15% of the worst-performing non-residential stock, and the European Parliament's call for a more aggressive 20-25% target. This figure was chosen because data from EU countries showed that the worst-performing 15-20% of buildings account for roughly 40-50% of total building energy consumption, according to the Commission's 2021 impact assessment. More aggressive targets were opposed by the governments of Germany, Poland, and Hungary, who argued that mandatory renovation of the entire inefficient stock would be too costly and socially disruptive.
 
-### Why did the EPBD phase out fossil fuel boilers by 2040 rather than earlier?
+### Why will EU rules phase out fossil fuel boilers by 2040 rather than sooner?
 
 The 2040 phase-out date reflects a political compromise between the Commission's original proposal of 2035 (later accelerated to 2029 under REPowerEU), the European Parliament's preferred 2028 date, and the Council's resistance to any mandatory phase-out. The European Heating Industry association lobbied heavily for a "technology-open" approach, arguing that hydrogen-ready boilers and hybrid heat pumps would be more cost-effective for households in poorly insulated buildings. The final text allows limited exemptions for hybrid systems (fossil fuel boilers paired with heat pumps) and for Member States with cold climates, as requested by Finland and Sweden.
 
-### Why did Directive (EU) 2024/1275 rely on "indicative" national targets for residential buildings instead of binding ones?
+### Why did the EU set only "suggested" energy-saving goals for homes instead of mandatory ones?
 
 This was the core political disagreement between the European Parliament and the Council, resolved through the "German compromise" in December 2023. The German government, which had initially supported binding targets under Minister Robert Habeck, shifted its position after a constitutional court ruling in November 2023 that limited the government's ability to use off-budget funds for renovation subsidies. The compromise meant moving from individual building obligations to national trajectories, which gave Member States flexibility to design their own mix of incentives, subsidies, and regulations. Belgium, the Netherlands, and Denmark opposed the softening, arguing that without binding targets, national governments would delay implementation — as they had with the previous 2018 directive's voluntary renovation strategies.
 
-### How does the EPBD interact with the Emissions Trading System?
+### How do the new building efficiency rules work alongside the EU's carbon pricing system?
 
 The directive is designed to complement the revised Emissions Trading System (ETS), which will cover building emissions from 2027. Under the ETS2, fuel suppliers will need to purchase allowances for heating fuels, raising energy costs for consumers. The EPBD's renovation requirements and the Social Climate Fund are intended to mitigate the social impact of carbon pricing by helping households reduce energy demand before the ETS2 kicks in. However, the Commission's impact assessment warned that if renovation rates remain low, the combined effect of higher carbon costs and required renovations could create a "renovation poverty" trap for low-income households in poorly performing buildings.
 

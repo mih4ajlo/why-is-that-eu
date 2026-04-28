@@ -54,19 +54,19 @@ Countries that struggled most are those with the highest recognition rate varian
 
 ## Key questions answered
 
-### Why did the EU replace a directive with Regulation (EU) 2024/1347?
+### Why did the EU replace an old law on refugee status with a new one that applies directly in all countries?
 
 Because directives gave Member States too much discretion in transposition, leading to wildly divergent national asylum systems. The 2011 Qualification Directive was implemented differently in each country. For example, while the Directive required a minimum three-year residence permit for refugees, according to a 2019 Commission report several Member States granted only one-year permits with no guarantee of renewal. A regulation — directly applicable and enforceable by the Court of Justice — removes the transposition loophole.
 
-### How does Regulation (EU) 2024/1347 address the 2015 migration crisis?
+### How do the new EU asylum rules try to fix the problems from the 2015 migration crisis?
 
 It closes one cause of the chaotic 2015 secondary movements: recognition rate gaps. The 2015 crisis showed that when Germany granted protection to Syrians at near-100% but Hungary gave near-0%, asylum seekers naturally moved onward. By forcing uniform criteria, the regulation removes a structural incentive for secondary movement within the Schengen area.
 
-### Why were sexual and reproductive health rights so controversial in the negotiations of Regulation (EU) 2024/1347?
+### Why was it so controversial whether refugees should get access to sexual and reproductive healthcare under the new EU asylum rules?
 
 Poland and Malta — both with restrictive abortion laws — refused to accept any language that could be interpreted as creating an EU-level right to abortion for refugees. A late 2023 draft from the Swedish Council Presidency contained a clause guaranteeing "access to sexual and reproductive health care" for beneficiaries of international protection. Poland threatened a veto. The final regulation (Article 30) speaks only of "adequate health care" with no specific mention of reproductive health. The compromise nearly collapsed the entire New Pact package in December 2023.
 
-### What changes for subsidiary protection holders under Regulation (EU) 2024/1347 compared to the old Directive?
+### What changes for people who get temporary protection in the EU under the new rules compared to the old ones?
 
 Subsidiary protection holders now receive a stronger bundle of rights more closely aligned with refugee status. Under the old Directive, Member States could limit subsidiary protection residence permits to one year; the regulation mandates a minimum of three years, renewable. Access to employment, healthcare, and social assistance must be on equal terms with nationals. According to the Commission's 2020 proposal impact assessment, seven Member States previously granted subsidiary protection holders less favourable access to social assistance than refugees — this practice must end.
 

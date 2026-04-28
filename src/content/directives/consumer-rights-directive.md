@@ -46,15 +46,15 @@ Industry response was mixed. Small online retailers complained about the cost of
 
 ## Key questions answered
 
-### Why does the Consumer Rights Directive ban pre-ticked boxes?
+### Why are online checkout boxes that are already ticked illegal?
 
 The ban reflected growing public anger at “sneaky” add-ons — companies like Ryanair, EasyJet, and dating sites would automatically tick optional services (insurance, SMS alerts, priority boarding) during checkout. In 2009, the UK Office of Fair Trading found that 80% of airline websites used such practices. The CRD’s Article 22 now requires explicit consent: the consumer must actively check a box or click a button to accept any payment beyond the core contract.
 
-### Why does the Consumer Rights Directive specify 14 days, not 7 or 30?
+### Why do you get exactly 14 days to cancel an online purchase, not 7 or 30?
 
 The 14-day period was a political compromise. The 1997 Distance Selling Directive gave 7 working days; Germany and the UK wanted 14 days; France pushed for 30 days for door-to-door sales. The Commission’s impact assessment found that a 14-day standard aligned with consumer behaviour (most returns happen within 10 days, the study found) and would cost businesses less than a 7-day extension from the old 7-day norm. It also matched the 14-day withdrawal period under the 2008 Timeshare Directive, creating coherence.
 
-### Why does the Consumer Rights Directive use maximum harmonisation?
+### Why can't individual EU countries give consumers stronger protections than the standard EU rules?
 
 The CRD’s Article 4 prohibits member states from adopting stricter or weaker rules in its scope. This was Kuneva’s central demand: without full harmonisation, the single market for distance selling would remain fragmented. BEUC supported it in principle but worried about losing national protections (e.g., Belgium’s 7-day withdrawal for in-store purchases). The final text created a hybrid: full harmonisation for distance selling and off-premises contracts, but minimum harmonisation for unfair contract terms and guarantees, preserving national variations in areas where member states strongly insisted.
 

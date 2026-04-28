@@ -57,19 +57,19 @@ Industry response was mixed. Large retailers like Carrefour and Tesco adopted th
 
 ## Key questions answered
 
-### Why did the EU regulate organic farming so comprehensively in Council Regulation (EC) No 834/2007?
+### Why did the EU create such detailed rules for organic farming?
 
 The core reason was trust. The 2003 European Court of Auditors report showed that national control systems were failing, with consumers at risk of buying mislabelled products. Without harmonised EU rules, the organic label — which commands a price premium — became vulnerable to free-riding and fraud. Regulation 834/2007 was designed to make the label credible across all 27 member states.
 
-### Why did Council Regulation (EC) No 834/2007 prohibit GMOs so strictly?
+### Why are genetically modified organisms (GMOs) banned so strictly in EU organic food?
 
 The prohibition reflected both the organic sector’s founding philosophy and intense consumer pressure. In the 1990s, the emergence of genetically modified crops raised alarm among organic farmers, who feared contamination of their fields through cross-pollination. The European Parliament during the 2004-2009 term, led by the Greens, successfully pushed for a zero-tolerance approach on GMO presence in organic products, despite opposition from the biotechnology industry represented by EuropaBio. The final text prohibits all GMO use, with a limit of 0.9% for accidental presence — the same threshold used for mandatory labelling of GM content in conventional food.
 
-### Why did it take until 2007 for Council Regulation (EC) No 834/2007 to pass, given earlier organic rules existed?
+### Why did it take until 2007 for the EU to pass a unified organic food law, even though earlier rules existed?
 
 Earlier attempts to update Regulation 2092/91/EEC had failed because the conventional farming lobby effectively blocked reform in the 1990s, arguing that the market was small enough to manage nationally. The shift came when the organic sector grew sufficiently large — with retail sales doubling between 2000 and 2005 — that the cost of fragmentation became unbearable. The German wine scandal of 2005 was the political lightning rod, proving that even wealthy member states could not enforce their own rules effectively.
 
-### Does Council Regulation (EC) No 834/2007 apply to imported organic products?
+### Do EU organic food rules also apply to products imported from outside Europe?
 
 Yes, but with significant complexity. Under Regulation 834/2007, imports could enter the EU organic market through two pathways: equivalence (where the exporting country’s rules were judged equivalent, not identical) or by direct compliance with EU rules. This created tensions with trading partners like the US, where the National Organic Program allowed different practices. The 2018 revision (Regulation 2018/848) moved toward a stricter ‘compliance’ model, requiring imported products to be produced under EU-level rules by 2026, a change that sparked protests from developing country exporters.
 

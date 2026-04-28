@@ -45,15 +45,15 @@ Industry response has been broadly positive, with European associations like the
 
 ## Key questions answered
 
-### Why does the LVD only cover 50-1000V AC?
+### Why do electrical safety rules only cover devices running on 50 to 1000 volts of alternating current?
 
 The voltage range was chosen as a practical compromise. Below 50V AC, equipment is considered intrinsically safe — even if a person touches both conductors, the voltage is low enough that no dangerous current flows through the body. Above 1000V AC, equipment requires specialised engineering and professional installation, and is covered by different legislation (such as the ATEX directive for explosive atmospheres or national regulations for high-voltage infrastructure). The 50V threshold is actually a standard recognised internationally by the International Electrotechnical Commission (IEC) as the boundary between extra-low voltage and low voltage.
 
-### Why can manufacturers self-declare conformity to the Low Voltage Directive instead of undergoing third-party testing?
+### Why are companies allowed to test and certify their own electrical products for safety instead of using an independent lab?
 
 This was the political bargain that made the single market possible. Requiring every product to be tested by a notifed body would have created a costly bottleneck and kept small manufacturers from competing. The self-declaration system, combined with the "presumption of conformity" for products meeting harmonised standards, was designed to be fast, cheap, and trust-based. The risk is managed through post-market surveillance — Member States' authorities can test products at any time and remove non-compliant ones from the market. The 2014 recast strengthened market surveillance obligations precisely because the self-declaration system had been exploited by some unscrupulous importers.
 
-### What happens if a product does not meet LVD requirements?
+### What are the consequences if an electrical product fails to meet basic safety requirements?
 
 The consequences can be severe. If a Member State's market surveillance authority identifies a non-compliant product, it can demand the manufacturer withdraw it from the market, recall it from consumers, or impose fines. Persistent or dangerous non-compliance can trigger a "safeguard clause" procedure, where the Commission notifies all Member States, and the product is effectively banned from the entire EU market. The 2019 RAPEX statistics showed that China was the country of origin for over 60% of LVD-related notifications. Individual manufacturers can face reputational damage, loss of CE marking privileges, and liability claims under national product liability laws.
 

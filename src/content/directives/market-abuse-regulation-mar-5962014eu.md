@@ -55,19 +55,19 @@ The extension to commodity derivatives and emission allowances had practical eff
 
 ## Key questions answered
 
-### Why did the EU switch from a directive to a regulation for market abuse under MAR?
+### Why did the EU switch from letting each country make its own insider trading rules to having one set of rules for everyone?
 
 The switch was a direct response to the failure of the Market Abuse Directive (MAD). Under MAD, each member state transposed the rules differently, creating a patchwork of definitions, sanctions, and enforcement powers. The Libor scandal in 2012 exposed how cross-border manipulation could exploit these gaps. A directly applicable Regulation removed national discretion, ensuring uniform rules and equal enforcement across all 28 member states (at the time).
 
-### Why were emission allowances included in MAR?
+### Why did EU rules on insider trading and market manipulation start covering carbon emission allowances?
 
 Emission allowances under the EU Emissions Trading System (EU ETS) were included because of evidence that the carbon market was vulnerable to manipulation. In 2009, a VAT fraud scheme involving emission allowances cost EU treasuries an estimated €5 billion. The Commission's impact assessment for MAR noted that carbon markets required the same integrity as financial markets, especially as their role grew in climate policy. The inclusion was championed by MEP Sven Giegold and supported by the European Commission's climate directorate (DG CLIMA).
 
-### Why was a criminal sanctions directive adopted alongside MAR?
+### Why did the EU also pass a law making market abuse a crime with jail time, not just a fine?
 
 The Criminal Sanctions for Market Abuse Directive (CSMAD, 2014/57/EU) was proposed simultaneously because the Commission concluded that administrative fines alone were insufficient deterrents. The Libor and earlier scandals had shown that financial penalties were often treated as a cost of doing business. CSMAD required member states to make insider dealing and market manipulation criminal offences punishable by at least four years imprisonment for the most serious cases. However, the legal base forced the Commission to use a directive rather than a regulation, as criminal law is a national competence under the EU treaties.
 
-### Why did UK financial firms oppose MAR so strongly?
+### Why did UK financial companies fight so hard against the EU's new insider trading and market manipulation rules?
 
 The UK financial services industry, represented by the BBA and the City of London Corporation, opposed MAR primarily because of its strict rules on delay of disclosure. Under MAR, an issuer could only delay the publication of inside information if it had explicit permission from its national competent authority or had a "legitimate interest" — a much narrower exemption than under MAD. Firms argued that this would force premature disclosure of mergers and acquisitions, harming deal-making. The opposition weakened after the Libor scandal damaged the industry's credibility, but the UK's later Brexit decision was partly motivated by a desire to escape MAR's constraints.
 

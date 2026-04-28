@@ -53,15 +53,15 @@ Detractors argue the UCC has done little to reduce the estimated €2.5 billion 
 
 ## Key questions answered
 
-### Why did the UCC take so long to implement?
+### Why did it take so long to update the EU's customs rules?
 
 The regulation’s ambitious timeline underestimated the technical and financial strain on Member States. Many customs authorities, especially in Southern and Eastern Europe, operated legacy systems dating to the 1990s. The 2014-2020 EU budget allocated €1.5 billion for IT upgrades, but national procurement delays, the COVID-19 pandemic, and workforce training gaps pushed the full deadline for the 17 required electronic systems to 2025, with some systems still incomplete.
 
-### Why are businesses still complaining about the complexity of the Union Customs Code (UCC)?
+### Why are businesses still complaining that customs rules are too complicated?
 
 Despite the UCC’s promise of harmonisation, Member States retained limited national discretion—for example, in valuation rules for low-value e-commerce shipments and in special procedures like inward processing. This has created a de facto “UCC-lite” for small traders, who must navigate 27 different national customs portals even if the rules are the same. The Commission’s 2022 “Customs Data Hub” pilot aimed to fix this, but as of 2024, only six Member States participate.
 
-### How does Brexit relate to the UCC?
+### How does Brexit relate to the EU's customs system?
 
 Brexit directly tested the UCC’s resilience. When the UK left the EU in 2020, it became a “third country” under UCC rules, meaning all imports and exports between the EU and the UK were subject to UCC declarations. The volume of customs declarations required at Dover and Calais surged from 200 million to 270 million annually (according to the UK’s Office for Budget Responsibility), straining both EU and UK systems. The UCC’s AEO programme became critical—companies with AEO status in the EU faced faster processing at UK borders, incentivising compliance. The Commission credited the UCC’s risk management framework for preventing significant border disruptions during the transition.
 

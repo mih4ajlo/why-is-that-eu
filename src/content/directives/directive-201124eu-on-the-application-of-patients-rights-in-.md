@@ -65,15 +65,15 @@ Patient organisations—notably the European Patients Forum and the European Con
 
 ## Key questions answered
 
-### Why did Directive 2011/24/EU on the application of patients’ rights in cross-border healthcare not lead to a wave of medical tourism as many feared?
+### Why didn’t EU rules on getting healthcare in another country cause the flood of medical tourism that many worried about?
 
 Because the reimbursement mechanism—patients must pay upfront and are reimbursed only up to the cost their home system would have paid—removes the financial incentive. For patients from low-cost Member States, treatment in high-cost countries remains unaffordable; for patients from high-cost states, treatment abroad rarely saves money. The Commission’s 2018 evaluation found that the main barrier is not legal but practical: language, travel costs, and lack of awareness keep flows minimal.
 
-### Why did Directive 2011/24/EU take so long to negotiate (2008-2011)?
+### Why did it take three years (2008–2011) for EU countries to agree on rules for patients seeking treatment abroad?
 
 Three factors. First, the Lisbon Treaty negotiations (2007-2009) created legal uncertainty about how a health directive would fit under the new Article 168 TFEU. Second, the financial crisis of 2008 made Member States defensive about national health budgets. Third, the German and Austrian governments, backed by social insurance funds, insisted on strong protections for national systems. The Council ultimately accepted the directive only after the Commission added provisions explicitly stating that Member States retain control over the organisation of their health systems.
 
-### Why did the CJEU rulings precede Directive 2011/24/EU rather than the other way around?
+### Why did European courts decide patients could get care in other EU countries before the EU made official rules about it?
 
 Because healthcare was traditionally excluded from EU single-market rules under earlier treaties (e.g., the 1957 Rome Treaty contained no health article). When patients started challenging national barriers using free-movement provisions—originally designed for goods, services, and workers—they forced the CJEU to decide case by case whether healthcare fell within EU law. The Court created the legal framework; the directive then codified and standardised it. This is a rare example of patient litigation—not Commission ambition—driving the single market into a sensitive social policy area.
 

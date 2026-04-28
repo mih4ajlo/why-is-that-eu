@@ -54,19 +54,19 @@ The enforcement challenges remain severe. The Commission's 2022 report found tha
 
 ## Key questions answered
 
-### Why did the UK oppose the original Directive 96/71/EC?
+### Why did the UK oppose the original EU rules on sending workers abroad temporarily?
 
 The UK government under John Major argued that the directive would fragment the single market by allowing host states to impose labour standards beyond statutory minimums, undermining the free movement of services. The UK's construction and logistics industries warned the directive would add compliance costs of up to 20% for cross-border projects. The opposition continued through the 2014 and 2018 revisions, with the UK eventually opting out of aspects of the 2020 revisions before Brexit.
 
-### Why did the *Laval* ruling cause such a crisis for Directive 96/71/EC?
+### Why did the *Laval* court ruling cause such a crisis for EU rules on posted workers?
 
 The 2007 *Laval* case (C-341/05) involved a Latvian company building a school in Sweden that refused to apply Swedish collective agreements. The ECJ ruled that Sweden could not enforce its collective bargaining system against a posted worker from a lower-wage state. This outraged Swedish and other Nordic unions, whose labour market models rely on sectoral collective agreements rather than statutory minimums. The ruling effectively told the Nordic social model it was incompatible with EU law, triggering years of political turmoil.
 
-### Does Directive 96/71/EC apply to all sectors equally?
+### Do EU rules on temporarily sending workers to another country apply to all industries the same way?
 
 No. Transport was largely exempt until the 2020 Mobility Package, which extended posting rules to road transport after years of opposition from Central and Eastern European member states. The construction sector is the most heavily affected, accounting for 45% of all posted workers according to Eurostat's 2020 data. The directive's 2018 revision also brought temporary agency workers under its scope.
 
-### How is Directive 96/71/EC enforced?
+### How are EU rules on posted workers actually enforced in practice?
 
 The 2014 Enforcement Directive created mandatory tools: posting declarations, retention of documents up to two years, and national liaison offices. The 2020 establishment of the European Labour Authority (ELA) provides a coordination mechanism for cross-border inspections. However, the Commission's 2022 report found that only nine member states had established functional electronic declaration systems by the deadline, and penalties for non-compliance varied from €500 in some member states to €50,000 in Germany.
 

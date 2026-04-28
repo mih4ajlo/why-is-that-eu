@@ -51,15 +51,15 @@ The directive’s biggest unintended consequence was the creation of parallel na
 
 ## Key questions answered
 
-### Why does the Long-Term Residents Directive (2003/109/EC) apply differently in Denmark, Ireland, and the UK?
+### Why do EU long-term residency rules work differently in Denmark, Ireland, and the UK?
 
 Denmark, Ireland, and the UK exercised opt-outs under the Treaty of Amsterdam’s Protocol on the position of these countries in the area of freedom, security, and justice. The UK opted into the directive in 2004 but opted out of the mobile long-term resident provisions; it left the EU entirely in 2020. Denmark has never participated. This patchwork means a long-term resident in Denmark has no EU rights, while one in Germany can, in theory, move to France.
 
-### Why is the mobile long-term resident provision under the Long-Term Residents Directive (2003/109/EC) so rarely used?
+### Why is it so rare for long-term residents to move to another EU country and keep their status?
 
 The Commission’s 2024 impact assessment identifies three barriers: (1) Member States must require income and housing conditions equal to their own nationals, which effectively bars movement; (2) the 12-month maximum absence rule (Article 9) resets the five-year clock; and (3) Member States can require proof of integration, including language tests, which vary wildly — France requires B1 French, while no language test exists for intra-EU movers.
 
-### Why do few eligible third-country nationals apply for the status under the Long-Term Residents Directive (2003/109/EC)?
+### Why do so few eligible non-EU citizens apply for permanent residency in the EU?
 
 The Commission’s 2019 evaluation found that costs and procedural burdens deter applicants. Applying for long-term residence costs between €100 (Spain) and €500 (Netherlands) plus legal fees. In Germany, applicants must pass a 70-question integration test (B1 language and civics) — a requirement that the German Federal Court of Auditors found in 2017 had no measurable effect on integration but blocked 40% of otherwise eligible applicants.
 

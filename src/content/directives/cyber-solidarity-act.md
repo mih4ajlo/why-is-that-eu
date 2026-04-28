@@ -54,19 +54,19 @@ The regulation has already been invoked once: in **May 2025**, after a ransomwar
 
 ## Key questions answered
 
-### Why was the Cyber Solidarity Fund set at €2.5 billion, not more?
+### Why was the EU's emergency fund for major cyberattacks set at €2.5 billion, not more?
 
 The €2.5 billion figure was a political compromise between Member States with high cybersecurity spending (the Nordic countries, Germany) who wanted a small fund to avoid moral hazard, and states with weaker capabilities (Southern and Eastern Europe) who wanted at least €5 billion. The Commission's 2024 impact assessment estimated that a major single cyberattack could cost the EU economy between €10 billion and €50 billion, but the fund was kept modest to ensure it supplemented, rather than replaced, national budgets.
 
-### How does the Cyber Solidarity Act (CSA) interact with NIS2?
+### How do the new EU rules for sharing cyber threat warnings work with the existing cybersecurity requirements for critical companies?
 
 NIS2 places incident reporting obligations on private operators in critical sectors; the CSA does not change those rules. Instead, the CSA focuses on public-sector coordination and financial support. The European Cybersecurity Incident Response Mechanism (EU-CyCLONe) created by the CSA operates as the operational arm of the **NIS Cooperation Group**, ensuring that the SOCs feed threat intelligence directly into NIS2's incident notification pipeline.
 
-### Does the Cyber Solidarity Act (CSA) apply to non-EU countries or companies?
+### Do the EU's new cybersecurity cooperation rules apply to companies or governments outside Europe?
 
 The CSA is limited to EU Member States, but it allows for **associate participation by EEA countries** (Norway, Iceland, Liechtenstein) and **Switzerland** if they sign agreements to join the European SOC network. The fund is only accessible to EU Member States. Non-EU companies cannot directly apply for funding, but they can participate in threat-intelligence sharing through the SOCs if they operate critical infrastructure in the EU.
 
-### What happens if a Member State refuses to designate a national SOC under the Cyber Solidarity Act?
+### What happens if an EU country refuses to set up a national cyber threat monitoring center as required?
 
 The regulation requires each Member State to designate or establish a national SOC within six months of entry into force (by July 2025). If a Member State fails to do so, it cannot access the Cyber Solidarity Fund for either preparedness or emergency response. The Commission has the power to withhold Digital Europe Programme funding for cybersecurity projects until a SOC is designated. As of July 2025, two Member States had not designated SOCs; the Commission has issued formal notices to Hungary and Poland.
 

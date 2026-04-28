@@ -54,15 +54,15 @@ The regulation also reshaped corporate behaviour beyond finance. The PAI data de
 
 ## Key questions answered
 
-### Why are there three categories (Article 6, 8, 9) under the SFDR?
+### Why are there three different levels for how "green" a financial product claims to be?
 
 The three-tier system emerged from a political compromise between those who wanted a binary "sustainable/not sustainable" label and those arguing for a spectrum. The Commission tried to avoid creating a new product classification, but the Parliament insisted on differentiation to prevent "mainstream" funds from calling themselves sustainable. The categories were not originally intended as labels but as disclosure tiers — in practice, they have become de facto market labels, creating confusion. Many MEPs and industry bodies now call for a formal EU label to replace the Article 8/9 system.
 
-### Why did the SFDR not fully solve greenwashing?
+### Why didn't the new rules stop companies from exaggerating their environmental claims?
 
 The SFDR focused on *process* disclosure (how firms assess sustainability) rather than *outcome* (actual environmental or social impact of investments). A fund could be Article 8 or 9 if it had robust disclosure policies, but still hold assets that harm the environment, as long as those holdings were disclosed. This "garbage in, garbage out" problem arose because the SFDR was drafted before the Taxonomy Regulation was finalised, meaning there was no binding definition of "sustainable economic activity" to anchor the disclosures. The Commission acknowledged this gap in its 2023 consultation and proposed linking SFDR more tightly to the Taxonomy from 2024.
 
-### Why did the SME sector struggle to comply with the SFDR?
+### Why did smaller companies find it so hard to follow the new environmental reporting rules?
 
 Small and medium-sized asset managers, as well as investee SMEs, faced disproportionate costs. The PAI reporting requires granular data (e.g., scope 3 emissions, biodiversity indicators) that many firms lacked the systems to collect. A 2023 Commission survey found 37% of asset managers with under €500M AUM considered the data requirements "unworkable". The Commission responded in the 2023 review by proposing a simplified regime for financial market participants with fewer than 500 employees, but this is not yet legislated.
 

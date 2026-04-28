@@ -53,15 +53,15 @@ The first case under the new directive was filed in **June 2025 in the Netherlan
 
 ## Key questions answered
 
-### Why does the Liability for Defective Products Directive 2024 cover software updates that occur *after* a product is sold?
+### Why do companies have to take responsibility for software updates that break a product after you've already bought it?
 
 Because product safety in the digital age is dynamic, not static. The 1985 directive only covered defects present when the product left the factory, but over-the-air updates can introduce new defects years later — the Commission’s 2020 consultancy study found that **72% of connected product failures were linked to software updates, not original hardware**. The directive makes the manufacturer liable for any defect introduced by an update they control, even if the user initiated the update.
 
-### Why do platforms like Amazon Marketplace now count as “economic operators” under the Liability for Defective Products Directive 2024?
+### Why can online marketplaces like Amazon now be held responsible for defective products sold by third-party sellers on their platform?
 
 Because previous liability rules exempted platforms acting as intermediaries, allowing them to disclaim responsibility for third-party sellers’ defective products. The **2021 *Coty v. Amazon* ECJ case** had already held that Amazon could be liable for storing goods in its own warehouses, but the new directive goes further: if the platform controls the product listing, pricing, or fulfilment (like Amazon’s “Fulfilled by Amazon” program), it is treated as a manufacturer even for goods it never touched. The Commission estimated that **35% of defective products sold to EU consumers in 2022 came from third-party marketplace sellers** (Consumer Protection Cooperation Network report, 2023).
 
-### Why was the burden of proof reversed in some cases under the Liability for Defective Products Directive 2024?
+### Why do manufacturers sometimes have to prove their product wasn't defective, instead of you having to prove it was?
 
 Because plaintiffs in complex tech cases often cannot access the data needed to prove a defect. The **2021 *Facebook Ireland v. Gehrer* linked-case ruling** showed that users could not prove causality between a biased algorithm and a personal injury without the platform’s internal data. Under the new rules, if a claimant demonstrates “disproportionate difficulty” accessing that data — due to trade secrets, encryption, or the manufacturer’s sole possession of logs — the court may presume the defect existed. The **European Law Institute called this “the most significant procedural change in EU tort law in 40 years”** (ELI Statement, March 2024).
 

@@ -59,19 +59,19 @@ The regulation's impact on **accident rates** is difficult to isolate, but EASA'
 
 ## Key questions answered
 
-### Why did the EU wait until 2018 to regulate drones under Regulation (EU) 2018/1139?
+### Why did the EU wait until 2018 to set common safety rules for drones?
 
 The 2002 and 2008 EASA Regulations were designed for certified manned aircraft. Drones were too small and too new to fit the existing regulatory model. The explosion in consumer drone sales after 2013 — the European market grew from 200,000 units in 2013 to 1 million in 2016, per Eurocontrol — created a safety problem (near-misses with aircraft) and an economic opportunity (commercial drone services) that pushed the issue to the top of the Commission's agenda. The 2014 Paris Air Show incident where a drone flew within 500m of Charles de Gaulle Airport convinced regulators that voluntary self-regulation was failing.
 
-### Why did Regulation (EU) 2018/1139 expand EASA's powers rather than just harmonise national rules?
+### Why did the EU give the aviation safety agency more power instead of just making all countries follow the same rules?
 
 The REFIT evaluation found that 15 member states had used the 2008 exemption clauses to maintain different rules for aerodromes, small aircraft, and pilot licensing — precisely the areas where the Germanwings crash showed national divergence had safety consequences. The Commission concluded that voluntary harmonisation had failed and that only giving EASA binding regulatory powers over the entire aviation system could close the gaps. The 2015 impact assessment estimated that full harmonisation would reduce accident rates by 15-20% compared to the existing patchwork.
 
-### Why did the drone industry not oppose Regulation (EU) 2018/1139 more strongly?
+### Why didn't the drone industry fight harder against the new EU safety rules for drones?
 
 Leading drone manufacturers — particularly DJI, which held approximately 70% of the European consumer drone market — privately supported a single EU rulebook because it was cheaper than complying with 28 different national regimes. A DJI spokesperson told the Financial Times in 2017 that "one harmonised EU standard is better for us than negotiating with every member state separately." The main opposition came from hobbyist associations, who successfully fought to keep the 250g weight threshold (below which drones do not need registration), and the European model aircraft association (FMPA), which secured an exemption for model aircraft used by its 1.5 million members.
 
-### Why did Regulation (EU) 2018/1139 take 16 years from the original EASA creation?
+### Why did it take 16 years after creating the EU aviation safety agency to update its powers?
 
 The original 2002 EASA Regulation was deliberately narrow — covering only aircraft design and production — because several large member states (France, Germany, UK) fiercely protected their national aviation safety agencies. France's DGAC and Germany's LBA opposed any transfer of their licensing authority to a European agency. The Germanwings crash broke this resistance: the revelation that a pilot could be declared unfit in one member state and simply move to another to obtain a licence made national sovereignty over licensing look reckless. Commissioner Bulc used the political window after the crash to push through the full extension that had been unsuccessfully proposed in 2007.
 

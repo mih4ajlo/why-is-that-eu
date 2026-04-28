@@ -52,15 +52,15 @@ Member States face substantial implementation burdens. The Regulation requires t
 
 ## Key questions answered
 
-### Why does the EHDS allow secondary use of health data without explicit patient consent?
+### Why can my health data be used for research or public health without me saying yes?
 
 The Regulation adopts an opt-out model for secondary use (patients can object to their anonymised data being used for research and policy) rather than an opt-in model requiring explicit consent because the Commission argued in its 2022 impact assessment that an opt-in system would make large-scale research and public health monitoring "unworkable." The legal basis is not GDPR Article 9(2)(a) (explicit consent) but Article 9(2)(h) (public health and scientific research purposes), which allows Member States to process special categories of data for health research purposes if appropriate safeguards exist. However, the final text introduced a strong opt-out right for patients, and secondary-use projects must still undergo mandatory data protection impact assessments and be limited to specific public interest purposes listed in Article 46 of the Regulation.
 
-### Why did the EHDS take so long to negotiate compared to other data space regulations?
+### Why did it take so much longer to agree on rules for sharing health data across Europe than for other types of data?
 
 The EHDS was significantly more complex than horizontal data legislation like the Data Governance Act (2022) because it dealt with the most sensitive category of personal data under GDPR (health data) and required harmonising 27 different national health record systems, each built on different technical standards. The European Data Protection Board (EDPB) submitted formal opinions in 2022 and 2023 warning that the secondary-use framework risked creating a "parallel data protection regime" for health data. Achieving the final compromise required reconciling the Parliament's demand for stronger patient rights with the Council's push for broader industry access. The fact that health policy is a shared competence between the EU and Member States (Article 168 TFEU) made finding legal bases for mandatory secondary-use obligations particularly contentious.
 
-### Why does the EHDS not cover genetic data for primary use?
+### Why aren't my genetic test results included in the rules for doctors and hospitals using my health data?
 
 During negotiations, Member States and the European Parliament agreed to exclude genetic data (specifically, whole genome sequences and raw genomic data) from the mandatory primary-use exchange obligations, meaning patients cannot currently demand cross-border portability of their full genetic profile. The European Alliance for Personalised Medicine (EAPM) called this a "missed opportunity" in a 2024 position paper. The Commission stated in a progress report that genetic data interoperability would be addressed in a separate delegated act by 2028, following a feasibility study and pilot projects under Horizon Europe. This exclusion reflects concerns about informed consent for genetic data, the risk of reidentification, and the lack of standardised interpretation methods across Member States' clinical genetic services.
 

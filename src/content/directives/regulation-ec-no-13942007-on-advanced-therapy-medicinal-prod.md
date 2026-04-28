@@ -54,19 +54,19 @@ The regulation's most controversial provision — the hospital-exemption clause 
 
 ## Key questions answered
 
-### Why did Regulation (EC) No 1394/2007 create a dedicated committee (CAT)?
+### Why did the EU set up a special committee just for advanced gene and cell therapies?
 
 The Committee for Advanced Therapies was created because ATMPs require specialised scientific expertise that the standard EMA committees lacked — particularly in gene editing, cell culture, and tissue engineering. The 2006 impact assessment noted that existing experts in the Committee for Medicinal Products for Human Use (CHMP) had "limited experience with non-viral gene therapy vectors and tissue scaffolds." The CAT, with 20 members including patient representatives and clinicians, provides 72-day accelerated assessments for SME applicants.
 
-### Why are so few authorised ATMPs commercially available under Regulation (EC) No 1394/2007?
+### Why are so few approved gene and cell therapies actually available to buy in Europe?
 
 The fundamental challenge is that ATMPs are typically one-time, patient-specific treatments costing €300,000 to €2 million, but health technology assessment (HTA) bodies in most Member States lack frameworks for valuing curative therapies. The 2022 Commission evaluation found that only 11 of 23 authorised ATMPs have concluded reimbursement agreements in at least one Member State. Glybera was withdrawn in 2017 after only 31 patients were treated globally — largely because Germany's IQWiG refused to accept the cost-effectiveness model. The regulation mandates EU-level safety and efficacy approval but leaves pricing and reimbursement entirely to Member States.
 
-### How did the Jesse Gelsinger case influence Regulation (EC) No 1394/2007?
+### How did the death of a teenager in a gene therapy trial lead to stricter EU rules for these treatments?
 
 Although the 1999 death of 18-year-old Jesse Gelsinger in a US gene therapy trial at the University of Pennsylvania occurred outside Europe, it fundamentally altered regulatory expectations worldwide. The US FDA halted all gene therapy trials for 18 months; the EU's EMEA responded by issuing stricter trial oversight guidelines in 2000. When the ATMP regulation was drafted, the spectre of Gelsinger's death — caused by a massive immune response to an adenoviral vector — drove the requirement for "comprehensive risk management plans" in ATMP applications (Article 14). Commissioner Verheugen explicitly referenced the case in his 2005 legislative proposal, stating that "public confidence in gene therapy requires the highest standards of safety."
 
-### Why can hospitals still make ATMPs without EMA approval under Regulation (EC) No 1394/2007?
+### Why can hospitals still make their own gene and cell therapies without getting approval from the European Medicines Agency?
 
 The hospital-exemption clause (Article 28) was a political compromise demanded by Germany and France, whose university hospitals had decades of experience manufacturing cellular therapies for individual patients. Without it, these countries threatened to block the regulation entirely. The exemption applies only to ATMPs prepared on a "non-routine basis" and used within the same Member State under a physician's prescription. The Commission's 2020 report acknowledged that "the definition of 'non-routine basis' has proven difficult to interpret," leading to Germany's extensive use while Greece and Portugal have not granted any hospital exemptions at all.
 

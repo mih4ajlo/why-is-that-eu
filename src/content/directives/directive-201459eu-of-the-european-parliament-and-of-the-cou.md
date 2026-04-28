@@ -61,18 +61,18 @@ The BRRD also reshaped depositor behaviour. Uninsured corporate deposits (above 
 
 ## Key questions answered
 
-### Why did the BRRD make banks pay for resolution when states used to bail them out?
+### Why did new EU rules make banks pay for their own failures instead of governments bailing them out?
 
 The 2008 financial crisis exposed that EU member states lacked legal tools to let banks fail without destabilising the entire financial system. Over €1.6 trillion in taxpayer funds were deployed, creating moral hazard — bank executives knew they could take excessive risks because governments would rescue them. The BRRD's bail-in mechanism, modelled on the Financial Stability Board's 2011 "Key Attributes," was designed to shift the cost of failure to shareholders and creditors who had willingly invested in the bank, not taxpayers who had no say.
 
-### Why wasn't the BRRD enough — why did the EU need the Single Resolution Mechanism?
+### Why wasn't that enough — why did the EU need a central system for handling failing banks?
 
 The BRRD gave national authorities the tools, but for the 19 eurozone countries with a single currency and a single central bank, national resolution of a cross-border bank could still disrupt the single market. If a German subsidiary of a French bank failed, German authorities might ring-fence local assets to protect German creditors — the very fragmentation the crisis had caused. The **Single Resolution Mechanism Regulation (806/2014)**, passed alongside the BRRD, created a central authority (the Single Resolution Board) and a single resolution fund (€55 billion by 2023) to handle major eurozone bank failures centrally, preventing national interests from breaking the internal market.
 
-### Why did the UK partially opt out of the BRRD?
+### Why did the UK choose to follow only some of the EU's bank failure rules?
 
 The UK, as a non-euro member, feared that EU resolution rules written for the Banking Union would impinge on the Bank of England's established resolution framework, which already had powers under the 2009 Banking Act. The UK also wanted to protect London's wholesale banking market by ensuring that certain resolution triggers (like "public interest" tests) remained with national authorities. The final directive included a compromise: the **Protocol on the internal market and competition** allowed the UK to apply its own resolution tools as long as they achieved equivalent outcomes — a flexibility that later proved contentious during Brexit negotiations over financial services equivalence.
 
-### Why wasn't the first BRRD resolution (Banco Popular) a proper test of the framework?
+### Why wasn't the first time the EU's bank failure rules were used (for Banco Popular) a real test of the system?
 
 Banco Popular's 2017 resolution was ordered by the Single Resolution Board using BRRD tools, but it avoided a full bail-in of senior creditors. Instead, the SRB sold the bank to Santander for €1, absorbed by a €3 billion write-down of shareholders and junior bondholders. Senior creditors — including large corporate depositors and bondholders — were protected because the sale was structured as a "private sector solution" rather than a formal resolution with creditor haircuts. Critics, including MEP Sven Giegold, argued the SRB missed an opportunity to demonstrate that bail-in works for senior creditors, leaving uncertainty about whether the political will exists to impose losses on large depositors. The European Court of Auditors found in its 2020 special report that the resolution process took only 72 hours but lacked transparency in how the valuation of the bank was performed for compensation purposes.

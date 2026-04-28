@@ -49,15 +49,15 @@ EFSA's role expanded significantly: it became the sole scientific authority for 
 
 ## Key questions answered
 
-### Why are additives listed with E-numbers under Regulation (EC) No 1333/2008?
+### Why do food additives in the EU get those "E" numbers on ingredient labels?
 
 E-numbers originated from the 1962 EU colour directive and were formalised in Regulation 1333/2008 to provide a uniform identification system. "E" stands for "Europe" — the number is the additive's unique identifier across all EU languages. This eliminates confusion from different brand names or chemical terms and makes enforcement by national food safety authorities straightforward.
 
-### Why were six artificial colours subject to a warning label instead of banned under Regulation (EC) No 1333/2008?
+### Why did EU rules require a warning label on six artificial food colours instead of just banning them?
 
 The 2007 Southampton study found a small but statistically significant link between mixtures of six artificial colours (including sunset yellow, quinoline yellow, and allura red) and hyperactivity in children. However, EFSA's 2008 opinion concluded the study's methodology was insufficient to justify a ban on individual additives. Commissioner Kyprianou brokered a compromise: mandatory warning labels from 2010, with a review clause if new evidence emerged. This satisfied both industry (which avoided a ban) and consumer groups (which got a visible warning).
 
-### Why did Regulation (EC) No 1333/2008 allow titanium dioxide until 2022?
+### Why was titanium dioxide allowed in EU foods until 2022?
 
 Titanium dioxide (E171) was originally included in the permitted list because EFSA's 2004 assessment considered it safe at authorised levels. In 2016, France raised new concerns about its nanoparticle form. The Commission asked EFSA to re-evaluate; its 2021 opinion concluded that genotoxicity could not be ruled out. Under Regulation 1333/2008's review clause, the Commission then banned E171 from February 2022. The delay illustrates the regulation's central tension: it requires conclusive scientific evidence before banning an additive, which can take years.
 

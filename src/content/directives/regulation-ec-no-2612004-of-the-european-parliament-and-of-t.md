@@ -57,15 +57,15 @@ The economic effect has been debated. A 2019 Commission evaluation found no evid
 
 ## Key questions answered
 
-### Why does Regulation (EC) No 261/2004 cover cancellations and delays, not just denied boarding?
+### Why do EU flight delay and cancellation rules also cover denied boarding, not just cancellations?
 
 The original Commission proposal in 2001 covered only denied boarding. The European Parliament, led by rapporteur Paolo Costa and consumer advocates, successfully argued that cancellations and long delays cause equivalent or greater harm to passengers — a family stranded for 24 hours without food or hotel faces the same distress as one bumped from an overbooked flight. The Parliament's November 2002 vote to extend the scope was adopted by a clear majority over industry objections, establishing the principle that the regulation's purpose is passenger welfare, not correcting airline yield management.
 
-### Why is there no compensation for strikes under Regulation (EC) No 261/2004?
+### Why don't EU flight compensation rules cover delays or cancellations caused by strikes?
 
 The regulation's Article 5(3) exempts carriers from compensation if they can prove "extraordinary circumstances." The CJEU, in *Krüsemann* (2018) and later cases, drew a distinction: strikes by the carrier's own employees (e.g., pilots, cabin crew) are "inherent in the normal exercise of the activity of the air carrier" — they are operational risks the airline must manage — so they are not extraordinary and do not exempt the carrier. However, "wildcat" strikes by air traffic controllers, airport staff, or third-party ground handlers may be extraordinary if the carrier could not have prevented them. This means that whether a strike excuses compensation depends on who went on strike and why, creating significant litigation.
 
-### Why has Regulation (EC) No 261/2004 not been revised despite clear problems?
+### Why haven't EU flight passenger rights been updated despite obvious problems?
 
 The Commission proposed a revision in 2013 (COM(2013) 130 final) to: increase compensation for long-haul flights, add rights for missed connections, and clarify the "extraordinary circumstances" definition. The Council of Ministers could not agree. Low-cost carriers — Ryanair, easyJet, Wizz Air — lobbied heavily against expansion, arguing it would raise ticket prices by 5–10%. A coalition of six states (including the UK, until its 2016 Brexit referendum) sided with them, fearing higher costs for their national carriers. Meanwhile, the Parliament demanded stricter rules. The trilogue negotiations collapsed in 2015. By 2024, the file remained stalled, with the Commission focusing on enforcement of existing rules rather than reopening the political battle.
 

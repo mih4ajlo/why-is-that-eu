@@ -53,15 +53,15 @@ On social conditionality, the first enforcement case emerged in Spain: in Octobe
 
 ## Key questions answered
 
-### Why does the CAP need reform if it already had greening measures?
+### Why does EU farm policy need to change if it already had environmental rules for farmers?
 
 The 2013 CAP reform introduced "greening" — crop diversification, permanent grassland, and ecological focus areas — but the European Court of Auditors' 2017 special report found it was "not delivering on the environment": 80% of farms were exempt from greening rules (mainly because they were below the 10-hectare threshold or they already met other obligations), and the rules themselves were so weak that compliance was automatic for most farms. The 2023 reform replaces this with a "new green architecture" that is mandatory and progressively stricter.
 
-### Why did farmers protest the CAP, and was their opposition successful?
+### Why did farmers protest EU farming subsidies, and did they win any changes?
 
 Farmers objected primarily to three things: the administrative burden of the new conditionality tracking (especially the AIMO soil sampling system required in the Netherlands), the lower water and higher input costs under GAEC standards, and the loss of direct payments from the redistributive mechanism. Protests escalated in early 2024, culminating in the February-March tractors protest in Brussels. The protests were partly successful: the Commission proposed exempting small farms from conditionality on 15 March 2024, but the core green architecture — eco-schemes and mandatory GAEC standards — remains intact.
 
-### How does the CAP 2023-2027 interact with the EU's climate targets?
+### How do the EU's new farming subsidy rules help meet Europe's climate goals?
 
 The CAP is the largest single source of EU climate funding, with at least 40% of its budget (€155 billion) allocated to climate-relevant measures. But the Commission's own 2021 Fitness Check found that only 8% of CAP spending actively contributed to climate mitigation; the rest was passive or even harmful (e.g., livestock subsidies in some member states). The post-2023 CAP aims to increase this to 25% of direct payments through eco-schemes, but the European Environment Agency's 2023 report on agricultural greenhouse gas emissions noted that EU farm emissions fell by only 2.1% between 2005 and 2021 — far below the Green Deal's 55% target.
 

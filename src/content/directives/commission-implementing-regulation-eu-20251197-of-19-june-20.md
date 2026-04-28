@@ -52,15 +52,15 @@ Legal challenges are expected. The regulation will likely be contested at the WT
 
 ## Key questions answered
 
-### Why was the first IPI measure under Commission Implementing Regulation (EU) 2025/1197 targeted at medical devices and not steel or construction?
+### Why was the first EU measure to restrict foreign access to its public procurement market aimed at medical devices instead of steel or construction?
 
 Medical devices were chosen for three reasons. First, the COVID-19 pandemic made the vulnerability of EU supply chains in this sector politically salient—voters remember the scramble for masks and ventilators. Second, China’s exclusion of medical devices from its GPA commitments was unambiguous, making a strong legal case. Third, the healthcare sector had broad political support across EU member states, unlike steel, where large consumers (automotive, construction) would have fiercely opposed restrictions that raised input costs.
 
-### Why did the IPI measure under Commission Implementing Regulation (EU) 2025/1197 take over a decade to pass, and what finally broke the deadlock?
+### Why did it take the EU over ten years to pass rules limiting Chinese access to its public contracts, and what finally made it happen?
 
 The IPI failed twice (2012, 2016) due to a coalition of free-trade Northern European states and export-dependent German industry, who feared Chinese retaliation. The deadlock was broken by the COVID-19 pandemic, which turned a technical trade issue into a visible political crisis. The pandemic showed EU citizens that their tax money was being used to buy Chinese medical equipment while European firms could not access the Chinese market. Commission President von der Leyen’s “Open Strategic Autonomy” agenda provided the political framework. Internal Market Commissioner Thierry Breton personally pushed the dossier through the Council.
 
-### Will the measure under Commission Implementing Regulation (EU) 2025/1197 be expanded to other sectors or countries?
+### Will the EU expand these restrictions on Chinese companies bidding for public contracts to other industries or other countries?
 
 Yes, the IPI regulation is a framework tool, not a one-off. The Commission has signalled it will investigate other sectors where procurement imbalance exists, including construction, railway equipment, and information technology. The regulation also applies to other non-GPA countries beyond China, such as India, Brazil, and Turkey. However, each measure requires a full investigation and implementing regulation, so expansion will be gradual. Any escalation depends on the targeted country’s willingness to negotiate market access.
 

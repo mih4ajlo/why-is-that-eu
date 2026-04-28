@@ -50,15 +50,15 @@ A major unforeseen consequence was the political battle over "imitation foods." 
 
 ## Key questions answered
 
-### Why did the FIC Regulation mandate allergen labelling for loose foods like bakery or restaurant items?
+### Why do bakeries and restaurants have to list allergens in their food?
 
 The 2003-2004 deaths of two young consumers from peanut and dairy allergens in non-prepacked foods demonstrated that voluntary allergen advice (like 'may contain traces') was inadequate for the 17 million EU food allergy sufferers. The Commission's 2008 impact assessment calculated that mandatory declarations on menus, counter signs, and online ordering systems would reduce emergency hospital visits by an estimated 12,000 per year across the EU, with a net economic benefit of €672 million annually from avoided medical costs and productivity loss.
 
-### Why did the FIC Regulation create a single standard font size of 1.2mm?
+### Why is there a standard minimum font size for ingredient lists on packaged food?
 
 Before the FIC, the EU had no minimum font size for food labels. The 2000 directive only required that information be "easy to see and clearly legible," leading to practices like using 0.5mm font for allergen info on small wrappers. Consumer group BEUC filed a 2009 complaint to the Commission after a 2008 survey found 27% of EU consumers could not read the ingredient list on a standard 50g chocolate bar. The 1.2mm rule (based on the height of the letter 'x') was chosen after a 2010 'legibility study' by the Joint Research Centre found it was the minimum readable size for the average 40-year-old EU citizen under normal supermarket lighting. A 2017 ECC audit found that 93% of pre-packed products had complied by the deadline.
 
-### Why didn't the FIC Regulation create a single EU-wide front-of-pack nutrition labelling system?
+### Why isn't there one single EU-wide nutrition label on the front of food packages?
 
 The Commission initially proposed a mandatory "traffic light" colour-coding system (red/amber/green) in its 2010 draft, aimed at fighting obesity. However, the food industry—led by Nestlé, Unilever, and Coca-Cola—lobbied heavily against colour coding, arguing it would stigmatize high-calorie foods and reduce consumer choice. The industry's alternative was the "Guideline Daily Amounts" (GDA) system, showing percentages per portion. The European Parliament voted in 2011 to drop any specific front-of-pack format, instead leaving it to voluntary action by Member States. This created a fragmented landscape of nine different national schemes by 2023, prompting the 2020 "Farm to Fork Strategy" to propose a harmonized system, which remains politically deadlocked between industry and public health advocates.
 

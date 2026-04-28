@@ -54,19 +54,19 @@ Environmental groups, led by the European Environmental Bureau (EEB), criticized
 
 ## Key questions answered
 
-### Why did it take 20 years to get an EU soil law under Directive (EU) 2025/2360 (Soil Monitoring Law)?
+### Why did it take 20 years for the EU to finally pass a law about soil health?
 
 Because soil was considered a national competence and a 2006 directive was blocked by a Council minority led by Germany, France, and the UK. The 2024 ECJ ruling on EU competence broke the legal deadlock, and the European Green Deal provided the political momentum — climate, biodiversity, and pollution laws all needed soil data that only a harmonised monitoring system could provide.
 
-### Why does the Soil Monitoring Law mandate monitoring but not restoration?
+### Why does the new EU soil law require countries to check soil health but not force them to fix damaged soil?
 
 The Commission chose a narrower legal basis to get it through the Council. A law that dictated how to fix degraded soils would have been blocked again by farming and industry lobbies. By limiting it to monitoring, the Commission ensured passage by qualified majority and left restoration to be incentivised through other instruments — the CAP, carbon removal schemes, and national plans.
 
-### Who opposed the Soil Monitoring Law and why?
+### Who fought against the EU's new soil monitoring rules and what were their reasons?
 
 The far-right Identity and Democracy group voted against it, framing it as a "Green Deal burden" on farmers. In the Council, Poland and Hungary abstained, concerned about costs to their large agricultural sectors. Industry groups COPA-COGECA and BusinessEurope did not block the final text because restoration remains voluntary, but they successfully lobbied to exempt built-up land from monitoring requirements.
 
-### How will the data under the Soil Monitoring Law be used?
+### How will the information collected from soil checks across Europe actually be used?
 
 Member states must submit soil health reports to the Commission by 2030. The data will feed into the EU's 2040 climate target framework — to measure soil carbon sequestration — and inform the next CAP reform's conditionality rules. The Commission can also use the data to push member states into action through infringement procedures if they fail to monitor or report.
 

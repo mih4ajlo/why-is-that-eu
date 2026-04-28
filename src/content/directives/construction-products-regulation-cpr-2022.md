@@ -52,15 +52,15 @@ The first significant enforcement action came in October 2023, when the Italian 
 
 ## Key questions answered
 
-### Why was a recast needed instead of amending the 2011 Construction Products Regulation (CPR)?
+### Why did the EU need to completely rewrite the rules for selling building materials instead of just updating the old ones?
 
 The 2011 CPR had so many structural flaws — loopholes that allowed fraudulent CE marking, opaque self-declaration systems, weak notified body oversight, and virtually no market surveillance — that piecemeal amendments would have been inadequate. The Commission’s 2019 evaluation found that over 30 distinct enforcement gaps existed, and fixing them required a complete overhaul of the legal framework rather than incremental changes.
 
-### Why didn’t the EU mandate third-party testing for all products under the Construction Products Regulation (CPR)?
+### Why didn’t the EU require independent labs to test every building product before it goes on the market?
 
 Industry lobbying by FIEC and ECCMA successfully argued that mandatory third-party testing for all construction products would increase compliance costs by 15-25% for SMEs, based on the Commission’s own 2021 impact assessment. The compromise reached in the 2022 recast only requires third-party testing for products where failure poses a "systemic safety risk" — primarily fire safety, structural integrity, and environmental health. Approximately 40% of construction products remain under the manufacturer self-declaration system.
 
-### How did the Grenfell Tower fire specifically influence the Construction Products Regulation (CPR) 2022?
+### How did the Grenfell Tower fire directly change the rules for how building products are tested and labeled in Europe?
 
 While the UK was no longer an EU member state when the Recast was adopted, the investigation into Grenfell revealed that aluminium composite panels sold across Europe had been systematically marketed with false fire resistance claims. The European Commission’s 2020 regulatory impact assessment explicitly cited the Grenfell investigation’s findings that "the CE marking system had been exploited by manufacturers to misstate performance data" as a key justification for reform. The UK’s own Building Safety Act 2022, passed in parallel, similarly tightened product requirements.
 

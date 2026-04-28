@@ -54,19 +54,19 @@ The biggest unintended consequence has been a crisis in the availability of "orp
 
 ## Key questions answered
 
-### Why did the IVDR succeed where earlier attempts to regulate medical devices failed?
+### Why did the new EU rules for medical tests succeed where earlier attempts to regulate them failed?
 
 Earlier attempts in the 2000s to strengthen the IVD Directive were blocked by a coalition of industry (arguing for free movement and low costs) and national regulators (who wanted to maintain their role as certifiers). The PIP breast implant scandal in 2010-2011 broke this deadlock by moving the political debate from abstract market concerns to concrete patient harm. The 2013 Roth-Behrendt report in the European Parliament provided a credible, documented account of regulatory failures, creating a "now rather than later" dynamic. The JRC study showing 30% of genetic tests lacked clinical validity data added a specific, evidence-based argument that the system was not fit for 21st-century diagnostics.
 
-### Why did German and Dutch opposition fail to block the IVDR?
+### Why did German and Dutch opposition fail to block the new EU rules for medical tests?
 
 Germany and the Netherlands opposed because they had large numbers of SME diagnostic companies (over 400 in Germany alone, according to 2016 industry data) and two of the busiest Notified Bodies. They argued that centralised EU oversight would increase costs and reduce flexibility. However, they were outnumbered by the 26 other Member States that favoured reform, driven by patient safety concerns. The qualified majority voting system in the Council (55% of states representing 65% of population meant Germany could be outvoted despite its population share. The German Health Ministry's own 2015 Rücker Report, which showed weak Notified Body performance, undercut the credibility of Germany's anti-regulation stance.
 
-### Why did the IVDR cause a Notified Body shortage?
+### Why did the new EU rules for medical tests cause a shortage of inspection bodies?
 
 The existing Notified Bodies under the old directive were mostly for-profit private companies that certified 92% of IVDs without any pre-market review. Under the IVDR, Notified Bodies must be re-designated by national competent authorities against much stricter criteria, including needing specialised clinical staff (e.g., pathologists, geneticists) for each device category. Many Notified Bodies — such as the British Standards Institution (BSI) in the UK — announced they would not seek designation because the cost and complexity of meeting the new requirements was too high relative to the market size. According to the Commission's 2023 report, the average Notified Body designation process took 26 months, far longer than anticipated, leaving only 8 bodies ready by the 2022 deadline. The resulting backlog meant some high-risk IVDs waited 18 months for certification.
 
-### Why did the EU extend the transition period of the IVDR in 2022?
+### Why did the EU delay the deadline for the new medical test rules in 2022?
 
 By late 2021, it was clear the Notified Body bottleneck would prevent many existing devices from being certified by the May 2022 deadline. MedTech Europe and national health ministries (especially from Poland, Italy, and Spain) warned of diagnostic test shortages. The Commission, under Health Commissioner Stella Kyriakides, proposed an amendment extending the transition period to May 2027 for lower-risk devices and May 2028 for medium-risk ones. The Parliament and Council adopted it in December 2022. The extension was controversial: patient safety groups argued it undermined the regulation's core aim of improving safety, while industry said it was necessary to avoid a public health crisis.
 

@@ -54,19 +54,19 @@ A significant unintended consequence concerns family reunification. The 2023 gui
 
 ## Key questions answered
 
-### Why did the original 2009 Blue Card under Directive 2021/1883/EU fail so badly?
+### Why did the original 2009 EU Blue Card for skilled foreign workers fail so badly?
 
 The 2009 directive set a salary threshold of 1.5 times the national average gross salary, which in many Member States — especially Eastern European ones — created a de facto cap that excluded most high-value but not top-tier workers. Germany and a few others circumvented the EU scheme by designing national "Blue Card" programmes with lower thresholds (1.0 to 1.5 times the average), making the EU version redundant. The Commission's 2016 evaluation found that 13 Member States issued fewer than 100 Blue Cards total over the directive's lifespan.
 
-### Why did the European Parliament accept looser mobility rules than originally proposed in Directive 2021/1883/EU?
+### Why did the European Parliament accept looser rules for moving between EU countries than originally proposed?
 
 The Parliament's Civil Liberties Committee had proposed a more ambitious text allowing mobility after only three months, with no employer notification requirement. But in trilogue negotiations in 2021, Member States — led by Germany's interior minister Horst Seehofer — insisted on six months and mandatory notification of the first Member State. The Parliament conceded because the alternative was no directive at all: the Austrian and Dutch interior ministers had explicitly threatened to veto the file if mobility rules were too permissive, citing national security concerns.
 
-### Why was intra-EU mobility such a contested issue in Directive 2021/1883/EU?
+### Why was letting skilled foreign workers move between EU countries such a controversial issue?
 
 The original 2009 directive had no intra-EU mobility provision at all — a Blue Card was valid only in the issuing Member State. Germany, France, and the Netherlands argued that without mobility, the Blue Card would never compete with national schemes that allowed workers to move between subsidiaries of multinational companies. But interior ministries in Austria, Denmark, and Poland resisted, warning that allowing workers to move between Member States without prior approval would create "forum shopping" where workers entered via a country with lower thresholds and then moved to a higher-wage country, bypassing that country's controls. The compromise — six months of work in the first Member State before any movement, plus mandatory employer reporting — was a political necessity to get the qualified majority.
 
-### Did the recast of Directive 2021/1883/EU actually increase the number of Blue Cards issued?
+### Did the updated EU Blue Card rules actually lead to more of these work permits being issued?
 
 Yes, but unevenly. According to Eurostat, EU Blue Cards issued increased from 36,000 in 2021 to 72,000 in 2022 and 110,000 in 2023. However, the vast majority of this increase came from Germany (which accounted for 85% of 2023 issuances). The Commission's 2024 report noted that the recast had not yet changed the core imbalance: national schemes in Germany, France, and the Netherlands still attract more workers than the EU Blue Card, because they offer faster processing and lower thresholds than even the recast allows.
 
