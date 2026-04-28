@@ -51,8 +51,10 @@ function excerpt(text: string, max = 180): string {
       border-radius: var(--radius);
       padding: 1.1rem 1.4rem;
       transition: border-color 0.15s;
+      display: block;
+      color: inherit;
     }
-    .q-card:hover { border-color: var(--accent); }
+    .q-card:hover { border-color: var(--accent); text-decoration: none; }
 
     .q-text {
       font-size: 0.975rem;
@@ -128,15 +130,15 @@ function excerpt(text: string, max = 180): string {
 
   <div class="questions" id="questions">
     {questions.map(q => (
-      <div class="q-card" data-cat={q.category}>
+      <a href={`${base}questions/${q.id}`} class="q-card" data-cat={q.category}>
         <p class="q-text">{q.question}</p>
         <p class="q-answer">{excerpt(q.answer)}</p>
         <div class="q-footer">
-          <a href={`${base}directives/${q.slug}`} class="q-source">{q.title}</a>
-          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge">{q.category}</a>
+          <span class="q-source">{q.title}</span>
+          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge" onclick="event.stopPropagation()">{q.category}</a>
           <span class="year">{q.year}</span>
         </div>
-      </div>
+      </a>
     ))}
   </div>
   <p class="empty" id="empty">No questions in this category.</p>

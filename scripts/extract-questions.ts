@@ -14,9 +14,10 @@ const DIR = path.join(__dirname, '..', 'src', 'content', 'directives');
 const OUT = path.join(__dirname, '..', 'data', 'questions.json');
 
 export interface QuestionEntry {
+  id: string;          // URL slug for the individual question page
   question: string;
   answer: string;      // raw markdown paragraph(s)
-  slug: string;
+  slug: string;        // parent directive entry slug
   title: string;
   directive: string;
   category: string;
@@ -30,15 +31,23 @@ function field(content: string, key: string): string {
   return bare?.[1]?.trim() ?? '';
 }
 
-function extractQuestions(raw: string, slug: string): QuestionEntry[] {
-  const title    = field(raw, 'title');
+function toId(question: string): string {
+  return question
+    .toLowerCase()
+    .replace(/\?$/, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 80);
+}
+
+function extractQuestions(raw: string, slug: string): Omit<QuestionEntry, 'id'>[] {
+  const title     = field(raw, 'title');
   const directive = field(raw, 'directive');
-  const category = field(raw, 'category');
-  const year     = parseInt(field(raw, 'year'), 10) || 0;
+  const category  = field(raw, 'category');
+  const year      = parseInt(field(raw, 'year'), 10) || 0;
 
   const lines = raw.split('\n');
 
-  // Find section boundaries
   const sectionStart = lines.findIndex(l => /^## key questions answered/i.test(l));
   if (sectionStart === -1) return [];
 
@@ -48,7 +57,7 @@ function extractQuestions(raw: string, slug: string): QuestionEntry[] {
   }
 
   const section = lines.slice(sectionStart + 1, sectionEnd);
-  const results: QuestionEntry[] = [];
+  const results: Omit<QuestionEntry, 'id'>[] = [];
 
   let i = 0;
   while (i < section.length) {
@@ -74,6 +83,7 @@ function extractQuestions(raw: string, slug: string): QuestionEntry[] {
 
 const files = fs.readdirSync(DIR).filter(f => f.endsWith('.md')).sort();
 const all: QuestionEntry[] = [];
+const seen = new Map<string, number>();
 let missing = 0;
 
 for (const file of files) {
@@ -85,7 +95,13 @@ for (const file of files) {
     missing++;
   } else {
     console.log(`  ${String(qs.length).padStart(2)} q  ${file}`);
-    all.push(...qs);
+    for (const q of qs) {
+      const base = toId(q.question);
+      const n = seen.get(base) ?? 0;
+      seen.set(base, n + 1);
+      const id = n === 0 ? base : `${base}-${n + 1}`;
+      all.push({ id, ...q });
+    }
   }
 }
 
