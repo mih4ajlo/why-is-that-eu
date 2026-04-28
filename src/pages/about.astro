@@ -1,0 +1,133 @@
+---
+import Layout from '../layouts/Layout.astro';
+const base = import.meta.env.BASE_URL;
+---
+<Layout title="About" description="What Why Is That, EU? is and how it works." canonicalPath="about">
+  <style>
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 2rem;
+    }
+
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    .section h2 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      color: var(--text);
+    }
+    .section p {
+      color: var(--muted);
+      line-height: 1.75;
+      max-width: 60ch;
+      margin-bottom: 0.75rem;
+    }
+    .section p:last-child {
+      margin-bottom: 0;
+    }
+    .section a {
+      color: var(--accent);
+    }
+
+    .cta {
+      margin-top: 2.5rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+    }
+    .cta a {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.6rem 1.25rem;
+      border-radius: var(--radius);
+      font-size: 0.9rem;
+      font-weight: 500;
+      margin-right: 0.75rem;
+    }
+    .cta a:hover {
+      text-decoration: none;
+      opacity: 0.9;
+    }
+    .cta a.secondary {
+      background: var(--surface);
+      color: var(--accent);
+      border: 1px solid var(--border);
+    }
+  </style>
+
+  <h1>About</h1>
+
+  <div class="section">
+    <h2>What is this?</h2>
+    <p>
+      <em>Why Is That, EU?</em> is a knowledge base that explains EU directives and regulations in plain language —
+      not just what they say, but why they were introduced, what political and social pressures triggered them,
+      and what actually changed as a result.
+    </p>
+    <p>
+      Most official EU sources tell you what a law does. This site tries to answer the question people actually
+      ask: <em>why does this exist?</em>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Who is it for?</h2>
+    <p>
+      Anyone curious about the EU regulatory landscape — journalists, students, business people trying to understand
+      compliance context, or citizens who want to know why their phone now comes without a charger.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>How are the entries written?</h2>
+    <p>
+      Each entry is drafted with the help of AI (Claude by Anthropic, or DeepSeek), then reviewed for accuracy.
+      The AI is given analytical guidelines: identify the structural tensions, the coalition dynamics, the
+      triggering event, and what specifically changed. Every statistic must cite its source inline.
+    </p>
+    <p>
+      Entries include a provenance badge showing which model drafted them. The goal is transparency, not
+      false authority.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Is it accurate?</h2>
+    <p>
+      We aim for accuracy but this is an AI-assisted knowledge base, not a legal reference.
+      Entries may contain errors or be out of date. Always verify with official sources at
+      <a href="https://eur-lex.europa.eu" target="_blank" rel="noopener">eur-lex.europa.eu</a>
+      before relying on anything here.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>How many entries are there?</h2>
+    <p>
+      Currently 121+ entries across categories including Digital &amp; Data, Environment &amp; Climate,
+      Financial Services, Labour &amp; Social, Agriculture &amp; Food, Transport, Consumer Protection,
+      and Justice. More are added regularly.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Source code</h2>
+    <p>
+      The site is open source. Built with <a href="https://astro.build" target="_blank" rel="noopener">Astro</a>,
+      full-text search powered by <a href="https://pagefind.app" target="_blank" rel="noopener">Pagefind</a>,
+      hosted on GitHub Pages.
+    </p>
+    <p>
+      <a href="https://github.com/mih4ajlo/why-is-that-eu" target="_blank" rel="noopener">View on GitHub →</a>
+    </p>
+  </div>
+
+  <div class="cta">
+    <a href={base}>Browse all entries</a>
+    <a href={`${base}search`} class="secondary">Search</a>
+  </div>
+</Layout>
