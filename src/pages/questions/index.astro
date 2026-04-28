@@ -53,10 +53,15 @@ function excerpt(text: string, max = 180): string {
       border-radius: var(--radius);
       padding: 1.1rem 1.4rem;
       transition: border-color 0.15s;
-      display: block;
-      color: inherit;
+      position: relative;
     }
-    .q-card:hover { border-color: var(--accent); text-decoration: none; }
+    .q-card:hover { border-color: var(--accent); }
+
+    .q-link {
+      position: absolute;
+      inset: 0;
+      border-radius: var(--radius);
+    }
 
     .q-text {
       font-size: 0.975rem;
@@ -82,6 +87,8 @@ function excerpt(text: string, max = 180): string {
       align-items: center;
       gap: 0.5rem;
       flex-wrap: wrap;
+      position: relative;
+      z-index: 1;
     }
 
     .q-source {
@@ -94,7 +101,6 @@ function excerpt(text: string, max = 180): string {
       overflow: hidden;
       text-overflow: ellipsis;
     }
-    .q-source:hover { text-decoration: underline; }
 
     .category-badge {
       font-size: 0.7rem;
@@ -159,15 +165,16 @@ function excerpt(text: string, max = 180): string {
 
   <div class="questions" id="questions">
     {questions.map(q => (
-      <a href={`${base}questions/${q.id}`} class="q-card" data-cat={q.category}>
+      <div class="q-card" data-cat={q.category}>
+        <a href={`${base}questions/${q.id}`} class="q-link" aria-label={q.question}></a>
         <p class="q-text">{q.question}</p>
         <p class="q-answer">{excerpt(q.answer)}</p>
         <div class="q-footer">
           <span class="q-source">{q.title}</span>
-          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge" onclick="event.stopPropagation()">{q.category}</a>
+          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge">{q.category}</a>
           <span class="year">{q.year}</span>
         </div>
-      </a>
+      </div>
     ))}
   </div>
   <p class="empty" id="empty">No questions in this category.</p>
