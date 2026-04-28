@@ -9,7 +9,8 @@
     "draft": "tsx scripts/draft.ts",
     "batch-draft": "tsx scripts/batch-draft.ts",
     "harvest": "tsx scripts/harvest.ts",
-    "patch-llm": "tsx scripts/patch-llm.ts"
+    "patch-llm": "tsx scripts/patch-llm.ts",
+    "extract-questions": "tsx scripts/extract-questions.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",

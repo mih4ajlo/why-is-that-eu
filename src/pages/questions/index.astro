@@ -1,0 +1,164 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { categorySlug } from '../../lib/format';
+import type { QuestionEntry } from '../../../scripts/extract-questions';
+
+const questionsData = await import('../../../data/questions.json');
+const questions = questionsData.default as QuestionEntry[];
+const categories = [...new Set(questions.map(q => q.category))].sort();
+const base = import.meta.env.BASE_URL;
+
+function excerpt(text: string, max = 180): string {
+  const plain = text.replace(/\*\*([^*]+)\*\*/g, '$1').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+  return plain.length <= max ? plain : plain.slice(0, plain.lastIndexOf(' ', max)) + '…';
+}
+---
+<Layout
+  title="Questions answered by EU law"
+  description={`${questions.length} questions across ${categories.length} areas of EU law, with answers drawn directly from the regulations.`}
+  canonicalPath="questions"
+>
+  <style>
+    .page-header { margin-bottom: 2rem; }
+    .page-header h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.5rem; }
+    .page-header p { color: var(--muted); max-width: 52ch; }
+    .count { display: inline-block; margin-top: 0.6rem; font-size: 0.82rem; color: var(--muted); }
+    .count strong { color: var(--text); }
+
+    .filter-bar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.75rem; }
+    .filter-btn {
+      padding: 0.35rem 0.85rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .questions { display: grid; gap: 0.75rem; }
+
+    .q-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.1rem 1.4rem;
+      transition: border-color 0.15s;
+    }
+    .q-card:hover { border-color: var(--accent); }
+
+    .q-text {
+      font-size: 0.975rem;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1.4;
+      margin-bottom: 0.45rem;
+    }
+
+    .q-answer {
+      font-size: 0.85rem;
+      color: var(--muted);
+      line-height: 1.55;
+      margin-bottom: 0.75rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .q-footer {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .q-source {
+      font-size: 0.78rem;
+      color: var(--accent);
+      font-weight: 500;
+      flex: 1;
+      min-width: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .q-source:hover { text-decoration: underline; }
+
+    .category-badge {
+      font-size: 0.7rem;
+      padding: 0.18rem 0.55rem;
+      border-radius: 4px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .category-badge:hover { text-decoration: underline; }
+
+    .year {
+      font-size: 0.72rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+
+    .empty { text-align: center; padding: 3rem 0; color: var(--muted); display: none; }
+    .empty.visible { display: block; }
+  </style>
+
+  <div class="page-header">
+    <h1>Questions answered by EU law</h1>
+    <p>Every "Why?" question from our entries, linked back to the regulation that answers it.</p>
+    <span class="count"><strong>{questions.length}</strong> questions across <strong>{categories.length}</strong> areas</span>
+  </div>
+
+  <div class="filter-bar">
+    <button class="filter-btn active" data-cat="all">All</button>
+    {categories.map(cat => (
+      <button class="filter-btn" data-cat={cat}>{cat}</button>
+    ))}
+  </div>
+
+  <div class="questions" id="questions">
+    {questions.map(q => (
+      <div class="q-card" data-cat={q.category}>
+        <p class="q-text">{q.question}</p>
+        <p class="q-answer">{excerpt(q.answer)}</p>
+        <div class="q-footer">
+          <a href={`${base}directives/${q.slug}`} class="q-source">{q.title}</a>
+          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge">{q.category}</a>
+          <span class="year">{q.year}</span>
+        </div>
+      </div>
+    ))}
+  </div>
+  <p class="empty" id="empty">No questions in this category.</p>
+
+  <script>
+    const btns = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    const cards = document.querySelectorAll<HTMLElement>('.q-card');
+    const empty = document.getElementById('empty')!;
+
+    btns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const cat = btn.dataset.cat!;
+        btns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        let visible = 0;
+        cards.forEach(card => {
+          const show = cat === 'all' || card.dataset.cat === cat;
+          card.style.display = show ? '' : 'none';
+          if (show) visible++;
+        });
+        empty.classList.toggle('visible', visible === 0);
+      });
+    });
+  </script>
+</Layout>
