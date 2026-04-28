@@ -1,6 +1,6 @@
 ---
 title: "Construction Products Regulation (CPR) 2022"
-directive: "2022/2380/EU"
+directive: "2024/3110/EU"
 category: "Other"
 year: 2022
 tags: [construction-products, product-safety, ce-marking, internal-market, harmonised-standards, building-materials]
