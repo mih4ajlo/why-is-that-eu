@@ -82,13 +82,16 @@ function excerpt(text: string, max = 180): string {
       overflow: hidden;
     }
 
-    .q-footer {
+    .q-body { display: flex; flex-direction: column; gap: 0.4rem; }
+
+    .q-meta {
       display: flex;
       align-items: center;
       gap: 0.5rem;
       flex-wrap: wrap;
       position: relative;
       z-index: 1;
+      margin-top: 0.35rem;
     }
 
     .q-source {
@@ -167,12 +170,14 @@ function excerpt(text: string, max = 180): string {
     {questions.map(q => (
       <div class="q-card" data-cat={q.category}>
         <a href={`${base}questions/${q.id}`} class="q-link" aria-label={q.question}></a>
-        <p class="q-text">{q.question}</p>
-        <p class="q-answer">{excerpt(q.answer)}</p>
-        <div class="q-footer">
-          <span class="q-source">{q.title}</span>
-          <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge">{q.category}</a>
-          <span class="year">{q.year}</span>
+        <div class="q-body">
+          <p class="q-text">{q.question}</p>
+          <p class="q-answer">{excerpt(q.answer)}</p>
+          <div class="q-meta">
+            <span class="q-source">{q.title}</span>
+            <a href={`${base}categories/${categorySlug(q.category)}`} class="category-badge">{q.category}</a>
+            <span class="year">{q.year}</span>
+          </div>
         </div>
       </div>
     ))}
