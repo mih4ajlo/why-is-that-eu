@@ -1,7 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
 import { llmLabel, categorySlug, STATUS_LABEL } from '../../lib/format';
+import type { QuestionEntry } from '../../../scripts/extract-questions';
 
 export async function getStaticPaths() {
   const entries = await getCollection('directives');
@@ -27,6 +29,9 @@ const relatedEntries = (entry.data.related ?? [])
   .map(ref => byDirective.get(ref.trim()))
   .filter((e): e is NonNullable<typeof e> => e !== undefined && e.slug !== entry.slug);
 
+const questionsData = await import('../../../data/questions.json');
+const entryQuestions = (questionsData.default as QuestionEntry[]).filter(q => q.slug === entry.slug);
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -42,8 +47,11 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
 
   <style>
-    .back { font-size: 0.85rem; color: var(--muted); margin-bottom: 2rem; display: inline-flex; align-items: center; gap: 0.3rem; }
-    .back:hover { color: var(--accent); }
+    .qa-block { margin: 2rem 0; padding: 1.1rem 1.4rem; background: var(--tag-bg); border-radius: var(--radius); }
+    .qa-block-label { font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.7rem; }
+    .qa-list { list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+    .qa-list a { font-size: 0.88rem; color: var(--accent); line-height: 1.4; }
+    .qa-list a:hover { text-decoration: underline; }
 
     .entry-header { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
     .entry-title { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.2; margin-bottom: 0.75rem; }
@@ -84,7 +92,11 @@ const jsonLd = {
     .related-card-ref { font-size: 0.72rem; color: var(--muted); font-family: monospace; white-space: nowrap; padding-top: 0.1rem; }
   </style>
 
-  <a href={base} class="back">← All directives</a>
+  <Breadcrumb crumbs={[
+    {label: 'Home', href: base},
+    {label: entry.data.category, href: `${base}categories/${categorySlug(entry.data.category)}`},
+    {label: entry.data.title.length > 60 ? entry.data.title.slice(0, 57) + '…' : entry.data.title},
+  ]} />
 
   <div class="entry-header">
     <h1 class="entry-title">{entry.data.title}</h1>
@@ -106,6 +118,17 @@ const jsonLd = {
     </div>
     <p class="entry-summary">{entry.data.summary}</p>
   </div>
+
+  {entryQuestions.length > 0 && (
+    <div class="qa-block">
+      <p class="qa-block-label">Key questions</p>
+      <ul class="qa-list">
+        {entryQuestions.map(q => (
+          <li><a href={`${base}questions/${q.id}`}>{q.question}</a></li>
+        ))}
+      </ul>
+    </div>
+  )}
 
   <div class="content" data-pagefind-body>
     <Content />

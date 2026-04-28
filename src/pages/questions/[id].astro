@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
 import { categorySlug } from '../../lib/format';
 import type { QuestionEntry } from '../../../scripts/extract-questions';
 
@@ -55,9 +56,6 @@ const jsonLd = {
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
 
   <style>
-    .back { font-size: 0.85rem; color: var(--muted); margin-bottom: 2rem; display: inline-flex; align-items: center; gap: 0.3rem; }
-    .back:hover { color: var(--accent); }
-
     .q-header { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
     .q-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.75rem; }
     h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 1rem; }
@@ -97,7 +95,11 @@ const jsonLd = {
     .sibling:hover { text-decoration: underline; }
   </style>
 
-  <a href={`${base}questions`} class="back">← All questions</a>
+  <Breadcrumb crumbs={[
+    {label: 'Home', href: base},
+    {label: 'Questions', href: `${base}questions`},
+    {label: q.question.length > 60 ? q.question.slice(0, 57) + '…' : q.question},
+  ]} />
 
   <div class="q-header">
     <p class="q-label">Question</p>

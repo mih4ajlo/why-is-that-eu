@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
 import { categorySlug } from '../../lib/format';
 import type { QuestionEntry } from '../../../scripts/extract-questions';
 
@@ -113,7 +114,33 @@ function excerpt(text: string, max = 180): string {
 
     .empty { text-align: center; padding: 3rem 0; color: var(--muted); display: none; }
     .empty.visible { display: block; }
+
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-top: 1.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--border);
+    }
+    .page-btn {
+      padding: 0.4rem 1rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 0.82rem;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+    .page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .page-btn:disabled { opacity: 0.35; cursor: default; }
+    .page-counter { font-size: 0.82rem; color: var(--muted); }
   </style>
+
+  <Breadcrumb crumbs={[{label: 'Home', href: base}, {label: 'Questions'}]} />
 
   <div class="page-header">
     <h1>Questions answered by EU law</h1>
@@ -143,24 +170,57 @@ function excerpt(text: string, max = 180): string {
   </div>
   <p class="empty" id="empty">No questions in this category.</p>
 
+  <div class="pagination" id="pagination">
+    <button class="page-btn" id="prev-btn" disabled>← Previous</button>
+    <span class="page-counter" id="page-counter"></span>
+    <button class="page-btn" id="next-btn">Next →</button>
+  </div>
+
   <script>
-    const btns = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-    const cards = document.querySelectorAll<HTMLElement>('.q-card');
-    const empty = document.getElementById('empty')!;
+    const PAGE_SIZE = 50;
+    let activeCat = 'all';
+    let page = 0;
+
+    const btns     = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    const allCards = [...document.querySelectorAll<HTMLElement>('.q-card')];
+    const empty    = document.getElementById('empty')!;
+    const prevBtn  = document.getElementById('prev-btn') as HTMLButtonElement;
+    const nextBtn  = document.getElementById('next-btn') as HTMLButtonElement;
+    const counter  = document.getElementById('page-counter')!;
+
+    function filtered(): HTMLElement[] {
+      return allCards.filter(c => activeCat === 'all' || c.dataset.cat === activeCat);
+    }
+
+    function render() {
+      const visible = filtered();
+      const total   = visible.length;
+      const start   = page * PAGE_SIZE;
+      const end     = Math.min(start + PAGE_SIZE, total);
+
+      allCards.forEach(c => (c.style.display = 'none'));
+      visible.slice(start, end).forEach(c => (c.style.display = ''));
+
+      empty.classList.toggle('visible', total === 0);
+      counter.textContent = total === 0 ? '' : `${start + 1}–${end} of ${total}`;
+      prevBtn.disabled = page === 0;
+      nextBtn.disabled = end >= total;
+      document.getElementById('pagination')!.style.display = total <= PAGE_SIZE ? 'none' : '';
+    }
 
     btns.forEach(btn => {
       btn.addEventListener('click', () => {
-        const cat = btn.dataset.cat!;
+        activeCat = btn.dataset.cat!;
+        page = 0;
         btns.forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        let visible = 0;
-        cards.forEach(card => {
-          const show = cat === 'all' || card.dataset.cat === cat;
-          card.style.display = show ? '' : 'none';
-          if (show) visible++;
-        });
-        empty.classList.toggle('visible', visible === 0);
+        render();
       });
     });
+
+    prevBtn.addEventListener('click', () => { page--; render(); window.scrollTo({top: 0, behavior: 'smooth'}); });
+    nextBtn.addEventListener('click', () => { page++; render(); window.scrollTo({top: 0, behavior: 'smooth'}); });
+
+    render();
   </script>
 </Layout>
