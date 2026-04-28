@@ -57,11 +57,11 @@ A secondary consequence was political: EDIRPA became the template for the expect
 
 The budget was constrained by the existing Multiannual Financial Framework (2021-2027), which had no dedicated line for defence procurement. The €300 million was reallocated from the European Defence Fund’s remaining flexibility margin and from unused cohesion funds. Member states in the Council, particularly the Netherlands and Sweden, opposed a larger budget, arguing that defence procurement should remain a national competence funded by national budgets, not the EU.
 
-### Why did the Commission favour joint procurement over direct subsidies to manufacturers?
+### Why did the European Defence Industry Reinforcement Act favour joint procurement over direct subsidies to manufacturers?
 
 Commissioner Breton argued in a September 2022 speech to the European Defence Agency that demand-side intervention was more urgent than supply-side subsidies, because the bottleneck was not production capacity but guaranteed orders. He cited the example of the French Caesar howitzer: Nexter could have doubled production if France had placed a firm order for 200 units instead of 76. EDIRPA reimburses the buyer, not the seller, to incentivise pooling of demand.
 
-### Why is participation limited to EU-based suppliers?
+### Why is participation in the European Defence Industry Reinforcement Act limited to EU-based suppliers?
 
 The regulation includes an “associated countries” clause (Article 2(2)) allowing Norway and other EEA members but explicitly excludes third-country entities unless they have a security agreement with the EU. This reflects the geopolitical logic of the post-2022 environment: the Commission argued that joint procurement must strengthen European autonomy and reduce dependency on non-EU suppliers. Poland objected strongly, as it had signed separate contracts with South Korea for K2 tanks and K9 howitzers, but the requirement remained.
 

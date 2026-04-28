@@ -59,19 +59,19 @@ Algorithmic management rules represent the first EU-wide regulation of how algor
 
 ## Key questions answered
 
-### Why was the presumption of employment weakened during negotiations?
+### Why was the presumption of employment weakened during negotiations of the Directive on Improving Working Conditions in Platform Work?
 
 Germany and Estonia led a bloc of member states — including Greece and Cyprus — that feared a strong presumption would trigger mass reclassification in their relatively small platform economies, causing job losses. They argued for "flexibility" to allow platforms to prove self-employment through contracts and actual working conditions. The final text's two-out-of-five criteria test was a compromise: it preserved the presumption's core but gave member states significant discretion to define the criteria, meaning a rider could be considered an employee in Spain but self-employed in Germany.
 
-### How does the directive regulate algorithmic management?
+### How does the Directive on Improving Working Conditions in Platform Work regulate algorithmic management?
 
 The directive requires platforms to provide workers with clear information about all automated monitoring and decision-making systems that affect their working conditions. Workers must be told how algorithms set prices, assign tasks, evaluate performance, and make decisions on account suspension or pay adjustments. They have the right to human review of automated decisions, and platforms must conduct risk assessments on how algorithmic management affects workers' health, safety, and privacy. This directly responds to cases like the 2020 UK High Court action against Uber's algorithm that automatically terminated drivers' accounts based on passenger ratings without human oversight.
 
-### Who opposed the directive and why?
+### Who opposed the Directive on Improving Working Conditions in Platform Work and why?
 
 The main opposition came from business associations like Digital Europe and the US Chamber of Commerce, along with individual platforms such as Uber, Deliveroo, and Wolt. Their argument was that reclassification would destroy the "flexibility" of gig work — a position echoed by the EPP's more conservative wing in the Parliament. In Council, the opposition was led by Germany (where the trade union IG Metall was divided, with some fearing job losses) and several Eastern European member states where platform work provided crucial income in low-wage economies. The closest they came to blocking it was in June 2023, when Germany, Estonia, and Greece withheld their support in the Council working group, requiring the Swedish presidency to broker a last-minute compromise.
 
-### Will the directive lead to mass reclassification of platform workers?
+### Will the Directive on Improving Working Conditions in Platform Work lead to mass reclassification of platform workers?
 
 Probably not immediately, but it will create strong legal pressure. Eurofound estimated in 2023 that 5.5 million EU platform workers would be reclassified under the original, stronger criteria. Under the final text, that number is likely lower — perhaps 3-4 million — largely because platforms can restructure their business models to avoid triggering the criteria. Uber's shift to a "marketplace" model in some countries is designed precisely to avoid the presumption. The directive's impact will depend on how member states set their criteria and how active national labour inspectorates are in enforcement. The first Commission report in 2028 will be the key test of whether the directive is working.
 

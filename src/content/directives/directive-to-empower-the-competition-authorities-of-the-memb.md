@@ -58,19 +58,19 @@ The directive also had a broader political effect: it legitimised the "European 
 
 ## Key questions answered
 
-### Why did the EU need a directive rather than just rely on Regulation 1/2003?
+### Why did the EU need the ECN+ Directive rather than just rely on Regulation 1/2003?
 
 Regulation 1/2003 (2003) created the ECN but left NCA powers entirely to national law. By 2015, the Commission found that this asymmetry allowed companies to "shop" for weak enforcers, and that some NCAs could not even seize documents in a dawn raid. A directive was chosen over a regulation because Member States insisted on retaining control over their administrative structures, while accepting minimum standards for enforcement powers.
 
-### Why did the Commission focus on leniency programmes specifically?
+### Why did the Commission focus on leniency programmes specifically in the ECN+ Directive?
 
 Leniency programmes are the single most effective tool for detecting cartels — the OECD estimated in 2016 that over 60% of all cartel investigations begin with a leniency application. But before the directive, companies could not apply for immunity across borders because the rules varied so much (e.g., some programmes required full cooperation, others did not). The directive harmonised the core requirements, creating a single "application to one NCA protects you in all" system.
 
-### Who opposed the directive and why?
+### Who opposed the ECN+ Directive and why?
 
 The most vocal opposition came from Luxembourg and Malta, which argued that their small markets did not warrant full-scale NCA reform. Luxembourg's competition authority had just 12 staff in 2016; Malta's had 8. They also objected to the requirement for NCAs to be "operationally independent" from their governments. Hungary abstained in the Council vote, citing constitutional concerns over the independence provisions. None of these objections blocked adoption, but they delayed full compliance in those Member States.
 
-### Did the directive actually increase fines imposed?
+### Did the ECN+ Directive actually increase fines imposed?
 
 Yes, significantly. In 2019 (the year of adoption), total fines imposed by NCAs under EU competition rules were €1.2 billion. By 2023, this had risen to €2.1 billion, according to the Commission’s 2024 Competition Policy Report. The Commission attributes about €500 million of this increase directly to the directive's provisions enabling higher fines and closing procedural loopholes.
 

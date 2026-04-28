@@ -49,15 +49,15 @@ The most significant enforcement action came in 2017, when the Commission fined 
 
 ## Key questions answered
 
-### Why does the directive set different thresholds for utilities vs. general public procurement?
+### Why does Directive 2014/25/EU set different thresholds for utilities vs. general public procurement?
 
 Utilities were historically national monopolies with close ties to government, so the EU set higher thresholds (€413,000 vs. €215,000 for supplies) to avoid overwhelming them with small contracts while still opening large ones to competition. The Commission’s 2011 impact assessment argued that the higher threshold reflected utilities’ “special characteristics” — such as technical complexity and security-of-supply concerns — but critics, including the European Parliament’s IMCO Committee, said it let too many contracts escape scrutiny.
 
-### Why is cross-border procurement still so low after 30 years?
+### Why is cross-border procurement still so low after 30 years under Directive 2014/25/EU?
 
 The Commission’s 2018 evaluation identified three main barriers: first, 28% of utilities use confidentiality clauses to justify local-only bidding; second, technical specifications often implicitly favour national suppliers (e.g. requiring grid equipment built to national standards); third, legal remedies are weak — the 2017 Commission report on review procedures found that average court proceedings in member states take 18 months. A 2021 academic study by Bovis and Möslein concluded that “the directive has not fundamentally changed utilities’ purchasing behaviour.”
 
-### Why does the directive exempt sectors on the basis of “direct exposure to competition”?
+### Why does Directive 2014/25/EU exempt sectors on the basis of “direct exposure to competition”?
 
 The 2014 revision introduced a “market-access” test allowing member states to exempt entire sectors if they can show that the EU’s 2009 electricity and gas directives have created effective competition. This was a direct concession to Germany and France, which argued that deregulated energy markets no longer needed procurement rules. The European Commission approved Germany’s exemption for all electricity transmission in 2016, after Deutsche Naturschutzring (a German consumer group) complained that this would reinforce the dominance of RWE and E.ON.
 

@@ -60,19 +60,19 @@ Infrastructure costs have been significant: the Commission's 2023 impact assessm
 
 ## Key questions answered
 
-### Why does the directive allow 40 tonnes for international transport but some countries allow heavier trucks domestically?
+### Why does the Weights and Dimensions Directive allow 40 tonnes for international transport but some countries allow heavier trucks domestically?
 
 The directive only harmonises cross-border transport to prevent market fragmentation. Member states retain sovereignty over domestic limits, which explains why the Netherlands allows 50-tonne combinations on its national roads. The EU applied the principle of subsidiarity: domestic transport does not affect the Single Market, so Brussels refuses to impose uniform limits.
 
-### Why did it take until 2024 to allow longer trucks for zero-emission vehicles?
+### Why did it take until 2024 to allow longer trucks for zero-emission vehicles under the Weights and Dimensions Directive?
 
 The original 1996 limits were designed for diesel trucks with engines at the front. Zero-emission powertrains (batteries or hydrogen tanks) are heavier and often placed behind the cab, reducing cargo space. The 2024 amendment adds 4 tonnes to the maximum weight and 30 cm to the length for zero-emission vehicles, but this took eight years of lobbying from the European Automobile Manufacturers' Association (ACEA) and truckmakers like Volvo and Daimler Truck, opposed by rail freight operators who feared losing market share to heavier trucks.
 
-### What happens if a German truck is heavier than 40 tonnes and crosses into France?
+### What happens if a German truck is heavier than 40 tonnes and crosses into France under the Weights and Dimensions Directive?
 
 The truck is illegal under EU law, but enforcement is left to member states. In practice, France applies its own domestic 44-tonne limit for intermodal transport under the 2015 amendment, but other states like Austria impose strict controls and can impound overweight vehicles. The Commission's 2022 enforcement report found that 14 member states conduct roadside checks for weight compliance, but penalties vary from €500 (Poland) to €5,000 (Germany) per infraction.
 
-### Did the directive cause a shift from rail to road freight?
+### Did the Weights and Dimensions Directive cause a shift from rail to road freight?
 
 Partially. The 40-tonne limit made road haulage more competitive against rail, which typically moves 1,500-2,000 tonnes per train. The Commission's 2003 evaluation found that cross-border road freight grew 3% annually from 1997-2002, while rail freight stagnated. However, the 2015 amendment's weight bonus for intermodal transport (44 tonnes for containers) was designed to reverse this, and by 2022, intermodal road-rail transport had grown 25% according to Eurostat.
 

@@ -52,11 +52,11 @@ The FSR has also created tension with trading partners. Beijing has warned that 
 
 ## Key questions answered
 
-### Why didn't existing EU state aid rules already cover foreign subsidies?
+### Why didn't existing EU state aid rules already cover foreign subsidies under the Regulation on Foreign Subsidies Distorting the Internal Market?
 
 EU state aid rules (Articles 107-109 TFEU) apply only to subsidies granted by EU member states. They have no jurisdiction over financial contributions from non-EU governments. The EU's trade defence instruments (anti-subsidy and anti-dumping regulations) cover only goods traded across borders—not services, investments, or public procurement. The FSR was designed specifically to fill this gap for all economic activities within the internal market.
 
-### Why are the notification thresholds set at €50 million and €250 million?
+### Why are the notification thresholds set at €50 million and €250 million under the Regulation on Foreign Subsidies Distorting the Internal Market?
 
 The €50 million threshold for foreign financial contributions from a single non-EU country over three years was set after the Commission's impact assessment found that below this level, distortions were rarely material. The €250 million threshold for public procurement bids was a political compromise: the Commission initially proposed €500 million, but smaller member states argued this would miss too many cases, while industry groups wanted a higher threshold to reduce administrative burden. The final figure was chosen to capture the largest, most strategically sensitive bids while not overloading the Commission with notifications for routine contracts.
 

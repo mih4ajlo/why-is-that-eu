@@ -52,15 +52,15 @@ Enforcement remains uneven. France's Sapin II framework was upgraded in 2022 and
 
 ## Key questions answered
 
-### Why did the Commission act after decades of inaction?
+### Why did the Commission act after decades of inaction on Directive (EU) 2019/1937?
 
 The combination of LuxLeaks, Panama Papers, and the murders of Caruana Galizia and Kuciak made the political cost of inaction unbearable. Juncker, personally implicated in the Luxembourg tax-ruling system, needed to demonstrate his Commission could deliver on tax fairness. The Parliament's Rozière resolution and a coordinated civil-society push gave Timmermans and Jourová the political room to propose a horizontal directive rather than the sector-by-sector patchwork DG FISMA had previously favoured.
 
-### Why does the Directive let whistleblowers go to the press?
+### Why does Directive (EU) 2019/1937 let whistleblowers go to the press?
 
 Civil society groups, citing the Caruana Galizia and Kuciak cases, argued that requiring internal reporting first would be lethal where employers or governments themselves were the wrongdoers. The compromise: whistleblowers can go public if internal or authority channels fail to act within set deadlines, if there is imminent danger to the public interest, or if reporting to authorities risks retaliation or evidence destruction. The European Court of Human Rights' Guja v. Moldova jurisprudence underpinned the legal logic.
 
-### Why did Germany struggle so much to transpose?
+### Why did Germany struggle so much to transpose Directive (EU) 2019/1937?
 
 Germany's draft law became hostage to a coalition fight over whether anonymous reports must be accepted and whether protection should extend to violations of national law beyond the EU minimum. Business associations including the BDA opposed scope expansion; the SPD-Greens-FDP coalition wanted it. The Bundesrat, controlled by CDU-led states, blocked the first version in February 2023. A reduced compromise text passed in May 2023, more than 17 months late, prompting a €5.4 million daily-penalty referral by the Commission that was eventually dropped.
 

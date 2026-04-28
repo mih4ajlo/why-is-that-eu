@@ -54,7 +54,7 @@ The proposed ePrivacy Regulation, which would harmonise rules across the EU as d
 
 ## Key questions answered
 
-### Why does every European website have a cookie banner?
+### Why does every European website have a cookie banner under the ePrivacy Directive?
 
 Article 5(3) of the directive, as amended in 2009, requires prior informed consent before storing or accessing information on a user's device — including cookies — unless strictly necessary to provide a service the user requested. Banners are the industry's chosen (if widely criticised) implementation.
 
@@ -62,11 +62,11 @@ Article 5(3) of the directive, as amended in 2009, requires prior informed conse
 
 The GDPR is general data protection law; ePrivacy is sector-specific (lex specialis) covering electronic communications. ePrivacy protects communications confidentiality and device integrity even when no personal data is involved (e.g. cookies on shared computers), and applies to legal persons, not just individuals.
 
-### Why hasn't the ePrivacy Regulation replaced the directive yet?
+### Why hasn't the ePrivacy Regulation replaced the ePrivacy Directive yet?
 
 Negotiations have been gridlocked since 2017 over deep disagreements: tech companies and publishers want lighter cookie rules, civil society wants stronger protections, law enforcement wants exceptions for child sexual abuse material scanning, and member states are split on encryption. No qualified majority has emerged.
 
-### Why does the directive cover spam separately from cookies?
+### Why does the ePrivacy Directive cover spam separately from cookies?
 
 Both reflect the same underlying principle — that users should control intrusions into their personal digital space — but spam (Article 13) and cookies (Article 5(3)) address different mechanisms. The 2002 opt-in rule for spam was one of the first such regimes globally and influenced laws like the US CAN-SPAM Act.
 

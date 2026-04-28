@@ -64,19 +64,19 @@ The directive's long-term legacy is paradoxical: it created the legal framework 
 
 ## Key questions answered
 
-### Why does Sweden host so many EU tech platforms?
+### Why does Sweden host so many EU tech platforms under Directive 2000/31/EC?
 
 Sweden transposed the E-Commerce Directive early and with minimal additional national requirements, creating a favourable regulatory environment. The country's small domestic market forced platforms to think internationally from the start. Spotify's founder Daniel Ek has cited the directive's liability protections as essential for allowing user-generated playlists and podcast platforms to operate without legal risk.
 
-### Why did the liability shield survive for 22 years despite obvious failures?
+### Why did the liability shield in Directive 2000/31/EC survive for 22 years despite obvious failures?
 
 The political coalition that created the directive — large platforms, consumer groups, and small member states — remained powerful enough to block major revisions until 2022. Platforms argued that stricter liability would force pre-screening of all content, destroying free expression and user-generated innovation. The Commission's 2017 evaluation found that "most stakeholders continue to support the liability exemptions as essential for the development of digital services." It took the specific reputational and legal crises of the 2010s — Cambridge Analytica, Christchurch livestream, Rohingya genocide content — to build the political will for the Digital Services Act's reforms.
 
-### Why did the country-of-origin principle fail in practice?
+### Why did the country-of-origin principle in Directive 2000/31/EC fail in practice?
 
 The principle worked well for legitimate businesses — a German beer seller could sell to French consumers under German law — but broke down for cross-border harm. When a platform established in one member state hosted illegal content targeting users in another, the host country had little incentive to enforce its own laws. The Commission's 2020 impact assessment found that "in practice, the country-of-origin principle has been weakened by the proliferation of national legislation targeting harmful but not illegal content." By 2022, only 4% of cross-border e-commerce complaints were resolved through the mutual recognition mechanisms the directive created.
 
-### Why did the Directive not cover platform-based work or the gig economy?
+### Why did Directive 2000/31/EC not cover platform-based work or the gig economy?
 
 The directive predated the rise of platform-mediated work. Its definition of "information society services" was intentionally broad but focused on the delivery of information and contracting services, not on the performance of physical work mediated through apps. The 2014 *Uber* case (C-434/15) forced the Court of Justice to rule that Uber's ride-hailing service was a transport service, not an information society service, because Uber controlled "the essential characteristics of that service." This interpretation has created ongoing legal uncertainty for gig economy platforms operating under the directive's framework.
 

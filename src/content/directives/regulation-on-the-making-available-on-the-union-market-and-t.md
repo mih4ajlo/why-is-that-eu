@@ -51,19 +51,19 @@ The country benchmarking system, originally due mid-2024, slipped to May 2025, w
 
 ## Key questions answered
 
-### Why was the cut-off date set at 31 December 2020?
+### Why was the cut-off date set at 31 December 2020 for the EU Deforestation Regulation (EUDR)?
 
 The date aligns with the New York Declaration on Forests and the Glasgow Leaders' Declaration on Forests at COP26, where 145 countries pledged to halt deforestation by 2030. Setting the cut-off in the past — rather than at entry into force — prevents a rush to clear land before the rules apply. It also matches the baseline most major commodity traders had already adopted in their voluntary pledges, so the Commission could argue it was codifying existing industry commitments rather than imposing new ones.
 
-### Why was rubber included but not maize?
+### Why was rubber included but not maize in the EU Deforestation Regulation (EUDR)?
 
 Rubber survived trilogue because nearly all natural rubber is produced in Southeast Asia on land with high deforestation pressure, and tyre manufacturers Michelin and Continental did not strongly oppose inclusion. Maize was dropped because it is overwhelmingly produced inside the EU and US, where deforestation links are weak, and including it would have created enormous compliance burdens for animal feed supply chains for limited environmental gain.
 
-### Why did the Commission delay application by a year?
+### Why did the Commission delay application of the EU Deforestation Regulation (EUDR) by a year?
 
 Officially, because the IT system and country benchmarking were not ready, and producer countries — particularly Indonesia, Malaysia and Brazil — had escalated complaints to the WTO and to G20 capitals. Politically, the new Commission under Ursula von der Leyen's second term faced pressure from the EPP, which had won June 2024 elections partly on a deregulatory platform, and from Berlin's coalition crisis. The delay was framed as technical to avoid reopening the substantive text, which the Greens and S&D refused to renegotiate.
 
-### Why does this go further than the US Lacey Act or UK Environment Act?
+### Why does the EU Deforestation Regulation (EUDR) go further than the US Lacey Act or UK Environment Act?
 
 The Lacey Act (amended 2008) and the UK's schedule 17 forest risk commodities rules only cover illegality in producer countries — if deforestation is legal under local law, it can still enter those markets. The EUDR is the first to ban legal deforestation, applying an EU-defined standard extraterritorially. This is what producer governments object to most strongly, and what NGOs consider its decisive innovation.
 

@@ -53,19 +53,19 @@ First enforcement actions are expected under national regimes beginning 2028. Th
 
 ## Key questions answered
 
-### Why does the directive apply only to fault-based claims, not strict liability?
+### Why does the AI Liability Directive apply only to fault-based claims, not strict liability?
 
 The Council insisted that strict liability for AI — where victims could claim without proving fault — would be "disproportionate" and would damage innovation, particularly for SMEs. The compromise: a "presumption of causality" that shifts the burden to the defendant only after the victim demonstrates that (1) the AI system caused the harm, and (2) the harm was "reasonably probable" given the system's characteristics. This middle ground avoids strict liability while addressing the black-box problem.
 
-### Why did the automotive industry fight the directive so hard?
+### Why did the automotive industry fight the AI Liability Directive so hard?
 
 Automotive manufacturers feared that the directive's presumption of causality would apply to Level 3 and Level 4 automated vehicles, where the driver is not responsible. Under existing Motor Insurance Directive rules, the manufacturer would be liable for autonomous driving accidents. The directive's presumption meant that any accident involving an autonomous vehicle could shift liability to the manufacturer unless the manufacturer could prove the system performed as designed. BMW's head of legal affairs warned in a February 2023 Bundestag hearing that this would "create a litigation bubble" in Germany specifically, where automakers face particularly robust plaintiff bars.
 
-### Why did the directive take three years to pass?
+### Why did the AI Liability Directive take three years to pass?
 
 The main bottleneck was the Council's Legal Service, which issued two opinions in 2022 arguing that the directive exceeded the EU's competence over civil procedure, which is traditionally reserved to member states. The CJEU's *Safari* ruling in October 2023 resolved this by confirming that the EU could harmonise evidentiary rules under Article 114 TFEU (internal market legal basis) when AI systems "operate in a manner that cannot be reasonably disaggregated across national borders." This political cover allowed Germany and France to drop their objections in time for the March 2024 trilogue.
 
-### Who is exempt from the directive's requirements?
+### Who is exempt from the AI Liability Directive's requirements?
 
 SMEs with fewer than 250 employees and annual turnover below €50 million are exempt from the evidence disclosure obligation if they can prove compliance costs would exceed 4% of annual turnover. Open-source AI developers are exempt for non-commercial deployments but must comply if the AI system is placed on the market for professional use. Law enforcement and national security operations are fully exempt, as the directive only applies to civil liability claims.
 

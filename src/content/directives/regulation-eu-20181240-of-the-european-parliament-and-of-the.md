@@ -58,7 +58,7 @@ Rights groups continue to criticise the system. In 2020, the EDPS issued a follo
 
 SIS II only contains data on people who have been flagged for specific reasons (e.g. wanted criminals, missing persons, refused entry). It does not screen the 1.4 billion visa-exempt travellers who have never been flagged — meaning a person with no criminal record could travel to the Schengen Area without any pre-check. ETIAS fills this gap by automatically querying SIS II, Interpol databases, and other systems for every single traveller before they arrive, not just those flagged in the past.
 
-### Why is this not a visa? What is the difference?
+### Why is ETIAS not a visa? What is the difference between ETIAS and a visa?
 
 A visa requires a formal application, often with an in-person interview at an embassy, submission of supporting documents (bank statements, letters of invitation), and a face-to-face decision. Processing can take weeks. ETIAS is a purely online, automated process that submits a traveller's data against existing security databases. There is no interview, no physical sticker in the passport, and the decision is usually instant. The key distinction is that ETIAS authorisation does not guarantee entry — it is a pre-screening that allows the traveller to board transport. Final entry decisions still rest with border guards at the point of arrival.
 

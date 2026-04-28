@@ -53,19 +53,19 @@ Regulatory spillover effects include pressure on EFSA to update its 1990s-era gu
 
 ## Key questions answered
 
-### Why is the cut-off date 15 May 1997?
+### Why is the cut-off date 15 May 1997 in Regulation (EU) 2015/2283 on novel foods?
 
 The date corresponds to the entry into force of the first Novel Foods Regulation (258/97). Any food not consumed "to a significant degree" in the EU before that date is considered novel and requires pre-market authorisation. This created an arbitrary but legally clear boundary that has frustrated producers of traditional foods from outside Europe (e.g., chia seeds, baobab fruit), who must prove pre-1997 consumption levels despite centuries of safe use elsewhere.
 
-### Why did the Horsemeat Scandal unlock reform?
+### Why did the Horsemeat Scandal unlock reform of Regulation (EU) 2015/2283 on novel foods?
 
 The 2013 scandal exposed not only fraud but the system’s inability to enforce consistent food safety standards across borders. National objections in the old regime could halt a product in one country while it circulated freely in another—exactly what happened with Romanian-sourced horsemeat. The European Parliament used this failure to argue that a centralised system was essential for traceability, winning support from member states that had previously defended national control.
 
-### Why are insect foods treated as novel while some fermented algae are not?
+### Why are insect foods treated as novel under Regulation (EU) 2015/2283 while some fermented algae are not?
 
 The pre-1997 consumption test applies only to *food consumption*, not to feed or non-food uses. Spirulina (a cyanobacterium) had been sold in health-food shops in several EU countries before 1997, so it is not novel. Insects, however, were not part of traditional European diets (except in a few local customs in Belgium and France) and require authorisation under the regulation unless a producer can prove significant pre-1997 consumption. This discrepancy has led to legal challenges, including a 2021 complaint by the International Platform of Insects for Food and Feed (IPIFF) to the European Ombudsman.
 
-### Why did the French government oppose the centralised system?
+### Why did the French government oppose the centralised system in Regulation (EU) 2015/2283?
 
 France, through its Directorate-General for Food (DGAL), argued that national authorities should retain the right to approve or reject novel foods based on local dietary habits and production traditions. French producers of insects for animal feed, led by the association Insectes & Alimentation, feared that a one-size-fits-all EU authorisation would ignore regional food cultures and impose costs that small French insect farms could not bear. In the final vote, France voted in favour after securing the "traditional foods from third countries" notification pathway as a compromise.
 

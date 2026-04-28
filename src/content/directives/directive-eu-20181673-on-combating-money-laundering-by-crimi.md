@@ -59,15 +59,15 @@ Enforcement has been uneven. **Luxembourg** and **Cyprus**—both major financia
 
 ## Key questions answered
 
-### Why did the EU need a criminal law directive when member states already had anti-money laundering laws?
+### Why did the EU need a criminal law directive like Directive (EU) 2018/1673 (AMLD6) when member states already had anti-money laundering laws?
 
 Because member states' criminal laws varied so widely that sophisticated launderers could systematically exploit the differences. A criminal who could launder money in one country with a 2-year sentence, while another country required proof of intent where negligence sufficed, simply moved operations. The EU's 2015 FATF evaluation found that cross-border money laundering cases were almost never prosecuted because evidential standards could not be reconciled. AMLD6 solved this by defining the crime and the penalty floor uniformly.
 
-### Why are legal persons (companies) held criminally liable instead of just individuals?
+### Why are legal persons (companies) held criminally liable under Directive (EU) 2018/1673 (AMLD6) instead of just individuals?
 
 Because the Panama Papers and subsequent scandals—such as Danske Bank's €200 billion Estonian branch laundering scheme (2018–2022)—showed that money laundering often happens through institutional structures where no single individual can be proved to have criminal intent, but the organisation as a whole benefits. AMLD6 makes a company liable if a person acting on its behalf commits money laundering for the company's benefit. The Commission argued this was necessary because, in the words of its 2016 impact assessment, "corporate structures are the primary vehicle for large-scale money laundering, and individual accountability alone has proven insufficient."
 
-### Why is the minimum penalty set at four years?
+### Why is the minimum penalty set at four years under Directive (EU) 2018/1673 (AMLD6)?
 
 The four-year threshold was chosen to align with the **European Arrest Warrant** framework, which only applies to offences punishable by at least three years (for surrender) or four years (for other forms of mutual recognition). By setting the penalty at four years, the Commission ensured that money laundering would be automatically extraditable across all member states, eliminating the need for double criminality checks. This was a deliberate technical move to make cross-border prosecution seamless.
 

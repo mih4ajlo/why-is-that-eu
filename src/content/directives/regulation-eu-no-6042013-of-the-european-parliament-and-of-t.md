@@ -56,7 +56,7 @@ The Dublin III Regulation has survived not because it works, but because Member 
 
 Dublin III requires systematic sharing of biometric data (fingerprints) through the EURODAC system, which the regulation governs. This creates a direct tension with the General Data Protection Regulation (GDPR) and the EU's Charter of Fundamental Rights. In 2022, the European Data Protection Board (EDPB) issued guidelines noting that Dublin III's data retention periods (up to 10 years for asylum seekers) may violate the proportionality principle under Article 5(1)(c) GDPR. Several national data protection authorities, including the Irish DPC, have raised concerns, but no court has yet ruled on the conflict.
 
-### Why was the UK still participating until 2020?
+### Why was the UK still participating in Dublin III until 2020?
 
 The United Kingdom had an opt-out under Protocol 21 of the Treaty of Lisbon but chose to opt into Dublin III via a Council Decision in 2014. This was because the UK saw the regulation as a tool to return asylum seekers to the first Member State of entry, primarily France through the Channel crossings. After Brexit, the UK left the Dublin system on 31 January 2020, though the transition period maintained cooperation until December 2020. Since then, the UK and EU have reached no replacement agreement, leading to the current Channel crossing crisis.
 

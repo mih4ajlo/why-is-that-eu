@@ -58,19 +58,19 @@ From an industry perspective, the regulation is a mixed outcome: while it reduce
 
 ## Key questions answered
 
-### Why did the EU need a regulation instead of continuing voluntary cooperation?
+### Why did the EU need Regulation (EU) 2021/2282 on Health Technology Assessment instead of continuing voluntary cooperation?
 
 The EUnetHTA voluntary network from 2004 to 2019 produced joint assessments, but uptake was low — only 35–40% of member states used the reports in their national decisions. The Commission’s 2017 evaluation found that duplication persisted because no member state was obliged to accept the output, allowing countries with strong HTA systems (e.g., Germany’s IQWiG) to ignore the European report and run their own processes. A regulation was necessary to create legal obligations that the previous intergovernmental structure could not enforce.
 
-### Why did the HTAR exclude health economic assessments?
+### Why did the HTAR (Regulation (EU) 2021/2282) exclude health economic assessments?
 
 The compromise that enabled passage preserved national sovereignty over pricing and reimbursement. Countries like Germany (G-BA), France (NICE-equivalent HAS), and Denmark argued that cost-effectiveness thresholds depend on local GDP, willingness-to-pay, and budget impact — all nationally determined. Including economic evaluation would have required harmonisation of healthcare funding models, which no member state was willing to cede. The result is that joint clinical assessment remains mandatory, while economic evaluation stays under national control, preserving the core tension the regulation was designed to partially resolve.
 
-### Why did the regulation take so long — 20 years from first pilot?
+### Why did Regulation (EU) 2021/2282 take so long — 20 years from first pilot?
 
 The main obstacle was political fears among member states of losing control over healthcare budgets and treatment decisions. Early proposals (2004–2010) floated a full EU HTA agency with binding authority, which was rejected as a sovereignty violation by 14 member states, particularly those with strong existing HTA systems (Germany, France) and those worried about being overruled (Poland, Hungary). The breakthrough came only when the Commission adopted a “clinical-only” scope and deferred economic evaluation. The final design also gave member states a majority on the Coordination Group, assuaging sovereignty fears.
 
-### What happens if a member state rejects the joint clinical assessment?
+### What happens if a member state rejects the joint clinical assessment under Regulation (EU) 2021/2282?
 
 The regulation (Article 23) does not compel a member state to accept the JCA conclusions — it only requires that the *report* be used as the clinical evidence base. A member state may still decide that a drug is not cost-effective, or that local clinical practice differs, and refuse reimbursement. However, if a member state rejects or diverges from the JCA, it must provide a formal justification published in a public database. This transparency requirement is designed to expose unjustified national protectionism or duplication.
 

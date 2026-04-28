@@ -55,19 +55,19 @@ The most contested consequence was the impact on small retailers. The requiremen
 
 ## Key questions answered
 
-### Why did the menthol ban take effect only in 2020, four years after the rest of the directive?
+### Why did the menthol ban take effect only in 2020, four years after the rest of the Tobacco Products Directive?
 
 The delay was a political compromise to placate tobacco-growing member states, particularly Greece, Italy, and Spain, and to give industry time to adapt. The Commission estimated that 500,000 workers in the EU were involved in the tobacco supply chain. The four-year transition also aimed to prevent a sudden surge in illicit menthol cigarettes.
 
-### Why were e-cigarettes included if they are safer than smoking?
+### Why were e-cigarettes included in the Tobacco Products Directive if they are safer than smoking?
 
 The Commission, supported by the European Parliament, took a precautionary approach. In 2013, e-cigarettes were unregulated in most member states. The TPD aimed to ensure child safety, quality ingredients, and ban cross-border advertising. Health Commissioner Tonio Borg argued: "We cannot wait for a generation of young people to become addicted to nicotine through e-cigarettes."
 
-### Why did some member states like the UK go further with plain packaging?
+### Why did some member states like the UK go further with plain packaging beyond the Tobacco Products Directive?
 
 The TPD sets only minimum rules. Member states can adopt stricter measures if justified by public health. The UK passed the Standardised Packaging of Tobacco Products Regulations 2015 after the ECJ upheld the TPD's legality in 2016. Ireland, France, Hungary, and Slovenia followed. The Commission has not challenged these national measures.
 
-### Why didn't the directive ban nicotine altogether?
+### Why didn't the Tobacco Products Directive ban nicotine altogether?
 
 The TPD does not ban nicotine because the EU's legal basis is Article 114 TFEU (internal market). A complete ban on nicotine in cigarettes would be impossible to enforce and would devastate the legitimate tobacco market, creating a black market. The directive instead aims to make cigarettes less palatable, not illegal.
 

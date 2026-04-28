@@ -55,15 +55,15 @@ Industries have responded unevenly. The European Hospital and Healthcare Employe
 
 ## Key questions answered
 
-### Why don't all professions have automatic recognition?
+### Why don't all professions have automatic recognition under the Recognition of Professional Qualifications Directive?
 
 Automatic recognition was limited to seven professions where the EU could agree on minimum training standards of at least three years. For other professions, the general system applies: host member states must assess whether the applicant's qualifications are "substantially different" from their own. The European Parliament rejected attempts to extend automatic recognition to teachers and engineers in 2005, with MEPs arguing there was insufficient evidence of common training standards. The Commission considered expanding the list in 2013 but abandoned the idea after member states could not agree.
 
-### Why did the 2013 amendment introduce an alert mechanism?
+### Why did the 2013 amendment to the Recognition of Professional Qualifications Directive introduce an alert mechanism?
 
 The alert mechanism was created in direct response to a series of scandals involving healthcare professionals with revoked licenses moving to other member states. The most notorious case — a German doctor who killed 29 patients and had his license revoked in Germany, only to practice in Belgium — was cited repeatedly by Commission officials during the 2011 public consultation. The 2011 Commission report found that "at least 12 cases of doctors with revoked licenses were identified as practicing in other member states" between 2005 and 2011. The alert system requires member states to inform all others when a healthcare professional is banned from practice.
 
-### Why do some countries still have high barriers despite the directive?
+### Why do some countries still have high barriers despite the Recognition of Professional Qualifications Directive?
 
 The directive permits member states to maintain language requirements and "compensatory measures" (aptitude tests or adaptation periods) when qualifications are substantially different. Countries like Austria and Germany have used these provisions extensively: Austria requires a three-year adaptation period for most non-EU-15 professionals, while Germany requires aptitude tests for 35 regulated professions. The Commission's 2016 mutual evaluation found that 23% of regulated professions had requirements that "appeared disproportionate" — meaning the requirements went beyond what was justified by public interest. However, the Commission has been reluctant to pursue infringement proceedings, opening only 12 cases against member states between 2005 and 2020.
 

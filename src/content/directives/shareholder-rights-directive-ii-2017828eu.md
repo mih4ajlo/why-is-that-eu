@@ -48,15 +48,15 @@ Countries that struggled with implementation include **Malta** (did not transpos
 
 ## Key questions answered
 
-### Why did the EU target executive pay specifically?
+### Why did the EU target executive pay specifically in the Shareholder Rights Directive II (2017/828/EU)?
 
 The 2014 Volkswagen pension scandal exposed a structural gap: existing EU company law did not require shareholder approval for pay policies. The Commission’s 2015 impact assessment cited a 2013 study by the European Trade Union Institute showing that the CEO-to-worker pay ratio in the EU reached 30:1 in 2012, up from 15:1 in 2000. Without binding shareholder votes, boards could award bonuses even when profits fell — as VW did in 2014.
 
-### Why did the directive also cover institutional investors?
+### Why did the Shareholder Rights Directive II (2017/828/EU) also cover institutional investors?
 
 The 2011 “shareholder spring” protests in the UK revealed that institutional investors like pension funds and asset managers often voted in favour of management proposals without scrutiny. The Commission’s 2016 analysis showed that BlackRock, Vanguard, and State Street collectively held 25% of voting rights in Stoxx Europe 600 companies but voted with management 98% of the time. The directive forces them to publish an engagement policy and disclose how they voted.
 
-### Why was there a five-year delay between adoption and full enforcement?
+### Why was there a five-year delay between adoption and full enforcement of the Shareholder Rights Directive II (2017/828/EU)?
 
 The 2019 transposition deadline was extended because member states such as Germany and Austria argued that their two-tier board systems (supervisory and management boards) needed legal adjustments to implement binding say-on-pay. The 2020-2021 COVID-19 pandemic also slowed legislative processes. The Commission’s 2023 report found that 14 of 28 member states missed the deadline by at least one year.
 

@@ -49,7 +49,7 @@ Industry response has been broadly positive, with European associations like the
 
 The voltage range was chosen as a practical compromise. Below 50V AC, equipment is considered intrinsically safe — even if a person touches both conductors, the voltage is low enough that no dangerous current flows through the body. Above 1000V AC, equipment requires specialised engineering and professional installation, and is covered by different legislation (such as the ATEX directive for explosive atmospheres or national regulations for high-voltage infrastructure). The 50V threshold is actually a standard recognised internationally by the International Electrotechnical Commission (IEC) as the boundary between extra-low voltage and low voltage.
 
-### Why can manufacturers self-declare conformity instead of undergoing third-party testing?
+### Why can manufacturers self-declare conformity to the Low Voltage Directive instead of undergoing third-party testing?
 
 This was the political bargain that made the single market possible. Requiring every product to be tested by a notifed body would have created a costly bottleneck and kept small manufacturers from competing. The self-declaration system, combined with the "presumption of conformity" for products meeting harmonised standards, was designed to be fast, cheap, and trust-based. The risk is managed through post-market surveillance — Member States' authorities can test products at any time and remove non-compliant ones from the market. The 2014 recast strengthened market surveillance obligations precisely because the self-declaration system had been exploited by some unscrupulous importers.
 

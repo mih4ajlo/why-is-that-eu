@@ -55,15 +55,15 @@ The directive has also had an indirect effect on non-EU manufacturers. Companies
 
 ## Key questions answered
 
-### Why does the EAA not cover all products and services?
+### Why does the EAA (Directive (EU) 2019/882) not cover all products and services?
 
 The directive was a political compromise. The Commission initially considered a broader scope but faced fierce opposition from industry groups arguing that coverage of all consumer goods would be unworkable. The final list was restricted to products and services where the Commission's impact assessment showed the highest accessibility barriers and the strongest business case for harmonisation. Excluded sectors like housing, education, and public transport infrastructure fell under different EU or national competence.
 
-### Why did big tech companies support the EAA?
+### Why did big tech companies support the EAA (Directive (EU) 2019/882)?
 
 For major technology firms like Apple, Microsoft, and Google, the EAA offered a simple economic advantage: one set of rules for 27 countries instead of potentially 27 different national laws. The Commission's 2015 impact assessment found that a single EU standard could save companies up to €50 billion annually in compliance costs. These companies also had a strategic interest: accessible design expanded their market to include an estimated 80 million disabled Europeans. Apple, for example, publicly supported the directive, arguing that accessibility was a core design principle for its products.
 
-### Why does the EAA not specify exact technical standards?
+### Why does the EAA (Directive (EU) 2019/882) not specify exact technical standards?
 
 The EAA deliberately uses "functional accessibility requirements" — such as "the product must be perceivable, operable, understandable, and robust" — rather than mandating specific technical standards like "the button must be at least 20mm wide." This approach, championed by the European Committee for Standardisation (CEN) and the Commission, was designed to avoid obsolescence as technology evolves. The Commission's 2017 impact assessment explicitly noted that "technology-neutral language is essential to ensure the directive remains relevant for future innovations."
 

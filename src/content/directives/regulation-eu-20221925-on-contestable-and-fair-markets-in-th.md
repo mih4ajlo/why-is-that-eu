@@ -53,19 +53,19 @@ Globally, the DMA has become a regulatory template: the UK's Digital Markets, Co
 
 ## Key questions answered
 
-### Why didn't the EU just rely on existing antitrust law?
+### Why didn't the EU just rely on existing antitrust law for the Digital Markets Act (DMA)?
 
 Because Articles 101 and 102 TFEU require case-by-case proof of dominance and abuse, with investigations typically lasting 5–10 years. By the time a remedy is imposed, network effects have entrenched the dominant position. The DMA flips this: rules apply automatically to designated gatekeepers, without needing to prove harm in each instance.
 
-### Why these specific thresholds and companies?
+### Why these specific thresholds and companies in the Digital Markets Act (DMA)?
 
 The €7.5 billion turnover / €75 billion market cap thresholds plus 45 million monthly EU users were calibrated to capture exactly the handful of firms with structural gatekeeping power — primarily large US tech firms plus ByteDance and Booking — without ensnaring smaller European platforms. Gatekeeper status is also linked to controlling an "important gateway" between businesses and consumers.
 
-### Why include interoperability for messaging?
+### Why include interoperability for messaging in the Digital Markets Act (DMA)?
 
 Because messaging exhibits extreme network effects: WhatsApp's value comes from everyone being on it. Forcing iMessage and WhatsApp to open up to competitors lowers switching costs and allows new entrants to compete, addressing the "lock-in" that traditional antitrust struggles to undo retroactively.
 
-### Why was the DMA passed so quickly compared to other EU laws?
+### Why was the Digital Markets Act (DMA) passed so quickly compared to other EU laws?
 
 A rare political alignment: Parliament, Council, and Commission all wanted to be seen acting against Big Tech; the COVID-19 pandemic had highlighted dependence on digital platforms; and frustration with US enforcement gridlock created urgency. The proposal moved from publication to adoption in under 22 months, exceptionally fast for major EU legislation.
 

@@ -55,7 +55,7 @@ The extension to commodity derivatives and emission allowances had practical eff
 
 ## Key questions answered
 
-### Why did the EU switch from a directive to a regulation for market abuse?
+### Why did the EU switch from a directive to a regulation for market abuse under MAR?
 
 The switch was a direct response to the failure of the Market Abuse Directive (MAD). Under MAD, each member state transposed the rules differently, creating a patchwork of definitions, sanctions, and enforcement powers. The Libor scandal in 2012 exposed how cross-border manipulation could exploit these gaps. A directly applicable Regulation removed national discretion, ensuring uniform rules and equal enforcement across all 28 member states (at the time).
 

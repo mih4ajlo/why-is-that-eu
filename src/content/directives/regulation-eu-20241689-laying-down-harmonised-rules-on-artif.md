@@ -55,19 +55,19 @@ Industry pushback has been intense. In summer 2025 dozens of major European comp
 
 ## Key questions answered
 
-### Why did the EU regulate AI before any other major jurisdiction?
+### Why did the EU regulate AI before any other major jurisdiction under Regulation (EU) 2024/1689 (Artificial Intelligence Act)?
 
 Three reasons converged: a strategic doctrine of "digital sovereignty" that treats regulation as Europe's competitive lever; a strong fundamental rights tradition (Article 8 of the Charter, the GDPR legacy) that views algorithmic decisions about people as inherently rights-affecting; and the absence of dominant European AI firms whose lobbying might have slowed the process the way US tech lobbying has slowed federal AI legislation in Washington.
 
-### Why a risk-based approach instead of regulating AI as a whole?
+### Why a risk-based approach instead of regulating AI as a whole in the Artificial Intelligence Act?
 
 A horizontal ban or a single set of rules for all AI would have been politically impossible and economically destructive — AI is too broad a category. Risk-tiering let negotiators concentrate restrictions on uses that affect safety or fundamental rights (recruitment, policing, credit) while leaving spam filters and video game NPCs alone. It also mirrors the EU's existing "New Legislative Framework" for product safety, making the law fit alongside CE-marking regimes for toys, medical devices, and machinery.
 
-### Why were general-purpose AI rules added so late?
+### Why were general-purpose AI rules added so late to Regulation (EU) 2024/1689?
 
 The original 2021 proposal was written before foundation models dominated the field. ChatGPT's release in late 2022 made it obvious that regulating AI by "intended purpose" failed for systems with no fixed purpose. Adding a separate GPAI tier was the price of keeping the law relevant — but it also opened a fight between France/Germany (protecting Mistral and Aleph Alpha) and the Parliament/civil society, resolved through a two-tier system where only the largest models face systemic-risk obligations.
 
-### Why the 10²⁵ FLOP threshold for "systemic risk" models?
+### Why the 10²⁵ FLOP threshold for "systemic risk" models in the AI Act?
 
 It is a proxy chosen because compute is currently the most measurable correlate of capability. The threshold roughly captures GPT-4-class models and above. The Commission can revise it via delegated act as the field evolves — a deliberate flexibility designed to avoid the law freezing in place against fast-moving technology.
 

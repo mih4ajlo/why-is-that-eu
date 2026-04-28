@@ -50,15 +50,15 @@ Industry response was mixed. Large producers welcomed the clarity: Nestlé and L
 
 ## Key questions answered
 
-### Why are PDO and PGI rules different for wines and spirits?
+### Why are PDO and PGI rules different for wines and spirits under Regulation (EU) No 1151/2012?
 
 Wines and spirits are covered by separate legislation—Regulation 1308/2013 (Common Market Organisation for wines) and Regulation 2019/787 (spirit drinks)—because they have historically distinct production systems and EU market structures. The 2012 regulation specifically excludes them from its scope. Wine GIs date back to the 1970s EU wine regime, while spirits gained protection in 1989. The separation allows tailored rules: wine GIs focus on vintage and grape variety, while food GIs focus on production methods and recipes.
 
-### Why did the EU reject Canada's proposed GI list during CETA negotiations?
+### Why did the EU reject Canada's proposed GI list during CETA negotiations under Regulation (EU) No 1151/2012?
 
 During CETA negotiations (2009-2016), the EU insisted Canada protect around 200 European GIs, but Canada initially offered only 50. The deadlock broke in 2013 when the EU's Agriculture Commissioner, Dacian Cioloș, and Canada's Trade Minister, Ed Fast, reached a compromise: Canada protected 145 "high-value" GIs (like Parmigiano-Reggiano and Prosciutto di Parma) while allowing "semi-generic" terms like feta and asiago to remain unenforceable in Canada. This deal was critical for securing Southern European support for the final CETA trade agreement.
 
-### Why didn't the regulation stop Brexit-related GI disputes?
+### Why didn't Regulation (EU) No 1151/2012 stop Brexit-related GI disputes?
 
 When the UK left the EU in 2020, the Withdrawal Agreement preserved existing UK-registered GIs, but the UK government decided in 2021 to create its own GI system, modelled on the EU's but with faster processing. The result was confusion: UK producers like Cornish Clotted Cream (PGI) retained EU protection, but new UK applications could not be recognised in the EU without trade negotiations. The UK's Geographical Indications (Amendment) Regulations 2023 created a parallel system, but no mutual recognition agreement exists with the EU as of 2024.
 

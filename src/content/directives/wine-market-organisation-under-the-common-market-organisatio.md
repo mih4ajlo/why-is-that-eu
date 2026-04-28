@@ -56,19 +56,19 @@ Global trade disputes have also shaped the CMO's evolution. The 2008 reform itse
 
 ## Key questions answered
 
-### Why did the EU subsidise the destruction of wine for decades?
+### Why did the EU subsidise the destruction of wine for decades under the Wine CMO?
 
 The pre-2008 system of distillation subsidies emerged in the 1970s as a "safety valve" to manage periodic oversupply. However, by guaranteeing a fixed price for surplus wine, it incentivised producers to maximise volume rather than quality, creating a structural surplus. The Commission's 2006 impact assessment calculated that every €1 spent on distillation generated €1.50 in new overproduction. The subsidies were a political compromise: southern wine regions had disproportionate power in the Council through the "wine bloc" of France, Italy, Spain, and Portugal.
 
-### Why did the 2008 reform succeed after decades of failure?
+### Why did the 2008 reform of the Wine CMO succeed after decades of failure?
 
 Three factors converged: 1) the 2005 ECJ ruling that exposed the illegality of national market-distorting bans; 2) the 2004 Eastern enlargement, which diluted the southern bloc's blocking minority in the Council; 3) the WTO's Doha Round pressure on EU agricultural subsidies. Without all three, the reform would likely have been watered down or blocked again.
 
-### Why are vineyard authorisations controversial?
+### Why are vineyard authorisations controversial under the Wine CMO?
 
 The rule limiting annual new plantings to 1% of total vineyard area restricts supply but also locks in the existing production structure. The allocation criteria — favouring established producers with land history — effectively prevent new entrants and young farmers from accessing the market. The European Court of Auditors found in 2021 that the system caused "inequitable distribution" and was "not market-oriented." The result is that in growing wine regions like Germany's Pfalz, land prices have tripled since 2015 because authorised vineyard area cannot expand quickly.
 
-### Why does the CMO matter for non-wine drinkers?
+### Why does the Wine CMO matter for non-wine drinkers?
 
 Wine is a major CAP expenditure: the EU spent €1.1 billion on the wine sector in 2021 (€600 million on promotion, €300 million on grubbing-up, €200 million on crisis measures), according to the Commission's CAP expenditure database. These funds come from the EU budget (taxpayers) and are concentrated in southern member states. The CMO also sets the template for other agricultural sectors facing structural overproduction — dairy, sugar, and olive oil have all been reformed using similar tools (voluntary exit schemes, market intelligence, crisis reserves).
 

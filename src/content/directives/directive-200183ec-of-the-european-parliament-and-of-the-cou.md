@@ -50,15 +50,15 @@ Enforcement varied: Germany, France, and the UK struggled most with transposing 
 
 ## Key questions answered
 
-### Why did this directive replace 13 earlier directives rather than just amend them?
+### Why did Directive 2001/83/EC replace 13 earlier directives rather than just amend them?
 
 The Commission chose codification—replacing multiple laws with a single text—because the 13 prior directives, enacted between 1965 and 1999, contained overlapping, contradictory, or outdated requirements. A 1998 Commission internal study found that industry compliance costs for regulatory submissions varied by as much as 300% between member states due to national interpretations of the old laws. Codification reduced legal uncertainty and allowed for cleaner future amendments, as all rules were now in one place.
 
-### Why does the directive not cover biologicals, vaccines, or advanced therapies in the same way as chemical medicines?
+### Why does Directive 2001/83/EC not cover biologicals, vaccines, or advanced therapies in the same way as chemical medicines?
 
 At the time of adoption (2001), biological medicinal products—including vaccines, blood products, and biotech-derived medicines—were already governed by a separate centralised procedure under Regulation 2309/93 (later replaced by Regulation 726/2004). The directive was primarily designed for chemically synthesised medicinal products. Advanced therapy medicinal products (gene therapy, cell therapy, tissue engineering) were not covered until the 2007 regulation (1394/2007) amended the directive's scope. This historical split reflected the different regulatory approaches needed for biologics and the existing EMA centralised pathway.
 
-### Why have there been so many subsequent amendments?
+### Why have there been so many subsequent amendments to Directive 2001/83/EC?
 
 The pharmaceutical sector is fast-moving in science and technology, and the directive's broad scope means it touches on everything from clinical trials to advertising. The 2004 amendment (2004/27/EC) was driven by industry pressure for clearer data exclusivity after the 2001 HIV drug pricing crisis; the 2010 amendment was a direct response to the Vioxx (rofecoxib) scandal, where Merck withdrew a widely-used painkiller after it was linked to thousands of cardiovascular deaths, exposing deep flaws in EU pharmacovigilance systems. The 2011 Falsified Medicines Directive was triggered by a 2008 Commission report showing that counterfeit medicines were entering the legitimate supply chain, with seizures increasing by 384% between 2005 and 2008 according to EU customs data. Each amendment reflects a specific failure or crisis that the original 2001 text did not address.
 

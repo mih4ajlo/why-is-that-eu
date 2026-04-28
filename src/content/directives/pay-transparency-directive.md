@@ -59,19 +59,19 @@ The directive also created a new right to class-action-style pay discrimination 
 
 ## Key questions answered
 
-### Why did the EU act now when equal pay has been a principle since 1957?
+### Why did the EU act now with the Pay Transparency Directive when equal pay has been a principle since 1957?
 
 The ECJ’s 2019 ruling exposed the systemic failure of existing enforcement mechanisms. Combined with the pandemic’s gendered economic impact and the 2020 #MeToo movement’s focus on workplace equity, political will converged. The von der Leyen Commission’s gender equality agenda provided the necessary institutional push.
 
-### Why is pay secrecy banned in the directive?
+### Why is pay secrecy banned in the Pay Transparency Directive?
 
 Pay secrecy clauses were the single biggest obstacle to detecting pay discrimination, as workers could not gather the evidence needed to file a claim. The Commission’s 2020 impact assessment found that in member states with pay secrecy laws (such as Germany, where pay secrecy was legal), the gender pay gap was on average 4 percentage points higher than in states without such restrictions.
 
-### Why does the directive shift the burden of proof to employers?
+### Why does the Pay Transparency Directive shift the burden of proof to employers?
 
 Under the 2006 Recast Directive, the worker had to prove discrimination *beyond* showing a pay difference—a nearly impossible task without access to colleagues’ pay data. The new directive requires the employer to provide objective, non-gender-based justifications for pay differences once a *prima facie* case is established. This mirrors the approach taken in race and disability discrimination directives.
 
-### Which countries opposed it and why?
+### Which countries opposed the Pay Transparency Directive and why?
 
 Hungary, Poland, the Czech Republic, Slovakia, and Lithuania abstained in the Council. Hungary’s government argued it infringed on national sovereignty over labour markets; employer organisations in Poland and the Czech Republic warned of administrative burdens. No country voted against—the qualified majority was sufficiently broad to pass without their support.
 

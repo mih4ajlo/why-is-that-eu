@@ -66,7 +66,7 @@ The 9/11 attacks broke the political deadlock by providing a security-driven jus
 
 The list of 32 serious offences — including terrorism, murder, and drug trafficking — was designed to ensure that no Member State could refuse surrender simply because its national law defined the offence differently. The logic was that these offences were considered serious crimes across all Member States, making the extra requirement of dual criminality an unnecessary bureaucratic hurdle. The European Court of Justice upheld this approach in 2007 (C-303/05), ruling that the list was sufficiently clear and did not violate legal certainty.
 
-### Why was mutual recognition chosen over harmonisation of criminal laws?
+### Why was mutual recognition chosen over harmonisation of criminal laws in the EAW?
 
 Mutual recognition was the politically feasible option. Harmonising criminal codes across 15 (now 27) legal traditions — ranging from common law to civil law, from inquisitorial to adversarial systems — would have required treaty changes and taken years. Mutual recognition allowed Member States to keep their own criminal procedures while agreeing to treat another Member State's judicial decision as equivalent to their own. This borrowed directly from the single market's "Cassis de Dijon" principle, which had already proven effective in goods trade.
 

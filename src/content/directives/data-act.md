@@ -64,7 +64,7 @@ The Data Act is explicitly designed to complement the GDPR, not replace it. Pers
 
 John Deere's opposition reflected the broader agricultural equipment industry position. The company argued that revealing diagnostic data and maintenance protocols would expose proprietary algorithms and trade secrets — a claim the Commission's impact assessment acknowledged, but countered by noting that the Data Act's trade secrets provisions (Article 4) require data holders to protect trade secrets "by means of appropriate technical and organisational measures" before sharing. The practical effect: a manufacturer can refuse to share data if doing so would "likely cause serious damage" to trade secrets, but the burden of proof is on the manufacturer, not the data requester.
 
-### Why are cloud switching provisions delayed until 2027?
+### Why are cloud switching provisions of the Data Act delayed until 2027?
 
 The delayed application (12 January 2027) for cloud switching provisions reflects intense industry lobbying. Cloud providers argued that implementing full interoperability and data portability for enterprise workloads required significant infrastructure changes — particularly for "vertical" cloud services like software-as-a-service platforms. The Commission accepted a phased approach, with smaller providers receiving additional time. The European Cloud Federation, representing providers like OVHcloud and Deutsche Telekom, supported the provisions but warned that overly aggressive timelines could harm Europe's still-nascent cloud competitors.
 

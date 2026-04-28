@@ -55,15 +55,15 @@ A notable legal challenge emerged in the Netherlands, where the Dutch Council of
 
 ## Key questions answered
 
-### Why does the directive now include forced marriage and surrogacy as trafficking purposes?
+### Why does the Anti-Trafficking Directive 2024 now include forced marriage and surrogacy as trafficking purposes?
 
 The Commission's 2022 evaluation found that forced marriage and illegal surrogacy had become significant trafficking channels, particularly in South Asia to Europe routes. Europol reported in 2023 that 3,700 victims of trafficking for forced marriage had been identified across the EU between 2018 and 2022, but prosecutors could not bring charges under the 2011 directive because "marriage" was not listed as a purpose. The inclusion allows member states to prosecute coercive marriage agencies and private clinics that mediate surrogacy arrangements with trafficked women.
 
-### Why does the directive criminalise "knowing use" of trafficked services, and who lobbied hardest against it?
+### Why does the Anti-Trafficking Directive 2024 criminalise "knowing use" of trafficked services, and who lobbied hardest against it?
 
 The clause targets companies that knowingly purchase goods or services from trafficked workers—such as using subcontracted cleaners at slaughterhouses or textiles from forced-labour mills. BusinessEurope, the leading pan-European business lobby, argued the clause would criminalise routine subcontracting and demanded a "due diligence defence." The final compromise: companies face liability only if they had "actual knowledge" of trafficking, not constructive knowledge, and maximum penalties were reduced from 5 to 3 years imprisonment. The French textile giant Mulliez Group, which owns Auchan and Decathlon, was a vocal backer of the compromise, according to leaked LIBE committee documents.
 
-### Why did some member states oppose the directive?
+### Why did some member states oppose the Anti-Trafficking Directive 2024?
 
 Hungary, Poland, and later Italy (under the Meloni government elected in 2022) opposed broadening the definition of trafficking to include forced begging or street theft by children, arguing it would undermine national anti-migration policies. These governments preferred to treat such cases under immigration law rather than criminalise employers who exploit trafficked workers. The directive passed with qualified majority in the Council, with these three states voting against.
 

@@ -53,15 +53,15 @@ But enforcement remains the directive's Achilles heel. As of 2023, the Commissio
 
 ## Key questions answered
 
-### Why does the directive limit manure to 170 kg of nitrogen per hectare per year?
+### Why does Council Directive 91/676/EEC limit manure to 170 kg of nitrogen per hectare per year?
 
 The 170 kg N/ha limit was a political compromise reached during the 1991 Council negotiations. Agronomically, it was based on the principle that crops typically cannot absorb more than 170–200 kg of nitrogen per hectare per year — any surplus leaches into groundwater. The limit was also designed to match the highest manure application rates sustainable on arable land without requiring farmers to buy additional land. Critically, the limit applies *only* to manure nitrogen — synthetic fertilisers are not capped, a loophole that farmers in intensive regions continue to exploit. According to the Commission's 2013 implementation report, the limit is "the most contested provision" of the directive, with the Netherlands having repeatedly requested — and secured — a derogation allowing up to 250 kg N/ha given its high-yield pasture systems.
 
-### Why did the directive take nearly a decade to produce results?
+### Why did the Nitrates Directive take nearly a decade to produce results?
 
 The directive entered into force in 1991 but gave Member States until December 1993 for transposition and until December 1998 for action programmes — a seven-year implementation period. This delay was intentional: the directive's architects, particularly DG Environment, recognised that changing agricultural practices required new investments in manure storage, spreading machinery, and crop rotations. However, the main reason for the slow effect was weak enforcement. Several Member States — including Belgium, the Netherlands, and the UK — initially designated only a fraction of their potentially vulnerable zones. It took a series of ECJ judgements — particularly *Commission v. Netherlands* (2003) and *Commission v. Belgium* (2004) — to force Member States to properly designate vulnerable zones. According to the European Court of Auditors' 2021 report, "it was only after 2010 that most Member States had action programmes in place covering the majority of their agricultural area."
 
-### Why has the directive not ended eutrophication in the Baltic Sea?
+### Why has the Nitrates Directive not ended eutrophication in the Baltic Sea?
 
 The directive's limited success in the Baltic Sea illustrates a fundamental design flaw: the directive operates through national Nitrate Vulnerable Zones, but the Baltic catchment area spans nine countries — including non-EU states Russia and Belarus. According to the Baltic Marine Environment Protection Commission (HELCOM)'s 2021 "State of the Baltic Sea" report, agricultural nitrogen inputs into the Baltic have decreased by only 12% since 2000, far short of the 50% reduction target. The EEA's 2022 report identifies two additional reasons: the directive does not limit phosphorus — which is often the limiting nutrient in freshwater systems — and it covers only agriculture, not municipal wastewater or industrial sources. The 2016 EU Nutrient Action Plan (COM(2016) 929) attempted to address these gaps but lacked binding targets. In the end, the Nitrates Directive is a supply-side measure: it restricts what farmers can spread, but does not require them to reduce livestock numbers or improve manure processing technologies.
 

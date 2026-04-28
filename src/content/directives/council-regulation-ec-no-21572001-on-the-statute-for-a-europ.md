@@ -46,15 +46,15 @@ Industry response was mixed: large multinationals praised the SE's flexibility f
 
 ## Key questions answered
 
-### Why did an SE not have to be listed on a stock exchange?
+### Why did an SE not have to be listed on a stock exchange under Council Regulation (EC) No 2157/2001 on the Statute for a European Company (SE)?
 
 The regulation deliberately allowed both listed and unlisted companies to form an SE, because the original aim was to facilitate cross-border operations for all types of firms, not just those raising capital on public markets. However, in practice, unlisted SEs became the dominant form (over 90% by 2019, per Commission data), as many were small entities using the SE label for internal restructuring or for a single cross-border merger, rather than for public trading. The lack of a listing requirement also reduced scrutiny of these entities, contributing to the "brass plate" problem.
 
-### Why did the SE Statute fail to prevent the "Delaware effect" in the EU?
+### Why did the SE Statute (Council Regulation (EC) No 2157/2001) fail to prevent the "Delaware effect" in the EU?
 
 The Delaware phenomenon in the US — where companies incorporate in a single state with favourable laws — did not replicate in the EU because SE registration remained tied to the national law of the member state where the SE's registered office and head office are located. This "real seat" requirement, upheld in the 2007 *Cartesio* ruling (Case C-210/06), prevented SEs from being registered in a low-regulation state without transferring their management. The Commission’s 2019 evaluation noted that this limitation, combined with harmonised company law in many areas, meant the SE never offered the same flexibility as Delaware. Firms seeking light regulation simply converted to national forms in jurisdictions like Luxembourg or the UK.
 
-### Who opposed the SE Statute most intensely and why?
+### Who opposed the SE Statute (Council Regulation (EC) No 2157/2001) most intensely and why?
 
 German trade unions and the German government under Chancellor Gerhard Schröder (SPD) were the most powerful opponents during the 1990s, because they feared the SE form would allow large corporations like Volkswagen or Siemens to bypass the 1976 *Mitbestimmungsgesetz* (Co-determination Act), which mandates a 50% worker representation on supervisory boards for companies with over 2,000 employees. The compromise — Directive 2001/86/EC requiring negotiated worker participation — was the price Germany demanded. French government negotiators, led by Finance Minister Laurent Fabius, also demanded safeguards to prevent SEs from evading French social law, such as the *Code du Travail*’s works councils. The eventual vote in favour was brokered by the rotating Portuguese Council Presidency in late 2001, with Germany voting in favour only after the directive was secured.
 

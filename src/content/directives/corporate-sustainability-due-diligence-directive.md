@@ -56,15 +56,15 @@ The Directive's civil liability provisions immediately triggered litigation plan
 
 ## Key questions answered
 
-### Why were financial services excluded from the scope?
+### Why were financial services excluded from the scope of the Corporate Sustainability Due Diligence Directive?
 
 The European Commission's original proposal included financial institutions, but the Council and Parliament removed them in the December 2023 trilogue. The European Banking Federation argued that banks could not reasonably assess due diligence across the entire investment chain, and warned of "capital flight" from EU markets. The Parliament's Greens/EFA group proposed a compromise requiring due diligence only for direct lending above €500 million, but it was rejected. Instead, the Commission committed to a targeted review within two years of entry into force.
 
-### Why does the Directive apply to non-EU companies?
+### Why does the Corporate Sustainability Due Diligence Directive apply to non-EU companies?
 
 The extra-territorial scope is designed to prevent regulatory arbitrage and level the playing field. The same 2020 Commission impact assessment found that 40% of the EU's imports come from countries with weaker human rights or environmental protections. The provisions mirror the EU's approach in the Digital Services Act and the General Data Protection Regulation: any company with significant EU turnover (€450M+) must comply, regardless of where it is headquartered. This caught major US and Chinese corporations, including Apple, Amazon, and Huawei.
 
-### How does the climate transition plan requirement work?
+### How does the climate transition plan requirement of the Corporate Sustainability Due Diligence Directive work?
 
 Companies must adopt a plan to ensure their business model is compatible with the Paris Agreement's 1.5°C goal. This includes absolute emission reduction targets for Scope 1, 2, and (where material) Scope 3 emissions. During negotiations, the wording was softened from "shall implement" to "shall adopt" the plan. The European Parliament had sought a requirement to "take measures" to implement the plan, but the Council rejected this as too prescriptive. Enforcement remains through administrative supervision by national authorities, not through civil liability.
 

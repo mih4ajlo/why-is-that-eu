@@ -55,7 +55,7 @@ The most significant structural change is the shift away from a "fixed triple-A"
 
 The missions concept was championed by Commissioner Moedas and modelled on the Apollo programme and the UN Sustainable Development Goals. The idea was to shift from funding research topics to achieving clear, measurable societal outcomes. The Commission's 2018 impact assessment argued that Horizon 2020 had spread funding too thinly across "bottleneck" challenges; missions would focus resources on a few visible, high-stakes targets that could capture public and political attention. The Parliament and Council broadly supported the idea, but the Court of Auditors later criticised their implementation as underfunded and poorly coordinated.
 
-### Why was the budget cut from €100 billion to €95.5 billion?
+### Why was the budget of Horizon Europe cut from €100 billion to €95.5 billion?
 
 The €4.5 billion cut came during the July 2020 European Council, where net contributor states (Austria, Denmark, the Netherlands, Sweden) demanded overall MFF reductions. The Commission proposed €100 billion, the Parliament supported it, but the Council initially settled on €83.1 billion. The final figure of €95.5 billion — plus the €5.4 billion from NextGenerationEU — was a compromise brokered by European Council President Charles Michel, allowing the Parliament to claim victory (total €100.9 billion with recovery funds) while the Council saved face by capping core EU budget spending.
 

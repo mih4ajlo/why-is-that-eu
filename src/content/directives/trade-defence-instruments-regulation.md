@@ -54,15 +54,15 @@ Critics — particularly the European Consumer Organisation (BEUC) — argued th
 
 ## Key questions answered
 
-### Why did the EU need a new regulation instead of just granting or denying MES?
+### Why did the EU need a new Trade Defence Instruments Regulation instead of just granting or denying MES?
 
 Granting full MES to China would have lowered anti-dumping duties, while denying it outright violated WTO rules after the 2016 expiry. The "significant market distortions" methodology provided a WTO-consistent middle ground that maintained effective protection without triggering direct retaliation. It also aimed to future-proof the rules against other state-influenced economies like Vietnam or Russia.
 
-### Why did China oppose the new rules so strongly?
+### Why did China oppose the new rules in the Trade Defence Instruments Regulation so strongly?
 
 China saw the regulation as a permanent stain on its market economy status. The term "significant market distortions" was viewed as discriminatory, singling out China by name in Commission explanatory notes. Beijing also feared the methodology would spread — and indeed, the UK and EU later used similar language in forced labour import bans.
 
-### Did the regulation help EU steel producers?
+### Did the Trade Defence Instruments Regulation help EU steel producers?
 
 Partially. EU steel production stabilised after 2016, with output remaining near 160 million tonnes annually according to Eurofer. But imports from China fell only modestly — from 7.6 million tonnes in 2015 to 6.2 million in 2019 per Eurostat. The biggest impact was on Chinese exporters themselves: many pivoted to Vietnam or Turkey, which then faced their own EU investigations. The regulation was a shield, not a solution. The deeper problem — global overcapacity — required the EU-US-Japan trilateral initiatives of 2018-2020 to address.
 

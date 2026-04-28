@@ -57,11 +57,11 @@ Smaller issuers and Eastern European sovereigns struggled most. The Commission�
 
 The regulation deliberately keeps the label voluntary precisely to avoid a mandate that would collapse the existing market. A mandatory rule — covering all bonds sold as "green" — would have forced issuers to either comply with the full Taxonomy (high cost) or stop calling their bonds green. Industry opposition from ICMA and national treasury departments, combined with France’s insistence on preserving market flexibility, led the Commission to propose a voluntary "safe harbour" instead. The result is a two-tier market: a regulated, high-integrity label (EUGBS) coexisting with unregulated "green" labels, which investors increasingly discount.
 
-### Why are fossil-fuel activities excluded?
+### Why are fossil-fuel activities excluded under the EUGBS?
 
 The original Commission proposal allowed so-called "transition taxonomy" activities — including gas and nuclear — to be funded through EU Green Bonds. The Parliament, backed by environmental NGOs like ClientEarth and the Greens/EFA group, argued this would perpetuate greenwashing. The final text explicitly prohibits any proceeds from going to activities that are "harmful to any environmental objective," which climate transition ministers from Germany and Austria — backed by the European Court of Auditors’ 2021 criticism — successfully interpreted as excluding gas and nuclear. This exclusion was the final sticking point in trilogue; the compromise was a new "Transition Green Bond" label (proposed in 2024 but not yet adopted) for issuers wanting to fund gas-phase-out projects.
 
-### What happens if an issuer misallocates proceeds?
+### What happens if an issuer misallocates proceeds under the EUGBS?
 
 The regulation in Article 24 requires mandatory external review before and after issuance. If an issuer misallocates proceeds to non-taxonomy-aligned activities, the external reviewer must flag the breach to ESMA. ESMA can then impose administrative sanctions — fines up to 10% of total annual turnover or €5 million (whichever is higher) — and publicly suspend the bond’s EUGB label. In the first eight months of application, ESMA issued three corrective notices for minor reporting delays but no formal sanctions.
 

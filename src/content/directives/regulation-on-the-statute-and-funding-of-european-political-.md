@@ -50,15 +50,15 @@ The regulation has been criticised from both sides. Transparency campaigners, in
 
 ## Key questions answered
 
-### Why did it take a scandal to force reform?
+### Why did it take a scandal to force reform of Regulation 1141/2014/EU?
 
 The OLAF investigation into the AENM was not the first case of misuse — there had been earlier, smaller incidents — but it was the first to produce a credible criminal referral and a widely reported finding of fraud involving over half a million euros. The pre-2014 system relied on the European Parliament's internal services to audit parties, but they lacked investigative capacity and political independence. The scandal created a "normative window" in which reform became politically viable.
 
-### Why is the Authority independent from the European Parliament?
+### Why is the Authority independent from the European Parliament under Regulation 1141/2014/EU?
 
 This was the most contested design question. The European Parliament's two largest groups (EPP and S&D) initially proposed keeping oversight within the Parliament, arguing it was the directly elected body closest to the parties. Smaller groups — Greens/EFA, GUE/NGL, and eurosceptic factions — countered that this would create a conflict of interest, since the Parliament's leadership could punish parties that criticised it. The final compromise, brokered by the Council, created an independent Authority with a director appointed by all three EU institutions and removable only for grave misconduct.
 
-### Can the regulation be used to ban a political party?
+### Can Regulation 1141/2014/EU be used to ban a political party?
 
 Yes and no. The regulation allows the Authority to deregister a party if it "does not respect the values [Article 2 TEU]" — democracy, rule of law, human rights. But deregistration is a political act: the Authority must issue a warning, give the party time to respond, and the final decision is taken by a panel of three independent persons appointed by the European Parliament, Council, and Commission. To date, no party has been deregistered. The 2021 Hungarian law creating "anti-LGBTQ" committees was investigated by the Authority, but no formal action was taken after the party amended its statutes. Critics argue the procedure is too slow and too deferential to member state sovereignty.
 

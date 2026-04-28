@@ -50,15 +50,15 @@ Sexual harassment reporting increased in some Member States after the directive 
 
 ## Key questions answered
 
-### Why does the directive shift the burden of proof in discrimination cases?
+### Why does the Gender Equality Directive (2006/54/EC) shift the burden of proof in discrimination cases?
 
 Because victims of discrimination rarely have access to the internal documents and salary data needed to prove their case. The CJEU recognized this in its 1989 *Danfoss* ruling (C-109/88), where it noted that requiring the worker to prove pay discrimination by showing "objective evidence" of the employer’s pay structure was practically impossible. The directive codifies this principle, making it easier for workers to establish a prima facie case.
 
-### Why did the directive not require mandatory pay audits?
+### Why did the Gender Equality Directive (2006/54/EC) not require mandatory pay audits?
 
 The Commission initially considered mandatory pay transparency and auditing but abandoned it after fierce opposition from BUSINESSEUROPE and from Germany, the UK, and several Nordic countries. The UK government argued that mandatory audits would impose "unnecessary administrative burdens" on business, particularly SMEs. The ETUC pushed for the measure but lacked sufficient political leverage in the Council. The idea was revived two decades later in the Pay Transparency Directive (2023), which introduced mandatory pay reporting for companies with over 100 employees.
 
-### Why did it take until 2006 to consolidate existing equality directives?
+### Why did it take until 2006 to consolidate existing equality directives under the Gender Equality Directive (2006/54/EC)?
 
 The original seven directives were adopted piecemeal over 31 years (1975–2006), reflecting different political priorities and institutional contexts. Consolidation became possible only after the Treaty of Amsterdam (1997) gave the EU a clear legal base for anti-discrimination law (Article 13, now Article 19 TFEU), and after the 2004 enlargement created an urgent need for a uniform framework across 25 Member States with vastly different legal traditions and enforcement capacities.
 

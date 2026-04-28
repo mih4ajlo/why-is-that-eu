@@ -52,19 +52,19 @@ Industry response was mixed. Airbus Defence and Space, which builds Galileo sate
 
 ## Key questions answered
 
-### Why did the EU need a single space programme instead of separate projects?
+### Why did the EU need a single space programme instead of separate projects under the EU Space Programme Regulation (2021/696/EU)?
 
 Previous fragmentation created governance gaps exploited by third countries — Russia cut off ground station access in 2014 with no EU legal mechanism to respond. The 2018 Court of Auditors report found that separate agencies for Galileo, Copernicus, and EGNOS added €1.2 billion in duplication costs and delayed launch schedules. A single regulation gave the Commission budgetary control, enabling it to repurpose funds across components during crises — something impossible under the previous intergovernmental structure.
 
-### Why did member states accept EUSPA taking over security accreditation from national authorities?
+### Why did member states accept EUSPA taking over security accreditation from national authorities under the EU Space Programme Regulation (2021/696/EU)?
 
 The 2019 Beidou interference incident demonstrated that national-level security oversight was insufficient for threats spanning satellite constellations. However, member states retained a veto via EUSPA’s Security Accreditation Board, where decisions require a qualified majority. France, Germany, and Italy successfully blocked the initial proposal giving EUSPA autonomy, insisting that national security authorities must sign off on any change to encrypted signal standards.
 
-### Why are GOVSATCOM and SST new components rather than extensions of existing ones?
+### Why are GOVSATCOM and SST new components rather than extensions of existing ones in the EU Space Programme Regulation (2021/696/EU)?
 
 GOVSATCOM addresses a specific failure: during the 2015 migration crisis and 2017 hurricanes, EU agencies found commercial satellite capacity was saturated during emergencies, forcing reliance on non-EU providers. GOVSATCOM creates a dedicated pool of secured capacity. SST arose from the 2009 Iridium-Cosmos satellite collision that created 2,000 debris pieces — an EU legal framework was needed because no single member state had the capacity to track the now-30,000+ debris objects on its own.
 
-### Why did the UK oppose the regulation?
+### Why did the UK oppose the EU Space Programme Regulation (2021/696/EU)?
 
 The UK was the second largest contributor to Galileo and hosted the system’s key security centre at Harwell, Oxfordshire. The regulation’s Article 47 restricts third-country access to PRS and other secure signals. Post-Brexit, the UK sought continued access — offered by the Commission in 2018 but withdrawn in 2020 when UK rejected EU oversight requirements. The UK’s departure removed the main obstruction in the Council, allowing the regulation to pass with the stronger security provisions Germany and France demanded.
 

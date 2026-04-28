@@ -56,15 +56,15 @@ A 2023 study by the European Foundation for the Improvement of Living and Workin
 
 ## Key questions answered
 
-### Why did the directive focus on written information when the bigger problem was enforcement?
+### Why did the Transparent and Predictable Working Conditions Directive focus on written information when the bigger problem was enforcement?
 
 The directive deliberately uses transparency as a regulatory lever. The Commission's 2017 impact assessment noted that a 2015 Eurobarometer survey found 63% of EU workers did not know their basic employment rights — and that written information was a prerequisite for workers to understand and enforce those rights. Without a written statement from day one, a worker cannot prove their working hours, their probation period, or their pay rate in a legal claim. The directive's drafters assumed that enforcement would improve organically as workers became aware of their rights and could produce evidence.
 
-### Why didn't the directive ban zero-hour contracts outright?
+### Why didn't the Transparent and Predictable Working Conditions Directive ban zero-hour contracts outright?
 
 The political compromise was explicit: the EPP and employer groups would not accept a full ban, arguing that zero-hour contracts provided flexibility for students, retirees, and workers with care responsibilities. Instead, the directive imposed constraints that make zero-hour contracts less attractive: employers must compensate for cancelled shifts, cannot prevent workers from taking other jobs, and must provide a written statement of the "reference hours and days" — effectively forcing employers to declare a minimum commitment. This is a "soft ban" approach, similar to the UK's law after the 2016 *Uber* ruling, which requires zero-hour workers to be paid for cancelled shifts without notice.
 
-### Why did it take 18 months to pass when the 1991 directive took 12 years?
+### Why did it take 18 months to pass the Transparent and Predictable Working Conditions Directive when the 1991 directive took 12 years?
 
 The speed reflected a rare consensus between the Commission, Parliament, and Council. The Juncker Commission's emphasis on social fairness had strong backing from the German and French governments, both facing domestic pressure on precarious work. The 2017 Göteborg Summit had set a political deadline for delivering the Pillar of Social Rights before the 2019 European Parliament elections. And crucially, the opposition was disorganised: BusinessEurope's lobbying campaign failed to unite Member States, as several Eastern European countries — notably Poland and Hungary — actually supported stronger protections to reduce labour migration to Western Europe. The 2018 Portuguese presidency of the Council made social policy a priority, and the text was finalised under the Austrian presidency in June 2018 with only the Netherlands and Malta voting against.
 

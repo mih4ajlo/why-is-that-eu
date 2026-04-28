@@ -52,19 +52,19 @@ Enforcement has been delegated to national consumer protection authorities under
 
 ## Key questions answered
 
-### Why doesn't the regulation ban different pricing across EU countries?
+### Why doesn't the Regulation on Addressing Geo-Blocking and Other Forms of Discrimination Based on Customers' Nationality, Place of Residence or Place of Establishment within the Internal Market ban different pricing across EU countries?
 
 The regulation prohibits unjustified geo-blocking but does not require uniform pricing. This was a deliberate compromise to avoid market distortion and respect the freedom of businesses to set prices based on local market conditions, tax regimes, and cost structures. The Commission argued that attempting to harmonise prices would be unnecessary and potentially anticompetitive, while leaving pricing freedom maintained business support for the core anti-discrimination provisions.
 
-### Why are streaming services like Netflix not covered?
+### Why are streaming services like Netflix not covered by the Regulation on Addressing Geo-Blocking and Other Forms of Discrimination Based on Customers' Nationality, Place of Residence or Place of Establishment within the Internal Market?
 
 Audiovisual services, including subscription-based streaming and copyright-protected content, were explicitly excluded from the regulation due to complex licensing agreements that fragment rights along national borders. The European film and broadcasting industries, particularly in France and Germany, lobbied intensively for this exclusion, arguing that cross-border licensing would undermine cultural diversity and local content production. The Commission agreed to a five-year review period, and in 2023 announced plans to extend the regulation to audiovisual services by 2025, following the 2019 Copyright Directive's modernisation of licensing rules.
 
-### Does the regulation force companies to deliver products anywhere in the EU?
+### Does the Regulation on Addressing Geo-Blocking and Other Forms of Discrimination Based on Customers' Nationality, Place of Residence or Place of Establishment within the Internal Market force companies to deliver products anywhere in the EU?
 
 No. The regulation only forbids blocking a customer from viewing terms and completing a purchase; delivery remains at the seller's discretion. This means a German retailer can accept an order from a Spanish customer but then refuse to deliver to Spain—as long as the refusal is based on objective delivery or logistical reasons, not the customer's nationality. The Commission's 2020 evaluation noted this gap: a third of retailers used high delivery surcharges or refusal to deliver as a workaround, effectively maintaining geo-discrimination.
 
-### Did this regulation reduce prices for consumers?
+### Did the Regulation on Addressing Geo-Blocking and Other Forms of Discrimination Based on Customers' Nationality, Place of Residence or Place of Establishment within the Internal Market reduce prices for consumers?
 
 Evidence is mixed. The Commission's 2019 consumer market study found that cross-border price differences decreased by an average of 8% for physical goods covered by the regulation, but critics argue that retailers simply raised domestic prices rather than lowering foreign prices. The 2020 evaluation concluded that consumer welfare gains were modest—estimated at €30–50 million annually across the EU—because most savings came from increased choice rather than lower prices.
 

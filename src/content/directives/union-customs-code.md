@@ -57,7 +57,7 @@ Detractors argue the UCC has done little to reduce the estimated €2.5 billion 
 
 The regulation’s ambitious timeline underestimated the technical and financial strain on Member States. Many customs authorities, especially in Southern and Eastern Europe, operated legacy systems dating to the 1990s. The 2014-2020 EU budget allocated €1.5 billion for IT upgrades, but national procurement delays, the COVID-19 pandemic, and workforce training gaps pushed the full deadline for the 17 required electronic systems to 2025, with some systems still incomplete.
 
-### Why are businesses still complaining about complexity?
+### Why are businesses still complaining about the complexity of the Union Customs Code (UCC)?
 
 Despite the UCC’s promise of harmonisation, Member States retained limited national discretion—for example, in valuation rules for low-value e-commerce shipments and in special procedures like inward processing. This has created a de facto “UCC-lite” for small traders, who must navigate 27 different national customs portals even if the rules are the same. The Commission’s 2022 “Customs Data Hub” pilot aimed to fix this, but as of 2024, only six Member States participate.
 

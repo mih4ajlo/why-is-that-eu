@@ -57,7 +57,7 @@ Enforcement remains weak. The regulation relies on platforms self-reporting comp
 
 The Juncker Commission chose procedural transparency over economic regulation because it was politically achievable. The Netherlands, Ireland, and Luxembourg would have vetoed any measure that forced Booking.com, Google, or Amazon to give competitors equal commercial terms. The P2B Regulation passed because it was weak enough not to trigger Member State opposition, leaving stronger measures to the later Digital Markets Act (2022).
 
-### Why do small businesses still lose disputes despite the regulation?
+### Why do small businesses still lose disputes despite the P2B Regulation?
 
 The regulation gives procedural rights but does not create a substantive right to a fair commercial outcome. A platform can still delist a seller for a legitimate reason — such as low customer ratings or intellectual property complaints — and the seller's only recourse is mediation, which is non-binding. The Commission's 2022 report found that mediation resolved only 24% of cases, with many businesses declining to participate due to fear of retaliation.
 

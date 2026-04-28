@@ -50,15 +50,15 @@ Consumer groups have broadly welcomed the directive, but BEUC noted in a Septemb
 
 ## Key questions answered
 
-### Why does the directive cover buy-now-pay-later (BNPL) even though it’s often interest-free?
+### Why does Directive (EU) 2023/2225 on Consumer Credits cover buy-now-pay-later (BNPL) even though it’s often interest-free?
 
 BNPL products were historically exempt from the 2008 directive because they were short-term and interest-free. But the Commission’s 2021 impact assessment found that BNPL users defaulted at rates similar to high-interest credit cards, and that the ease of sign-up led to multiple overlapping loans. The directive now covers any credit agreement where the consumer repays in more than four instalments, averaging to roughly three months, closing the loophole.
 
-### Why is there no mandatory interest rate cap in the directive?
+### Why is there no mandatory interest rate cap in Directive (EU) 2023/2225 on Consumer Credits?
 
 The European Parliament pushed for an EU-wide interest rate cap during negotiations, but member states resisted, arguing that credit markets vary widely — for example, 30% APR caps in France versus 100% in some Eastern European states. The final directive leaves rate caps to national laws, but requires member states to justify any decision not to introduce a cap based on consumer protection data.
 
-### How does the directive affect digital advertising of credit?
+### How does Directive (EU) 2023/2225 on Consumer Credits affect digital advertising of credit?
 
 A key new provision is that all credit advertisements, including online banners and in-app pop-ups, must include a clear standardised warning: "Borrowing money costs money." The Commission mandated this after studies showed 60% of BNPL users in the UK (pre-Brexit, using similar marketing) did not realise they were taking out credit, according to a 2020 Financial Conduct Authority analysis. The warning must be displayed prominently and not buried in terms and conditions.
 

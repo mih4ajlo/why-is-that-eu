@@ -60,19 +60,19 @@ The regulation's most significant ongoing challenge is the "orphan bottleneck": 
 
 ## Key questions answered
 
-### Why does the regulation give 10 years of market exclusivity instead of a patent extension?
+### Why does Regulation (EC) No 141/2000 give 10 years of market exclusivity instead of a patent extension?
 
 The 10-year exclusivity was a deliberate alternative to patent protection. Unlike patents (which protect an invention for 20 years from filing), orphan market exclusivity prevents the EMA from authorising a "similar medicinal product" for the same indication for 10 years from authorisation. This gives manufacturers a reliable, patent-independent period of market monopoly — crucial because many orphan drugs use known biological substances (e.g., enzyme replacement therapies) that cannot be patented, or whose patent protection would run out before the drug reaches the market. The 10-year term was a political compromise between the Parliament (which wanted 10) and the Council (which initially proposed 6), ultimately backed by patient groups who argued longer exclusivity was necessary to attract investment.
 
-### Why does the regulation include a "similar medicinal product" clause allowing second entrants to overcome exclusivity?
+### Why does Regulation (EC) No 141/2000 include a "similar medicinal product" clause allowing second entrants to overcome exclusivity?
 
 Patients with rare diseases may benefit from multiple treatments for the same condition — but the regulation's market exclusivity could block second entrants entirely. To prevent this, Article 8(3) allows a second orphan medicine for the same condition to be authorised if it shows "significant benefit" over the first. This clause was heavily lobbied for by large pharmaceutical companies who feared being locked out of important rare-disease markets by first-mover biotech firms. In practice, the COMP has interpreted "significant benefit" strictly: the second product must show superior efficacy, safety, or major convenience advantage. As of 2022, only four cases had successfully overcome an existing orphan exclusivity through "significant benefit," according to the EMA's 2022 annual report.
 
-### Why did the regulation not control pricing of orphan drugs?
+### Why did Regulation (EC) No 141/2000 not control pricing of orphan drugs?
 
 The regulation was designed solely to incentivise development, not to control pricing. The legal basis for the regulation (Article 168 TFEU, public health) explicitly limits EU competence over health policy and pricing, which remains a national prerogative. The Commission's 2019 evaluation noted this gap: "The regulation has successfully stimulated development, but has not ensured affordable access." This creates an asymmetry — the EU incentivises development through market exclusivity, while member states bear the cost. Belgium, Italy, and the Netherlands formed the Beneluxa Initiative in 2016 to jointly negotiate prices, but the European Commission has no legal mechanism to cap orphan drug prices at EU level. This remains the most contentious political issue, with patient groups and some MEPs calling for a mandatory "fair pricing" condition in the planned 2024 revision.
 
-### Why was the 5 in 10,000 prevalence threshold chosen?
+### Why was the 5 in 10,000 prevalence threshold chosen in Regulation (EC) No 141/2000?
 
 The threshold — diseases affecting no more than 5 people per 10,000 in the EU — was derived from US precedent (the Orphan Drug Act uses a threshold of 200,000 patients nationally, which corresponds roughly to 7.5 per 10,000 in the US population). The EU's slightly lower threshold was a political choice to ensure ultra-rare diseases (affecting 1 per 10,000) were not crowded out by mildly uncommon conditions. The Commission's 1998 proposal contained no threshold at all, but the Parliament inserted the 5/10,000 figure during first reading, arguing it aligned with the definition used by the European Rare Disease Task Force (established 1996). The European Organisation for Rare Diseases lobbied for an even stricter threshold (2-3 per 10,000), but the Parliament settled on 5 as a compromise. The threshold has been controversial since 2010, when large companies began obtaining orphan designations for drugs targeting conditions like HIV/AIDS (which affects approximately 4 per 10,000 in the EU, just under the threshold), raising accusations of "orphanisation" of common medicines.
 

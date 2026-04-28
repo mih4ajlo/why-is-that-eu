@@ -52,11 +52,11 @@ The regulation's greatest vulnerability is its reliance on single-page risk clas
 
 ## Key questions answered
 
-### Why did the UCITS exemption finally end on 1 January 2023?
+### Why did the UCITS exemption from the PRIIPs Regulation finally end on 1 January 2023?
 
 The UCITS exemption was a political compromise from 2014, when asset managers argued their existing Key Investor Information Document (KIID) already met EU standards. By 2019, the ESAs' review found UCITS funds accounted for 40% of EU retail investment sales but lacked risk-reward comparability with non-UCITS products, creating consumer confusion. The European Parliament and Council agreed to phase in the PRIIPs KID for UCITS after industry pressure delayed the original 2020 deadline.
 
-### Why do critics say the KID's risk indicator is misleading?
+### Why do critics say the PRIIPs KID's risk indicator is misleading?
 
 The Summary Risk Indicator (SRI) combines market risk and credit risk into a single 1–7 scale, but critics such as Finance Watch (2019) found that products with high market risk but strong issuer backing could score the same as low-risk products with weaker counterparties. A 2021 Commission study concluded investors consistently misinterpreted the SRI, especially when comparing structured products versus simple ETFs.
 

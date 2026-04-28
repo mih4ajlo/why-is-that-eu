@@ -58,15 +58,15 @@ The most visible regulatory consequence has been a cascade of new listings. Sinc
 
 The 2004 regulation had been amended multiple times, creating an inconsistent patchwork of deadlines and limits. The Commission’s 2016 evaluation found that “legal complexity and lack of clarity” had led to widespread non-compliance, particularly in waste management. A recast allowed Parliament and Council to rewrite the regulatory architecture — including uniform waste thresholds, mandatory destruction timelines, and a faster procedure for adding newly listed POPs from the Stockholm Convention. The political price for this was a two-year legislative process; the benefit was a regulation that industry, in the Commission’s words, “can actually follow.”
 
-### Why did the waste limits become such a contentious issue?
+### Why did the waste limits under Regulation (EU) 2019/1021 become such a contentious issue?
 
 Because the waste limits directly threatened the economics of EU recycling. The European Recycling Industries‘ Confederation (EuRIC) argued during the 2018 negotiations that cutting PBDE thresholds from 1000 mg/kg to 200 mg/kg would “destroy the recycling of whole waste streams” — particularly for flame-retardant plastics from construction and electronics. The Commission’s impact assessment countered that the “secondary circulation of POPs” in recycled products was actually destroying market confidence in recycled materials. The democratic trade-off was stark: limit the circulation of banned chemicals, or keep recycling rates high but risk POPs contaminating toys, furniture, and food packaging. Parliament chose the former.
 
-### Why do some POPs remain in products despite the ban?
+### Why do some POPs remain in products despite the ban under Regulation (EU) 2019/1021?
 
 Nearly all POPs covered by the Regulation are prohibited from *new* production and use. However, products manufactured before the ban — so-called “legacy articles” — can remain in use (e.g., old furniture containing PBDEs, or buildings with PFOS-based coatings). The Regulation allows Member States to permit continued use until the product reaches end-of-life, provided no replacement exists. The consequence is that waste streams are the primary vector of exposure: as legacy products are discarded, their POPs content triggers strict destruction requirements. The Commission’s 2022 evaluation estimated that “legacy consumption” will be the dominant source of POPs waste until at least 2040, making waste management the core battlefield of POPs policy.
 
-### What happens if a Member State fails to enforce the POPs Regulation?
+### What happens if a Member State fails to enforce Regulation (EU) 2019/1021 on Persistent Organic Pollutants?
 
 The Commission can initiate infringement proceedings under Article 258 TFEU. In 2021, the Commission sent a letter of formal notice to Greece for failing to ensure that POP-contaminated waste from old electronics was properly destroyed. In 2022, the CJEU ruled against Poland (Case C-563/20) for allowing the sale of building materials containing PCP (pentachlorophenol) above the 2019 limits. The Court imposed a fine of €10,000 per day until compliance. As of 2023, three other Member States (Bulgaria, Romania, and Lithuania) face pre-litigation cases over POP waste management failures.
 

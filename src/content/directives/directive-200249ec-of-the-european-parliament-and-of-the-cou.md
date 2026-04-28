@@ -52,7 +52,7 @@ The biggest practical effect has been on airport development. The directive’s 
 
 ## Key questions answered
 
-### Why doesn’t the directive set binding noise limits?
+### Why doesn’t Directive 2002/49/EC set binding noise limits?
 
 The Council of Ministers blocked binding limits during negotiations from 2000 to 2001. Germany and France, backed by transport ministries and the automotive industry, argued that fixed limits would impose asymmetric costs on countries with older infrastructure or denser urban patterns. The Commission conceded in return for a stronger procedural framework—mandatory mapping, public consultation, and action plans—that could later inform a second stage. That second stage (binding limits) was never formally proposed; subsequent evaluations in 2011 and 2020 concluded that political appetite for limits had evaporated.
 
@@ -60,7 +60,7 @@ The Council of Ministers blocked binding limits during negotiations from 2000 to
 
 According to the EEA’s 2022 report, over 100 million people in the EU are exposed to road traffic noise above Lden 55 dB—roughly five times the number exposed to railway noise and ten times the number exposed to aircraft noise. This is not because roads are inherently louder, but because road networks are omnipresent: the END maps 130,000 km of major roads versus 55,000 km of railways. The automotive industry lobbied successfully during the directive’s drafting to exclude "minor roads" from mapping obligations, meaning the full extent of urban traffic noise—from delivery vans, buses, and commuter cars on secondary streets—remains unmapped.
 
-### Has the directive reduced noise levels?
+### Has Directive 2002/49/EC reduced noise levels?
 
 There is no EU-wide evidence of a reduction in environmental noise since 2002. The Commission’s 2020 evaluation found that in agglomerations with complete data from both the 2007 and 2017 reporting rounds, the percentage of population exposed above Lden 55 dB had remained stable or slightly increased—largely because traffic growth outpaced mitigation. The directive succeeded as an information tool (we now know how bad the problem is) but failed as a reduction instrument. France, the Netherlands, and Denmark have enacted national noise laws with binding limits; they are the only member states to show measurable decreases in exposure.
 

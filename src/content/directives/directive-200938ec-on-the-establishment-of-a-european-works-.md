@@ -51,19 +51,19 @@ The biggest practical change came after the 2015 *Groupe Steria* ruling. The Cou
 
 ## Key questions answered
 
-### Why does the directive not apply to all companies?
+### Why does Directive 2009/38/EC not apply to all companies?
 
 The directive requires a threshold of 1,000 employees in total, with 150 in each of two countries. This excludes small and medium enterprises (SMEs), which the Commission’s impact assessment argued would face disproportionate administrative costs. The ETUCC campaigned for a lower threshold in 2009 but lost, as Germany and France — with large SMEs — opposed.
 
-### Why is the UK covered after Brexit?
+### Why is the UK covered by Directive 2009/38/EC after Brexit?
 
 The UK initially opted out in 1994 but joined in 1998. After Brexit, the UK repealed the 1994 directive transposition (the Transnational Information and Consultation of Employees Regulations 1999) effective from 1 January 2021. As of 2024, UK-only workers are no longer part of EU EWCs, but UK companies still operating in the EU must negotiate new agreements that exclude their British workforce.
 
-### Why did Eastern Europe resist the directive?
+### Why did Eastern Europe resist Directive 2009/38/EC?
 
 In the 2004 enlargement, Poland, Hungary, and the Czech Republic viewed EWCs as "EU bureaucracy" imposed by Western unions. Poland’s labour minister in 2003, Jerzy Hausner, argued that EWCs would deter foreign investment. Transposition was delayed until 2009. The European Social Partners (ETUC, BusinessEurope) ultimately brokered a compromise that allowed Central European companies to delay compliance.
 
-### Why does the directive allow "voluntary" negotiations?
+### Why does Directive 2009/38/EC allow "voluntary" negotiations?
 
 The recast preserved the 1994 principle of "negotiated flexibility" – companies and workers can write their own EWC agreement. This was a concession to BusinessEurope, which argued that a one-size-fits-all model would be unworkable. Critics say this allows large companies to agree to weak, convenient councils. The Commission’s 2018 evaluation confirmed that 15% of EWCs meet only once a year and have no right to expert advice.
 

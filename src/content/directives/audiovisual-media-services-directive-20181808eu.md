@@ -59,15 +59,15 @@ The biggest legacy of the AVMSD 2018 is that it paved the way for the Digital Se
 
 ## Key questions answered
 
-### Why did the EU need a new AVMSD in 2018 instead of just updating the 2010 version?
+### Why did the EU need a new AVMSD in 2018 instead of just updating the 2010 version of the Audiovisual Media Services Directive?
 
 The 2010 AVMSD was written for a world where broadcasters and on-demand services like Netflix dominated. It had no rules for user-generated platforms like YouTube, Facebook, or TikTok, which by 2016 had hundreds of millions of European users. The legal asymmetry between broadcasters (strict rules) and platforms (exempt from liability) was creating unfair competition, per the Commission's 2015 impact assessment. A full revision was needed because the earlier directive's scope could not be stretched to cover platforms through amendments.
 
-### Why was the 30% European content quota so contentious?
+### Why was the 30% European content quota in the Audiovisual Media Services Directive (2018/1808/EU) so contentious?
 
 It was seen by US tech companies and free-trade advocates as cultural protectionism. The European film and television industry, supported by the French government, argued it was essential to preserve European cultural diversity in the face of US-dominated streaming services. The quota was opposed by the UK (before Brexit), the Netherlands, and Sweden as a violation of free trade and internal market principles. The compromise was to make the quota for "on-demand" services (30%) much lower than the "must-carry" rules for broadcasters (over 50%, already required in most member states).
 
-### Did the directive actually reduce hate speech and harmful content online?
+### Did the Audiovisual Media Services Directive (2018/1808/EU) actually reduce hate speech and harmful content online?
 
 The evidence is mixed. A 2022 European Commission report found that while 26 of 27 member states had transposed the hate speech obligations, only 12 had imposed any fines. The largest fine under the AVMSD was €4.5 million against Facebook (Ireland, 2021) for failing to remove hate speech within the required 24 hours. However, the directive's main mechanism—requiring platforms to have "appropriate measures"—was too vague. This weakness directly informed the DSA's more prescriptive transparency and enforcement obligations.
 

@@ -64,19 +64,19 @@ The COVID-19 pandemic tested the directive's affordability assessment framework.
 
 ## Key questions answered
 
-### Why were foreign currency loans regulated so heavily?
+### Why were foreign currency loans regulated so heavily under the Mortgage Credit Directive (2014/17/EU)?
 
 The Hungarian foreign currency mortgage crisis demonstrated that unregulated foreign currency lending could destabilise entire housing markets and cause mass defaults. By 2012, an estimated 1.2 million Hungarian households held Swiss franc mortgages, and 60% were non-performing after the franc appreciated. The directive required lenders to warn borrowers of exchange rate risks and offer conversion — provisions that effectively ended the practice in most member states.
 
-### Why was the APR cap removed?
+### Why was the APR cap removed in the Mortgage Credit Directive (2014/17/EU)?
 
 The original Commission proposal included a cap on annual percentage rates of charge (APR), but opposition from northern European banking associations and some member states — particularly Germany and Austria — argued it would restrict credit access for higher-risk borrowers. The European Mortgage Federation warned that a cap would "ration credit" rather than protect consumers. The final text left APR rules to national discretion, with only a general requirement for APR disclosure.
 
-### Why did it take until 2014, six years after the crisis?
+### Why did it take until 2014, six years after the crisis, for the Mortgage Credit Directive (2014/17/EU)?
 
 The 2008 crisis triggered political consensus for action, but the details proved deeply contentious. The key blockages were the proposed LTV caps, which pitted member states with strict regimes (Germany, Netherlands) against those with more liberal markets (Spain, Cyprus), and the debate over a European passport for lenders, which was dropped entirely. The Irish Presidency’s compromise in 2013 — removing LTV caps in exchange for national discretion on prudent lending — broke the deadlock.
 
-### Does the directive apply to buy-to-let mortgages?
+### Does the Mortgage Credit Directive (2014/17/EU) apply to buy-to-let mortgages?
 
 No. The directive explicitly excludes credit agreements where the borrower is not a "consumer" (as defined in Article 3 of the Consumer Rights Directive). Buy-to-let mortgages, where the borrower is acting for business purposes, fall outside the scope. However, member states could choose to apply the same rules — for example, the UK extended key MCD requirements to buy-to-let in 2016.
 

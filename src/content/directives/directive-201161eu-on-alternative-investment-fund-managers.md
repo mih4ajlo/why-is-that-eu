@@ -63,11 +63,11 @@ The directive's impact on institutional investors was mixed. Pension funds and i
 
 The UCITS Directive (2009/65/EC) had already created a harmonized regulatory framework for retail-oriented mutual funds, allowing them to market across the EU with a single authorization. Alternative funds — hedge funds, private equity, real estate — were entirely outside this regime, regulated at the national level or not regulated at all. The 2008 crash showed these unregulated pockets could generate systemic risk through leverage and opaque derivatives exposures that UCITS funds could not hold.
 
-### Why did the UK oppose the directive so strongly?
+### Why did the UK oppose Directive 2011/61/EU on Alternative Investment Fund Managers so strongly?
 
 The UK hosted about 80% of EU-based alternative fund managers, primarily in London. The UK government and Financial Services Authority argued the directive would drive these funds to non-EU jurisdictions like the Cayman Islands or Switzerland, costing London its competitive advantage. British MEPs led amendments to limit the directive's extraterritorial reach and protect the London-based prime brokerage industry. The UK's eventual support came only after gaining opt-outs on key points, including national private placement regimes during the transition period.
 
-### Why did private equity rules include "asset stripping" restrictions?
+### Why did private equity rules under Directive 2011/61/EU include "asset stripping" restrictions?
 
 The European Parliament pushed for these provisions following political pressure from German and French socialist MEPs who cited cases where private equity firms acquired manufacturing companies, loaded them with debt, and paid themselves dividends from borrowed funds before selling the stripped-down company. The Fairchild Dornier bankruptcy (2002) and the 2007 collapse of German retailer Hertie were frequently referenced during parliamentary debates. The two-year ban on capital reductions was framed as protecting creditors and employees.
 

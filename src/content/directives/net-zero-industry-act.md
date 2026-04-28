@@ -57,11 +57,11 @@ The first major enforcement test concerns Member States’ failure to set up "on
 
 ## Key questions answered
 
-### Why 40% and not 50% or 30%?
+### Why 40% and not 50% or 30% in the Net-Zero Industry Act?
 
 The 40% target was a compromise between the European Parliament (which initially pushed for 60%) and the Commission’s original non-binding benchmark. The Parliament’s industry committee commissioned a 2023 study from the Joint Research Centre showing that 40% of EU deployment demand equated to roughly €150 billion in annual manufacturing investment—enough to be "game-changing" but not so aggressive as to require a full "buy European" mandate that would violate WTO rules. The Council pushed back against a higher target, with Germany arguing that 60% would force member states to accept higher costs for domestic equipment.
 
-### How does it relate to the Critical Raw Materials Act?
+### How does the Net-Zero Industry Act relate to the Critical Raw Materials Act?
 
 The NZIA and the Critical Raw Materials Act (CRMA, 2024/1252/EU) are complementary halves of the EU’s clean-tech sovereignty push. The CRMA sets targets for domestic extraction and processing of rare earths, lithium, and other materials (10% of annual EU consumption extracted domestically by 2030; 40% processed). The NZIA covers the manufacturing stage. Together, they create a "from mine to factory" industrial policy. However, the NZIA does not require that NZSP manufacturers use CRMA-compliant inputs—a deliberate gap, as the Commission acknowledged in a 2024 internal memo that "binding vertical integration would exceed WTO constraints."
 

@@ -57,7 +57,7 @@ The regulation also had unintended consequences for peripheral regions. The focu
 
 ## Key questions answered
 
-### Why did the regulation need revising in 2021?
+### Why did the Trans-European Transport Network (TEN-T) Regulation need revising in 2021?
 
 The original 2013 regulation did not anticipate the European Green Deal (2019) or the war in Ukraine (2022). The 2021 revision, proposed by Commissioner Adina Vălean, added a "fast core network" to be completed by 2040, with mandatory 160 km/h passenger trains, 100 km/h freight trains, and full electrification on all lines. The invasion of Ukraine in February 2022 further accelerated the revision: the European Council’s Versailles Declaration (March 2022) called for "rapidly" connecting Ukraine and Moldova to the TEN-T, and the final agreement in 2024 extended the network to Lviv, Kyiv, and Chișinău, with deadlines pushed to 2050 for those extensions.
 
@@ -65,11 +65,11 @@ The original 2013 regulation did not anticipate the European Green Deal (2019) o
 
 The main reason is that national governments resist funding infrastructure that primarily benefits other countries. A 2020 study by the European University Institute found that the average cost overrun for cross-border TEN-T projects was 24%, compared to 12% for domestic projects, because two countries cannot agree on standards, procurement rules, or construction timelines. For example, the Lyon-Turin high-speed rail link—planned since the 1990s—remains unbuilt as of 2024, with Italy’s Piedmont region opposing the project in a 2023 court case. The regulation’s binding deadlines help, but they cannot override national sovereignty over land use and budgets.
 
-### What role do European Coordinators actually play?
+### What role do European Coordinators actually play under the TEN-T Regulation?
 
 They have no formal enforcement power, but significant political leverage. The regulation gives them the right to convene annual corridor forums, publish progress reports naming and shaming delays, and recommend that the Commission withhold CEF funding for non-complying projects. In 2020, Coordinator Catherine Trautmann (a former French minister) used this power to block €150 million in CEF funding for a Romanian rail upgrade until Romania agreed to install the European Rail Traffic Management System (ERTMS) on 100% of the line, not the 50% it had proposed. Member states cannot remove coordinators, who are appointed by the Commission for a renewable four-year term.
 
-### Why does the regulation mandate specific train speeds and electrification standards?
+### Why does the TEN-T Regulation mandate specific train speeds and electrification standards?
 
 Because interoperability is the single biggest barrier to a single transport market. The European Court of Auditors’ 2016 special report found that a freight train crossing from Germany to Poland lost an average of 2 hours at the border due to voltage changes, signal incompatibility, and paperwork. The regulation’s Article 39 sets binding minimum speeds (100 km/h for freight on core network lines by 2030) and requires all new core network lines to be electrified with the 25 kV AC system. The European Railway Agency (now part of the European Union Agency for Railways) estimates that full implementation of these standards could cut cross-border rail travel times by 30-40%.
 

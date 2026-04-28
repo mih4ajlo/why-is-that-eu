@@ -52,15 +52,15 @@ The biggest controversy emerged over the "landing obligation" (the CFP discard b
 
 ## Key questions answered
 
-### Why did the regulation require satellite tracking for all vessels over 12 metres?
+### Why did Council Regulation (EC) No 1224/2009 require satellite tracking for all vessels over 12 metres?
 
 The 2006 Court of Auditors report found that paper logbooks were routinely falsified — with Spanish vessels reporting catches from protected areas as coming from outside them, and Irish vessels claiming to have fished in open water when they were actually inside 12-nautical-mile limits. Satellite VMS provided verifiable, real-time data that could be cross-checked against catch reports, making it nearly impossible to claim a false position. The 12-metre threshold was a compromise: full VMS for the 15,000 largest EU vessels that account for 80% of total catch volume, while exempting the 80,000 smaller vessels that caught the remaining 20%.
 
-### Why did the regulation take so long to pass given the crisis?
+### Why did Council Regulation (EC) No 1224/2009 take so long to pass given the crisis?
 
 The fishing industry's political power in southern member states (Spain, Italy, France, Greece) meant that any reform that threatened small-scale fishing families faced fierce resistance. Spain's fisheries minister Elena Espinosa personally lobbied Commissioner Borg in 2008 to drop the electronic logbook requirement, arguing it would destroy the artisanal fleet. The regulation also required a complete re-engineering of national fisheries databases — many member states had no computerised system at all. The three-year implementation delay (2009-2012) was built in precisely to allow Italy, Greece, and Portugal to build their IT infrastructure, which the Commission co-funded through the European Fisheries Fund.
 
-### How does this regulation relate to the IUU Regulation?
+### How does Council Regulation (EC) No 1224/2009 relate to the IUU Regulation?
 
 The Illegal, Unreported and Unregulated (IUU) Fishing Regulation (1005/2008/EC) was adopted one year earlier, targeting third-country vessels and trade. The Control Regulation complements it by focusing on EU-flagged vessels and domestic enforcement. Together they form a "control package" that the Commission explicitly described as "two sides of the same coin." The IUU Regulation created the "catch certification scheme" requiring imported fish to prove legal origin; the Control Regulation ensures that EU-caught fish can meet the same traceability standard, preventing EU fleets from being undercut by illegal imports.
 

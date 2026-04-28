@@ -62,11 +62,11 @@ The DSA fundamentally reshapes the relationship between digital platforms, users
 
 ## Key questions answered
 
-### Why did the EU need a new law instead of updating the old E-Commerce Directive?
+### Why did the EU need the Digital Services Act (DSA) instead of updating the old E-Commerce Directive?
 
 The E-Commerce Directive was designed in 2000 for a simpler internet with limited user-generated content and few global platforms. It lacked obligations around algorithmic transparency, advertising, risk management, and accountability for systemic harms. Updating it would have been piecemeal and risked fragmentation across member states. The DSA provides a comprehensive, forward-looking framework that mandates proactive steps, not just reactive takedowns.
 
-### Why are very large online platforms (VLOPs) treated differently?
+### Why are very large online platforms (VLOPs) treated differently under the Digital Services Act (DSA)?
 
 VLOPs, defined as those with over 45 million monthly active users in the EU, have outsized influence on public discourse, consumer safety, and economic activity. Their algorithms can amplify harmful content globally. The DSA's proportionality principle means stricter rules for the most powerful actors, including mandatory risk assessments, independent audits, and crisis response mechanisms. Smaller platforms face lighter obligations to avoid disproportionate burden.
 

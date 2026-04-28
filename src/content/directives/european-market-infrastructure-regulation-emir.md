@@ -63,7 +63,7 @@ Central clearing reduces counterparty risk by interposing a CCP that guarantees 
 
 Before EMIR, regulators had no centralised view of OTC derivatives exposure. The 2008 crisis showed that no one — not the US Treasury, not the ECB — could measure systemic risk in derivatives. EMIR’s reporting obligation requires every derivative trade to be reported with 25 data fields to an ESMA-registered trade repository, creating a global data pool. By 2020, ESMA had 6 trade repositories handling over 50 billion reports annually.
 
-### Why did pension funds get an exemption from clearing?
+### Why did pension funds get an exemption from clearing under EMIR?
 
 Pension funds initially opposed mandatory clearing because they hold long-term, illiquid assets that make it expensive to post daily cash margin. A three-year exemption was granted in 2012, extended multiple times under political pressure from the European Association of Paritarian Institutions (AEIP) and national pension fund groups. EMIR Refit eventually made the exemption indefinite, recognising that pension funds pose lower systemic risk than banks.
 

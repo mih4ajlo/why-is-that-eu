@@ -55,15 +55,15 @@ The biggest challenge was compliance: by the Commission's own 2022 evaluation, o
 
 ## Key questions answered
 
-### Why did the port regulation take 13 years to pass?
+### Why did Regulation (EU) 2017/352 take 13 years to pass?
 
 The first Commission proposal in 2004 was rejected by the European Parliament after massive protests by dockworkers in Rotterdam, Hamburg, and Marseille, who feared job losses. The 2013 proposal only succeeded because of a series of compromises: small ports (under 0.5% national traffic) were exempted, and port authorities retained the right to impose minimum service quality requirements. The critical shift came when the Juncker Commission linked the regulation to its investment plan, and when the Koper incident provided a concrete example of discrimination.
 
-### Why didn't the regulation apply to all EU ports?
+### Why didn't Regulation (EU) 2017/352 apply to all EU ports?
 
 The original 2013 proposal applied to all commercial ports handling over 1 million tonnes or 500,000 passengers. During parliamentary negotiations, the threshold was raised to exclude ports handling less than 0.5% of a member state's total port traffic. This exemption covered approximately 800 smaller ports across the EU. The reasoning was that the administrative burden of compliance — separating accounts, publishing transparency reports — would outweigh benefits for small, often municipal ports.
 
-### Why was financial transparency controversial?
+### Why was financial transparency controversial under Regulation (EU) 2017/352?
 
 State-owned port authorities had historically used revenues from public service contracts (e.g. maintaining navigation channels) to cross-subsidise their commercial operations (e.g. cargo handling). Private terminal operators argued this was illegal state aid. Port authorities countered that transparent accounting would force them to reveal commercially sensitive information. The regulation resolved this by requiring separate accounting but allowing port authorities to designate certain data as confidential — a compromise that private operators say leaves loopholes.
 

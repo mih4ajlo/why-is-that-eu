@@ -10,7 +10,8 @@
     "batch-draft": "tsx scripts/batch-draft.ts",
     "harvest": "tsx scripts/harvest.ts",
     "patch-llm": "tsx scripts/patch-llm.ts",
-    "extract-questions": "tsx scripts/extract-questions.ts"
+    "extract-questions": "tsx scripts/extract-questions.ts",
+    "rewrite-questions": "tsx scripts/rewrite-questions.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",

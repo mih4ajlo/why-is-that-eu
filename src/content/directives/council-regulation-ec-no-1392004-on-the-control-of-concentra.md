@@ -59,15 +59,15 @@ Companies adapted by hiring more Brussels-based merger control lawyers and by st
 
 ## Key questions answered
 
-### Why didn't the regulation simply extend the old 'dominance' test?
+### Why didn't Council Regulation (EC) No 139/2004 (the EC Merger Regulation) simply extend the old 'dominance' test?
 
 The old dominance test prevented intervention against anti-competitive effects in oligopolistic markets that lacked a single dominant player. In economics-laden language, the Commission's 2001 Green Paper argued that the dominance test was "ill-suited to deal with oligopolistic market structures where collective dominance could be established without any single firm holding a dominant position." The SIEC test allowed the Commission to block mergers that would significantly impede competition even if no single firm would hold over 40% market share — for example, when merging two smaller firms in a four-player market would reduce competitive pressure.
 
-### Why did the Court of First Instance's 2002 rulings matter so much?
+### Why did the Court of First Instance's 2002 rulings matter so much for the EC Merger Regulation?
 
 These rulings were not just legal losses — they were institutional humiliations. The court found the Commission had engaged in "manifest errors of assessment" and had "adduced insufficient evidence" to meet the legal standard of proof. In the Airtours case, the court annulled the Commission's finding that the travel industry would see coordinated effects, saying the Commission had "failed to establish to the requisite legal standard" that coordination was likely. This forced Commissioner Monti to overhaul the entire merger review process, including creating a Chief Economist position in DG Competition (filled by Lars-Hendrik Röller in 2003) and strengthening the internal peer review system to ensure economic evidence met court standards.
 
-### Why was 2004 the right political moment for this reform?
+### Why was 2004 the right political moment for the reform of Council Regulation (EC) No 139/2004 (the EC Merger Regulation)?
 
 Two factors converged: enlargement and the Monti crisis. The EU was to expand from 15 to 25 members on 1 May 2004. Each new member had its own merger control regime, creating fragmentation the Commission argued would cost businesses billions in legal fees and delays. Simultaneously, Monti needed a legislative win to restore DG Competition's credibility after the 2002 court losses. The Irish Council Presidency (January-June 2004) made merger control reform a priority, and the European Parliament was eager to finalise the reform before the European elections in June 2004. The regulation entered into force on the same day as enlargement — 1 May 2004 — symbolically linking the two.
 

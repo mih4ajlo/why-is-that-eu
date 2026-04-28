@@ -55,7 +55,7 @@ The episode revealed a structural fracture between the Commission's Green Deal a
 
 The SUR targeted millions of individual farmers—unlike the EU's climate regulations, which mostly target large industrial emitters and energy companies. Each farmer would have faced immediate, visible changes to their operations: banned spraying in large areas, mandatory IPM, electronic record-keeping. This created a much broader and more politically vocal opposition base. In contrast, the "Fit for 55" climate package directly affected a much smaller number of corporate entities and could be mediated through emissions trading and carbon pricing.
 
-### Why couldn't the 2009 directive be strengthened instead of replaced?
+### Why couldn't the 2009 directive be strengthened instead of replaced by the SUR?
 
 The Commission and environmental groups argued the 2009 directive was fundamentally flawed: it required member states to create "national action plans" but set no binding targets. A 2020 Commission evaluation concluded that only a handful of member states had achieved measurable reductions, and that the directive lacked enforcement mechanisms. The SUR was designed to replace a "soft law" approach with "hard law"—setting EU-level binding targets that member states would have to meet or face infringement proceedings. This was precisely why it met such intense opposition.
 
@@ -63,7 +63,7 @@ The Commission and environmental groups argued the 2009 directive was fundamenta
 
 The Commission's 2022 impact assessment projected a 50% reduction in use and risk by 2030, saving farmers €4 billion annually in input costs and generating €3.5 billion in environmental and health benefits. But the assessment acknowledged significant uncertainty about farmer behaviour, yield impacts, and the availability of alternative pest control methods. EFSA's 2023 review of IPM data found that adoption remained below 20% in most member states, suggesting a massive behavioural and economic barrier to compliance.
 
-### What happens now?
+### What happens now with the SUR?
 
 With the SUR withdrawn, the 2009 directive continues. The Commission, under President von der Leyen's second term (2024-2029), has signalled a willingness to drop binding targets and instead push for "voluntary national targets with a robust monitoring framework." The 2024-2029 Commission's political guidelines, published in July 2024, mention pesticide reduction only in passing, and avoid the word "target."
 

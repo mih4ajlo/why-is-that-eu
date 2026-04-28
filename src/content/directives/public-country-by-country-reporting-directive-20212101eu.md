@@ -61,15 +61,15 @@ The safeguard clause allowing non-disclosure on commercial grounds has been crit
 
 ## Key questions answered
 
-### Why did it take so long to pass?
+### Why did it take so long to pass the Public Country-by-Country Reporting Directive (2021/2101/EU)?
 
 The directive faced five years of deadlock in the Council of the EU because a blocking minority of tax-haven member states — Ireland, Luxembourg, Malta, Cyprus, and the Netherlands — opposed any public disclosure. These countries feared exposing their low-tax regimes would drive away multinational clients. Germany’s shift under Chancellor Merkel and Finance Minister Scholz in 2021 broke the deadlock by providing the necessary qualified majority.
 
-### Why is the €750 million threshold used?
+### Why is the €750 million threshold used in the Public Country-by-Country Reporting Directive (2021/2101/EU)?
 
 The threshold mirrors the OECD’s BEPS Action 13 standard for private country-by-country reporting, adopted by the EU in 2016. It targets the roughly 1,500-2,000 largest MNEs that are most likely to engage in aggressive tax planning. The Commission’s impact assessment determined that lowering the threshold would disproportionately burden smaller companies without significant transparency benefits.
 
-### How does the safeguard clause affect the directive’s effectiveness?
+### How does the safeguard clause affect the effectiveness of the Public Country-by-Country Reporting Directive (2021/2101/EU)?
 
 The safeguard clause allows companies to withhold data if they can demonstrate “significant commercial harm” — a broad exemption opposed by transparency advocates. The text requires firms to explain why they are withholding data, and the data must be published later. Critics like Oxfam argue the clause creates a major loophole, as proving commercial harm is subjective and companies have strong incentives to invoke it. The Commission must review the clause’s operation by 2027.
 

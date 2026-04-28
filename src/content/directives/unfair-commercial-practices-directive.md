@@ -52,7 +52,7 @@ Industry initially resisted maximum harmonisation. **BusinessEurope** warned of 
 
 The blacklist was a political compromise between maximum harmonisation advocates (who wanted strict rules) and industry (who feared uncertainty). By listing 31 specific banned practices, the directive gave businesses clear compliance guidance and national courts easy-to-apply standards, avoiding years of litigation over vague concepts like "good faith". The Commission's 2005 impact assessment argued that without a blacklist, enforcement would be "crippled by different national interpretations of the general clause".
 
-### Why did Germany and Austria oppose maximum harmonisation?
+### Why did Germany and Austria oppose maximum harmonisation under the UCPD?
 
 Both had strong pre-existing national consumer protection laws — Germany's *Gesetz gegen den unlauteren Wettbewerb* (UWG) and Austria's *Bundesgesetz gegen den unlauteren Wettbewerb* — that provided stricter protections than the UCPD's baseline. German officials, led by the economics ministry under Chancellor Schröder, argued that maximum harmonisation would force them to weaken these laws, particularly regarding "aggressive" selling practices in door-to-door sales. They ultimately lost, but the UCPD's blacklist preserved some of their key prohibitions.
 

@@ -62,7 +62,7 @@ A notable controversy erupted in 2023 over the "qualified website authentication
 
 ## Key questions answered
 
-### Why did the mandatory acceptance for private platforms pass despite Big Tech opposition?
+### Why did the mandatory acceptance for private platforms pass despite Big Tech opposition in Regulation (EU) 2024/1183 (eIDAS 2)?
 
 The coalition between digital rights advocates and MEPs from the Greens/S&D groups was decisive. The Greens argued that mandatory acceptance would "democratize digital identity" and break the oligopoly of US-based identity providers. The European Data Protection Supervisor (EDPS) provided legal cover by issuing a formal opinion in 2022 stating that mandatory acceptance did not violate the Charter of Fundamental Rights if the wallet was designed for non-traceability. Faced with this alliance, the EPP group's initial resistance gave way to the compromise that only "very large online platforms" (over 45 million EU users) would be required to accept the wallet.
 
@@ -70,11 +70,11 @@ The coalition between digital rights advocates and MEPs from the Greens/S&D grou
 
 Germany's motivation was fundamentally about digital sovereignty and avoiding dependence on US cloud providers. After the 2013 Snowden revelations and the 2020 Schrems II ruling (C-311/18) invalidating the Privacy Shield, the German federal government — particularly under the 2021 traffic-light coalition of SPD, Greens, and FDP — saw a European digital identity as a geostrategic asset. The German Federal Ministry for Digital and Transport (then led by Volker Wissing, FDP) argued that "if we don't build an EU identity wallet, Chinese and American companies will define Europe's digital identity," according to a 2022 strategy paper. Additionally, the EU's NextGenerationEU recovery fund allocated €3.2 billion to Germany for digital infrastructure, making the wallet a financially viable project.
 
-### Why is the wallet open-source?
+### Why is the wallet under eIDAS 2 open-source?
 
 The EDPS opinion of 2022 explicitly warned that proprietary code for the wallet would violate the transparency requirement of Article 5(2) GDPR (the "principle of transparency"). EDRi and the Free Software Foundation Europe (FSFE) mounted a coordinated campaign during the trilogues, arguing that closed-source identity infrastructure would be untrustworthy. The European Commission's Joint Research Centre (JRC) had also published a 2021 study showing that 90% of identity-related security vulnerabilities in digital ID systems were found through open-source audits. The final text requires the wallet's reference implementation to be open-source under a standard license (EUPL v1.2).
 
-### Will the wallet actually be used?
+### Will the wallet under eIDAS 2 actually be used?
 
 The regulation makes the wallet mandatory for member states to offer, but not for citizens to use — it remains voluntary for individuals. The Commission's 2021 impact assessment optimistically projected 80% of EU citizens would use the wallet by 2030, but this was based on user surveys where 70% expressed "willingness" — not actual behaviour. The experience of Germany's electronic ID card (which had only 10% activation after 12 years) suggests that take-up may depend heavily on use cases: if private-sector platforms are required to accept it, and if it simplifies healthcare, travel (digital driver's license), and banking, adoption could be higher than previous national schemes. Estonia, which already had a mandatory e-ID for its 1.3 million citizens, provides a positive reference: 98% of Estonians use their digital ID for tax filing, voting, and banking. The pilot phase (April 2023-2025) involving 250 companies across 19 member states will provide the first real-world data on usability.
 

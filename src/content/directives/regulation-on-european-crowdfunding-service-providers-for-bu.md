@@ -58,11 +58,11 @@ Investor protection improved measurably. The Commission's 2024 consumer survey f
 
 The UK's platform sector — led by Crowdcube and Funding Circle — had built a global hub around light-touch regulation under the Financial Conduct Authority. They opposed mandatory EU harmonisation because it would impose higher disclosure costs and cap investment sizes, reducing the attractiveness of UK platforms to international investors. After Brexit, their opposition evaporated, and EU-based platforms became the dominant lobbying force.
 
-### Why did the €5 million cap exist?
+### Why did the €5 million cap exist in the ECSP Regulation?
 
 The cap was a compromise between the Commission (which wanted no cap to maximise funding) and the European Parliament (which feared retail investors would pour savings into risky projects). The €5 million figure was drawn from the existing Prospectus Regulation (2017/1129/EU), which exempted offerings under that threshold from full prospectus requirements. The intention was to keep crowdfunding for genuinely small businesses, not to compete with traditional capital markets.
 
-### Why did the regulation take so long to pass?
+### Why did the ECSP Regulation take so long to pass?
 
 Three reasons: First, the UK blocked progress until the Brexit referendum made its interests irrelevant. Second, the 2014-2019 Commission was focused on GDPR and digital single market rather than financial legislation. Third, national regulators — especially Germany's BaFin and France's AMF — initially opposed losing their gatekeeping power, but relented after the 2018 Parliament vote made regulation inevitable.
 

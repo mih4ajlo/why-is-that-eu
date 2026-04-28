@@ -54,11 +54,11 @@ The main criticism has been the slow pace of active substance approvals. As of 2
 
 The regulation distinguishes between active substances (the chemical ingredients that kill pests) and the final product (which also contains solvents, dyes, and fragrances). Active substances must be approved at EU level because their health and environmental risks are universal—a rat poison’s toxicity is the same in Finland as in Spain. Products, however, vary in use patterns (e.g., swimming pool disinfectant vs. hospital floor cleaner) and local exposure conditions, which member states wanted to keep control over. The compromise was EU-level active substance review by ECHA, with national or mutual-recognition product authorisation—except for the optional single authorisation pathway added as a market integration tool.
 
-### Why did it take so long—nearly a decade—to get the first single authorisation approved?
+### Why did it take so long—nearly a decade—to get the first single authorisation approved under the Biocidal Products Regulation?
 
 The single authorisation pathway was a new system requiring ECHA to build a Biocidal Products Committee from scratch in 2015, with 27 members and an equal number of alternates, each representing a national authority with different risk assessment traditions. The first application, for propiconazole-based wood preservative, faced a 3.5-year review partly because the committee had to agree on joint risk assessment methodologies—a process an internal ECHA evaluation from 2018 described as "painful but educational." Industry pressure via the European Chemical Industry Council (Cefic) led to a 2019 reorganisation that cut the average review time for subsequent applications to 18 months.
 
-### Why did the Greens and animal rights groups oppose the regulation despite its animal testing provisions?
+### Why did the Greens and animal rights groups oppose the Biocidal Products Regulation despite its animal testing provisions?
 
 The Nordic Green MEPs and animal rights organisations argued that the regulation’s mandatory data-sharing clause (Article 62), which forced companies to pay for access to existing test data, still allowed companies to conduct new animal tests if they could not strike a deal on cost. They wanted a strict "no data, no market" rule that would have required all new tests to be waived entirely if historical data existed—a position defeated because the chemical industry, led by Bayer and BASF, argued it would destroy intellectual property rights and that some tests on new combinations were scientifically necessary. The final text included a provision requiring companies to first attempt data-sharing before resorting to new testing, but the Greens called it a "toothless compromise."
 

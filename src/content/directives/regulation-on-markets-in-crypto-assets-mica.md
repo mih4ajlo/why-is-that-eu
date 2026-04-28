@@ -61,7 +61,7 @@ The cap, in Article 23, is explicitly designed to protect monetary sovereignty. 
 
 The Commission's original draft had no clear NFT carve-out, but lobbying from digital art platforms and the gaming industry produced Recital 10, which excludes "unique and non-fungible" tokens. The exclusion is narrow — fractionalised NFTs and large series issued as collections are caught — and ESMA has signalled it will look through labels to economic substance. A review clause requires the Commission to reassess NFT treatment by 2025.
 
-### Why did the proof-of-work ban fail?
+### Why did the proof-of-work ban fail in MiCA?
 
 A draft amendment in early 2022 would have effectively banned Bitcoin from EU exchanges by prohibiting crypto-assets using "environmentally unsustainable consensus mechanisms." Industry lobbying — particularly from Blockchain for Europe and Bitcoin advocacy groups — combined with warnings from EPP and Renew MEPs that the ban was technologically illiterate, defeated the amendment 32-24 in ECON. Instead, MiCA requires CASPs to disclose the energy consumption and climate impact of the crypto-assets they list.
 

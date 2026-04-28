@@ -63,11 +63,11 @@ The directive has had limited impact on biodiversity damage. The 2021 evaluation
 
 Industry lobbying by the European Insurance and Reinsurance Federation and BusinessEurope, combined with resistance from Member States like Germany and the UK (who feared higher costs for their industrial sectors), successfully blocked mandatory financial security during the 2002-2004 negotiations. The compromise was that Member States could decide individually. Subsequent Commission proposals to mandate insurance (2013) failed due to similar opposition, and the 2021 evaluation concluded that voluntary financial security schemes remain more practical given Member State diversity.
 
-### Why did biodiversity damage cases remain rare despite the directive’s focus on it?
+### Why did biodiversity damage cases remain rare despite the Environmental Liability Directive’s focus on it?
 
 Proving causation and quantifying damage to protected species and habitats under the Habitats and Birds Directives is scientifically challenging and legally expensive. The Commission’s 2021 evaluation found that most reported damage incidents involve groundwater contamination, where measurement methods are established and liability thresholds are lower. Environmental NGOs argued that the directive’s high evidentiary standards make it practically impossible to hold operators accountable for gradual, cumulative damage to ecosystems — such as pollution affecting bird populations over decades.
 
-### Why did the directive take nearly six years from its first proposal to adoption?
+### Why did the Environmental Liability Directive take nearly six years from its first proposal to adoption?
 
 The 2000 White Paper faced strong opposition from industry and a number of Member States who feared strict liability would deter investment and increase costs. The Aznalcóllar (1998) and Baia Mare (2000) disasters provided crisis-driven momentum, but the September 11 attacks shifted EU political attention to security issues in 2001-2002. Final adoption was achieved only through a conciliation procedure in 2004, with the European Parliament and Council deadlocked over financial security until Wallström brokered a compromise in April 2004 — just weeks before the Commission’s term ended.
 

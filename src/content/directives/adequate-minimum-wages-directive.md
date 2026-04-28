@@ -53,19 +53,19 @@ The directive's indirect effects included a renewed push for the EU to legislate
 
 ## Key questions answered
 
-### Why did the EU have no minimum wage law before 2022?
+### Why did the EU have no minimum wage law before the Adequate Minimum Wages Directive?
 
 The EU's legal framework for social policy (Article 153 TFEU) explicitly excludes "pay" from EU harmonisation. Previous attempts, including a 1993 Commission recommendation on wage protection, had no binding effect. The 2008 crisis and subsequent austerity shifted public opinion, while the 2017 Social Pillar provided a political framework. The COVID-19 pandemic finally created the political momentum to act, as low-paid essential workers became visible and public support surged.
 
-### Why did Denmark and Sweden oppose it so strongly?
+### Why did Denmark and Sweden oppose the Adequate Minimum Wages Directive so strongly?
 
 Both countries have no statutory minimum wage. Instead, wages are set entirely through collective agreements between trade unions and employer organisations, covering over 80% of workers in each country. Their governments and union confederations feared the directive would inevitably lead to EU-level statutory minimums, undermining the Nordic model where wage determination is a matter for autonomous social partners. They secured opt-outs in the final text but still voted against.
 
-### Does the directive set a specific minimum wage amount for all EU countries?
+### Does the Adequate Minimum Wages Directive set a specific minimum wage amount for all EU countries?
 
 No. The directive requires Member States to use transparent criteria to set adequate minimum wages, referencing purchasing power, wage distribution, and economic growth as benchmarks. It does not set a percentage of median or average wage, though the Commission's accompanying recommendation suggested (non-binding) that 60% of the median wage is a useful adequacy indicator. The directive also does not require countries without statutory minimums to introduce them.
 
-### How is the 80% collective bargaining target enforced?
+### How is the 80% collective bargaining target enforced under the Adequate Minimum Wages Directive?
 
 The directive requires Member States to promote collective bargaining coverage and create action plans where coverage falls below 80%. This is a "promotion" obligation, not a mandatory floor. Countries like Poland and Bulgaria must develop national plans to increase coverage. Enforcement relies on the Commission monitoring through the European Semester process and potential infringement procedures, though sanctions are unlikely unless a Member State takes no action at all.
 

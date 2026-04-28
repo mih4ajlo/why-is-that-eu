@@ -53,15 +53,15 @@ Industry complained of implementation costs, particularly for smaller cities. Th
 
 ## Key questions answered
 
-### Why did the 2009 original fail to change behaviour?
+### Why did the 2009 original of the Clean Vehicles Directive fail to change behaviour?
 
 The 2009 directive was drafted too weakly: it asked contracting authorities only to "take into account" lifetime costs, without setting procurement quotas or sanctions for non-compliance. Most member states treated it as non-binding guidance, and procurement officials continued selecting the cheapest upfront purchase price — as the 2017 Commission evaluation showed, only three states actively implemented it. Industry lobbying from ACEA and German manufacturers specifically watered down the Council's version.
 
-### Why did the 2019 revision succeed where earlier efforts failed?
+### Why did the 2019 revision of the Clean Vehicles Directive succeed where earlier efforts failed?
 
 The dieselgate scandal shattered trust in diesel technology's environmental credentials, making continued opposition politically toxic. Chinese electric bus exports to Europe created competitive pressure on European manufacturers (Volvo, Scania) who then lobbied *for* binding targets to secure guaranteed demand. France, under President Macron, dropped prior opposition in exchange for a long phase-in period. The EPA studies on air quality health impacts further shifted the political calculus.
 
-### How does this interact with the Public Procurement Directive (2014/24/EU)?
+### How does the Clean Vehicles Directive interact with the Public Procurement Directive (2014/24/EU)?
 
 The Clean Vehicles Directive operates as a *lex specialis* within the broader EU public procurement framework. While Directive 2014/24/EU allows "green" criteria, the CVD mandates them for road transport vehicles specifically. Member states must include lifetime cost calculations (including energy and emissions) in tender evaluations, overriding Directive 2014/24's default "lowest price" rule. The European Court of Justice in Case C-513/99 (2003) had already established that public authorities could include environmental criteria, but the CVD made it compulsory.
 

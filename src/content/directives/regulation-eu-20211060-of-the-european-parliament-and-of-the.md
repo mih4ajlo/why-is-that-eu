@@ -49,15 +49,15 @@ The just transition mechanism, embedded within the CPR via the new Just Transiti
 
 ## Key questions answered
 
-### Why do Member States face fund freezes for rule-of-law breaches under this regulation?
+### Why do Member States face fund freezes for rule-of-law breaches under Regulation (EU) 2021/1060?
 
 The 2021-2027 CPR is the first cohesion regulation to incorporate a financial conditionality mechanism linked to the rule of law, via the separate Regulation 2020/2092. This means that if the Commission identifies systemic risks to the EU budget — for example, corruption in public procurement — it can suspend payments to the affected Member State. The mechanism was added after years of concerns raised by the European Parliament and net contributor states, following reports that cohesion funds were being misused in Hungary and Poland without consequence.
 
-### What changed compared to the 2014-2020 period?
+### What changed in Regulation (EU) 2021/1060 compared to the 2014-2020 period?
 
 The biggest change is the replacement of ex‑ante conditionality (which required Member States to have plans, but did not penalise non‑implementation) with binding "enabling conditions" that must be fulfilled continuously throughout the programming period. The rule‑book was also unified for eight funds, reducing the number of separate regulatory frameworks from four to one. Additionally, the new regulation requires that 30% of ERDF allocations go to climate‑related investments and 25% of ESF+ allocations to social inclusion, compared to the 2014-2020 period's broad targets that were often not met.
 
-### How does this affect regions in my country?
+### How does Regulation (EU) 2021/1060 affect regions in my country?
 
 If your region receives cohesion funding, you are now subject to stricter monitoring of the partnership principle — local authorities, trade unions, and NGOs must be involved in programme design, or payments can be suspended. The Just Transition Fund specifically targets coal‑dependent regions; if your region is eligible (e.g., Silesia, Asturias, or the Ruhr), you will see economic diversification programmes funded by the JTF. For regions in Member States with rule-of-law concerns, payments may be delayed or frozen until conditions are met.
 

@@ -52,15 +52,15 @@ Member States are expected to enforce the rules through their consumer protectio
 
 ## Key questions answered
 
-### Why did the EU regulate greenwashing through consumer law rather than environmental law?
+### Why did the EU regulate greenwashing through consumer law rather than environmental law in the Empowering Consumers for the Green Transition Directive?
 
 The Commission chose the Unfair Commercial Practices Directive as the legal basis because greenwashing is primarily a problem of *deception* rather than *environmental damage*. Under consumer law, regulators can act faster by seeking injunctions and fines for misleading claims under a lower evidentiary threshold than proving actual environmental harm would require under environmental law. This enabled the EU to bypass the longer and more contested co-decision process for environmental legislation and directly leverage existing national consumer enforcement authorities.
 
-### Why does the Directive ban "climate neutral" claims based on carbon offsets?
+### Why does the Empowering Consumers for the Green Transition Directive ban "climate neutral" claims based on carbon offsets?
 
 The ban is a direct response to systematic evidence that offset-based claims mislead consumers. The Commission’s 2020 study found that 73% of consumers interpreted "climate neutral" labels as meaning the product itself had a neutral footprint, not that the company had purchased offsets. The UNEP "Net-Zero Asset Owner Alliance" report (2023) showed that many offset credits did not represent real, additional, or permanent emission reductions. The Directive requires that any residual carbon impact claims must be based on actual reductions within the company's own value chain, not on offsetting.
 
-### How does this Directive differ from the separate Green Claims Directive proposed in 2023?
+### How does the Empowering Consumers for the Green Transition Directive differ from the separate Green Claims Directive proposed in 2023?
 
 This Directive sets minimum standards by banning the *most egregious* forms of greenwashing (generic claims, offset-based claims, planned obsolescence). The separate Green Claims Directive (2023/0085/COD), still under negotiation, establishes a more detailed verification framework requiring all *substantiated* environmental claims to be verified by an accredited third party before publication. The Empowering Consumers Directive is thus the simpler, faster "floor" while the Green Claims Directive will be the more stringent "ceiling."
 

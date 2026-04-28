@@ -52,15 +52,15 @@ The regulation has been criticised by the pesticide industry for being too stric
 
 ## Key questions answered
 
-### Why does the EU set MRLs on imported food?
+### Why does Regulation (EC) No 396/2005 set MRLs on imported food?
 
 To create a level playing field and protect EU consumers. If imports could use pesticides banned in the EU, EU farmers would be at a competitive disadvantage and EU consumers could be exposed to higher risks. The regulation requires all food sold in the EU, regardless of origin, to meet the same MRLs, avoiding a race to the bottom. The 2021 EU Court of Justice ruling (Case C-160/20) confirmed this principle applies even to organic imports.
 
-### Why doesn't the EU ban pesticides outright rather than set MRLs?
+### Why doesn't Regulation (EC) No 396/2005 ban pesticides outright rather than set MRLs?
 
 MRLs are not direct bans on pesticide use. They set limits on residues that can legally remain in food, but the safety assessment occurs under the separate Plant Protection Products Regulation (1107/2009), which decides whether a pesticide can be used at all. MRLs are a food safety tool, while the product authorisation process controls market availability. This two-tier system ensures that even if a pesticide is authorised, its residues are kept as low as practical through good agricultural practice.
 
-### Why were national MRLs allowed to diverge before 2005?
+### Why were national MRLs allowed to diverge before Regulation (EC) No 396/2005?
 
 Before 2005, EU law (Directive 91/414/EEC) allowed member states to set their own MRLs, provided they respected certain minimum standards. This produced a system where the same pesticide-crop combination could have ten different MRLs across the EU. The lack of harmonisation created trade barriers. The regulation replaced this with a centralised system managed by EFSA, which proposes MRLs based on a single EU-wide assessment.
 

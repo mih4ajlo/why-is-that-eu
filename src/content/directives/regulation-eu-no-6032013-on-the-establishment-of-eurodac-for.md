@@ -50,19 +50,19 @@ Industry impact was indirect but substantial — the system drove a €200 milli
 
 ## Key questions answered
 
-### Why do asylum seekers' fingerprints go into a pan-European database?
+### Why do asylum seekers' fingerprints go into a pan-European database under the Eurodac Regulation?
 
 Because the Dublin Regulation requires determining which Member State is responsible for an application, and authorities cannot trace previous claims without a shared verification system. Eurodac is the technical enforcer of Dublin.
 
-### Why was law enforcement access added in 2013?
+### Why was law enforcement access added in the 2013 Eurodac Regulation?
 
 The 2012 Commission evaluation showed that terrorism suspects were applying for asylum to avoid surveillance; Commissioner Malmström argued police needed access to prevent "asylum shopping" by individuals posing security threats. The Parliament agreed only after limiting access to serious crimes and requiring judicial approval.
 
-### Why doesn't the system stop secondary movements within the EU?
+### Why doesn't the Eurodac Regulation stop secondary movements within the EU?
 
 Because fingerprint enrollment at borders is inconsistent — the Commission found in 2017 that only 60% of irregular arrivals were fingerprinted, rendering the database only partially useful. Without universal enrollment, Eurodac cannot identify all secondary movers.
 
-### Why is the age threshold for fingerprinting 14?
+### Why is the age threshold for fingerprinting 14 in the Eurodac Regulation?
 
 The age of 14 was chosen in 2000 to balance child protection against operational needs — the original regulation cited Council of Europe guidelines on juvenile justice. Critics argue this leaves many minors unenrolled; the 2020 reform proposal seeks to lower it to 6.
 

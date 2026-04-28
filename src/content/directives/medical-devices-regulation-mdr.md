@@ -69,7 +69,7 @@ A regulation is directly binding in all member states without national transposi
 
 The MDR demanded far more clinical evidence — for many devices, full clinical trials where the MDD had allowed literature reviews or small studies. Notified bodies, the private organisations that certify devices, were also required to meet stricter standards (more expert staff, unannounced inspections, liability insurance). Many existing notified bodies simply applied for designation under the MDR and failed to qualify; the Commission's 2022 report showed only 22 had been designated by 2024. This created a capacity crisis where manufacturers waited 12-18 months for certifications, forcing them to withdraw products that could not afford the wait or the cost.
 
-### Why did the PIP scandal not lead to reform sooner?
+### Why did the PIP scandal not lead to reform of the Medical Devices Regulation (MDR) sooner?
 
 The PIP scandal broke in 2010, but the legislative process took seven years because of intense industry lobbying and technical complexity. The European Parliament wanted a "strict liability" regime for notified bodies, while the Council (member states) and the Commission initially favoured a lighter touch. The metal-on-metal hip scandal of 2012-2013, which killed the "self-certification" model for hip implants, provided the political momentum to overcome industry objections. A key turning point was the 2013 loss-of-innocence report by the UK's Standard Procedure Committee, which found that DePuy's hip system had been certified with "inadequate clinical evidence" under the MDD.
 

@@ -53,11 +53,11 @@ Environmental gains were also modest. The Commission calculated that ATM ineffic
 
 The core reason is that member states refused to cede sovereignty over their airspace. National ANSPs, often state-owned or protected by law, resisted mergers and cross-border integration. Military airspace reservations remained national prerogatives. The Commission had no power to enforce FAB creation; it could only cajole. The 2004 regulation was a political compromise that preserved the very fragmentation it sought to eliminate.
 
-### Why were air traffic controllers opposed?
+### Why were air traffic controllers opposed to the Single European Sky Regulation?
 
 Controllers feared job losses and relocation. A single European airspace would have allowed cross-border air traffic control centres, meaning a controller in Maastricht could handle flights over Portugal. National unions — particularly in France (SNCTA) and Germany (GdF) — argued that national safety cultures and labour laws would be undermined. The 2009 SES II included a "social guarantee" protecting existing controllers' employment conditions, but unions remained sceptical.
 
-### What will it take to make the SES work?
+### What will it take to make the Single European Sky Regulation work?
 
 The Commission's 2021 SES 2+ revised proposal attempted to break the deadlock by making performance targets binding and allowing the Commission to impose financial corrections on inefficient ANSPs. It also mandated the creation of a European ATM regulator. As of 2024, this proposal is still stuck in the Council, blocked by a minority of member states led by France, which controls Europe's largest ANSP (DSNA) and opposes binding targets.
 

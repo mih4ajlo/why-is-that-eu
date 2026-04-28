@@ -109,13 +109,21 @@ related: [<directive refs of closely linked legislation, e.g. "2016/679/EU", or 
 
 ## Key questions answered
 
-[2-4 specific "why" questions people commonly ask, answered concisely in 2-4 sentences each]
+[2-4 questions people commonly ask, answered concisely in 2-4 sentences each.
 
-### Why [specific question]?
+CRITICAL: Every question must be self-contained — it must name this specific regulation/directive by its common name or acronym so the question makes sense on its own, without reading the article title. Never write "the directive", "the regulation", or "this law" — always use the actual name. Examples of the required pattern:
+  ✓ "Why did the GDPR introduce the right to erasure?"
+  ✓ "Does the Adequate Minimum Wages Directive set a specific wage floor?"
+  ✓ "What changed in the 2024 revision of the Air Quality Directive?"
+  ✗ "Why did the directive introduce this right?" (too generic)
+  ✗ "What changed with the 2024 revision?" (no context)
+]
+
+### [Self-contained question naming this regulation]?
 
 [Answer]
 
-### Why [specific question]?
+### [Self-contained question naming this regulation]?
 
 [Answer]
 

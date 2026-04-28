@@ -53,15 +53,15 @@ Investment in high-speed networks improved marginally. The Commission’s 2022 D
 
 Earlier attempts under the Barroso Commission failed because of national vetoes on spectrum policy and regulatory flexibility. The Juncker Commission’s Digital Single Market strategy (2015) provided a political umbrella, but final approval in 2018 required painful compromises: net neutrality safeguards (from the 2015 regulation) were mostly preserved, while operators got lighter market-analysis rules for fibre investments.
 
-### Why are OTT services included?
+### Why are OTT services included in the EECC?
 
 The Commission argued that caller-ID and emergency-call rules should apply consistently to voice services, regardless of delivery technology. Operators (Deutsche Telekom, Orange) lobbied hard for this, claiming OTT competitors had an unfair advantage if they avoided regulatory costs. The final rules require OTTs to support emergency-call access and security standards, but exempt two-way messaging services.
 
-### What happened to net neutrality?
+### What happened to net neutrality under the EECC?
 
 The EECC mostly codified the 2015 Open Internet Regulation (2015/2120/EU) — net neutrality rules that banned blocking, throttling, and paid prioritisation of traffic. It introduced a new provision allowing "specialised services" (like 5G network slicing for autonomous cars) if they do not degrade general internet quality. Critics feared this would create a two-tier internet, but by 2023, no major violations had been reported under this provision.
 
-### Why were some countries so late transposing it?
+### Why were some countries so late transposing the EECC?
 
 National regulators often lacked political support from their governments — or faced legal hurdles. For example, Germany delayed transposition until June 2021 because of a dispute with the Bundesnetzagentur over spectrum fees; Belgium missed the deadline because of the federal-state division of telecoms competences. The Commission opened infringement cases against 24 member states by mid-2021, with several (including Belgium and Greece) still in the pipeline by 2023.
 

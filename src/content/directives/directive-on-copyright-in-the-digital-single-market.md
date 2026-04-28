@@ -55,15 +55,15 @@ For creators and users, the directive remains deeply contested. Most user-genera
 
 ## Key questions answered
 
-### Why does Article 17 (upload filters) exist if everyone predicted it would censor speech?
+### Why does Article 17 (upload filters) of the Directive on Copyright in the Digital Single Market exist if everyone predicted it would censor speech?
 
 The Commission and Parliament deliberately chose platform liability over a "notice-and-takedown" system because a decade of voluntary measures had failed. Between 2007 and 2016, YouTube's Content ID system—a private, automated filter—removed hundreds of millions of unlicensed videos, but rights holders, particularly music labels, claimed they still lost billions because the system was easy to circumvent (e.g., uploading 30-second clips). The legislature accepted that only mandatory filtering could close the "value gap," and added safeguards—proportionality, best efforts, complaint mechanisms—which the CJEU later ruled must be robustly enforced. Critics argue that the CJEU's 2022 judgment effectively rewrote Article 17, forcing platforms to avoid "general monitoring obligations" while still requiring them to block infringing content—a tension that remains unresolved.
 
-### Why did news publishers need a new right when they already had copyright?
+### Why did news publishers need a new right under the Directive on Copyright in the Digital Single Market when they already had copyright?
 
 Traditional copyright only protects original expression, not the factual information in a news article. Google News and similar aggregators displayed snippets (headlines plus 2-3 sentences) that publishers argued extracted value without paying for the journalism. The German "Leistungsschutzrecht" (2013) showed that national rights were useless because Google simply delisted non-compliant publishers, costing them traffic. The EU solution—Article 15—was designed to make licenses mandatory and binding across all member states, forcing platforms to negotiate collectively. Critics note that the right expired after 2 years (except for legal entities) and that small publishers lack bargaining power. The result has been big licensing deals for major groups (Axel Springer, Le Monde) and little benefit for local newspapers.
 
-### Why did the Netherlands, Poland, and Sweden vote against it in the Council?
+### Why did the Netherlands, Poland, and Sweden vote against the Directive on Copyright in the Digital Single Market in the Council?
 
 These countries argued that Article 17 would break the E-Commerce Directive's prohibition on general monitoring obligations and undermine freedom of expression. The Netherlands, with its strong digital rights tradition, was particularly vocal; Dutch MEP Marietje Schaake led opposition. Poland filed a formal challenge at the CJEU, arguing Article 17 forced platforms to pre-filter all uploads, which violated Article 11 of the EU Charter of Fundamental Rights (freedom of expression). Sweden's government, home to file-sharing site The Pirate Bay, feared a backlash from its tech-savvy population. These six countries collectively held about 25% of the Council's weighted votes—not enough to block the directive (which needed a qualified majority) but enough to signal serious opposition that later shaped the CJEU's interpretation.
 

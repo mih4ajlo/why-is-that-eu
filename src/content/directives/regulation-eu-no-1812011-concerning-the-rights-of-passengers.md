@@ -47,19 +47,19 @@ Enforcement has been inconsistent. In 2017, the European Commission opened infri
 
 ## Key questions answered
 
-### Why does the regulation exclude services under 250 km?
+### Why does Regulation (EU) No 181/2011 exclude services under 250 km?
 
 The 250 km threshold was a political compromise that allowed Member States with extensive domestic networks (Germany, Spain, Poland) to exempt the vast majority of their bus services, which are regional and short-haul. The European Parliament initially proposed covering all regular services regardless of distance, but Council negotiators successfully argued that rural and small-operator routes could not absorb the administrative costs of maintaining compensation claims systems. The Commission's 2020 revision package proposes removing this exemption entirely, but as of 2024, the proposal remains stalled in Council.
 
-### Why are occasional/charter services largely excluded?
+### Why are occasional/charter services largely excluded from Regulation (EU) No 181/2011?
 
 Occasional services (e.g., ski holiday charters, organized tours) were exempted after lobbying from the European Tour Operators Association and groups like Thomas Cook and TUI, who argued that pre-planned package holidays already have their own consumer protections under the Package Travel Directive (90/314/EEC, later 2015/2302/EU). The exemption was meant to avoid double-regulation, but it has left a gap: passengers on a one-off charter to a festival have no right to compensation for delays, even though the same delay on a scheduled service would trigger payment. Consumer rights groups like BEUC have called for this exception to be removed.
 
-### Why is PRM assistance only guaranteed at terminals with over 50 passengers per day?
+### Why is PRM assistance only guaranteed at terminals with over 50 passengers per day under Regulation (EU) No 181/2011?
 
 This threshold was a cost-saving measure, inserted at the request of the European Coach Federation, to avoid obligating small, rural bus stops—often no more than a signpost—to install ramps, tactile paving, or induction loops. The Commission's 2018 evaluation found that the threshold effectively excludes 60-70% of EU bus stops, particularly in Southern and Eastern Europe, from PRM obligations. The European Disability Forum has criticized this as "discrimination by design," arguing that passengers in rural areas are denied the same rights as those in cities.
 
-### How is the regulation enforced if a passenger is delayed?
+### How is Regulation (EU) No 181/2011 enforced if a passenger is delayed?
 
 The passenger must first file a claim with the coach operator, typically using a standard claim form required to be available at the terminal and on the company website. If the operator rejects or ignores the claim, the passenger can escalate to the National Enforcement Body (NEB) designated by their Member State. The Commission maintains a database of NEBs, but as of 2024, only 18 Member States had functioning NEBs with dedicated bus passenger rights procedures, according to the Commission's 2023 Passenger Rights Report. In practice, many passengers simply do not bother—the 2018 Commission evaluation found that fewer than 2% of eligible passengers actually claimed compensation.
 

@@ -58,15 +58,15 @@ However, industry resistance has not disappeared. The Commission's 2022 enforcem
 
 ## Key questions answered
 
-### Why didn't the EU just cap cross-border parcel prices?
+### Why didn't the EU just cap cross-border parcel prices under the Cross-Border Parcel Delivery Services Regulation?
 
 The Commission explicitly considered price caps in its 2015 impact assessment, but rejected them for three reasons: they would require the EU to set rates in 24 official languages across 300+ intra-EU routes; they risked perverse outcomes (operators could raise domestic prices to compensate); and they would likely be overturned by the European Court of Justice as disproportionate. Instead, the Commission chose "transparency as a regulatory tool" — the theory being that if operators had to publish their tariffs, the market would police itself through consumer choice and competition. This approach had worked for airline fares under the 2008 Air Services Regulation, and the Commission hoped to replicate it for parcels.
 
-### Why did the regulation focus on public tariffs rather than business tariffs?
+### Why did the Cross-Border Parcel Delivery Services Regulation focus on public tariffs rather than business tariffs?
 
 The regulation explicitly requires operators to publish only their "public tariffs" — the rates offered to occasional users (consumers and small businesses) — because that is where the largest disparities existed. The Commission's 2015 data showed that large e-commerce companies like Amazon and Zalando negotiated confidential discounts of up to 70% off public cross-border tariffs, meaning the hidden tariffs were actually competitive. The real problem was that SMEs and consumers, who lacked negotiating power, paid the full public rate. The regulation's trade-off was clear: public tariffs would be transparent, while business tariffs remained confidential to protect operators' commercial interests — a compromise that critics on the left, including MEP Lucy Anderson, argued "protects the very opacity that created the problem in the first place."
 
-### Why did the regulation take so long to adopt?
+### Why did the Cross-Border Parcel Delivery Services Regulation take so long to adopt?
 
 The regulation spent over two years in the legislative process (proposed May 2016, adopted May 2018) — relatively fast for EU legislation, but slow for a Digital Single Market priority. The delay was caused by a standoff over the "reference tariff" provision. The Council of the EU, dominated by member states with large postal incumbents (France, Germany, the Netherlands), opposed requiring operators to submit confidential reference tariffs to regulators, arguing it would "chill commercial negotiations." The European Parliament insisted on the provision, led by MEP Anderson. The final compromise, brokered in December 2017 by the Maltese Presidency, allowed reference tariffs to be submitted only where a regulator had "reasonable grounds" to suspect an abuse — effectively a procedural hurdle that weakened the provision. Anderson called the compromise "a missed opportunity," but the Commission's 2022 review reported that regulators had used this power in 11 cases so far, suggesting the provision was not entirely neutered.
 

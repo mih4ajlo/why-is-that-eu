@@ -52,15 +52,15 @@ The directive also had an unintended consequence: it created a "Brussels effect"
 
 ## Key questions answered
 
-### Why does the directive not cover price terms?
+### Why does the Unfair Contract Terms Directive not cover price terms?
 
 The directive explicitly excludes terms related to "the adequacy of the price and remuneration" so long as they are in plain language. This was a deliberate compromise: the Commission argued that price is the core of market negotiation, not a term imposed by one party, and that regulating price fairness would overstep into Member State sovereignty. The insurance industry successfully lobbied for this exclusion during the 1991 Council negotiations, arguing that price terms are "the essence of competition." The trade-off is that consumers must still rely on other laws (e.g., price transparency rules) to challenge excessive prices.
 
-### Why did Germany oppose the directive?
+### Why did Germany oppose the Unfair Contract Terms Directive?
 
 Germany had the strongest domestic unfair contract terms law in the EU (the AGB-Gesetz of 1977) and was concerned that harmonization would lower its standard. The German government argued in Council negotiations in January 1993 that the directive's "grey list" of potentially unfair terms was too short and its definition of "good faith" too vague, potentially allowing companies from other member states to use terms that would be illegal in Germany. The opposition was overcome only after the Commission promised that the directive set a minimum harmonization level—meaning Germany could retain its stronger protections—and after the German consumers' association (Verbraucherzentrale Bundesverband) publicly supported the directive in a 1993 position paper.
 
-### Why was the *Océano Grupo* judgment so important?
+### Why was the *Océano Grupo* judgment so important for the Unfair Contract Terms Directive?
 
 The 2000 *Océano Grupo* ruling (Case C-240/98) established that national courts must investigate the fairness of contract terms *ex officio* (on their own motion), even if the consumer does not raise the issue. This was a dramatic shift from the typical adversarial model where courts only respond to arguments made by parties. The case involved Spanish consumers who had signed contracts for door-to-door sales of encyclopedias—the contract gave the seller the right to sue in its home city, effectively making it impossible for consumers to defend themselves. The ECJ ruled that such structural imbalances required proactive judicial protection, effectively creating a consumer protection "safety net" that the directive itself had not explicitly required.
 

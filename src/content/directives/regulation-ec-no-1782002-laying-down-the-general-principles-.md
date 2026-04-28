@@ -58,15 +58,15 @@ The most controversial long-term impact has been the regulation's effect on smal
 
 ## Key questions answered
 
-### Why did the EU create a separate food safety authority rather than relying on national agencies?
+### Why did the EU create a separate food safety authority rather than relying on national agencies under Regulation (EC) No 178/2002?
 
 The BSE crisis revealed that national authorities had conflicting incentives. The UK Ministry of Agriculture, Fisheries and Food was simultaneously responsible for promoting British beef exports and ensuring food safety — a conflict of interest that the UK's 1997 Phillips Inquiry found "impaired the public health response." The Commission, backed by the European Parliament, insisted that EFSA must be structurally independent from both national governments and the Commission's own policy directorates. This separation of risk assessment (EFSA) from risk management (Commission) was designed to prevent the scientific advice from being politically filtered, a lesson drawn from the UK's experience.
 
-### Why does the regulation define "food" so broadly, including feed?
+### Why does Regulation (EC) No 178/2002 define "food" so broadly, including feed?
 
 The dioxin crisis showed that environmental contaminants could enter the human food chain through animal feed. The Belgian dioxin case involved animal fat contaminated with PCBs from industrial waste being mixed into feed; the 2001 Spanish sunflower oil scandal involved oil intended for industrial use being diverted for feed. By defining feed as "food" for regulatory purposes and extending traceability requirements to feed operators, the General Food Law closed this obvious pathway for contamination. The European Parliament's rapporteur, MEP Paul Lannoye, explicitly cited these as the reason for the broad definition.
 
-### Why is the precautionary principle so controversial in international trade?
+### Why is the precautionary principle so controversial in international trade under Regulation (EC) No 178/2002?
 
 The precautionary principle (Article 7) allows the EU to take protective measures when scientific evidence is inconclusive but the potential risks are serious. The US and other trading partners argue this is a disguised protectionist tool. In the 1998 WTO "Beef Hormones" case, the EU's ban on growth hormones was ruled inconsistent with WTO obligations specifically because the EU could not demonstrate a scientific risk assessment — a requirement the General Food Law was designed to address. Subsequent disputes over GM crops (2003–2006) and poultry chlorine washes (2008–2017) have kept this tension alive. The regulation effectively codified the EU's position that precaution can justify trade restrictions, a position the Commission formally defended in its 2000 Communication on the precautionary principle.
 

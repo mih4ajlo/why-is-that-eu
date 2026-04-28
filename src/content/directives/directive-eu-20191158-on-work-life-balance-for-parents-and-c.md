@@ -53,15 +53,15 @@ The COVID-19 pandemic distorted the directive's early impact. In 2020, Eurofound
 
 ## Key questions answered
 
-### Why did the EU act on work-life balance rather than leave it to member states?
+### Why did the EU act on work-life balance rather than leave it to member states under Directive (EU) 2019/1158?
 
 Because the 2008-2015 deadlock on maternity leave proved that member states would not voluntarily harmonise leave policies. The Commission saw the issue as structural: without EU action to make paternity leave paid and non-transferable, the gender employment gap would persist. The 2017 European Pillar of Social Rights gave the Commission the political mandate to act, framing it as a competitiveness issue rather than just a social one.
 
-### Why is paternity leave paid in the directive but parental leave payment is vague?
+### Why is paternity leave paid in Directive (EU) 2019/1158 but parental leave payment is vague?
 
 The compromise between member states in the Council negotiations split the difference. Paternity leave had to be paid because Commission data showed that only paid leave achieves significant male take-up (Eurofound 2018 report found take-up rates of 2-5% for unpaid paternity leave vs 44-80% for paid in countries like Sweden). Parental leave payment levels were left to member states because richer countries like Sweden (with full pay for 480 days) and poorer countries like Bulgaria (with minimal pay) could not agree on a common floor.
 
-### How did this directive affect the employment of women?
+### How did Directive (EU) 2019/1158 affect the employment of women?
 
 By making fathers' leave paid and non-transferable, the directive aimed to reduce employers' hidden preference for hiring men over women (the "motherhood penalty"). A 2022 study by the European Institute for Gender Equality (EIGE) projected that closing the gender employment gap by 50% through such policies could boost EU GDP by up to 3.5% annually by 2050. Early evidence from Spain (which introduced 16 weeks paid paternity leave in 2021 under the directive) showed that the gender employment gap for parents with children under 6 shrank from 18.3% in 2019 to 14.1% in 2022, according to the Spanish Ministry of Labour.
 

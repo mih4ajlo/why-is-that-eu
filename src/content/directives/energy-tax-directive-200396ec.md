@@ -53,15 +53,15 @@ The most significant consequence was the lock-in of unequal treatment between tr
 
 ## Key questions answered
 
-### Why did the directive not prevent the dieselization of Europe's car fleet?
+### Why did the Energy Tax Directive (2003/96/EC) not prevent the dieselization of Europe's car fleet?
 
 The directive allowed member states to set lower excise duties on diesel than on petrol, as long as both met the minimum rates. Most countries (especially France, Belgium, and Austria) did so to support their transport industries, creating price signals that made diesel cars more economical for consumers. Combined with the EU's perverse historic subsidy for diesel via lower fuel taxes, the fleet shifted toward diesel between 2000 and 2015—a direct contradiction of the directive's stated environmental goals.
 
-### Why was the original 1992 proposal for a carbon/energy tax abandoned?
+### Why was the original 1992 proposal for a carbon/energy tax abandoned before the Energy Tax Directive (2003/96/EC)?
 
 It required unanimous approval in the Council, and a blocking minority formed from southern members (Spain, Greece, Portugal) who feared harm to their agricultural sectors, and the UK, which insisted the tax be national rather than EU-level. The failure shocked environmentalists but reflected the structural opposition from industry (particularly the Confederation of European Industry, BusinessEurope) and the UK government's pre-Maastricht skepticism.
 
-### Why is the directive widely considered a "failed" piece of legislation?
+### Why is the Energy Tax Directive (2003/96/EC) widely considered a "failed" piece of legislation?
 
 The directive set minimum rates so low that they had limited impact on price signals, allowed sweeping national exemptions for agriculture, commercial transport, and energy-intensive industry, and left member states free to tax diesel lower than petrol. The European Commission's 2019 evaluation report explicitly concluded that "the current minimum rates do not reflect the environmental performance of energy products and electricity" and that the directive had not achieved the environmental integration it was designed for.
 

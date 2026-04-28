@@ -59,19 +59,19 @@ The first enforcement test will come in 2027, when the Commission must report on
 
 ## Key questions answered
 
-### Why does the Act set a 65% single-country cap for processing?
+### Why does the Critical Raw Materials Act set a 65% single-country cap for processing?
 
 The cap targets China's dominance in refining. China controls approximately 90% of rare earth processing, 60% of lithium refining, and 70% of cobalt refining. The 65% threshold was specifically chosen because no EU member state could realistically replace Chinese capacity alone, but the cap forces supply diversification to at least three sources. Without it, the Commission's 2023 impact assessment warned that by 2030, 80% of EU strategic raw material processing would remain in a single country.
 
-### Why did the Act include recycling targets, not just extraction?
+### Why did the Critical Raw Materials Act include recycling targets, not just extraction?
 
 Historically, EU recycling rates for critical raw materials were negligible — under 1% for rare earths and under 5% for lithium. The 25% recycling target for 2030 was the most contentious figure in negotiations, with mining companies arguing it was unachievable and environmental groups pushing for 40%. The final compromise reflects the reality that urban mining (from e-waste and battery scrap) is slower to scale than virgin extraction, but it also sends a signal to the circular economy industry that public procurement and state aid will prioritize recycled content.
 
-### Why did the Act pass when earlier raw materials strategies failed?
+### Why did the Critical Raw Materials Act pass when earlier raw materials strategies failed?
 
 Earlier EU raw materials initiatives — the 2008 Raw Materials Initiative and the 2020 European Raw Materials Alliance — were non-binding and under-resourced. The CRMA became binding because three factors converged in 2023: first, China's gallium/germanium controls provided a concrete, undeniable crisis. Second, the Inflation Reduction Act in the US created competitive pressure — European battery manufacturers threatened to relocate. Third, the Versailles Declaration in March 2022 had already committed EU leaders to "reduce strategic dependencies," so the CRMA fulfilled a political promise. The critical mass came when Germany shifted position after Chinese export controls, breaking the previous deadlock where Berlin had favored voluntary measures.
 
-### Why are environmental groups challenging a law aimed at the green transition?
+### Why are environmental groups challenging the Critical Raw Materials Act aimed at the green transition?
 
 The tension is between speed and ecological protection. The CRMA's fast-tracked permitting can override standard environmental impact assessments for "Strategic Projects" — the Commission's 2023 impact assessment acknowledged this could increase local habitat destruction. Environmental groups argue that mining for lithium and rare earths in Natura 2000 areas, which cover 18% of known EU mineral deposits, risks destroying the very ecosystems the green transition is supposed to protect. The European Environmental Bureau's 2024 legal analysis specifically targets the Regulation's Article 10, which allows Strategic Projects to bypass certain Habitats Directive procedures.
 

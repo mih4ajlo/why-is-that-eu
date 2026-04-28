@@ -53,19 +53,19 @@ Industries have been directly affected. The shipping sector has faced stricter r
 
 ## Key questions answered
 
-### Why does the directive use "Good Environmental Status" rather than a single EU-wide definition?
+### Why does the Marine Strategy Framework Directive use "Good Environmental Status" rather than a single EU-wide definition?
 
 The directive deliberately leaves the precise definition of GES to each member state, based on their national and regional conditions. This was a political compromise: southern and northern seas differ enormously (the Mediterranean is semi-enclosed, warm, and highly biodiverse; the Baltic is brackish and shallow). A one-size-fits-all target would have been scientifically invalid and politically unacceptable. But it also created a weakness — differing levels of ambition. By 2022, 19 member states had defined thresholds for contaminants, but only 12 had set them for marine litter, reflecting the lack of a binding EU standard.
 
-### Why did the 2020 GES deadline fail?
+### Why did the 2020 GES deadline of the Marine Strategy Framework Directive fail?
 
 The primary reason is that the directive operates as a framework — it requires member states to take measures, but it does not set specific legally binding targets or timetables for reducing specific pressures like fertiliser run-off, plastic waste, or fishing intensity. The Commission has no direct enforcement power over fisheries (handled under the Common Fisheries Policy) or water quality (handled under the Water Framework Directive). As the Commission's 2022 fitness check admitted, the directive's "ecosystem approach" requires integration across policies, but "in practice, integration has been insufficient." Furthermore, member states systematically underfunded marine protection: the Commission estimated in 2020 that member states spent only about €2 billion annually on marine measures, far below the €15-20 billion needed to achieve GES.
 
-### Is the directive linked to Brexit and the UK?
+### Is the Marine Strategy Framework Directive linked to Brexit and the UK?
 
 Yes, directly. The UK was one of the most influential member states during the directive's creation. After Brexit, the UK adopted its own Marine Strategy Regulations (2010, as amended), which mirrors the MSFD but removes EU enforcement mechanisms. The 2021 EU-UK Trade and Cooperation Agreement includes a non-regression clause on environmental standards but does not oblige the UK to maintain specific marine targets. Coordination in the North Sea, where the UK shares waters with the Netherlands, Germany, Denmark, and France, now relies on voluntary memoranda of understanding rather than EU law. France has complained that UK post-Brexit fishing licensing policies undermine MSFD efforts to reduce fishing pressure on cod stocks in the English Channel.
 
-### What happens to the directive under the European Green Deal?
+### What happens to the Marine Strategy Framework Directive under the European Green Deal?
 
 The 2021 EU Biodiversity Strategy for 2030, part of the European Green Deal, commits the EU to legally protect 30% of marine areas by 2030 (currently around 12%) and to restore 25% of marine habitats. The Commission has indicated it will strengthen the MSFD through a revision expected in 2024, likely introducing binding thresholds for key pollutants and litter, and linking GES more directly to the Nature Restoration Law (proposed in 2022). Environment Commissioner Virginijus Sinkevičius, a Lithuanian who took office in 2019, has made the health of the Baltic Sea — affected by eutrophication from Lithuanian agriculture — a personal priority.
 

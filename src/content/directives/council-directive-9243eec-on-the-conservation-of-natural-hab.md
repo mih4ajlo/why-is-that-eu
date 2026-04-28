@@ -58,7 +58,7 @@ Countries that struggled most are those with large agricultural sectors or touri
 
 The 2014-2016 "Fitness Check" — a comprehensive evaluation requested by Commission President Jean-Claude Juncker amid pressure from agriculture and development lobbies — found that the directive's objectives remained valid. Environmental NGOs (WWF, BirdLife, Friends of the Earth) mounted a massive campaign, collecting over 520,000 public responses to the consultation, of which 96% supported retaining the directives. The European Parliament's Environment Committee vote in 2016 against reopening the legislation effectively killed the revision attempt. The scientific evidence — the EEA's 2015 State of Nature report showing continued biodiversity decline — argued against weakening protections.
 
-### Why is the "appropriate assessment" requirement so controversial?
+### Why is the "appropriate assessment" requirement under the Habitats Directive so controversial?
 
 Article 6(3) requires any plan or project likely to have a "significant effect" on a Natura 2000 site to undergo assessment before approval. Developers and national governments argue this creates costly delays and blocks essential infrastructure. The 2007 *Waddenzee* ruling expanded its scope to cover cumulative impacts of multiple projects. The Commission estimated in 2016 that assessments take 6-18 months on average, and 67% of projects assessed received approval with conditions, 22% required significant modifications, and 11% were rejected outright — figures from the Commission's 2016 evaluation.
 

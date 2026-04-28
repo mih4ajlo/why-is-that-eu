@@ -55,19 +55,19 @@ The directive also created an unanticipated tension with the caselaw of the Cour
 
 ## Key questions answered
 
-### Why does the directive only guarantee 14 weeks when most EU countries offer more?
+### Why does the Pregnant Workers Directive (92/85/EEC) only guarantee 14 weeks when most EU countries offer more?
 
 The 14-week minimum was a political compromise from the 1990 proposal for 16 weeks, reduced during Council negotiations to lower costs for employers and win over reluctant Member States. The directive was intended as a floor, not a ceiling, and the vast majority of Member States have since legislated more generous entitlements: by 2023, no Member State offered only 14 weeks, and many offered 20 weeks or more. The Commission's 2008 attempt to raise the minimum to 20 weeks failed because Member States with already generous schemes feared the cost of harmonising upward, and several eastern European governments argued the proposal was too expensive during the post-2008 financial crisis.
 
-### Is the directive about health and safety or gender equality?
+### Is the Pregnant Workers Directive (92/85/EEC) about health and safety or gender equality?
 
 Technically, it falls under EU health and safety law, not gender equality law — it was adopted under Article 118a of the Treaty of Rome (health and safety at work) rather than the equal treatment provisions. This legal base was chosen strategically: health and safety measures required only qualified majority voting, while equality measures at the time required unanimity. Functionally, however, the directive serves both purposes. It protects the physical health of pregnant and breastfeeding workers from workplace hazards while also preventing discrimination — pregnancy-based dismissal is banned, and leave is explicitly tied to employment protection. The Court of Justice has consistently held that the directive must be interpreted in light of fundamental equality principles.
 
-### Did the UK have to implement it despite its Maastricht opt-out?
+### Did the UK have to implement the Pregnant Workers Directive (92/85/EEC) despite its Maastricht opt-out?
 
 Yes. The UK's opt-out from the Maastricht Social Chapter in 1991 covered only measures adopted under the Social Policy Protocol — not those adopted under the health and safety legal base. Since the directive used Article 118a (health and safety), it applied to the UK despite the opt-out. The UK government under John Major voted against the directive but was outvoted in the Council. This set a pattern: the UK would later challenge several social policy directives it had opted out of by arguing they should have been adopted under health and safety, a tactic the Court of Justice rejected in several cases.
 
-### What happens if a Member State does not pay maternity leave at full salary?
+### What happens if a Member State does not pay maternity leave at full salary under the Pregnant Workers Directive (92/85/EEC)?
 
 The directive only requires that maternity leave pay be "adequate" — defined as being at least equivalent to the level of statutory sick pay. This has allowed significant variation. Some Member States (e.g. the Netherlands, Luxembourg) pay 100% of salary for extended periods, while others (e.g. Ireland, Greece) have historically paid only a flat-rate benefit significantly below minimum wage. The Court of Justice has held that pay must be "sufficient to ensure the worker's health and safety," but has declined to set a specific percentage. A 2016 Commission report found that workers in five Member States received less than 50% of their previous salary during maternity leave.
 

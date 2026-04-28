@@ -53,19 +53,19 @@ Industry response varied. Major tour operators invested in compliance systems, w
 
 ## Key questions answered
 
-### Why does the directive cover "linked travel arrangements" and not just packages?
+### Why does the Package Travel Directive cover "linked travel arrangements" and not just packages?
 
 The Commission introduced linked travel arrangements in 2015 precisely to close the regulatory gap without imposing the full burden of package organiser liability on platforms and airlines. A linked travel arrangement occurs when a consumer books separate travel services through related online clicks (e.g., booking a flight and then being offered a hotel on the same site), but the trader does not "package" them. This lighter-touch category still requires insolvency protection but does not make the platform liable for the performance of the services. The compromise was driven by industry lobbying from comparison websites and low-cost airlines.
 
-### When does a consumer have the right to cancel a package holiday without penalty?
+### When does a consumer have the right to cancel a package holiday without penalty under the Package Travel Directive?
 
 Under Article 12, the consumer may cancel the package at any time before the start of the travel, but will pay an appropriate cancellation fee. The fee must not exceed the actual savings made by the organiser from re-selling the package. However, if there are "unavoidable and extraordinary circumstances" at the destination (e.g., a pandemic, natural disaster, or serious security issues), the consumer can cancel without paying any cancellation fee and receive a full refund. This provision was heavily tested during the COVID-19 pandemic, when travel organisers initially issued vouchers instead of cash refunds, leading the Commission to clarify that full cash refunds must be given within 14 days.
 
-### Does the directive apply to business travel?
+### Does the Package Travel Directive apply to business travel?
 
 Generally, no. The directive applies to packages sold to "travellers" — defined in Article 3(6) as any person who seeks to conclude a package. This includes natural persons acting outside their trade, business, craft, or profession. However, member states may choose to extend the protections to business travellers if they wish. The Commission's 2022 evaluation found that some countries (e.g., France, Germany) had extended protections to small businesses, while most had not.
 
-### How does the directive interact with EU air passenger rights (Regulation 261/2004)?
+### How does the Package Travel Directive interact with EU air passenger rights (Regulation 261/2004)?
 
 When a package includes a flight, both the Package Travel Directive and the air passenger rights regulation apply, but they cover different aspects. Air passenger rights (Regulation 261/2004) give the passenger rights against the airline for denied boarding, cancellation, or long delays (including fixed compensation amounts). The Package Travel Directive gives the consumer rights against the organiser for the entire package, including repatriation and refunds during insolvency. In practice, a consumer whose flight is cancelled can claim from both the airline (under Regulation 261) and the package organiser (under the directive), but cannot be compensated twice for the same loss.
 

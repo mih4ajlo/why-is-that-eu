@@ -52,19 +52,19 @@ The regulation's linking of returns to border management proved controversial: F
 
 ## Key questions answered
 
-### Why did the EU create a standing armed border force rather than continue the old system?
+### Why did the EU create a standing armed border force rather than continue the old system under Regulation (EU) 2019/1896?
 
 The 2015 migration crisis proved that member states could not be relied upon to protect the EU's external borders collectively. When Greece could not control its sea border, no other member state stepped in with sufficient resources. The Commission argued that the Schengen system required a "fully operational" border force, not a "pool of volunteers." The standing corps was designed to prevent a repeat of 2015, where unilateral border closures nearly destroyed Schengen.
 
-### Why did the regulation include a fundamental rights complaint mechanism if complaints are rarely accepted?
+### Why did Regulation (EU) 2019/1896 include a fundamental rights complaint mechanism if complaints are rarely accepted?
 
 The mechanism was a political compromise essential to secure the European Parliament's support, particularly from the S&D and Greens/EFA groups. Without it, the 2019 parliamentary vote would likely have failed. MEPs like Sophia in 't Veld demanded the mechanism after Frontex's involvement in pushback allegations in Greece and the Aegean Sea. The low acceptance rate has led to controversy: the European Ombudsman opened a strategic inquiry in 2021 into the mechanism's effectiveness, concluding in 2023 that it "lacked independence and effectiveness."
 
-### Why has the 10,000-person standing corps target not been met?
+### Why has the 10,000-person standing corps target under Regulation (EU) 2019/1896 not been met?
 
 Multiple factors combined: national governments were reluctant to release their best border guards for EU service; fundamental rights vetting delayed recruitment; and the COVID-19 pandemic paused personnel deployments. The Commission's 2023 progress report also cited "insufficient financial incentives" — member states were paid only €16,000 per year per seconded officer, below many national salaries. The European Court of Auditors noted that the target was "politically driven, not operationally based."
 
-### Can Frontex actually override a member state's sovereignty under this regulation?
+### Can Frontex actually override a member state's sovereignty under Regulation (EU) 2019/1896?
 
 Theoretically, yes: under Article 42, if a member state's border controls are seriously deficient and it fails to comply with a vulnerability assessment recommendation, the Council can adopt a decision authorising Frontex to intervene. But this requires a qualified majority vote, and in practice has never been attempted. The provision's political unfeasibility has drawn criticism from the Parliament, with MEPs calling for a simpler trigger mechanism.
 

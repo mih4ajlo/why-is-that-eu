@@ -52,15 +52,15 @@ Countries that struggled most with transposition included Cyprus, Malta, and Gre
 
 ## Key questions answered
 
-### Why doesn't the directive apply to all defence contracts?
+### Why doesn't the Defence Procurement Directive (2009/81/EC) apply to all defence contracts?
 
 Article 346 TFEU allows member states to exempt any contract if it "would prejudice the essential interests of its security." Because the directive itself cannot override primary EU treaty law, member states retain the discretion to invoke this exemption for contracts involving state secrets, operational needs, or sensitive technology. The directive only applies when a member state chooses not to invoke Article 346.
 
-### Why did smaller member states support the directive?
+### Why did smaller member states support the Defence Procurement Directive (2009/81/EC)?
 
 Smaller member states like Sweden, the Netherlands, and the Baltic states lacked large domestic defence industries and were forced to buy from foreign suppliers anyway. For them, the directive offered a chance to reduce costs by mandating competitive procedures, rather than paying inflated prices to national-only bidders. The EDA's 2007 data showed that these countries spent 30-40% more on equivalent equipment compared to larger states with domestic production.
 
-### Why has cross-border competition remained low?
+### Why has cross-border competition remained low under the Defence Procurement Directive (2009/81/EC)?
 
 Three factors: First, the Article 346 exemption allows member states to bypass the directive easily. Second, defence contracts are structured around long-term partnerships with national champions that include offset agreements (e.g., requiring a portion of the contract value to be reinvested in the buyer's country), which the directive does not ban. Third, the European Defence Fund, established in 2021, arguably competes with the directive by funding collaborative projects on an intergovernmental basis rather than through competitive procurement.
 

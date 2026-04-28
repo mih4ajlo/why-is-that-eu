@@ -53,15 +53,15 @@ Implementation challenges have emerged. Luxembourg and Ireland, despite their OE
 
 ## Key questions answered
 
-### Why did the EU need its own directive when the OECD already had an agreement?
+### Why did the EU need its own directive when the OECD already had an agreement for Council Directive (EU) 2022/2523?
 
 The OECD agreement is a political commitment, not legally binding. To enforce the global minimum tax, each jurisdiction needs domestic law. The EU directive provides a uniform, enforceable legal framework across all 27 member states, ensuring consistent implementation and preventing member states from undercutting each other. It also avoids the "gold-plating" problem where countries implement rules differently, which could undermine the policy's effectiveness.
 
-### Why did Ireland, Luxembourg, and the Netherlands eventually agree?
+### Why did Ireland, Luxembourg, and the Netherlands eventually agree to Council Directive (EU) 2022/2523?
 
 These countries had little choice. By 2021, the OECD had built a consensus of 137 countries—including the US, China, and India—that made continued opposition diplomatically and economically unsustainable. Moreover, the directive's Qualified Domestic Minimum Top-up Tax (QDMTT) allowed these countries to collect the top-up tax themselves rather than see it go to other jurisdictions, partially preserving their tax base. Ireland's Finance Minister Paschal Donohoe acknowledged that "the global consensus is now such that Ireland's 12.5% rate is no longer a sustainable position" in July 2021.
 
-### Why does the directive set the minimum at 15%?
+### Why does Council Directive (EU) 2022/2523 set the minimum at 15%?
 
 The 15% rate emerged from negotiations within the OECD/G20 Inclusive Framework, balancing competing demands. High-tax countries like France and Germany wanted a higher rate (20% or more) to increase revenue and reduce the incentive for profit shifting. Low-tax countries like Ireland argued for lower rates (12.5% or below). The OECD's 2021 economic impact assessment estimated that 15% would capture about 80% of the profit shifting benefits, while a higher rate risked irreparably damaging small low-tax countries. The rate also aligned with the US's proposed 15% minimum in the Biden administration's Made in America Tax Plan.
 

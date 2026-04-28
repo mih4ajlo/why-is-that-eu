@@ -55,7 +55,7 @@ Chancellor Merkel's reversal was driven by the collapse of German export markets
 
 Years of structural funds had shown that simply reimbursing expenditures did not guarantee reform implementation. The Greek bailout programmes (2010-2018) had demonstrated the power of cash-for-reform conditionality — but those were imposed in crisis, not voluntarily. The RRF's novelty is that countries *themselves* propose reforms in their NRRPs, creating ownership. The Commission's capacity to withhold payment if milestones are missed creates a binding commitment device. This model was directly inspired by the experience of the 2013-2019 "Reform Delivery" contracts experimented with under the European Semester.
 
-### Why were Hungary and Poland's funds frozen and how did they react?
+### Why were Hungary and Poland's funds frozen under the RRF and how did they react?
 
 The July 2020 European Council compromise included a rule-of-law conditionality mechanism (Regulation 2020/2092) that allows the Commission to suspend payments if breaches affect the EU budget's financial interests. Poland and Hungary initially challenged this mechanism before the European Court of Justice, which upheld it in February 2022. Poland's funds were unblocked only after the new Tusk government adopted judicial independence measures in 2024. Hungary's case remains deadlocked: Prime Minister Orbán's government refused to implement anti-corruption reforms, and in response, Orbán vetoed EU sanctions packages on Russia and blocked Ukraine's EU accession negotiations as leverage to unlock the funds. The standoff illustrates the RRF's evolving role as a political enforcement tool.
 

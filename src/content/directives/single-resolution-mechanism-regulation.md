@@ -52,11 +52,11 @@ Industry response was mixed. Large banks, represented by the European Banking Fe
 
 ## Key questions answered
 
-### Why did it take five years from the 2008 crisis to create a resolution mechanism?
+### Why did it take five years from the 2008 crisis to create the Single Resolution Mechanism Regulation?
 
 The delay reflected deep sovereignty concerns. Germany's Constitutional Court had ruled in 2009 that EU institutions could not take fiscal decisions binding on the Bundestag. Creating a resolution authority required the UK and other non-euro states to opt out via enhanced cooperation. The political will only crystallised in 2012 when eurozone breakup seemed real — "whatever it takes" changed the calculus.
 
-### How does the Single Resolution Fund get its money?
+### How does the Single Resolution Fund get its money under the Single Resolution Mechanism Regulation?
 
 Banks pay annual contributions calculated on their total liabilities minus own funds, adjusted for risk profile. The target is 1% of covered deposits in the eurozone (about €55-60 billion). According to the SRB's 2022 annual report, the fund reached €66 billion by year-end 2022, exceeding the target. During the eight-year build-up, national compartments existed; these were fully mutualised by 2022.
 

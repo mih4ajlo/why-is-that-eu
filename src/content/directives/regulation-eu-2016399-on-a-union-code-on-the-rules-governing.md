@@ -65,11 +65,11 @@ The biggest unintended consequence was the normalisation of "temporary" controls
 
 The Code’s central tension — free movement versus security — remains unresolved. Every crisis, from the 2015 migration wave to the 2020 pandemic to the 2022 Russia-Ukraine war, has triggered mass internal border closures that the Code’s rules cannot prevent. A 2023 Commission impact assessment estimated that permanent internal border controls would cost the EU economy €47 billion per year in lost trade and tourism. Yet national governments continue to cite security and migration fears. The Code’s "temporary" exception has become the rule, and the Commission has lacked the political will to enforce its own deadlines.
 
-### Why did the 2016 recast require systematic database checks on EU citizens?
+### Why did the 2016 recast of the Schengen Borders Code require systematic database checks on EU citizens?
 
 This was a direct response to the Paris attacks: several of the terrorists were EU citizens who had travelled freely within Schengen. The Commission’s 2015 Security Agenda explicitly linked border controls to the fight against "foreign terrorist fighters." The European Parliament’s LIBE Committee initially opposed systematic checks, arguing they violated the proportionality principle under the EU Charter of Fundamental Rights. The compromise was to limit systematic checks to external borders only, and to exempt EU citizens from fingerprinting under the EES.
 
-### Why can Member States still close their internal borders despite the Code?
+### Why can Member States still close their internal borders despite the Schengen Borders Code?
 
 The Code cannot force a sovereign state to keep its borders open when it feels threatened. Article 23 allows checks for "a serious threat to public policy or internal security" — a deliberately broad phrase that leaves room for political judgement. The European Court of Justice has consistently upheld Member States’ discretion on what constitutes a "serious threat," most recently in Case C-329/21 (2022), where it ruled that a "sudden and large influx of migrants" could qualify. The Code’s protections are political, not judicial: the Commission can only issue non-binding opinions, and no Member State has ever been fined for violating the rules.
 

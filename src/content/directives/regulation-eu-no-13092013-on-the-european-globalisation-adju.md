@@ -53,15 +53,15 @@ The most consequential effect may have been political. The EGF served as a visib
 
 ## Key questions answered
 
-### Why did the EGF have such low uptake among Member States?
+### Why did the EGF have such low uptake among Member States under Regulation (EU) No 1309/2013 on the European Globalisation Adjustment Fund (2014-2020)?
 
 According to the Commission’s 2017 ex-post evaluation, the administrative burden of preparing an application — which required detailed documentation of redundancies, cost estimates, and a justification linking layoffs to trade patterns — deterred many Member States, particularly those with smaller administrations. Additionally, the requirement for 50% co-financing from national or employer sources made the fund less attractive compared to the European Social Fund, which could finance similar measures with lower matching requirements.
 
-### Why was the crisis derogation removed in 2021?
+### Why was the crisis derogation removed in 2021 from Regulation (EU) No 1309/2013 on the European Globalisation Adjustment Fund (2014-2020)?
 
 The European Council and Parliament, negotiating the 2021-2027 Multiannual Financial Framework, concluded that the COVID-19 pandemic and its economic effects were handled by the temporary Support to mitigate Unemployment Risks in an Emergency (SURE) instrument, not by the EGF. The EGF was refocused on its original trade-specific purpose, with a reduced budget (€186 million annually) and stricter eligibility criteria. The Commission’s 2020 impact assessment for the new EGF regulation argued that broader economic crises required dedicated instrument, not a repurposed trade-adjustment fund.
 
-### Did the EGF actually help workers find new jobs?
+### Did the EGF actually help workers find new jobs under Regulation (EU) No 1309/2013 on the European Globalisation Adjustment Fund (2014-2020)?
 
 The Commission's 2017 evaluation found re-employment rates varied widely by application and sector. In automotive sector applications (e.g., Opel in Belgium, Ford in Spain), re-employment rates exceeded 70% within 18 months of programme completion. In textile applications (e.g., Northern Greece), re-employment rates fell below 40%, reflecting the collapse of the local sector without replacement jobs. The evaluation noted that EGF support was most effective when combined with regional development funds and active labour market policies.
 
