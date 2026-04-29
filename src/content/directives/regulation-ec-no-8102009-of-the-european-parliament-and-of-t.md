@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EC) No 810/2009 of the European Parliament and of the Council establishing a Community Code on Visas (Visa Code)"
 directive: "810/2009/EC"
-category: "Other"
+category: "Migration & Asylum"
 year: 2009
 tags: [visa-policy, schengen-area, common-consular, external-borders, migration-management]
 summary: "The Visa Code harmonises procedures and conditions for issuing short-stay Schengen visas, aiming to facilitate legitimate travel while preventing irregular migration and security risks."

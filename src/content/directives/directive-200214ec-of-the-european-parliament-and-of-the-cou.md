@@ -1,7 +1,7 @@
 ---
 title: "Directive 2002/14/EC of the European Parliament and of the Council of 11 March 2002 establishing a general framework for informing and consulting employees in the European Community"
 directive: "2002/14/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2002
 tags: [employee-rights, information-and-consultation, labour-law, social-dialogue, corporate-governance]
 summary: "The directive sets minimum EU-wide standards for employers to inform and consult employees on a range of business decisions, introduced in response to the shock closure of the Renault Vilvoorde plant in Belgium."

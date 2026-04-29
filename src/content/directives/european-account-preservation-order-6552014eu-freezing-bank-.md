@@ -1,7 +1,7 @@
 ---
 title: "European Account Preservation Order (655/2014/EU) — freezing bank accounts across borders"
 directive: "655/2014/EU"
-category: "Financial"
+category: "Justice & Civil Law"
 year: 2014
 tags: [cross-border, debt-recovery, civil-justice, judicial-cooperation, freezing-orders]
 summary: "A creditor who obtains a court order freezing a bank account in one EU member state can now enforce it directly in all other member states without any intermediate procedure, cutting months of delay and thousands of euros in legal costs. It was the missing piece in the EU’s push for a genuine cross-border civil justice area."

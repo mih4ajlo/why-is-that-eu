@@ -1,7 +1,7 @@
 ---
 title: "Directive 2008/115/EC on common standards and procedures in Member States for returning illegally staying third-country nationals"
 directive: "2008/115/EC"
-category: "Other"
+category: "Migration & Asylum"
 year: 2008
 tags: [return-directive, irregular-migration, border-control, migration-policy, fundamental-rights]
 summary: "The Return Directive establishes common EU standards and procedures for returning non-EU nationals staying illegally, balancing enforcement with safeguards for fundamental rights before removal."

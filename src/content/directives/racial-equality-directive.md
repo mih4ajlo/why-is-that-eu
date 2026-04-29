@@ -1,7 +1,7 @@
 ---
 title: "Racial Equality Directive"
 directive: "2000/43/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2000
 tags: [racial-equality, non-discrimination, employment, fundamental-rights, eu-law]
 summary: "Prohibits discrimination on grounds of race or ethnic origin in employment, education, social protection, and access to goods and services, establishing a minimum standard across the EU."

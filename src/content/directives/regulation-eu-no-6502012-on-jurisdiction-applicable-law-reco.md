@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession"
 directive: "650/2012/EU"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2012
 tags: [succession, cross-border, private-international-law, european-certificate-of-succession, inheritance]
 summary: "A regulation harmonising rules on which national courts handle cross-border inheritances and which national law applies, and creating a European Certificate of Succession to simplify estate administration across EU borders."

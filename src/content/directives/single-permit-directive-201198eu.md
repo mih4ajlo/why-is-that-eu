@@ -1,7 +1,7 @@
 ---
 title: "Single Permit Directive (2011/98/EU)"
 directive: "2011/98/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2011
 tags: [migration, labour-market, third-country-nationals, single-application, workers-rights]
 summary: "Establishes a single application procedure for a combined work and residence permit for third-country nationals in EU Member States, and sets common rights for legal migrant workers."

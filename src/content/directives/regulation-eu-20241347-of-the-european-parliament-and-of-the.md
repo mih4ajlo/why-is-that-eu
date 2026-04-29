@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted"
 directive: "2024/1347/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2024
 tags: [asylum, migration, international-protection, qualification, refugee-status, subsidiary-protection]
 summary: "This regulation establishes uniform criteria for granting refugee or subsidiary protection status across EU Member States, and harmonises the rights attached to each status, replacing the 2011 Qualification Directive as part of the New Pact on Migration and Asylum."

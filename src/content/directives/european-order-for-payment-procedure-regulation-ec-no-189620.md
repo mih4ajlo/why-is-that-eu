@@ -1,7 +1,7 @@
 ---
 title: "European Order for Payment Procedure (Regulation (EC) No 1896/2006)"
 directive: "1896/2006/EC"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2006
 tags: [cross-border-debt, judicial-cooperation, civil-procedure, debt-recovery, single-market, small-claims]
 summary: "A uniform EU procedure that allows creditors to obtain an enforceable order for uncontested cross-border debt without a full court hearing, drastically reducing time and cost for businesses and individuals."

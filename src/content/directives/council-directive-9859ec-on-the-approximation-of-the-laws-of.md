@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 98/59/EC on the approximation of the laws of the Member States relating to collective redundancies"
 directive: "98/59/EC"
-category: "Other"
+category: "Labour & Social"
 year: 1998
 tags: [collective-redundancies, labour-law, social-policy, worker-protection, restructuring]
 summary: "The Collective Redundancies Directive (98/59/EC) harmonises EU rules on employer obligations when conducting mass layoffs, requiring prior consultation with workers' representatives and advance notification to public authorities."

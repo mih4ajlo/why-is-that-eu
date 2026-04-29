@@ -1,7 +1,7 @@
 ---
 title: "Pay Transparency Directive"
 directive: "2023/970/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2023
 tags: [pay-transparency, gender-pay-gap, equal-pay, labour-rights, non-discrimination]
 summary: "The EU Pay Transparency Directive requires companies to disclose salary information and report on gender pay gaps, reversing the burden of proof in pay discrimination cases."

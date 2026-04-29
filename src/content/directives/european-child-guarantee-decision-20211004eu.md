@@ -1,7 +1,7 @@
 ---
 title: "European Child Guarantee Decision (2021/1004/EU)"
 directive: "2021/1004/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2021
 tags: [child-poverty, social-inclusion, education-access, healthcare-access, housing-support, nutrition]
 summary: "A Council recommendation aimed at ensuring every child at risk of poverty in the EU has access to key services: early childhood education, education-related activities, healthcare, nutrition, and adequate housing."

@@ -1,7 +1,7 @@
 ---
 title: "Directive (EU) 2019/1937 on the protection of persons who report breaches of Union law"
 directive: "2019/1937/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2019
 tags: [whistleblower-protection, corporate-governance, anti-corruption, compliance, transparency]
 summary: "The EU Whistleblower Directive forces companies with 50+ employees and all public bodies to set up confidential reporting channels and protects whistleblowers from retaliation. It was triggered by the LuxLeaks trial of Antoine Deltour and a string of scandals — Panama Papers, Cambridge Analytica, Dieselgate — that exposed how fragmented national protections left EU-wide wrongdoing-spotters legally defenceless."

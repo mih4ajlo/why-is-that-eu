@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) No 604/2013 of the European Parliament and of the Council establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast)"
 directive: "604/2013/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2013
 tags: [asylum, migration, dublin-system, common-european-asylum-system, border-control, refugees]
 summary: "The Dublin III Regulation establishes the criteria for determining which EU Member State is responsible for processing an asylum application, primarily based on the first country of irregular entry, but its implementation has been marked by systemic failures and political deadlock during the 2015 migration crisis."

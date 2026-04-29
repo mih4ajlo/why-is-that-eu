@@ -1,7 +1,7 @@
 ---
 title: "Directive (EU) 2019/1158 on Work-Life Balance for Parents and Carers"
 directive: "2019/1158/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2019
 tags: [work-life-balance, parental-leave, carers-leave, gender-equality, labour-rights, social-policy]
 summary: "The EU Work-Life Balance Directive establishes minimum standards for parental, paternity, and carers' leave across member states, mandating pay for paternity and parental leave to encourage men to take it, aiming to close the gender employment gap."

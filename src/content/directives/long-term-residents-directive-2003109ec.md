@@ -1,7 +1,7 @@
 ---
 title: "Long-Term Residents Directive (2003/109/EC)"
 directive: "2003/109/EC"
-category: "Other"
+category: "Migration & Asylum"
 year: 2003
 tags: [migration, long-term-residence, non-eu-nationals, third-country-nationals, eu-harmonisation, integration]
 summary: "The directive creates a common EU status for non-EU nationals who have legally resided in a Member State for five years, granting them equal treatment with EU citizens in employment, education, and social security."

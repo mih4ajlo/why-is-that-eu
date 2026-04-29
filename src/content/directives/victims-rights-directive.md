@@ -1,7 +1,7 @@
 ---
 title: "Victims Rights Directive"
 directive: "2012/29/EU"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2012
 tags: [victims-rights, criminal-justice, procedural-safeguards, eu-justice, crime-victims]
 summary: "Establishes minimum standards on the rights, support and protection of victims of crime across the European Union, guaranteeing them access to information, participation in proceedings, and recognition as victims."

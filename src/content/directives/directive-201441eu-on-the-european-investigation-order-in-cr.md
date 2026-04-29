@@ -1,7 +1,7 @@
 ---
 title: "Directive 2014/41/EU on the European Investigation Order in criminal matters"
 directive: "2014/41/EU"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2014
 tags: [cross-border-investigation, judicial-cooperation, mutual-recognition, criminal-law, evidence-gathering]
 summary: "The European Investigation Order (EIO) Directive creates a single, streamlined system for courts in one EU country to request evidence located in another, replacing the slow, patchwork of mutual legal assistance agreements that previously governed cross-border evidence gathering."

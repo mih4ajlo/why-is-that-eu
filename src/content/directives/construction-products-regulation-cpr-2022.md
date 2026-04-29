@@ -1,7 +1,7 @@
 ---
 title: "Construction Products Regulation (CPR) 2022"
 directive: "2024/3110/EU"
-category: "Other"
+category: "Health & Safety"
 year: 2022
 tags: [construction-products, product-safety, ce-marking, internal-market, harmonised-standards, building-materials]
 summary: "A recast of the 2011 Construction Products Regulation aimed at simplifying CE marking rules, improving market surveillance, and addressing fraud in the construction products sector."

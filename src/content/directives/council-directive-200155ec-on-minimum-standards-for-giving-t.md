@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 2001/55/EC on minimum standards for giving temporary protection in the event of a mass influx of displaced persons and on measures promoting a balance of efforts between Member States in receiving such persons and bearing the consequences thereof"
 directive: "2001/55/EC"
-category: "Other"
+category: "Migration & Asylum"
 year: 2001
 tags: [temporary-protection, mass-influx, displaced-persons, asylum, migration-crisis, burden-sharing]
 summary: "The Temporary Protection Directive establishes a mechanism for providing immediate, collective protection to displaced persons from non-EU countries unable to return to their country of origin, triggered by a mass influx that would overwhelm national asylum systems."

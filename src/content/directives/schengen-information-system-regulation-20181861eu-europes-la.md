@@ -1,7 +1,7 @@
 ---
 title: "Schengen Information System Regulation (2018/1861/EU) — Europe's largest law enforcement database"
 directive: "2018/1861/EU"
-category: "Digital & Data"
+category: "Migration & Asylum"
 year: 2018
 tags: [law-enforcement, border-control, shengen-data, data-sharing, counter-terrorism, biometrics]
 summary: "This regulation overhauls the Schengen Information System (SIS), the EU's centralised database for law enforcement and border checks, expanding the types of alerts it can store and mandating biometric data for many entries."

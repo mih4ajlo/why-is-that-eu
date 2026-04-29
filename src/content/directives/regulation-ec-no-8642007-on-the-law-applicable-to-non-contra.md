@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EC) No 864/2007 on the law applicable to non-contractual obligations (Rome II)"
 directive: "864/2007/EC"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2007
 tags: [conflict-of-laws, private-international-law, tort-law, civil-liability, cross-border-litigation, eu-justice]
 summary: "Rome II establishes uniform rules for determining which national law applies to cross-border civil wrongs – from car accidents to product defects – replacing the patchwork of 27 different national conflict-of-law systems in the EU."

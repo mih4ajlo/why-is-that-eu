@@ -1,7 +1,7 @@
 ---
 title: "Gender Equality Directive (2006/54/EC)"
 directive: "2006/54/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2006
 tags: [gender-equality, employment-law, equal-treatment, work-life-balance, anti-discrimination]
 summary: "The Gender Equality Directive recasts and consolidates prior EU laws on equal treatment in employment, requiring Member States to enforce equal pay, equal access to jobs, and protection against sex-based discrimination and harassment."

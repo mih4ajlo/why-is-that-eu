@@ -1,7 +1,7 @@
 ---
 title: "Council Framework Decision on the European Arrest Warrant and the Surrender Procedures between Member States"
 directive: "2002/584/JHA"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2002
 tags: [mutual-recognition, cross-border-crime, extradition, justice-and-home-affairs, terrorism, criminal-law]
 summary: "The European Arrest Warrant (EAW) replaced lengthy extradition procedures between EU Member States with a streamlined judicial surrender system, triggered by the 9/11 attacks and a political consensus to close impunity gaps in the single market."

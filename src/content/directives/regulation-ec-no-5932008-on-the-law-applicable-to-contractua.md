@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)"
 directive: "593/2008/EC"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2008
 tags: [conflict-of-laws, private-international-law, cross-border-contracts, internal-market, e-commerce, legal-certainty]
 summary: "Rome I determines which country’s law applies to a cross-border contract in the EU, replacing a patchwork of national interpretation of an earlier convention and cutting legal costs for businesses."

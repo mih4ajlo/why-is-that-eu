@@ -1,7 +1,7 @@
 ---
 title: "Directive (EU) 2024/1346 on standards for the reception of applicants for international protection (recast)"
 directive: "2024/1346/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2024
 tags: [asylum, reception-conditions, detention, housing, migration, fundamental-rights]
 summary: "The recast imposes binding EU-wide standards on detention limits, housing quality, and material reception conditions for asylum seekers, replacing a 2013 directive that allowed wide national discretion."

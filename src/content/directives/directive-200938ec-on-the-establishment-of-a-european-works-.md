@@ -1,7 +1,7 @@
 ---
 title: "Directive 2009/38/EC on the establishment of a European Works Council"
 directive: "2009/38/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2009
 tags: [worker-representation, labour-rights, industrial-relations, transnational-consultation]
 summary: "This directive mandates that multinational companies with at least 1,000 employees across EU Member States inform and consult their workers on cross-border decisions, such as mass layoffs, relocations, or restructuring."

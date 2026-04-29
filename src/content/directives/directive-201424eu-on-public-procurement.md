@@ -1,7 +1,7 @@
 ---
 title: "Directive 2014/24/EU on Public Procurement"
 directive: "2014/24/EU"
-category: "Other"
+category: "Trade & Competition"
 year: 2014
 tags: [public-procurement, single-market, transparency, anti-corruption, public-spending]
 summary: "A recast of EU public procurement rules to simplify procedures, promote strategic use of procurement (e.g., for innovation, environmental goals), and increase transparency, replacing the previous 2004 framework."

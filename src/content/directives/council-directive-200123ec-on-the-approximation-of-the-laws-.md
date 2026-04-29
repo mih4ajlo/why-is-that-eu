@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 2001/23/EC on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses"
 directive: "2001/23/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2001
 tags: [employment-rights, worker-protection, labour-law, business-transfer, restructuring]
 summary: "The Transfer of Undertakings (Protection of Employment) Directive, known as TUPE, ensures employees retain their rights and contracts when a business or part of it is transferred to a new employer."

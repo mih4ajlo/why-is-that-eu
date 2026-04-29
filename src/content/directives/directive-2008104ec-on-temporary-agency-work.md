@@ -1,7 +1,7 @@
 ---
 title: "Directive 2008/104/EC on Temporary Agency Work"
 directive: "2008/104/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2008
 tags: [temporary-work, agency-workers, equal-treatment, labour-rights, social-policy, single-market]
 summary: "The Temporary Agency Work Directive guarantees temporary agency workers equal treatment on basic pay and conditions from day one, after a decade of political deadlock led by the UK and Germany. It was the final piece of the EU's 'flexicurity' puzzle on non-standard work."

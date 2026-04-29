@@ -1,7 +1,7 @@
 ---
 title: "European Media Freedom Act (2024/1083/EU)"
 directive: "2024/1083/EU"
-category: "Other"
+category: "Digital & Data"
 year: 2024
 tags: [media-freedom, rule-of-law, disinformation, independent-oversight, press-freedom]
 summary: "The European Media Freedom Act establishes a common legal framework to protect media pluralism, editorial independence, and public service media funding across the EU, while creating a new European Board for Media Services to coordinate national regulators."

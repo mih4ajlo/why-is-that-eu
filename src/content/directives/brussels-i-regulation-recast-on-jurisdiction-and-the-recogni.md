@@ -1,7 +1,7 @@
 ---
 title: "Brussels I Regulation (recast) on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters"
 directive: "1215/2012/EU"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2012
 tags: [cross-border-litigation, private-international-law, jurisdiction, judgment-enforcement, judicial-cooperation]
 summary: "The Brussels I Regulation (recast) governs which EU member state’s courts have jurisdiction in cross-border civil disputes, and how judgments from one member state are recognised and enforced in another. It abolished the exequatur procedure, making enforcement faster and cheaper."

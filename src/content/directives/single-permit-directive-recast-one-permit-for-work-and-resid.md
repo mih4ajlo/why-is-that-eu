@@ -1,7 +1,7 @@
 ---
 title: "Single Permit Directive recast — one permit for work and residence for third-country nationals (2024/3227/EU)"
 directive: "2024/3227/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2024
 tags: [migration, labour-mobility, third-country-nationals, single-permit, work-permit, residence-permit]
 summary: "The recast of the Single Permit Directive establishes a streamlined procedure for issuing a combined work and residence permit to non-EU workers, strengthening their equal-treatment rights and reducing processing times across Member States."

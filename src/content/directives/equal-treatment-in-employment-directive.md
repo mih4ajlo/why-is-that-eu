@@ -1,7 +1,7 @@
 ---
 title: "Equal Treatment in Employment Directive"
 directive: "2000/78/EC"
-category: "Other"
+category: "Labour & Social"
 year: 2000
 tags: [employment-discrimination, fundamental-rights, social-policy, non-discrimination, lgbtq-rights]
 summary: "Sets a general EU framework for combating discrimination in employment on grounds of religion or belief, disability, age, or sexual orientation, requiring member states to ensure equal treatment in hiring, promotion, working conditions, and dismissal."

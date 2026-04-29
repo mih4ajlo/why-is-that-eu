@@ -1,7 +1,7 @@
 ---
 title: "Crisis and Force Majeure Regulation (2024/1359/EU) — New Pact on Migration emergency provisions"
 directive: "2024/1359/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2024
 tags: [migration, asylum, crisis-management, border-procedures, new-pact-on-migration]
 summary: "EU regulation establishing exceptional procedures for asylum, border management, and return during mass arrivals or instrumentalisation of migrants, adopted as part of the 2024 New Pact on Migration and Asylum."

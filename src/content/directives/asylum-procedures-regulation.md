@@ -1,7 +1,7 @@
 ---
 title: "Asylum Procedures Regulation"
 directive: "2024/1348/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2024
 tags: [asylum, migration, border-procedures, fundamental-rights, ceas]
 summary: "The Asylum Procedures Regulation establishes a single, streamlined EU-wide process for examining international protection applications, replacing divergent national systems and introducing mandatory border procedures for certain categories of applicants."

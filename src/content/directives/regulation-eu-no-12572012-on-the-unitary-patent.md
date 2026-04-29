@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) No 1257/2012 on the Unitary Patent"
 directive: "1257/2012/EU"
-category: "Other"
+category: "Trade & Competition"
 year: 2012
 tags: [unitary-patent, intellectual-property, internal-market, innovation, patent-protection, unified-patent-court]
 summary: "Establishes a single, uniform patent right valid across 25 EU Member States, simplifying patent enforcement and replacing the fragmented national validation system, alongside the Unified Patent Court."

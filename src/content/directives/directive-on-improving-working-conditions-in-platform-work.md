@@ -1,7 +1,7 @@
 ---
 title: "Directive on Improving Working Conditions in Platform Work"
 directive: "2024/2831/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2024
 tags: [platform-work, gig-economy, worker-classification, algorithmic-management, digital-labour]
 summary: "The Platform Work Directive creates a presumption of employment for platform workers and introduces rules on algorithmic management, aiming to reclassify millions of self-employed gig workers as employees across the EU."

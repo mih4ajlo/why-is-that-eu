@@ -1,7 +1,7 @@
 ---
 title: "Directive 2021/1883/EU on the conditions of entry and residence of third-country nationals for the purpose of highly qualified employment"
 directive: "2021/1883/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2021
 tags: [highly-skilled-migration, blue-card, labour-mobility, immigration-policy, talent-attraction]
 summary: "The recast EU Blue Card Directive establishes a single, more attractive EU-wide scheme for highly skilled non-EU workers, lowering salary thresholds and easing intra-EU mobility, replacing the 2009 Directive 2009/50/EC that had failed to compete with national schemes in Germany and elsewhere."

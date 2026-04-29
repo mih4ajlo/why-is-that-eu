@@ -1,7 +1,7 @@
 ---
 title: "Council Regulation (EU) 2019/1111 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast)"
 directive: "2019/1111/EU"
-category: "Other"
+category: "Justice & Civil Law"
 year: 2019
 tags: [family-law, child-abduction, parental-responsibility, cross-border-enforcement, mutual-recognition]
 summary: "This recast regulation strengthens children’s right to be heard in cross-border family disputes, streamlines enforcement of parental responsibility judgments, and tightens deadlines for resolving international child abduction cases within the European Union."

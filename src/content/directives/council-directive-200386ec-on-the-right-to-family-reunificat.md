@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 2003/86/EC on the right to family reunification"
 directive: "2003/86/EC"
-category: "Other"
+category: "Migration & Asylum"
 year: 2003
 tags: [family-reunification, migration, fundamental-rights, eu-citizens, third-country-nationals]
 summary: "The Family Reunification Directive establishes a common EU framework for the right of third-country nationals legally residing in Member States to bring their family members from non-EU countries, balancing family unity with Member State control over immigration."

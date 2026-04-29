@@ -1,7 +1,7 @@
 ---
 title: "Proposal for a Council Directive on implementing the principle of equal treatment between persons irrespective of religion or belief, disability, age or sexual orientation"
 directive: "COM(2008) 426 final"
-category: "Other"
+category: "Labour & Social"
 year: 2008
 tags: [anti-discrimination, equality, lgbtq-rights, disability-rights, fundamental-rights, council-stalemate]
 summary: "A proposed EU directive to prohibit discrimination based on religion, disability, age, or sexual orientation beyond the workplace — blocked in the Council of the EU since 2008 due to opposition from a minority of member states."

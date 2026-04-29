@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 94/33/EC on the protection of young people at work"
 directive: "94/33/EC"
-category: "Health & Safety"
+category: "Labour & Social"
 year: 1994
 tags: [child-labour, youth-employment, working-conditions, minimum-age, occupational-safety, labour-protection]
 summary: "Sets the minimum age for employment at 15, bans hazardous work for under-18s, and restricts night work and working hours — the EU's baseline for protecting young workers across all member states."

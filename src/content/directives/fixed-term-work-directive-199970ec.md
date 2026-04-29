@@ -1,7 +1,7 @@
 ---
 title: "Fixed-Term Work Directive (1999/70/EC)"
 directive: "1999/70/EC"
-category: "Other"
+category: "Labour & Social"
 year: 1999
 tags: [labour-law, precarious-work, social-policy, employment-rights, equal-treatment, non-discrimination]
 summary: "The EU directive that prohibits discrimination against fixed-term workers and requires Member States to take measures to prevent abuse of successive fixed-term contracts, establishing a framework for equal treatment and limiting precarious employment."

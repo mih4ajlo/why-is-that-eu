@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2021/1134 — Visa Information System reform (biometric data and border control)"
 directive: "2021/1134/EU"
-category: "Digital & Data"
+category: "Migration & Asylum"
 year: 2021
 tags: [biometric-data, border-control, visa, information-system, data-protection, eu-security]
 summary: "The 2021 reform of the Visa Information System (VIS) expanded mandatory biometric data collection for short-stay visa applicants and mandated checks against all EU border and security databases before visa issuance, in response to security gaps exposed by the 2015–2016 migration and terrorism crises."

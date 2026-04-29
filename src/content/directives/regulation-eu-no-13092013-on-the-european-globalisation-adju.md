@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) No 1309/2013 on the European Globalisation Adjustment Fund (2014-2020)"
 directive: "1309/2013/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2013
 tags: [globalisation-adjustment, worker-support, trade-adjustment, social-fund, redundancy-compensation, crisis-response]
 summary: "The European Globalisation Adjustment Fund (EGF) provides EU co-financing to help workers made redundant by globalisation-related trade shifts or economic crises retrain and find new jobs."

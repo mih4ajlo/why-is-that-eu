@@ -1,7 +1,7 @@
 ---
 title: "Adequate Minimum Wages Directive"
 directive: "2022/2041/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2022
 tags: [minimum-wages, social-policy, labour-rights, collective-bargaining, working-conditions, eu-social-pillar]
 summary: "Sets EU-level framework to ensure minimum wages are adequate through collective bargaining coverage and statutory minimum wage criteria, aiming to reduce in-work poverty and wage inequality across Member States."

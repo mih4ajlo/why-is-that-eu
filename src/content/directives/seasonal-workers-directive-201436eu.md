@@ -1,7 +1,7 @@
 ---
 title: "Seasonal Workers Directive (2014/36/EU)"
 directive: "2014/36/EU"
-category: "Food & Agriculture"
+category: "Labour & Social"
 year: 2014
 tags: [seasonal-workers, labour-rights, agriculture, migration, exploitation, eu-employment]
 summary: "Sets common EU rules for admitting third-country seasonal workers, requiring minimum working conditions, housing standards, and a mechanism to change employers, designed to reduce exploitation in agriculture, tourism, and horticulture."

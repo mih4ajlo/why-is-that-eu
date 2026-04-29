@@ -1,7 +1,7 @@
 ---
 title: "European Social Fund Plus (ESF+) Regulation (2021/1057/EU)"
 directive: "2021/1057/EU"
-category: "Other"
+category: "Labour & Social"
 year: 2021
 tags: [social-fund, employment, youth-unemployment, social-inclusion, poverty-reduction, skills-training]
 summary: "The ESF+ Regulation establishes the main EU financial instrument for investing in people, merging several previous funds to support employment, education, social inclusion, and health, with a mandatory minimum allocation for tackling child poverty."

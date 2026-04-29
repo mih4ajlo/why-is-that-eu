@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2019/1896 on the European Border and Coast Guard"
 directive: "2019/1896/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2019
 tags: [border-security, migration-management, fundamental-rights, frontex, schengen-area]
 summary: "This regulation transformed Frontex into a standing European Border and Coast Guard with a permanent operational corps of 10,000 officers by 2027, granting it the power to purchase its own equipment and deploy staff to member states without their explicit consent in certain circumstances."

@@ -1,7 +1,7 @@
 ---
 title: "Council Directive 97/81/EC concerning the Framework Agreement on part-time work concluded by UNICE, CEEP and the ETUC"
 directive: "97/81/EC"
-category: "Other"
+category: "Labour & Social"
 year: 1997
 tags: [part-time-work, employment, non-discrimination, social-policy, work-life-balance]
 summary: "Directive that implements a framework agreement between European social partners to eliminate discrimination against part-time workers and promote part-time work as a flexible option."

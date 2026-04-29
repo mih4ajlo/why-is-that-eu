@@ -1,7 +1,7 @@
 ---
 title: "Schengen Borders Code Regulation (2016/399/EU)"
 directive: "2016/399/EU"
-category: "Other"
+category: "Migration & Asylum"
 year: 2016
 tags: [schengen-area, border-controls, free-movement, internal-borders, migration, security]
 summary: "The Schengen Borders Code establishes common rules on the crossing of internal and external EU borders, defining when and how Member States can temporarily reintroduce border controls within the normally border-free Schengen area."

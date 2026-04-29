@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (recast)"
 directive: "2015/848/EU"
-category: "Financial"
+category: "Justice & Civil Law"
 year: 2015
 tags: [insolvency, cross-border, forum-shopping, comi, restructuring]
 summary: "The recast EU Insolvency Regulation tightens rules on where a company can file for bankruptcy, aiming to curb abusive forum-shopping by debtors who shift their center of main interests to exploit national laws."
