@@ -552,8 +552,7 @@ async function draftWithDeepSeek(topic: string, model: string, context?: string)
 export function finalize(fullContent: string, model?: string): void {
   const fmStart = fullContent.indexOf('---');
   if (fmStart === -1) {
-    console.error('\nError: Generated content does not contain valid frontmatter.');
-    process.exit(1);
+    throw new Error('Generated content does not contain valid frontmatter.');
   }
   let content = fullContent.slice(fmStart);
   if (model) {

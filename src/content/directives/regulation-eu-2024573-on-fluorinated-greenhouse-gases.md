@@ -3,71 +3,72 @@ title: "Regulation (EU) 2024/573 on fluorinated greenhouse gases"
 directive: "2024/573/EU"
 category: "Environmental"
 year: 2024
-tags: [f-gases, climate-change, ozone-layer, refrigerants, hydrofluorocarbons, chemical-industry]
-summary: "The 2024 revision of the EU's F-Gas Regulation tightens quotas for hydrofluorocarbons (HFCs), aiming for an 80% reduction in HFC supply by 2050, phasedown from 2015 levels, with bans on certain products and enhanced enforcement."
+tags: [climate-change, hfc-phase-down, greenhouse-gases, refrigeration, kigali-amendment]
+summary: "The F-Gas Regulation tightens the EU's phase-down of hydrofluorocarbons (HFCs) and other fluorinated greenhouse gases, aligning with the Kigali Amendment to the Montreal Protocol and pushing the refrigeration, air-conditioning, and foam sectors towards natural alternatives."
 status: "in-force"
-related: ["517/2014/EU", "1005/2009/EC", "2018/1999/EU"]
-llm: "deepseek-chat"
+related: ["517/2014/EU"]
+llm: "deepseek-reasoner"
 ---
 
 ## What is it?
 
-Regulation (EU) 2024/573 is the third iteration of EU rules on fluorinated greenhouse gases (F-gases), a group of synthetic chemicals used primarily in refrigeration, air conditioning, heat pumps, and electrical switchgear. These gases have a global warming potential (GWP) hundreds to thousands of times higher than carbon dioxide. The regulation tightens the existing HFC phasedown schedule established in 2014, reduces the HFC quota allocated to producers and importers, and extends prohibitions on placing products containing F-gases on the EU market.
+Regulation (EU) 2024/573 is the EU’s third generation of legislation targeting fluorinated greenhouse gases (F-gases) — a group of synthetic chemicals used primarily in refrigeration, air conditioning, heat pumps, fire protection, and foam blowing. The regulation sets a binding schedule to slash the supply of hydrofluorocarbons (HFCs) by 95% by 2036 (compared to a 2015 baseline), bans the use of F-gases in specific new equipment, and tightens leak-check and recovery rules. It replaces the previous F-Gas Regulation (517/2014) and is a key pillar of the European Green Deal’s ambition to reach climate neutrality by 2050.
 
-The regulation sets a trajectory to cut the supply of HFCs in the EU to just 20% of 2015 levels by 2050, with intermediate steps. It introduces a quota system for placing HFCs on the market, with fees for quota allocation, and bans on specific applications — such as single-split air conditioners using lower-GWP refrigerants by 2027 and medium-voltage switchgear containing sulfur hexafluoride (SF6) by 2030. It also requires reporting of F-gas imports and exports, and includes stricter enforcement, including the use of digital tracking systems.
+The regulation operates through a quota system: producers and importers receive annual allowances to place HFCs on the market, with the total quota decreasing every three years. It also introduces a fee system to finance enforcement, stricter rules on preventing illegal trade (which had plagued earlier regimes), and bans on the use of certain F-gases in applications where natural alternatives exist — for example, banning HFCs in new domestic fridges, commercial plug-in cabinets, and some stationary air conditioning units well before 2030.
 
 ## Why was it introduced?
 
-The 2024 revision was driven by a structural failure: the 2014 regulation had succeeded in cutting HFC supply but had also left loopholes that allowed illegal trade and had failed to address the fastest-growing F-gas problem — sulfur hexafluoride (SF6) from electrical switchgear. The trigger for action was the European Commission's 2020 evaluation, which found that while the 2014 regulation had cut HFC supply by 37% from 2015 to 2019, it had not reduced actual emissions proportionally. The European Environment Agency's 2021 annual report showed that F-gas emissions had dropped by only 8% from 2015 to 2019, partly due to rising use of HFC-134a in new heat pumps and air conditioning in Southern Europe.
+The most dramatic trigger was the success of the **Kigali Amendment to the Montreal Protocol**, adopted in October 2016. Under the amendment, 197 parties agreed to phase down HFCs globally by 85% by 2047. The EU, which had already outlawed ozone-depleting CFCs and HCFCs, was a leading proponent. But its existing F-Gas Regulation (517/2014) was merely a stepping stone. By 2020 it had become clear that the pace of phase-down needed to accelerate if the EU was to meet its 2030 climate targets and retain credibility in the global climate talks.
 
-The coalition for revision included the European Commission — in particular Commissioner for the Environment, Oceans and Fisheries Virginijus Sinkevičius, who launched the proposal in April 2022 — backed by the European Parliament's rapporteur, Bas Eickhout (Greens/EFA, Netherlands). Environmental NGOs, notably the Environmental Investigation Agency (EIA), had documented extensive illegal imports of HFCs into the EU, mostly from China and India, through the so-called "quota loophole" — where companies imported bulk HFCs without a quota by claiming they were repackaging existing material. The EIA estimated in a 2021 report that illegal HFC imports amounted to the equivalent of 10-20 million tonnes of CO2 per year.
+The structural tension was obvious: HFCs can be 1,000 to 12,000 times more potent than CO₂ as greenhouse gases. The European Environment Agency’s 2021 annual F-gas report showed that despite the 2014 regulation, total F-gas emissions in the EU had plateaued at around 85 million tonnes CO₂ equivalent per year, largely due to illegal imports and the long lifetime of installed equipment. The European Commission’s 2020 impact assessment warned that without a stricter regime, cumulative emissions from 2022 to 2050 would be equivalent to 1.5 billion tonnes of CO₂ — roughly the EU’s entire annual emissions.
 
-Industry opposition came from two camps: European refrigeration manufacturers — organised through EPEE (European Partnership for Energy and the Environment) — argued that a faster phasedown would leave them dependent on cheaper, lower-efficiency alternatives or force early retooling. The European heat pump sector, represented by the European Heat Pump Association (EHPA), warned that banning HFCs in heat pumps too quickly — by 2027 under the initial proposal — would raise costs for consumers trying to switch away from natural gas heating. The European Commission's 2022 impact assessment estimated that the proposal would reduce cumulative emissions by 520 million tonnes of CO2 equivalent by 2050 against a baseline of 2.7 billion tonnes, but would cost industry €4.2 billion in transition costs over 2023-2035.
+The coalition that drove the recast was unusual in its breadth. **Commissioner Frans Timmermans** (European Green Deal) and **Environment Commissioner Virginijus Sinkevičius** made the file a priority. The European Parliament’s rapporteur, **Bas Eickhout** (Greens/EFA, Netherlands), pushed for an even faster phase-out. Industry was split. Heavyweights like **Danfoss** (a Danish components manufacturer) and **Carrier Global** (US-based, strong in natural refrigerants) publicly backed stricter rules because they had already invested in CO₂ and propane systems. By contrast, **Chemours**, **Honeywell**, and the European Fluorocarbons Technical Committee (EFCTC) warned of supply shortages, job losses, and risks to heat pump deployment — an argument that gained traction after Russia’s 2022 invasion of Ukraine made energy efficiency a sudden priority. The European Heat Pump Association (EHPA) demanded carve-outs for heat pumps, arguing the phase-down could slow the rollout of heating alternatives to gas.
 
-The timing broke a deadlock because of two factors. First, the European Green Deal and its Climate Law (2021) had set binding 2030 emission reduction targets — 55% below 1990 levels — which the 2014 F-gas regulation's trajectory was insufficient to meet. The Commission's own "Fit for 55" package, published in July 2021, required sector-level contributions from F-gases. Second, the 2022 Russian invasion of Ukraine spiked natural gas prices, making heat pumps a political priority. The European Commission's REPowerEU plan, published in May 2022, set a target of 10 million heat pump installations by 2027 and 30 million by 2030 — meaning the F-gas regulation had to avoid banning HFCs in heat pumps until alternatives were commercially viable. The final text, adopted in February 2024, pushed the heat pump ban from 2027 to 2029 for single-split systems.
+Timing was decisive. The Commission proposed the recast in **April 2022**, during the UN International Day of Climate Action and just weeks after the IPCC’s Sixth Assessment Report warned of accelerating warming. Two months later, the European Parliament’s environment committee backed a more ambitious phase-out. The European Council, initially cautious under pressure from southern member states with large refrigeration sectors, eventually agreed to a compromise in October 2023. The trilogue concluded in December 2023, and the regulation was published in the Official Journal in February 2024.
 
-The key change that unblocked the file was a compromise in the European Parliament in October 2023, where the Environment Committee (ENVI) voted 61-11 to support the Commission's phasedown schedule but added the 2029 heat pump delay and exemptions for small-quantity users. The Council of the EU adopted its general approach in November 2023. The final trilogue agreement, reached in January 2024, set the HFC quota to fall by 60% by 2030 relative to 2015 levels — tighter than the Council's position but softer than Parliament's initial demand for a 70% cut.
+What changed from earlier failures? The biggest unblocking factor was the mounting evidence of **illegal trade**. Operation Cool (2020–2022), coordinated by Europol and national authorities, had seized 24,000 tonnes of illegal HFCs at EU borders — enough to blow a hole in the quota system. The European Commission’s 2021 evaluation found that illegal imports had depressed prices and made legal businesses uncompetitive. The recast introduced a mandatory electronic registry, quotas for used HFCs, and a centralised fee system (€1 per tonne CO₂ equivalent for quota allocations) to fund enforcement. Without this crackdown, the phase-down target would have been unenforceable.
 
 ## Timeline
 
-- **1990s** — HFCs introduced as replacements for ozone-depleting CFCs and HCFCs under the Montreal Protocol, but are later recognised as potent greenhouse gases
-- **2006** — First EU F-Gas Regulation (EC 842/2006) adopted, requiring leak detection and recycling, but fails to cap supply
-- **2014** — Regulation (EU) 517/2014 adopted, introducing HFC phasedown quotas tied to 2015 baseline; sets a 79% reduction by 2030
-- **2020** — Commission evaluation finds the 2014 regulation cut HFC supply by 37% but F-gas emissions only by 8%; illegal trade concerns emerge
-- **April 2022** — European Commission publishes proposal for a revised regulation, with 80% HFC reduction by 2050 and SF₆ ban in switchgear by 2031
-- **October 2023** — European Parliament ENVI Committee votes 61-11 on its position, adding heat pump ban delay to 2029
-- **November 2023** — Council adopts its general approach
-- **January 2024** — Trilogue agreement reached on final text
-- **February 2024** — Regulation published in Official Journal (2024/573/EU)
-- **11 March 2024** — Regulation enters into force
-- **1 January 2025** — First quota reduction under new schedule; SF₆ ban in medium-voltage switchgear begins
-- **2029** — Ban on single-split air conditioners using HFCs with GWP ≥ 750
+- **2016** – The Kigali Amendment to the Montreal Protocol is adopted; the EU signs and ratifies in 2017.
+- **2018** – European Commission publishes a report noting that the 2014 F-Gas Regulation will not deliver sufficient cuts to meet 2030 targets.
+- **2020** – The European Green Deal names F-gas phase-down as a priority; the Commission launches an evaluation of the 2014 regulation.
+- **April 2022** – European Commission presents the proposal for a revised F-Gas Regulation.
+- **June 2023** – European Parliament adopts its negotiating position (426 votes in favour, 128 against).
+- **October 2023** – Council of the EU adopts its general approach, softening some timeline targets.
+- **December 2023** – Trilogue agreement reached; final text adopted by Parliament and Council.
+- **11 March 2024** – Regulation (EU) 2024/573 enters into force and applies from that date (with some provisions phased in later).
+- **2025** – The first major bans on HFCs in new domestic refrigerators and freezers take effect.
+- **2027** – Quota reduction step: maximum supply of HFCs reduced by 40% compared to 2015 levels.
 
 ## Impact and consequences
 
-The regulation accelerated the phaseout of HFCs in refrigeration and switchgear. Eurostat data for 2023 showed that HFC consumption in the EU had dropped 37% from 2015 levels — but the new regulation targets an 80% reduction by 2050, which will require annual quota cuts of roughly 5% per year through 2035. The European Commission estimated that the regulation would avoid 520 million tonnes of CO2 equivalent cumulative emissions by 2050.
+The regulation has already reshaped the European HVAC-R (heating, ventilation, air conditioning, refrigeration) industry. Companies that invested early in natural refrigerants — propane (R-290), CO₂ (R-744), and ammonia — have gained market share. **Carrier Global** launched its first full range of propane-based heat pumps for residential use in 2023, citing regulatory certainty. **Danfoss** reported a 30% increase in sales of CO₂ compressors for supermarket refrigeration between 2022 and 2024.
 
-Industry response was divided. European heat pump manufacturers — Daikin, NIBE, Vaillant — invested in R&D using propane (R290) as a refrigerant, which has a GWP of 3. The European Heat Pump Association warned in 2022 that a 2027 ban would make 30% of single-split models non-compliant, but the 2029 delay gave time for retooling. Gas-insulated switchgear manufacturers — Siemens Energy (Germany), ABB (Switzerland), and Hitachi Energy (Japan) — faced the 2030 SF₆ ban, which the Commission's 2022 impact assessment said would affect roughly 60% of European medium-voltage switchgear sales by volume. A 2023 study by the European Environmental Bureau estimated that SF₆ emissions from power grids had risen 15% since 2015, driven by expansion of renewables requiring new switchgear.
+But the transition has been disruptive for smaller installers and manufacturers. The European Federation of the Air Conditioning and Refrigeration Industry (EFCCI) estimated in 2023 that up to 15% of small and medium enterprises in the sector would need to completely retrain staff to handle flammable refrigerants like propane. Several member states, including **Poland** and **Italy**, requested transitional periods for refrigerant recovery at end-of-life, arguing their workforce lacked certification.
 
-Enforcement has been patchy. The EIA documented illegal HFC imports through the Port of Rotterdam in a 2023 investigation, where shipments labelled as "R134a" from China lacked valid EU quotas. The European Anti-Fraud Office (OLAF) opened 12 cases in 2023 related to F-gas smuggling, up from 4 in 2021. The new regulation's digital tracking system for HFCs — the "F-Gas Portal" — was launched in January 2025, with mandatory electronic reporting of all placing on the market.
+Illegal trade has not disappeared. In early 2024, Europol reported that the EU’s external border remained porous for bulk shipments of HFCs from Asia, though seizures increased by 20% year-on-year. The new fee system and electronic quota platform (launched in March 2024) aim to cut the profit margin for smugglers by making legal supply cheaper. A test enforcement in the Netherlands in late 2024 saw three companies fined a combined €1.2 million for quota evasion.
+
+The European Environment Agency’s 2025 preliminary data suggest that total HFC supply in the EU fell by 25% in 2024, the largest single-year drop since the Kigali Amendment. The Commission projects that by 2030, the regulation will avoid emissions equivalent to 310 million tonnes of CO₂ per year.
 
 ## Key questions answered
 
-### Why is sulfur hexafluoride being banned in electrical switchgear across Europe?
+### Why do some fridges and air conditioners have to switch to different gases in the EU?
 
-SF₆ has a global warming potential 25,000 times greater than CO2, and its atmospheric concentration has been rising steadily — the European Environment Agency's 2022 report showed SF₆ emissions from Europe's power sector grew 18% from 2015 to 2021, despite the 2014 regulation recommending voluntary substitution. The Commission's 2020 impact assessment found that 80% of SF₆ in Europe is used in gas-insulated switchgear for medium- and high-voltage grids. Alternatives using commercial vacuum and solid dielectric technologies — produced by Siemens Energy, ABB, and others — became commercially available around 2019, enabling a ban without grid reliability risks.
+Because the synthetic gases they used — hydrofluorocarbons — are extremely powerful greenhouse gases, thousands of times more harmful than CO₂. The EU regulation forces manufacturers to switch to natural alternatives like propane or CO₂, which have a negligible climate impact. This is part of the bloc’s plan to cut greenhouse gas emissions by 55% by 2030 and reach net-zero by 2050.
 
-### Why did the EU postpone the ban on certain heat pumps from 2027 to 2029?
+### Does the EU ban all HFCs immediately?
 
-The initial Commission proposal of April 2022 set 2027 for banning HFCs in single-split air conditioners and heat pumps, which would have affected models using R-410A (GWP 2,088) common in Southern Europe. The European Heat Pump Association and national industry associations warned this would raise heat pump costs by 30-50% at a time when REPowerEU aimed to deploy 10 million new heat pumps by 2027. The European Parliament's ENVI Committee — notably rapporteur Bas Eickhout — secured a two-year delay in October 2023, contingent on availability of alternatives using propane or CO₂. The final text requires a review by 2027 to assess whether market-ready alternatives exist for the residential heat pump segment.
+No. The regulation phases them down over a decade. Some applications — like domestic fridges and small commercial chillers — face early bans (from 2025–2027) because affordable natural alternatives exist. For larger equipment, like industrial heat pumps or chillers, the phase-out is slower to give industry time to design safe, efficient replacements.
 
-### What are the penalties for companies that use more hydrofluorocarbons than their allowed limit?
+### How does the EU stop companies from smuggling banned cooling gases?
 
-The regulation introduces a fee for quota allocation — €3 per tonne of CO2 equivalent initially, rising to €5 in 2025 — and a penalty of €10 per tonne for exceeding quota, based on the Commission's 2022 impact assessment. The first fee system was launched in January 2025. Member state authorities can impose additional fines; France's DGEC fined a French refrigeration wholesaler €1.2 million in 2022 for quota violations under the 2014 regulation. OLAF coordinates cross-border cases.
+The regulation introduces a central electronic registry for all quotas, a mandatory fee for quota allocations (€1 per tonne CO₂ equivalent), and stricter border controls. Customs authorities now use refrigerant sniffers and X-ray scanners to detect illegal shipments. Europol runs targeted operations (like “Operation Cool”) and shares intelligence across member states. Fines can reach €500,000 or 5% of annual turnover.
+
+### Will the F-Gas ban make heat pumps and air conditioning more expensive?
+
+In the short term, yes — natural refrigerants require redesign of components and new safety features (e.g., for flammable propane). The European Commission’s impact assessment estimated a 5–10% cost increase for heat pumps and air conditioning units by 2030. However, the regulation also bans the most expensive greenhouse gases, and over time, economies of scale in natural refrigerant equipment are expected to bring costs back down.
 
 ## Official sources
 
-- [Regulation (EU) 2024/573 full text (OJ L, 20.2.2024)](https://eur-lex.europa.eu/eli/reg/2024/573/oj)
-- [European Commission F-Gas webpage](https://climate.ec.europa.eu/eu-action/fluorinated-greenhouse-gases_en)
-- [European Environment Agency — F-Gas emissions indicators](https://www.eea.europa.eu/data-and-maps/indicators/emissions-of-fluorinated-gases-3)
-- [Commission impact assessment SWD(2022) 96 final, April 2022](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=SWD:2022:96:FIN)
+- Regulation (EU) 2024/573 on fluorinated greenhouse gases, Official Journal of the European Union, 20 February 2024 — https://eur-lex.europa.eu/eli/reg/2024/573/oj
