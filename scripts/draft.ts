@@ -559,6 +559,11 @@ export function finalize(fullContent: string, model?: string): void {
   if (fmEndIdx === -1) {
     throw new Error('Frontmatter block is not closed (missing closing ---).');
   }
+  const fm = content.slice(0, fmEndIdx);
+  const nullFields = [...fm.matchAll(/^(\w+):\s*$/gm)].map(m => m[1]);
+  if (nullFields.length) {
+    throw new Error(`Frontmatter has null/empty required fields: ${nullFields.join(', ')}`);
+  }
   if (model) {
     content = content.slice(0, fmEndIdx) + `\nllm: "${model}"` + content.slice(fmEndIdx);
   }

@@ -1,6 +1,6 @@
 ---
 title: "Regulation (EU) No 910/2014 on electronic identification and trust services for electronic transactions in the internal market (eIDAS)"
-directive:
+directive: "910/2014/EU"
 category: "Digital & Data"
 year: 2014
 tags: [electronic-identification, trust-services, digital-single-market, e-signatures, cybersecurity, cross-border]
