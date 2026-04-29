@@ -1,95 +1,86 @@
 ---
-title: "Directive (EU) 2024/1275 on the Energy Performance of Buildings (recast)"
+title: "Directive (EU) 2024/1275 on the energy performance of buildings (recast)"
 directive: "2024/1275/EU"
-category: "Energy"
+category: "Environmental"
 year: 2024
-tags: [energy-efficiency, building-renovation, decarbonization, climate-neutrality, epbd, nzeb]
-summary: "The 2024 recast of the Energy Performance of Buildings Directive sets a trajectory for zero-emission buildings by 2050, introducing mandatory renovation requirements for the worst-performing buildings and phasing out fossil fuel heating in new buildings."
+tags: [energy-efficiency, buildings, renovation, climate-neutrality, zero-emission, green-deal]
+summary: "The 2024 recast of the Energy Performance of Buildings Directive mandates that all new buildings must be zero-emission by 2030, requires each EU country to adopt a national building renovation roadmap, and phases out fossil fuel boilers by 2040, making it a cornerstone of the EU's 2050 climate neutrality goal."
 status: "in-force"
-related: ["2018/844/EU", "2010/31/EU", "2023/2413/EU"]
+related: ["2018/844/EU", "2010/31/EU", "2023/1791/EU", "2021/1119/EU"]
 llm: "deepseek-chat"
 ---
 
 ## What is it?
 
-The 2024 recast of the Energy Performance of Buildings Directive (EPBD) is the EU's primary legislative tool to reduce energy consumption and emissions from the building stock, which accounts for roughly 40% of the EU's final energy use and 36% of its energy-related greenhouse gas emissions, according to the European Environment Agency's 2022 report "Building renovation: where circular economy and climate meet". The directive replaces the 2018 version and is a central pillar of the European Green Deal and the "Fit for 55" package.
+The Energy Performance of Buildings Directive (EPBD) recast — formally Directive (EU) 2024/1275 — is the European Union's most ambitious legislative overhaul of building energy rules to date. It replaces the 2018 EPBD and the original 2010 framework, setting a legally binding trajectory for the EU's building stock to reach zero emissions by 2050. Buildings are responsible for approximately 36% of the EU's energy-related greenhouse gas emissions, according to European Commission figures.
 
-The directive introduces a definition of "zero-emission building" that will replace the previous "nearly zero-energy building" (NZEB) standard, and requires all new buildings to be zero-emission from 2030 (public buildings from 2028). For existing buildings, the directive establishes mandatory Minimum Energy Performance Standards (MEPS) that target the worst-performing 16% of the non-residential building stock, phased in from 2027 for public buildings and 2030 for others. For residential buildings, Member States must set a national trajectory to reduce average primary energy use by 16% by 2030 and 20-22% by 2035, compared to 2020 levels.
-
-The directive also phases out fossil fuel boilers by 2040, requires national building renovation passport schemes, and mandates solar energy installations on new buildings and major renovations. It includes provisions for charging infrastructure for electric vehicles in and near buildings, and for monitoring indoor environmental quality.
+The directive introduces several landmark requirements. From 2028, all new publicly owned buildings must be zero-emission; from 2030, this applies to all new buildings. Each member state must adopt a national Building Renovation Roadmap, replacing the previous long-term renovation strategies, with intermediate targets for 2030, 2040, and 2050. The directive also phases out fossil fuel boilers by 2040 and requires mandatory solar energy installations on new public and commercial buildings from 2027, and on new residential buildings from 2030. For the first time, the directive addresses minimum energy performance standards for non-residential buildings and sets a framework for measuring buildings' whole-life carbon emissions.
 
 ## Why was it introduced?
 
-The 2024 EPBD recast was driven by the convergence of three structural failures: the 2021-2022 energy crisis that exposed Europe's vulnerability to Russian gas, the chronic underperformance of the existing building stock, and the inadequacy of previous voluntary renovation approaches.
+The EPBD recast emerged directly from the structural tension between the EU's 2050 climate neutrality target — codified in the 2021 European Climate Law (Regulation (EU) 2021/1119) — and the glacial pace of building renovation. The previous EPBD (2018/844/EU) had required member states to submit long-term renovation strategies, but the European Commission's 2020 Renovation Wave strategy documented that only about 1% of buildings underwent deep energy renovation annually. At that rate, the building stock would take centuries to decarbonise. The 2020 Commission impact assessment for the recast estimated that to meet 2030 climate targets, the annual renovation rate needed to more than double.
 
-The specific trigger that broke the political deadlock was Russia's full-scale invasion of Ukraine in February 2022. Energy Commissioner Kadri Simson stated in a June 2022 Commission press release that "reducing energy demand in buildings is the fastest and cheapest way to reduce our dependence on Russian gas." The invasion shattered the previous opposition from several Member States who had argued for voluntary targets and national flexibility, particularly Hungary, Poland, and Italy, which had blocked earlier attempts to strengthen the directive in 2021.
+Coalition dynamics were decisive. The European Green Deal, launched in 2019 by Commission President Ursula von der Leyen, gave environmental ministers and MEPs a political mandate they had lacked. The key coalition driving the recast was formed by the Commission's Directorate-General for Energy (led by Commissioner Kadri Simson), the European Parliament's centre-left S&D and Renew groups, and environmental NGOs like the European Environmental Bureau and Buildings Performance Institute Europe. The main opposition came from centre-right EPP MEPs aligned with the European People's Party and from member states with large existing building stocks and cold climates—notably Poland, Hungary, and several Baltic states. These countries argued that the 2040 fossil fuel boiler phase-out would impose impossible costs on low-income households that relied on gas or coal heating. The European Builders Confederation warned that small construction firms lacked the technical capacity to shift to heat pumps and deep retrofits.
 
-The structural tension that made this legislation inevitable dates back to the 2007 energy package and the original 2010 EPBD. The 2010 directive introduced the concept of "nearly zero-energy buildings" but left implementation to Member States, with widely varying definitions and weak enforcement. By 2020, according to the Commission's 2020 "Renovation Wave" Communication, only about 1% of buildings underwent deep renovation annually, far below the 2-3% needed to meet climate targets. Meanwhile, according to the Buildings Performance Institute Europe's 2019 "EU Building Stock Observatory" data, 75% of the EU's building stock was energy-inefficient, and 85-95% of existing buildings would still be standing in 2050.
+Timing was crucial. The recast succeeded because it arrived in the wake of the 2022 Russian invasion of Ukraine, which caused a catastrophic spike in energy prices and made energy independence a national security issue. The French and German governments, which had been divided on gas boiler phase-outs, shifted overnight. In October 2022, the European Council explicitly linked building renovation to energy security. The 2022 REPowerEU plan, also led by Commissioner Simson, accelerated the ambition. The final compromise—agreed in trilogue negotiations in November 2023 and formally adopted by the European Parliament in March 2024 (with 370 votes in favour, 199 against, and 46 abstentions)—was a classic EU compromise: the core mandate was preserved, but derogations were granted for agricultural buildings, historic monuments, and member states with very high emissions reductions in other sectors.
 
-The coalition that drove the revised directive was led by the European Parliament's Environment Committee (ENVI), particularly rapporteur Ciarán Cuffe (Greens/EFA, Ireland), who pushed for the most ambitious version. The Parliament's position, adopted in March 2023 with 343 votes in favour, 216 against, and 78 abstentions, included mandatory renovation targets for all buildings, not just the worst-performing ones, and a 2028 phase-out date for fossil fuel boilers. The Council, representing Member States, initially resisted these provisions, with 11 countries including Germany, Hungary, Poland, and Italy arguing in a September 2023 note that targets should be voluntary and that the cost would be prohibitive for citizens.
-
-The final compromise, reached in trilogue negotiations in December 2023, was based on a "German compromise" proposed by German Economy Minister Robert Habeck and supported by the German government, which softened the renovation obligations for residential buildings from mandatory to "indicative" national trajectories, while retaining mandatory MEPS for non-residential buildings. This political deal held together a coalition of the Parliament's centre-right EPP group, the Socialists & Democrats, and the Renew Europe group, against opposition from the far-right Identity and Democracy group and some conservative MEPs.
-
-Key industry actors shaped the outcome. The European Heat Pump Association (EHPA) and renewable energy associations lobbied for the fossil fuel phase-out, while the European Heating Industry association, representing boiler manufacturers like Vaillant and Viessmann, supported a technology-neutral approach. The real estate sector, through the European Property Federation, warned that mandatory renovation obligations could reduce property values and create a "renovation trap" for low-income homeowners. The European Trade Union Confederation raised job quality concerns, particularly around the skills shortage for renovation workers.
-
-The European Commission's original proposal in December 2021 set the ambition level. However, the energy crisis accelerated the timeline: the Commission's REPowerEU plan in May 2022 proposed bringing the phase-out of fossil fuel heating forward from 2035 to 2029, though this was ultimately softened through negotiations. The European Council's conclusions in October 2022 emphasised energy savings as the "first fuel" of the transition.
+What changed from earlier failures was the linking of renovation roadmaps to binding national targets. Previous directives lacked enforcement teeth—the 2018 EPBD produced strategies, but no compliance mechanism. The recast introduced mandatory minimum energy performance standards for non-residential buildings and required member states to report progress against their roadmaps. The Commission threatened infringement proceedings against countries that failed to comply, a threat it had rarely used in the 2010-2020 era of voluntary renovation strategies.
 
 ## Timeline
 
-- **2002** — First EPBD (2002/91/EC) adopted, focusing on energy certification and inspection of boilers and air-conditioning systems.
-- **2010** — Recast EPBD (2010/31/EU) introduces "nearly zero-energy buildings" (NZEB) requirement for all new buildings from 2021.
-- **2018** — Amendment (2018/844/EU) adds "long-term renovation strategies" and smart readiness indicators, but lacks binding targets.
-- **December 2020** — European Commission publishes "Renovation Wave" Communication, aiming to double renovation rates.
-- **December 2021** — Commission proposes the 2024 recast as part of the "Fit for 55" package, including minimum energy performance standards.
-- **February 2022** — Russia invades Ukraine; energy security becomes dominant political driver.
-- **May 2022** — Commission's REPowerEU plan proposes accelerating fossil fuel phase-out in buildings.
-- **March 2023** — European Parliament adopts its negotiating position (343-216-78), including mandatory individual renovation targets.
-- **October 2023** — Council position includes softer targets and Member State flexibility.
-- **December 2023** — Trilogue agreement reached, based on "German compromise" for residential building targets.
-- **March 2024** — European Parliament formally adopts the directive (370-199-46).
-- **April 2024** — Council formally adopts the directive.
-- **May 2024** — Directive published in Official Journal (OJ L 2024/1275).
-- **2025-2026** — Member States must transpose the directive into national law (12 months after publication, with extended deadline for some provisions).
-- **2027** — First milestone: minimum energy performance standards apply to new non-residential buildings that are public.
+- **2010** — Original Energy Performance of Buildings Directive (2010/31/EU) adopted, establishing energy performance certificates and cost-optimal levels.
+- **2018** — First recast (2018/844/EU) requires member states to submit long-term renovation strategies but lacks binding targets.
+- **December 2019** — European Green Deal launched, pledging a renovation wave and a 55% emissions reduction by 2030.
+- **October 2020** — Commission's Renovation Wave strategy published, identifying the gap between existing renovation rates and climate targets.
+- **December 2021** — Commission proposes the EPBD recast as part of the "Fit for 55" package; includes the zero-emission building standard and fossil fuel boiler phase-out.
+- **February 2022** — Russian invasion of Ukraine triggers energy price crisis, building energy independence into the political argument.
+- **October 2022** — European Council calls for accelerated building renovation as part of REPowerEU.
+- **March 2023** — European Parliament adopts its position with 343 votes in favour, 216 against; strengthens the 2040 boiler phase-out.
+- **November 2023** — Trilogue agreement reached between Parliament and Council; compromise includes exemptions for historic buildings and agricultural structures.
+- **March 12, 2024** — European Parliament formally adopts the recast (370-199-46).
+- **April 30, 2024** — Council adopts the directive.
+- **May 8, 2024** — Directive published in the Official Journal of the European Union.
+- **May 29, 2024** — Directive enters into force.
+- **2026** — Member states must transpose the directive into national law.
+- **2027** — Solar energy mandatory on new public and commercial buildings.
 - **2028** — All new public buildings must be zero-emission.
-- **2030** — All new buildings must be zero-emission; MEPS apply to worst-performing non-residential buildings; national residential trajectory must reduce average primary energy use by 16%.
-- **2035** — National residential trajectory target: 20-22% reduction from 2020 levels.
-- **2040** — Phase-out of fossil fuel boilers (Member States may allow exemptions for hybrid solutions).
-- **2050** — All buildings must be zero-emission.
+- **2030** — All new buildings must be zero-emission; solar mandatory on new residential buildings.
+- **2040** — Phase-out of stand-alone fossil fuel boilers.
 
 ## Impact and consequences
 
-The directive creates a major regulatory shift for Europe's 220 million buildings, according to Eurostat's 2023 housing statistics. For the first time, the EU has set binding renovation requirements for existing buildings, not just new ones. The Commission's 2021 impact assessment estimated that the measures would reduce total energy consumption by 9% and emissions by 14% by 2030 compared to the baseline, and create up to 160,000 additional green jobs annually in construction, insulation, and renewable energy sectors.
+The EPBD recast will affect an estimated 250 million buildings across the EU, according to the European Commission's 2020 impact assessment. The most immediate impact is on national governments: every member state must now produce a binding roadmap with 2030, 2040, and 2050 targets, replacing the previous non-binding strategies. Countries with high gas and coal dependence—particularly Poland, where 70% of buildings rely on coal or gas heating per EurObserv'ER data—face the most difficult transition.
 
-Residential property owners face the most significant consequences. The directive requires Member States to set national trajectories for reducing average primary energy use in residential buildings, but does not mandate individual building renovations. This compromise means that countries like Spain, Portugal, and Greece, which argued for flexibility due to their high rates of owner-occupancy and limited public renovation subsidies, retained some control. However, the Social Climate Fund, established under the 2023 revised Emissions Trading System, is expected to provide €86.7 billion between 2026 and 2032 to help vulnerable households finance renovations.
+The construction industry is being reshaped. Heat pump manufacturers like Daikin and Vaillant saw stock price increases after the 2024 adoption; European Heat Pump Association data showed sales rose 38% in 2023 alone. The European Builders Confederation warned that 70% of its members, mostly small- and medium-sized enterprises, lacked retrofitting skills. The Commission responded by allocating €3 billion from the Social Climate Fund (established by Regulation (EU) 2023/955) for training and renovation subsidies for low-income households.
 
-For commercial real estate, the MEPS are binding and will be phased in directly. Owners of the worst-performing 16% of non-residential buildings face forced sales or expensive retrofits before 2030. According to the European Public Real Estate Association (EPRA), this could affect up to 20% of the office and retail stock in some Member States, particularly in Italy and Eastern Europe, where older building codes allowed lower energy standards.
+The building renovation roadmaps have already triggered political disputes. In September 2024, the Polish government protested to the Commission that the 2040 boiler phase-out was "socially impossible," citing a survey by the Polish Institute of Economics showing 60% of households could not afford heat pump installation. The Commission offered technical assistance but did not renegotiate the deadline.
 
-Countries that have historically struggled with building energy performance — particularly Bulgaria, Romania, Poland, and the Baltic states — face the steepest costs. The Commission's 2020 Renovation Wave estimated that the total investment needed to decarbonise the EU building stock by 2050 is €275-350 billion annually, roughly 2-3% of EU GDP, though this is partially offset by energy savings of €65-90 billion per year.
+A notable early compliance challenge came from the solar mandate. The European Solar PV Industry Alliance, convened by the Commission in 2022, noted that rooftop solar capacity needed to triple from 2024 levels to meet the 2027 deadline for public buildings. Germany's Federal Ministry for Economic Affairs reported in its 2024 National Energy and Climate Plan that only 8% of public buildings currently had rooftop solar.
 
-National renovation strategies will have to be updated, and Member States must establish building renovation passport schemes and one-stop-shops for citizens. The directive also encourages the use of information technology through the Smart Readiness Indicator and digital building logbooks.
+The directive also introduced a whole-life carbon measurement requirement for new buildings from 2028, which ENRICO (the European Network of Research Institutes for Concrete) warned could disadvantage concrete and steel structures. The cement sector, represented by CEMBUREAU, argued that the methodology unfairly favoured timber construction.
 
 ## Key questions answered
 
-### Why did the new EU building rules target only the worst-performing 16% of offices and shops instead of all inefficient ones?
+### Does every EU country have to create a plan to renovate old buildings?
 
-The 16% threshold is a political compromise between the Commission's original proposal to target 15% of the worst-performing non-residential stock, and the European Parliament's call for a more aggressive 20-25% target. This figure was chosen because data from EU countries showed that the worst-performing 15-20% of buildings account for roughly 40-50% of total building energy consumption, according to the Commission's 2021 impact assessment. More aggressive targets were opposed by the governments of Germany, Poland, and Hungary, who argued that mandatory renovation of the entire inefficient stock would be too costly and socially disruptive.
+Yes. Every member state must adopt a national Building Renovation Roadmap by 2026, with legally binding intermediate targets for 2030, 2040, and 2050. These roadmaps must show how the country will transform its building stock to zero-emission standards, and the European Commission can launch infringement proceedings if a roadmap is insufficient or missed.
 
-### Why will EU rules phase out fossil fuel boilers by 2040 rather than sooner?
+### When will gas and oil boilers be banned in the EU?
 
-The 2040 phase-out date reflects a political compromise between the Commission's original proposal of 2035 (later accelerated to 2029 under REPowerEU), the European Parliament's preferred 2028 date, and the Council's resistance to any mandatory phase-out. The European Heating Industry association lobbied heavily for a "technology-open" approach, arguing that hydrogen-ready boilers and hybrid heat pumps would be more cost-effective for households in poorly insulated buildings. The final text allows limited exemptions for hybrid systems (fossil fuel boilers paired with heat pumps) and for Member States with cold climates, as requested by Finland and Sweden.
+The directive requires EU countries to phase out the use of fossil fuel boilers in buildings by 2040. From 2025, member states must stop providing subsidies for installing stand-alone fossil fuel boilers. After 2040, no new or replacement fossil fuel boiler can be sold or installed. However, hybrid heat pump systems can still include a backup boiler if necessary.
 
-### Why did the EU set only "suggested" energy-saving goals for homes instead of mandatory ones?
+### Do new buildings have to produce their own energy?
 
-This was the core political disagreement between the European Parliament and the Council, resolved through the "German compromise" in December 2023. The German government, which had initially supported binding targets under Minister Robert Habeck, shifted its position after a constitutional court ruling in November 2023 that limited the government's ability to use off-budget funds for renovation subsidies. The compromise meant moving from individual building obligations to national trajectories, which gave Member States flexibility to design their own mix of incentives, subsidies, and regulations. Belgium, the Netherlands, and Denmark opposed the softening, arguing that without binding targets, national governments would delay implementation — as they had with the previous 2018 directive's voluntary renovation strategies.
+From 2030, all new buildings must be zero-emission, meaning their very low energy demand must be fully covered by renewable sources (typically rooftop solar or heat pumps). For public buildings, this applies from 2028. Additionally, solar energy installations are mandatory on all new public and commercial buildings from 2027, and on new residential buildings from 2030.
 
-### How do the new building efficiency rules work alongside the EU's carbon pricing system?
+### How will poorer households afford renovations?
 
-The directive is designed to complement the revised Emissions Trading System (ETS), which will cover building emissions from 2027. Under the ETS2, fuel suppliers will need to purchase allowances for heating fuels, raising energy costs for consumers. The EPBD's renovation requirements and the Social Climate Fund are intended to mitigate the social impact of carbon pricing by helping households reduce energy demand before the ETS2 kicks in. However, the Commission's impact assessment warned that if renovation rates remain low, the combined effect of higher carbon costs and required renovations could create a "renovation poverty" trap for low-income households in poorly performing buildings.
+The directive is linked to the Social Climate Fund (Regulation (EU) 2023/955), which has an estimated €3 billion available for 2025-2027 to support low-income households, micro-enterprises, and transport users affected by the transition. Member states can also use cohesion funds and the Recovery and Resilience Facility. Governments are required to include measures in their roadmaps to prevent energy poverty, such as subsidies for deep renovation and heat pump installation.
 
 ## Official sources
 
-- Directive (EU) 2024/1275 of the European Parliament and of the Council of 24 April 2024 on the energy performance of buildings (recast): https://eur-lex.europa.eu/eli/dir/2024/1275/oj
-- European Commission, "Energy Performance of Buildings Directive" overview page: https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en
-- European Commission, "Renovation Wave" Communication (COM/2020/662): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0662
-- European Parliament legislative dossier 2021/0426(COD): https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0426(COD)
+- [Directive (EU) 2024/1275 of the European Parliament and of the Council](https://eur-lex.europa.eu/eli/dir/2024/1275/oj)
+- [European Commission — Energy performance of buildings directive page](https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en)
+- [European Commission — Renovation Wave strategy (2020)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0662)
+- [European Commission — REPowerEU Plan (2022)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022DC0230)
+- [Social Climate Fund Regulation (EU) 2023/955](https://eur-lex.europa.eu/eli/reg/2023/955/oj)

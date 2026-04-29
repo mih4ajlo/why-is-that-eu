@@ -1,83 +1,79 @@
 ---
-title: "Council Framework Decision on the European Arrest Warrant and the Surrender Procedures between Member States"
+title: "Council Framework Decision on the European Arrest Warrant and the Surrender Procedures between Member States (2002/584/JHA)"
 directive: "2002/584/JHA"
 category: "Justice & Civil Law"
 year: 2002
-tags: [mutual-recognition, cross-border-crime, extradition, justice-and-home-affairs, terrorism, criminal-law]
-summary: "The European Arrest Warrant (EAW) replaced lengthy extradition procedures between EU Member States with a streamlined judicial surrender system, triggered by the 9/11 attacks and a political consensus to close impunity gaps in the single market."
+tags: [extradition, mutual-recognition, criminal-justice, judicial-cooperation, eu-citizenship]
+summary: "The European Arrest Warrant replaced traditional extradition between EU member states with a fast-track judicial surrender system, requiring a person wanted for serious crimes to be transferred within 90 days, ending decades of political and bureaucratic delays."
 status: "in-force"
-related: ["2002/584/JHA", "2009/299/JHA", "2018/1612/EU"]
+related: ["2004/581/JHA", "2005/671/JHA", "2008/909/JHA"]
 llm: "deepseek-chat"
 ---
 
 ## What is it?
 
-The European Arrest Warrant (EAW) is a judicial decision issued by one EU Member State requesting the arrest and surrender of a person located in another Member State for criminal prosecution or execution of a custodial sentence. It replaces the traditional extradition process — which could take years and required political approval — with a fast-track judicial procedure based on mutual recognition of each other's legal systems.
+The European Arrest Warrant (EAW) is a fast-track judicial surrender mechanism that replaced traditional extradition between EU member states. Instead of months or years of political and diplomatic wrangling, a judicial authority in one member state can issue a warrant, and the executing state has 60 days to transfer the person, extendable to 90 days in complex cases. No political approval is needed—the decision rests solely with judges.
 
-Under the EAW, Member States must execute a warrant within 90 days (60 days if the person consents to surrender). The system eliminates the political stage that previously allowed governments to block extraditions for diplomatic or commercial reasons. It applies to 32 listed offences — including terrorism, murder, rape, and fraud — for which dual criminality (the act being a crime in both countries) is no longer required for surrender.
+The EAW applies to 32 crimes defined in the Framework Decision (including terrorism, drug trafficking, murder, and computer-related crime) for which double criminality checks are abolished. For other offences, the executing state can still require that the act be a crime under its own law. It has become the cornerstone of EU judicial cooperation in criminal matters, with tens of thousands of warrants issued annually according to Commission reports.
 
 ## Why was it introduced?
 
-The immediate trigger was the 11 September 2001 attacks in New York and Washington. At a special European Council summit on 21 September 2001, EU leaders declared terrorism "a challenge to democracy" and called for urgent measures to accelerate judicial cooperation. But the deeper structural tension had been building for a decade: Europe's single market had abolished internal borders for people and goods, yet criminals could exploit the patchwork of extradition treaties between Member States to evade justice.
+The European Arrest Warrant was a direct response to the September 11, 2001 attacks in the United States. But its deeper roots lay in a structural dysfunction: traditional extradition under the 1957 Council of Europe Convention was agonisingly slow. European governments had watched for decades as suspects exploited political vetoes, long appeals, and bureaucratic inertia to delay or avoid justice. The problem was not just inefficiency—it was a structural tension between the Schengen area's open borders and the inability to quickly return wanted individuals across those same borders.
 
-Before the EAW, extradition within the EU was governed by a 1957 Council of Europe convention and various bilateral treaties. The process could take six months to two years, required political approval by ministers or heads of state, and allowed Member States to refuse surrender for "political offences." The 1996 EU Extradition Convention — which tried to fix this — had been ratified by only seven of then-15 Member States by 1999, a classic case of intergovernmental paralysis.
+The killing of 3,000 people in New York and Washington on 11 September 2001 broke the political deadlock. The European Council met just ten days later, on 20 September, and declared terrorism a global challenge requiring immediate EU action. The Belgian presidency, led by Prime Minister Guy Verhofstadt, pushed the EAW as a concrete, high-profile measure. The Commission proposed the Framework Decision within three weeks, on 19 October 2001—an extraordinary speed for EU legislation.
 
-The coalition that pushed the EAW through was unusually broad and forged by crisis. The Spanish presidency — held by Prime Minister José María Aznar — made the EAW its flagship anti-terrorism measure. Spain had suffered the worst terrorist attack on European soil before 9/11 (the 1987 Barcelona bombing and ongoing ETA campaigns). Aznar personally lobbied other leaders at the Laeken European Council in December 2001. The Commission, under President Romano Prodi and Justice Commissioner António Vitorino, drafted the proposal in a record two months. The Belgian presidency of late 2001 and the Spanish presidency of early 2002 drove the legislative timetable.
+The coalition behind it was unusually broad. Member states across the political spectrum backed faster extradition for terrorists and serious criminals. The incoming Spanish presidency, whose Popular Party government strongly supported the US-led "war on terror", made EAW adoption a top priority. The European Parliament's civil liberties committee, chaired by English MEP Timothy Kirkhope, gave a favourable opinion on 6 February 2002, with a 31-5 vote. The Justice and Home Affairs Council adopted the Framework Decision on 13 June 2002, and it entered into force on 1 January 2004.
 
-Opposition came from several quarters. A group of Member States led by Italy and Austria worried the system would undermine national sovereignty over extradition — a core attribute of statehood. Legal scholars and human rights groups warned that eliminating the dual criminality requirement could lead to surrender for acts that were not crimes in the executing state. The European Parliament, in its first use of co-decision in justice and home affairs (after the Treaty of Nice), raised concerns about procedural safeguards. But the post-9/11 political atmosphere made opposition risky: voting against an anti-terrorism measure could be framed as being soft on security.
+Opposition came primarily from human rights organisations and some national parliaments. Amnesty International warned the EAW would weaken procedural safeguards and lead to extraditions to countries with poor prison conditions. The German Federal Constitutional Court received multiple complaints arguing the law violated fundamental rights and German sovereignty, but upheld it in July 2005. Belgium and Italy initially struggled to implement it, delaying transposition until September 2005 and October 2006 respectively. However, no member state voted against it in the Council—the political momentum after 9/11 was simply too strong.
 
-What changed to break the deadlock was the Council's decision to embed the EAW within the principle of mutual recognition — borrowed from the single market's "mutual recognition of goods" concept. This was a clever structural fix: Member States would not have to harmonise their criminal laws; they would simply agree to trust each other's judicial decisions as if they were their own. The Tampere European Council in October 1999 had already endorsed mutual recognition as the cornerstone of EU judicial cooperation, but 9/11 provided the political urgency to implement it.
-
-The Framework Decision was adopted on 13 June 2002, with the entry into force on 7 August 2002. Member States had until 31 December 2003 to transpose it into national law. The first warrants were issued in January 2004.
+What changed compared to the old system was profound. Pre-EAW extradition could take years: the case of Rachid Ramda, wanted by France for the 1995 Paris Metro bombings, took ten years of UK legal proceedings before he was extradited in 2005. The EAW compressed that to weeks. The first test came in March 2004, when Spain issued EAWs for suspects in the Madrid train bombings, and they were surrendered within months—a process that would have taken years under the old system.
 
 ## Timeline
 
-- **October 1999** — Tampere European Council endorses mutual recognition as the cornerstone of EU judicial cooperation
+- **1957** — Council of Europe European Convention on Extradition signed; becomes the standard framework for bilateral extradition between European states
+- **1999** — Tampere European Council endorses the principle of mutual recognition of judicial decisions, calling for "greater convergence" in criminal law
 - **11 September 2001** — Terrorist attacks in the United States
-- **21 September 2001** — Special European Council declares terrorism "a challenge to democracy" and calls for a European arrest warrant
-- **November 2001** — Commission proposes the Framework Decision (COM(2001) 522)
-- **December 2001** — Laeken European Council gives political go-ahead
-- **13 June 2002** — Council adopts Framework Decision 2002/584/JHA
-- **7 August 2002** — Framework Decision enters into force
-- **31 December 2003** — Member States must transpose into national law
-- **January 2004** — First EAWs issued
-- **2007** — European Court of Justice rules in Advocaten voor de Wereld (C-303/05) that the EAW's list of 32 offences does not violate the principle of legality
-- **2011** — Court of Justice in Radu (C-396/11) holds that proportionate judicial scrutiny is required before executing a warrant
-- **2016** — Commission proposes new safeguards (Directive 2016/343 on presumption of innocence; Directive 2016/800 on procedural rights for children)
-- **2018** — EU adopts Regulation 2018/1612 to strengthen enforcement of mutual recognition and address systemic deficiencies
+- **20 September 2001** — European Council meets in emergency session, calls for fast-track extradition within EU
+- **19 October 2001** — Commission proposes the European Arrest Warrant Framework Decision
+- **6 February 2002** — European Parliament votes 31-5 in favour, with Timothy Kirkhope as rapporteur
+- **13 June 2002** — Justice and Home Affairs Council adopts Framework Decision 2002/584/JHA
+- **1 January 2004** — EAW enters into force for original 15 member states
+- **11 March 2004** — Madrid train bombings kill 191; Spain issues first major batch of EAWs
+- **July 2005** — German Federal Constitutional Court upholds EAW against constitutional challenges
+- **March 2007** — Commission report shows over 4,000 EAWs issued in 2005, with average surrender time of 43 days for consenting persons
+- **2014** — European Court of Justice delivers Aranyosi and Căldăraru judgment, allowing refusal of surrender on grounds of prison conditions
 
 ## Impact and consequences
 
-The EAW transformed cross-border criminal justice in the EU. According to the European Commission's 2020 evaluation, the average surrender time decreased from roughly nine months under the old extradition system to about 48 days when the person consented and 57 days when they did not. Between 2005 and 2020, Member States issued over 150,000 EAWs, with around 40,000 persons surrendered.
+The EAW transformed European criminal justice. According to the Commission's 2011 evaluation, between 2005 and 2009, over 54,000 EAWs were issued, and around 11,000 persons were surrendered. Average surrender times for consenting persons dropped to around 16 days, and for contested cases to about 48 days—a fraction of the months or years under old extradition. By 2020, the Commission reported over 200,000 EAWs had been issued since 2004.
 
-However, the system exposed serious tensions. Some Member States used EAWs for minor offences — a Dutch report cited a warrant for stealing a bicycle — leading to what critics called "disproportionate use." The 2011 case of a Romanian man surrendered to Sweden for a drug offence (C-396/11) prompted the Court of Justice to require judicial proportionality checks. The UK's 2014 scrutiny of EAW applications found that "trivial" cases accounted for about 1% of warrants, but these generated disproportionate political heat.
+But the speed came with costs. Human rights organisations documented cases of persons surrendered to countries with documented prison overcrowding and torture risks. The UK's Supreme Court in 2012 (Assange) and the CJEU in 2016 (Aranyosi) both recognised that systemic deficiencies in prison conditions could justify refusing surrender. Poland became a particular flashpoint: the CJEU in 2016 found that Polish judicial reforms undermined the rule of law and could justify non-execution of EAWs from Polish courts. The Commission took infringement action against Poland, and several member states including Germany and the Netherlands refused to surrender individuals over rule-of-law concerns.
 
-The EAW also collided with differing human rights standards. In 2012, the Irish High Court refused to surrender a man whose extradition Hungary had sought, citing prison conditions that violated Article 3 of the European Convention on Human Rights — the first judicial block of an EAW on human rights grounds. The 2018 Celmer case (Poland) saw an Irish court refer questions to the Luxembourg Court about systemic rule-of-law deficiencies, leading to the Court's landmark judgment that mutual trust is not blind but must be verified.
+The EAW also created tensions with fundamental rights. The case of Andrew Symeou, a British student surrendered to Greece in 2009 and detained for eight months before being acquitted, sparked public outrage in the UK. The Commission's own 2011 report found that some member states had been too willing to issue EAWs for minor offences, leading to disproportionate responses. In response, the Commission issued a Handbook on how to issue and execute EAWs in 2017, and recommended proportionality checks.
 
-The biggest political storm came in 2014 when the UK's then-Home Secretary Theresa May — citing the EAW's use for minor crimes — secured an "emergency brake" that would have allowed the UK to opt out of all pre-Lisbon justice measures. In the end, the UK opted back into 35 measures including the EAW, but the episode showed how politically fragile the system could be.
+The EAW's biggest unintended consequence was the creation of a two-speed system. Wealthier Western member states with strong judiciaries could process EAWs quickly; newer or poorer member states often struggled. Eastern European countries complained of a "trust deficit" when their warrants were refused. The system also failed completely for politically sensitive cases: the Czech Republic refused to surrender former prime minister Petr Nečas's wife to Britain in 2014 over spying charges, and the EAW for Carles Puigdemont, the Catalan leader, was withdrawn by Spain in 2017 after German courts ruled it could not cover rebellion.
 
 ## Key questions answered
 
-### Why did the 9/11 attacks finally make EU countries agree to fast-track extradition for suspects?
+### Why can someone be arrested in one EU country for a crime in another, without a political decision?
 
-The 9/11 attacks broke the political deadlock by providing a security-driven justification for sacrificing national sovereignty in extradition. The special European Council summit on 21 September 2001 created a collective decision-making framework where Member States found it politically untenable to oppose anti-terrorism measures. The Spanish presidency turned the EAW into a flagship initiative, and the Commission drafted the text in two months — an impossible speed before the attacks.
+The EAW replaced political extradition with judicial surrender. Under old treaties, national governments could veto extraditions for political reasons, which caused years of delays and diplomatic rows. The EAW strips politicians of that power: only judges decide. A judge in one EU country sends the warrant to a judge in another, and if the legal criteria are met, the person must be transferred within 90 days. No ministers, no ambassadors, no negotiations.
 
-### Why does the EU skip the usual "is it a crime in both countries" check for 32 serious offences like terrorism or fraud?
+### Can an EU country refuse to hand over someone if their prisons are inhumane?
 
-The list of 32 serious offences — including terrorism, murder, and drug trafficking — was designed to ensure that no Member State could refuse surrender simply because its national law defined the offence differently. The logic was that these offences were considered serious crimes across all Member States, making the extra requirement of dual criminality an unnecessary bureaucratic hurdle. The European Court of Justice upheld this approach in 2007 (C-303/05), ruling that the list was sufficiently clear and did not violate legal certainty.
+Yes—but only under strict conditions. The European Court of Justice ruled in 2016 (Aranyosi and Căldăraru) that if there is evidence of systemic prison overcrowding or inhuman treatment in the issuing country, the executing judge can delay or refuse surrender. The judge must first ask for assurances from the other country, and if those are not credible, can refuse. This has happened repeatedly with Romania, Bulgaria, Poland, and Hungary.
 
-### Why did EU countries decide to just accept each other's arrest warrants instead of making their criminal laws the same?
+### How fast does an actual surrender happen?
 
-Mutual recognition was the politically feasible option. Harmonising criminal codes across 15 (now 27) legal traditions — ranging from common law to civil law, from inquisitorial to adversarial systems — would have required treaty changes and taken years. Mutual recognition allowed Member States to keep their own criminal procedures while agreeing to treat another Member State's judicial decision as equivalent to their own. This borrowed directly from the single market's "Cassis de Dijon" principle, which had already proven effective in goods trade.
+For consenting persons—those who agree to be transferred—the average is 16 days, according to the Commission. For contested cases, it is about 48 days. The law sets a hard limit of 60 days for final decisions, extendable to 90 days. Before the EAW, cross-border extraditions routinely took 12 to 18 months, and could drag on for years if the target had money and good lawyers.
 
-### Why did the UK almost pull out of the EU's fast-track extradition system?
+### Does the EAW cover every crime, or only serious ones?
 
-The UK's 2014 crisis was driven by two factors: first, a series of high-profile cases where EAWs were used for minor offences (such as a man surrendered for failing to pay a £12 council tax surcharge), which the tabloid press framed as EU overreach. Second, the UK's opt-out protocol from the Lisbon Treaty gave it a political opportunity to renegotiate its justice and home affairs relationship. Home Secretary Theresa May used the threat of opting out to secure additional safeguards, including a requirement for proportionality checks by the issuing state. In fact, the UK opted back into 35 measures including the EAW, recognising the system's operational value.
+It covers 32 listed serious crimes—including terrorism, murder, rape, drug trafficking, organised crime, and computer crime—where no check for "double criminality" is needed: if Germany says possession of child pornography is a crime, Spain must hand over the suspect even if Spanish law does not have that exact offence. For any other crime, the executing state can still check that the act is also a crime under its own law.
 
 ## Official sources
 
-- [Council Framework Decision 2002/584/JHA of 13 June 2002 on the European arrest warrant and the surrender procedures between Member States](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32002F0584)
-- [European Commission evaluation of the European Arrest Warrant (2020)](https://ec.europa.eu/info/sites/default/files/evaluation_eaw_framework_decision.pdf)
-- [European Court of Justice, Advocaten voor de Wereld v Leden van de Ministerraad (C-303/05), 3 May 2007](https://curia.europa.eu/juris/liste.jsf?num=C-303/05)
-- [European Court of Justice, Radu (C-396/11), 29 January 2013](https://curia.europa.eu/juris/liste.jsf?num=C-396/11)
-- [European Parliament resolution on the European Arrest Warrant (2014)](https://www.europarl.europa.eu/doceo/document/TA-7-2014-0051_EN.html)
+- [EUR-Lex: Framework Decision 2002/584/JHA](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32002F0584)
+- [European Commission: European Arrest Warrant](https://ec.europa.eu/info/law/cross-border-cases/judicial-cooperation/networks-and-bodies-supporting-judicial-cooperation/european-judicial-network_en)
+- [Eurojust: European Arrest Warrant statistics and casework](https://www.eurojust.europa.eu/)
+- [Court of Justice of the EU: Aranyosi and Căldăraru judgment (2016)](https://curia.europa.eu/jcms/jcms/Jo2_7026/)

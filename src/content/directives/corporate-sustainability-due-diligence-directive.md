@@ -1,75 +1,77 @@
 ---
 title: "Corporate Sustainability Due Diligence Directive"
 directive: "2024/1760/EU"
-category: "Environmental"
+category: "Labour & Social"
 year: 2024
-tags: [human-rights, environmental-due-diligence, supply-chain, corporate-accountability, climate-transition, business-human-rights]
-summary: "The CSDDD requires large companies operating in the EU to identify, prevent, and remedy human rights and environmental harms in their own operations and value chains, backed by civil liability."
+tags: [human-rights, supply-chain, environmental-due-diligence, corporate-accountability, forced-labour, climate-transition]
+summary: "Requires large EU companies to identify, prevent, and remedy human rights abuses and environmental harm in their global supply chains, backed by civil liability and fines."
 status: "in-force"
-related: ["2022/2464/EU", "2019/1937/EU"]
+related: ["2017/821/EU", "2022/2464/EU"]
 llm: "deepseek-chat"
 ---
 
 ## What is it?
 
-The Corporate Sustainability Due Diligence Directive (CSDDD) requires companies above certain size thresholds — roughly 5,000+ employees and €1.5 billion+ turnover — to conduct ongoing due diligence on their own operations, subsidiaries, and value chains for actual and potential adverse impacts on human rights and the environment. It covers issues from child labour and forced labour to deforestation, pollution, and greenhouse gas emissions. Companies must adopt a transition plan aligned with the Paris Agreement goal of limiting global warming to 1.5°C.
+The Corporate Sustainability Due Diligence Directive (CSDDD), adopted in May 2024, compels large EU companies — and non-EU companies with significant EU turnover — to conduct human rights and environmental due diligence across their full value chain. Companies must identify and prevent abuses like child labour, forced labour, pollution, and biodiversity loss, and adopt a climate transition plan aligned with the Paris Agreement.
 
-The Directive creates civil liability: victims can sue companies in EU member state courts for damages caused by failures in due diligence. It also requires companies to engage with affected stakeholders and to terminate business relationships with partners causing severe and irremediable harm if mitigation fails. The scope covers both EU companies and non-EU companies with significant EU turnover.
+The directive covers the company's own operations, its subsidiaries, and "established business relationships" — meaning suppliers and subcontractors with which the company has a regular, predictable, and stable link. Non-compliance can result in fines of up to 5% of global net turnover and civil liability for damages caused by failures in due diligence. The directive phases in from 2027 for the largest companies, reaching smaller thresholds by 2029.
 
 ## Why was it introduced?
 
-The driving force was the 2013 Rana Plaza collapse in Bangladesh, which killed 1,138 garment workers. The building housed five factories supplying major European fashion brands including Primark, Mango, and Benetton. While some brands signed the Bangladesh Accord on Fire and Building Safety, no legal obligation existed to prevent such disasters in supply chains. The European Parliament's 2020 resolution on corporate liability cited Rana Plaza as a "stark reminder" that voluntary measures had failed.
+The CSDDD was triggered by a series of catastrophic industrial disasters and mounting evidence that voluntary corporate social responsibility had failed to stop systematic abuses in global supply chains. The Rana Plaza collapse in Bangladesh on April 24, 2013, which killed 1,134 garment workers, became the defining moment: the building housed factories supplying European retailers including Primark, Mango, and Carrefour, yet no EU law required those companies to verify safety conditions or bear liability for their subcontractors.
 
-Structural tension had built for decades: EU trade policy promoted global supply chains, but no law addressed the human rights and environmental costs those chains externalised. The 2011 UN Guiding Principles on Business and Human Rights (Ruggie Principles) endorsed voluntary due diligence, but by 2017, the European Commission's own evaluation found only one-third of companies reported any human rights due diligence, and fewer than 10% had grievance mechanisms. In 2019, the Responsible Business Alliance, representing 500+ electronics companies including Apple and Samsung, acknowledged that voluntary audits had "limited effectiveness" in detecting forced labour in Malaysian glove factories.
+The European Commission's 2020 impact assessment found that of 22,000 companies surveyed, only one-third conducted any form of human rights due diligence, and those that did used widely varying standards. Meanwhile, the UN Guiding Principles on Business and Human Rights and the OECD Due Diligence Guidance had no enforcement mechanism — the Commission's 2022 study showed that voluntary reporting produced "greenwashing" rather than genuine change. Commissioner for Justice Didier Reynders, a Belgian liberal who spearheaded the file, argued in internal Commission documents that the Ruggie Principles (named after UN Special Representative John Ruggie) had achieved "insufficient uptake" after a decade.
 
-Coalition dynamics shifted decisively in 2020. The German government — hosting major automotive and manufacturing supply chains — broke with industry opposition and announced support for mandatory due diligence in a February 2020 coalition committee decision. German Labour Minister Hubertus Heil (SPD) and Development Minister Gerd Müller (CSU) jointly pushed the Supply Chain Due Diligence Act (LkSG) in 2021, creating domestic pressure on the EU to follow. France had already passed the Duty of Vigilance Law in 2017, the first national mandatory due diligence law in the EU, following a 2015 campaign by NGOs including Sherpa and Friends of the Earth after the 2013 Savar building collapse.
+The political coalition that carried the directive was unusual: it united the centre-left Socialists and Democrats, the Greens, and the liberal Renew Europe group, with crucial support from some centre-right European People's Party (EPP) members — but only after the EPP forced significant weakening amendments. The Commission's original 2022 proposal would have covered companies with 500+ employees and €150 million turnover. BusinessEurope, the main employers' lobby, warned in a 2023 position paper of "unworkable compliance costs" and "legal uncertainty", while member states like Germany and the Czech Republic argued the scope was too broad.
 
-The European Commission under Ursula von der Leyen (2019–2024) made the CSDDD a flagship of the European Green Deal and the Trade Policy Review. Commissioner for Justice Didier Reynders (Belgium) and Commissioner for Internal Market Thierry Breton (France) championed the file. The proposal was delayed multiple times: originally scheduled for release in March 2020, it was postponed due to COVID-19, then again in October 2020 as industry lobbying intensified. BusinessEurope, the main employer lobby, warned in a June 2020 position paper that mandatory due diligence would "undermine competitiveness" and create "legal uncertainty". The Commission published the draft on 23 February 2022.
+A critical break occurred in December 2023 when the Council of the EU failed to reach a qualified majority on the draft. Germany abstained due to pressure from the FDP-led Ministry of Justice, which had received intense lobbying from the Mittelstand (small and medium enterprises) association, which warned in a November 2023 letter to Chancellor Olaf Scholz of "existential threats" to family-owned supply chain intermediaries. France threatened to block unless the scope was narrowed — President Emmanuel Macron's government feared exposing luxury goods companies to liability for raw material sourcing in conflict zones.
 
-Timing was critical: the proposal landed in a window where the European Parliament had moved left on sustainability after the 2019 elections. The Parliament's lead rapporteur, Lara Wolters (S&D, Netherlands), pushed for broader scope including financial services and climate transition plans. The Council of the EU, representing member states, was more fragmented: a blocking minority emerged in 2023 led by Germany (after the FDP took over the Justice Ministry), Austria, Italy, and Finland, arguing the rules would burden SMEs and cut supply chains. The Parliament and Council reached a provisional agreement on 14 December 2023, but the text was significantly watered down compared to the original proposal: the employee threshold was raised from 500 to 1,000, then to 5,000 during final negotiations; financial products were excluded; civil liability was capped to exclude "reasonably could not have been known" harms; and the transition plan was diluted from "shall implement" to "shall adopt".
-
-The final adoption was nearly derailed in February 2024 when Germany's FDP Minister of Justice Marco Buschmann announced Germany would abstain, breaking the Council's qualified majority. The Belgian Presidency scrambled to secure support from other member states, and the text squeaked through with 62 votes for, 8 against, and 25 abstentions in the Parliament's Legal Affairs Committee. The European Parliament adopted the final text on 24 April 2024 by 374 votes to 235, with 19 abstentions — a narrower margin than any other major Green Deal legislation.
+The turning point came in a January 2024 trialogue where the Belgian presidency brokered a compromise: the employee threshold was raised to 1,000 (from 500), and the turnover threshold to €450 million (from €150 million). Financial services were initially included, then excluded in the final deal after a furious campaign by the European Banking Federation, which argued they could not control supply chains on which they merely provided loans. The final vote in the European Parliament on April 24, 2024 was 374 in favour, 235 against, with 19 abstentions — the opposition came from the far-right Identity and Democracy group, most of the EPP, and some centre-right MEPs who argued the directive would harm competitiveness.
 
 ## Timeline
 
-- **2013** — Rana Plaza collapse kills 1,138 garment workers in Bangladesh; European brands found among buyers
-- **2017** — France passes Duty of Vigilance Law (Loi de Vigilance), first mandatory due diligence law in the EU
-- **2020** — European Parliament resolution calls for EU-level mandatory due diligence; Commission delays proposal due to COVID-19 and industry lobbying
-- **2021** — Germany enacts Supply Chain Due Diligence Act (LkSG), effective 2023; EU study estimates 70% of European companies conduct no human rights due diligence
-- **23 Feb 2022** — European Commission publishes CSDDD proposal, covering 500+ employee companies
-- **14 Dec 2023** — European Parliament and Council reach provisional agreement after significant watering-down
-- **24 Apr 2024** — European Parliament adopts final text (374-235-19)
-- **25 Jul 2024** — Directive enters into force (publication in Official Journal)
-- **2027** — First wave of companies (5,000+ employees, €1.5B+ turnover) must comply
-- **2028** — Second wave (3,000+ employees, €900M+ turnover)
-- **2029** — Third wave (1,000+ employees, €450M+ turnover); non-EU companies with EU turnover thresholds included
+- **2013** — Rana Plaza collapse kills 1,134 garment workers in Bangladesh supplying EU retailers; major protest movements demand binding EU regulation
+- **2015** — French Duty of Vigilance Law (Loi de Vigilance) passes in France, the first binding corporate due diligence law in Europe; covers 100+ companies
+- **2020 October** — Commissioner Reynders announces EU will propose due diligence legislation; Commission impact assessment estimates 70% of EU companies' human rights impacts occur in foreign supply chains
+- **2022 February 23** — Commission proposes the Corporate Sustainability Due Diligence Directive; covers companies with 500+ employees and €150 million turnover
+- **2023 June** — European Parliament adopts its position with amendments including stricter civil liability and coverage of financial services
+- **2023 December** — Council fails to reach majority; Germany abstains, France demands scope reduction
+- **2024 January** — Belgian presidency brokers compromise: threshold raised to 1,000 employees/€450 million turnover; financial services excluded
+- **2024 March 15** — Council adopts the political agreement; 28 member states in favour, Germany and Czech Republic abstain
+- **2024 April 24** — European Parliament votes 374-235-19 to adopt final text
+- **2024 July 25** — Official publication in the Official Journal of the EU
+- **2027 July 26** — Application for largest companies (5,000+ employees, €1.5 billion turnover)
+- **2028 July 26** — Application for second wave (3,000+ employees, €900 million turnover)
+- **2029 July 26** — Full application for all in-scope companies (1,000+ employees, €450 million turnover)
 
 ## Impact and consequences
 
-The Directive directly covers approximately 5,400 companies across the EU, according to Council estimates, and indirectly affects thousands more through supply chain obligations. The Commission's 2020 impact assessment estimated compliance costs at €2,400–€3,500 per company for initial due diligence setup, with recurring costs of €500–€1,000 annually. Industry groups, including BusinessEurope, argued costs would be 10-20 times higher, citing a 2021 study commissioned by the German employers' federation BDA.
+The directive immediately affects approximately 5,400 EU companies and 4,000 non-EU companies with substantial EU business — roughly 0.2% of all EU enterprises, but covering an estimated 70% of EU corporate turnover, according to Commission estimates. The civil liability provision is considered the most consequential: companies can now be sued in EU courts by victims of human rights abuses or environmental damage in their supply chains, provided the company "should have known" of the risk and failed to mitigate it.
 
-The most immediate consequence was a legal gold-plating race: several member states that had already enacted national laws — France, Germany, Norway, the Netherlands — began revising their statutes to align with the EU minimum while maintaining stricter provisions. France's 2017 law had already generated case law: in 2023, the Paris judicial court ordered TotalEnergies to revise its due diligence plan regarding oil operations in Uganda's Tilenga project, the first such court order under the French law.
+Implementation challenges are significant. The German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz), which took effect January 1, 2023 and covers 3,000 companies, saw the Federal Office for Economic Affairs and Export Control receive 1,200 complaints in its first year but issue zero fines — a pattern critics say the EU directive must avoid. The Commission's 2024 implementation plan allocates €50 million for member state enforcement agencies and a planned "European Network of Enforcement Bodies" to harmonise practice.
 
-The financial services sector won a major exclusion: banks, insurers, and asset managers are not required to conduct due diligence on their clients' supply chains, after intense lobbying from the European Banking Federation and the Investment Company Institute. Green groups including ClientEarth and Finance Watch condemned this as a "gaping loophole".
-
-The Directive's civil liability provisions immediately triggered litigation planning by NGOs. The European Coalition for Corporate Justice, representing 50+ NGOs, announced in May 2024 that it would prepare model lawsuits for victims of child labour and forced labour in supply chains. However, the cap on liability for "unforeseeable" harms and the exclusion of French-style "vigilance plans" for financial firms limited the enforcement ambition.
+Industry response has been mixed. Large retailers like H&M and Inditex publicly support the directive, having already invested in supply chain mapping to meet their own sustainability commitments. The German chemical giant BASF warned in a January 2024 compliance brief that the directive would require "complete overhaul" of procurement systems. Small suppliers in Bangladesh and Vietnam — many of which are not directly regulated — fear that EU companies will simply terminate relationships rather than invest in due diligence, a concern raised by the International Labour Organization in a 2023 working paper.
 
 ## Key questions answered
 
-### Why were banks and investment firms left out of the new EU rules on corporate environmental and human rights responsibilities?
+### Do EU companies have to check every supplier for human rights abuses?
 
-The European Commission's original proposal included financial institutions, but the Council and Parliament removed them in the December 2023 trilogue. The European Banking Federation argued that banks could not reasonably assess due diligence across the entire investment chain, and warned of "capital flight" from EU markets. The Parliament's Greens/EFA group proposed a compromise requiring due diligence only for direct lending above €500 million, but it was rejected. Instead, the Commission committed to a targeted review within two years of entry into force.
+Only "established business relationships" — suppliers with which a company has a regular, predictable, and stable link — are in scope. Spot-purchases or one-off transactions are excluded. Companies must prioritise the most severe and likely risks based on their sector and geography, rather than auditing every single supplier. This "risk-based due diligence" provision was a key industry demand to prevent the directive from imposing impossible compliance burdens.
 
-### Why do new EU rules on company supply chain abuses also apply to foreign companies selling in Europe?
+### Can someone sue a European company in an EU court for harm done in another country?
 
-The extra-territorial scope is designed to prevent regulatory arbitrage and level the playing field. The same 2020 Commission impact assessment found that 40% of the EU's imports come from countries with weaker human rights or environmental protections. The provisions mirror the EU's approach in the Digital Services Act and the General Data Protection Regulation: any company with significant EU turnover (€450M+) must comply, regardless of where it is headquartered. This caught major US and Chinese corporations, including Apple, Amazon, and Huawei.
+Yes, under Article 29 of the directive, victims of human rights abuses or environmental damage caused by a company's failure to conduct due diligence can bring civil liability claims in the courts of the member state where the company is domiciled. The burden of proof is partially shifted: if a company did not conduct adequate due diligence, it is presumed its failure caused the harm. However, this applies only to "established business relationships" — not subcontractors the company never should have known about.
 
-### How do the new EU rules requiring companies to have a plan to cut their carbon emissions actually work?
+### Does the directive apply to banks and insurance companies?
 
-Companies must adopt a plan to ensure their business model is compatible with the Paris Agreement's 1.5°C goal. This includes absolute emission reduction targets for Scope 1, 2, and (where material) Scope 3 emissions. During negotiations, the wording was softened from "shall implement" to "shall adopt" the plan. The European Parliament had sought a requirement to "take measures" to implement the plan, but the Council rejected this as too prescriptive. Enforcement remains through administrative supervision by national authorities, not through civil liability.
+No, financial services were excluded in the final compromise. The European Banking Federation successfully argued that banks cannot control the supply chains of companies they merely finance, and that including lending would cause "credit retreat" from emerging markets. The exclusion is temporary: the Commission must review by 2028 whether to re-include financial products, and the directive already requires institutional investors and asset managers to adopt climate transition plans.
+
+### What happens if a company refuses to stop doing business with a supplier using child labour?
+
+The directive does not require termination. Companies must first try to prevent and mitigate harm through contractual clauses, audits, and capacity-building. Only as a "last resort" — after attempts to remediate fail, and the harm is severe and irreversible — must the company suspend or terminate the relationship. This "stakeholder engagement first" approach was pushed by trade unions and NGOs including the Clean Clothes Campaign, who argued that simply cutting ties harms vulnerable workers who lose their livelihood.
 
 ## Official sources
 
-- [Directive (EU) 2024/1760 of the European Parliament and of the Council](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)
-- [European Commission, "Corporate Sustainability Due Diligence" page](https://commission.europa.eu/business-economy-euro/doing-business-eu/corporate-sustainability-due-diligence_en)
-- [European Commission impact assessment (SWD/2022/38 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=SWD:2022:38:FIN)
+- [Corporate Sustainability Due Diligence Directive (2024/1760/EU) — Official Journal](https://eur-lex.europa.eu/eli/dir/2024/1760/oj)
+- [EU Commission — Corporate Sustainability Due Diligence landing page](https://commission.europa.eu/business-economy-euro/doing-business-eu/sustainability-due-diligence-responsible-business_en)
+- [Council of the EU — Press release on final adoption, March 2024](https://www.consilium.europa.eu/en/press/press-releases/2024/03/15/corporate-sustainability-due-diligence-council-gives-its-final-approval/)

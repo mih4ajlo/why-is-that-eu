@@ -4,6 +4,7 @@
  * and writes data/questions.json.
  *
  * Run: npm run extract-questions
+ *      npm run extract-questions -- --topics-file data/topics-batch-7.json
  */
 import fs from 'fs';
 import path from 'path';
@@ -12,6 +13,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DIR = path.join(__dirname, '..', 'src', 'content', 'directives');
 const OUT = path.join(__dirname, '..', 'data', 'questions.json');
+const ROOT = path.join(__dirname, '..');
 
 export interface QuestionEntry {
   id: string;          // URL slug for the individual question page
@@ -29,6 +31,43 @@ function field(content: string, key: string): string {
   if (quoted) return quoted[1];
   const bare = content.match(new RegExp(`^${key}:\\s*([^\\n"#\\[]+)`, 'm'));
   return bare?.[1]?.trim() ?? '';
+}
+
+function parseArgs(argv: string[]): { topicsFile: string | null } {
+  const args = argv.slice(2);
+  let topicsFile: string | null = null;
+  const positional: string[] = [];
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--topics-file' && args[i + 1]) {
+      topicsFile = args[++i];
+    } else if (!args[i].startsWith('--')) {
+      positional.push(args[i]);
+    }
+  }
+
+  // npm/PowerShell can strip flag names and pass only values.
+  if (!topicsFile && positional.length > 0 && /\.json$/i.test(positional[0])) {
+    topicsFile = positional[0];
+  }
+
+  return { topicsFile };
+}
+
+function normalize(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+}
+
+function topicRef(topic: string): string | null {
+  const m = topic.match(/\b\d{2,4}\/\d{1,4}\/[A-Za-z]{2,5}\b/);
+  return m ? m[0].toUpperCase() : null;
+}
+
+function topicTitleHint(topic: string): string {
+  // "Data Act (2023/2854/EU) — ..." -> "Data Act"
+  const trimmed = topic.split('—')[0].trim();
+  const noParens = trimmed.replace(/\([^)]*\)/g, '').trim();
+  return normalize(noParens);
 }
 
 function toId(question: string): string {
@@ -81,7 +120,29 @@ function extractQuestions(raw: string, slug: string): Omit<QuestionEntry, 'id'>[
 
 // ── main ──────────────────────────────────────────────────────────────────────
 
-const files = fs.readdirSync(DIR).filter(f => f.endsWith('.md')).sort();
+const { topicsFile } = parseArgs(process.argv);
+const allFiles = fs.readdirSync(DIR).filter(f => f.endsWith('.md')).sort();
+let files = allFiles;
+
+if (topicsFile) {
+  const topicsPath = path.resolve(ROOT, topicsFile);
+  const topics = JSON.parse(fs.readFileSync(topicsPath, 'utf8')) as string[];
+  const refs = new Set(topics.map(topicRef).filter(Boolean));
+  const hints = topics.map(topicTitleHint).filter(Boolean);
+
+  files = allFiles.filter((file) => {
+    const raw = fs.readFileSync(path.join(DIR, file), 'utf8');
+    const directive = field(raw, 'directive').toUpperCase();
+    const titleNorm = normalize(field(raw, 'title'));
+
+    if (directive && refs.has(directive)) return true;
+    return hints.some(h => h.length >= 8 && titleNorm.includes(h));
+  });
+
+  console.log(`Filtering by topics file: ${topicsFile}`);
+  console.log(`Matched ${files.length}/${allFiles.length} directive files.\n`);
+}
+
 const all: QuestionEntry[] = [];
 const seen = new Map<string, number>();
 let missing = 0;

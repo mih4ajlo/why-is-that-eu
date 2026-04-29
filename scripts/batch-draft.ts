@@ -65,12 +65,15 @@ interface Args {
 function parseArgs(argv: string[]): Args {
   const args = argv.slice(2);
   let provider: Provider = 'anthropic';
+  let providerSet = false;
   let model: string | null = null;
   let parallel = 5;
+  let parallelSet = false;
   let noContext = false;
   let pollId: string | null = null;
   let saveId: string | null = null;
   let topicsFile: string | null = null;
+  let topicsFileSet = false;
   const topics: string[] = [];
 
   for (let i = 0; i < args.length; i++) {
@@ -81,6 +84,7 @@ function parseArgs(argv: string[]): Args {
         process.exit(1);
       }
       provider = p;
+      providerSet = true;
     } else if (args[i] === '--model' && args[i + 1]) {
       model = args[++i];
     } else if (args[i] === '--parallel' && args[i + 1]) {
@@ -89,6 +93,7 @@ function parseArgs(argv: string[]): Args {
         console.error('--parallel must be a positive integer');
         process.exit(1);
       }
+      parallelSet = true;
     } else if (args[i] === '--no-context') {
       noContext = true;
     } else if (args[i] === '--poll' && args[i + 1]) {
@@ -97,8 +102,33 @@ function parseArgs(argv: string[]): Args {
       saveId = args[++i];
     } else if (args[i] === '--topics-file' && args[i + 1]) {
       topicsFile = args[++i];
+      topicsFileSet = true;
     } else {
       topics.push(args[i]);
+    }
+  }
+
+  // npm/PowerShell may strip flag names and pass only positional values
+  // (e.g. "deepseek 8 data/topics-batch-7.json"). Recover intended args.
+  if (!providerSet && topics.length > 0 && (topics[0] === 'anthropic' || topics[0] === 'deepseek')) {
+    provider = topics.shift() as Provider;
+  }
+
+  if (!parallelSet && topics.length > 0 && /^\d+$/.test(topics[0])) {
+    parallel = parseInt(topics.shift() as string, 10);
+    if (isNaN(parallel) || parallel < 1) {
+      console.error('--parallel must be a positive integer');
+      process.exit(1);
+    }
+  }
+
+  if (!topicsFileSet && topics.length > 0) {
+    const possiblePath = topics[topics.length - 1];
+    if (/\.json$/i.test(possiblePath)) {
+      const resolved = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', possiblePath);
+      if (fs.existsSync(resolved)) {
+        topicsFile = topics.pop() as string;
+      }
     }
   }
 
@@ -158,7 +188,7 @@ async function buildContextMap(topics: string[]): Promise<Map<string, string | u
         const ctx = await fetchContext(candidate.celex, candidate.title).catch(() => undefined);
         contextMap.set(topic, ctx);
       } else {
-        process.stdout.write(`  No candidate match for: "${topic}"\n`);
+        process.stdout.write(`  No local context candidate: "${topic.slice(0, 90)}${topic.length > 90 ? '…' : ''}"\n`);
         contextMap.set(topic, undefined);
       }
     })

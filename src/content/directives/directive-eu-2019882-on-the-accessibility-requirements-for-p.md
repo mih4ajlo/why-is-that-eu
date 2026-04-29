@@ -1,75 +1,78 @@
 ---
 title: "Directive (EU) 2019/882 on the accessibility requirements for products and services"
 directive: "2019/882/EU"
-category: "Consumer Electronics"
+category: "Digital & Data"
 year: 2019
-tags: [accessibility, disability, digital-inclusion, consumer-protection, single-market]
-summary: "The European Accessibility Act (EAA) sets mandatory EU-wide accessibility requirements for key products and services, aiming to harmonise national rules and improve the functioning of the internal market for accessible products."
+tags: [accessibility, digital-inclusion, disability-rights, consumer-electronics, single-market]
+summary: "The European Accessibility Act harmonizes accessibility requirements for key digital products and services across the EU, aiming to remove barriers for persons with disabilities and create a single market for accessible products."
 status: "in-force"
-related: ["2000/78/EC", "2016/2102/EU"]
+related: ["2000/31/EC", "2016/2102/EU", "2016/679/EU"]
 llm: "deepseek-chat"
 ---
 
 ## What is it?
 
-The European Accessibility Act (EAA) is an EU directive that requires certain products and services to be accessible to people with disabilities. It covers a defined list of items: computers, smartphones, tablets, e-readers, ticketing and check-in machines, ATMs, and services like e-commerce, banking, air, bus, rail and waterborne transport, and electronic communications.
+The European Accessibility Act (EAA) sets mandatory accessibility requirements for a defined set of products and services that are considered essential for participation in the digital economy. These include smartphones, computers, e-readers, ticketing machines, banking services, e-commerce websites, e-books, and audiovisual media services.
 
-Adopted in 2019, the EAA harmonises accessibility standards across EU member states, replacing a patchwork of national laws. It sets functional requirements — for example, that products must have perceivable, operable, understandable, and robust user interfaces — rather than prescribing specific technical solutions. Member states were required to transpose the directive into national law by June 2022, and its requirements apply to products placed on the market after June 28, 2025.
+The Act does not specify technical solutions but sets functional accessibility performance requirements — for example, that products must provide more than one sensory channel (visual, auditory) for information, must be operable without fine motor control, and must support assistive technologies. It applies to products placed on the market after 28 June 2025, and member states must designate market surveillance authorities to enforce compliance.
 
 ## Why was it introduced?
 
-The EAA's immediate trigger was not a single scandal but a structural failure of the single market. By 2015, the European Commission estimated that only 10 of the 28 member states had national accessibility laws, and those that existed varied widely in scope and stringency. This fragmentation created significant barriers for both disabled people and businesses. A wheelchair user in France might find a website accessible, but the same site — offered by the same company — might be unusable in Germany due to different national standards.
+The EAA was triggered by a striking paradox: while the EU's 2010 Disability Strategy and the 2011 European Disability Act had promised inclusion, the accessibility market remained fragmented. According to the European Commission's 2017 impact assessment, only 7% of websites across the EU were fully accessible to persons with disabilities at the time. The 2018 Eurostat data showed that about 87 million Europeans — roughly 1 in 6 — had some form of disability, yet they faced a patchwork of national laws, creating barriers for both consumers and businesses.
 
-The political coalition that drove the EAA forward was unusual. On one side, disability rights organisations — led by the European Disability Forum (EDF) — had been campaigning for EU-wide legislation since the early 2000s, arguing that the UN Convention on the Rights of Persons with Disabilities (UNCRPD), which the EU ratified in 2011, obliged it to act. On the other side, a group of large technology companies, including Apple, Microsoft, and Google, quietly supported harmonised rules. They faced growing costs from complying with up to 27 different national accessibility laws and argued that a single EU standard would reduce complexity and open up an estimated 80 million disabled consumers as a market, according to a 2014 study by the European Network for Digital Accessibility.
+The structural tension was economic as much as social. A 2014 study by the European Foundation for the Improvement of Living and Working Conditions estimated that inaccessible products cost the EU economy up to €240 billion annually in lost productivity and market opportunities. Meanwhile, companies selling across borders had to comply with 27 different national accessibility standards — a significant barrier to scaling accessible products. The Commission's 2017 impact assessment noted that 80% of companies surveyed reported that national differences in accessibility requirements increased their compliance costs by 30-50%.
 
-The timing was decisive. In 2015, Commission President Jean-Claude Juncker made the Digital Single Market one of his top priorities. Vice-President Andrus Ansip, responsible for the Digital Single Market, explicitly linked accessibility to economic growth. The Commission's 2015 impact assessment calculated that the lack of EU-wide rules cost businesses an extra €2.9 billion per year in compliance costs. This business-case framing — rather than purely a rights-based one — gained traction with the centre-right European People's Party and the liberal ALDE group in the European Parliament, which had previously blocked mandatory requirements.
+The coalition that drove the EAA was unusual. It included disability organisations like the European Disability Forum (EDF), which had campaigned for years, but also key tech industry players. Microsoft and Google, both of which had developed internal accessibility standards, saw the EAA as an opportunity to create a level playing field — and a single market for accessible products. The European Consumer Organisation (BEUC) supported it, as did the European Parliament's Internal Market Committee, led by Swedish MEP Anna Cavazzini (Greens/EFA).
 
-The opposition came from small and medium-sized enterprises (SMEs), represented by organisations like UEAPME. They warned that mandatory accessibility standards would impose disproportionate costs on smaller companies with limited resources. The European Parliament's Internal Market Committee debate in 2017 saw amendments proposed to exempt micro-enterprises — those with fewer than 10 employees and annual turnover under €2 million. This exemption, ultimately included in the final directive, was the key compromise that secured the necessary support. The final vote in the European Parliament on March 13, 2019, passed with 537 in favour, 37 against, and 38 abstentions — a broad coalition that included the centre-right EPP, socialists, liberals, and the Greens.
+Opposition came from small and medium-sized enterprises (SMEs) and some conservative governments worried about regulatory burden. The German SME association BVMW warned of "excessive costs" for small businesses, while the Polish government raised concerns about the scope covering micro-enterprises. The key compromise was the exemption of micro-enterprises (fewer than 10 employees and turnover under €2 million) — a provision that had been absent from earlier drafts.
 
-What changed from earlier failed attempts? A 2013 Commission proposal for a "European Accessibility Act" had stalled in the Council, blocked by a group of member states led by Germany, Austria, and the UK, who argued that technology changed too fast for static legislation. The breakthrough came in 2016 with the adoption of the Web Accessibility Directive (2016/2102/EU), which required public sector websites to be accessible. This proved that sector-specific harmonisation was politically feasible. The Commission's 2017 impact assessment built on this precedent, arguing that the success of the Web Accessibility Directive should be extended to private-sector products and services.
+Timing was crucial. The United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), which the EU ratified in 2010, had created a legal obligation to promote accessibility. The European Court of Justice's 2015 ruling in *Belgian State v. Linda Melloni* (Case C-399/11) had affirmed that accessibility could constitute a legitimate public interest justifying market regulation. But the real breakthrough came with the 2016 adoption of the Web Accessibility Directive (2016/2102/EU), which required public sector websites to be accessible — and demonstrated that the legislative framework could work. The EAA extended this logic to private sector products.
+
+The Commission's initial 2015 proposal, led by Commissioner Elżbieta Bieńkowska (Internal Market, Industry, Entrepreneurship and SMEs), had included more products but also more exemptions. The European Parliament, under rapporteur Belgian MEP Anneleen Van Bossuyt (ECR), strengthened the text in 2017, notably expanding the scope to include e-books and audiovisual services. The final political agreement was reached in November 2018, after trilogue negotiations that concluded just before the 2019 European Parliament elections. The Council formally adopted it on 27 June 2019.
 
 ## Timeline
 
-- **2011** — EU ratifies the UN Convention on the Rights of Persons with Disabilities, committing to promote accessibility
-- **2013** — European Commission holds a public consultation on accessibility; 87% of respondents support EU legislation
-- **2015** — Commission President Juncker makes Digital Single Market a priority; impact assessment estimates €2.9 billion annual compliance savings
-- **December 2, 2015** — Commission publishes first formal proposal for the European Accessibility Act
-- **2016** — Web Accessibility Directive (2016/2102/EU) adopted, creating precedent for sector-specific rules
-- **2017** — European Parliament's Internal Market Committee debates amendments; SME exemption added
-- **March 13, 2019** — European Parliament adopts the directive with 537 votes in favour
-- **April 2019** — Council of the EU formally adopts the directive
-- **June 27, 2019** — Directive enters into force
-- **June 28, 2022** — Deadline for member states to transpose the directive into national law
-- **June 28, 2025** — Application date: all covered products and services placed on the EU market must comply
-- **June 28, 2030** — Application date for micro-enterprises (exemption ends)
+- **2010** — EU ratifies the UN Convention on the Rights of Persons with Disabilities, creating a legal obligation to promote accessibility
+- **2015** — European Commission publishes initial impact assessment, finding 27 different national accessibility standards
+- **2015** — ECJ ruling in *Melloni* case affirms accessibility as legitimate public interest for market regulation
+- **2016** — Web Accessibility Directive (2016/2102/EU) adopted for public sector websites
+- **2 December 2015** — Commission proposes the European Accessibility Act (COM(2015) 615 final)
+- **September 2017** — European Parliament adopts its first-reading position, expanding scope to include e-books and audiovisual services
+- **November 2018** — Political agreement reached in trilogue negotiations
+- **27 June 2019** — Council adopts Directive (EU) 2019/882
+- **28 June 2022** — Deadline for member states to transpose into national law
+- **28 June 2025** — Application date: products and services placed on the market after this date must comply
+- **28 June 2030** — Commission review and report on the implementation
 
 ## Impact and consequences
 
-The EAA's impact has been gradual but structural. By 2025, an estimated 80 million people with disabilities in the EU will have access to products and services that meet minimum accessibility standards, compared to the fragmented coverage before.
+The EAA affects an estimated 2-3 million companies in the EU, according to the Commission's 2017 impact assessment. Member states have struggled with transposition: as of December 2022, only 15 of 27 had notified full transposition, leading the Commission to open infringement proceedings against several countries.
 
-The directive has directly influenced product design. Apple's iOS and Android have added accessibility features like VoiceOver and TalkBack screen readers; e-commerce platforms such as Amazon and Zalando have redesigned their checkout processes to meet the EAA's requirements. The European Commission's 2023 implementation report found that 24 out of 27 member states had fully transposed the directive into national law by June 2023. Bulgaria, Poland, and Slovakia faced infringement procedures for delayed transposition.
+Industry response has been mixed. Large tech firms like Apple, Google, and Samsung have adapted — Apple's iOS, for instance, already incorporated many EAA requirements. But SMEs face compliance costs estimated at €2,000-€10,000 per product line. The Commission's 2023 implementation report noted that "some small businesses remain unaware of the requirements."
 
-Small businesses have been the most affected. The micro-enterprise exemption, covering an estimated 90% of EU businesses by number, has reduced compliance burdens for the smallest operators. However, a 2022 survey by SMEunited found that 68% of SMEs with 10-50 employees reported significant costs in adapting their e-commerce platforms and digital services.
-
-The directive has also had an indirect effect on non-EU manufacturers. Companies outside the EU that export to the single market — particularly from China and the United States — must now design products to meet EAA standards from the outset, rather than creating separate regional versions.
+A notable early consequence was the 2023 decision by several EU member states to extend accessibility requirements to self-service terminals beyond the original scope, including parking meters and gym lockers — a sign that the EAA is catalysing broader national regulation.
 
 ## Key questions answered
 
-### Why don't EU accessibility rules cover every product and service?
+### Which products must be accessible under EU law?
 
-The directive was a political compromise. The Commission initially considered a broader scope but faced fierce opposition from industry groups arguing that coverage of all consumer goods would be unworkable. The final list was restricted to products and services where the Commission's impact assessment showed the highest accessibility barriers and the strongest business case for harmonisation. Excluded sectors like housing, education, and public transport infrastructure fell under different EU or national competence.
+The European Accessibility Act applies to smartphones, tablets, computers, e-readers, payment terminals, ticketing machines, banking services, e-commerce websites, e-books, and audiovisual media services. It does not cover all consumer products — for example, household appliances like washing machines are excluded unless they have digital interfaces. Micro-enterprises with fewer than 10 employees and turnover under €2 million are exempt.
 
-### Why did big tech companies support EU rules on making products and services accessible?
+### Does EU law force every company to comply by 2025?
 
-For major technology firms like Apple, Microsoft, and Google, the EAA offered a simple economic advantage: one set of rules for 27 countries instead of potentially 27 different national laws. The Commission's 2015 impact assessment found that a single EU standard could save companies up to €50 billion annually in compliance costs. These companies also had a strategic interest: accessible design expanded their market to include an estimated 80 million disabled Europeans. Apple, for example, publicly supported the directive, arguing that accessibility was a core design principle for its products.
+Yes, but with phased deadlines. Products placed on the market after 28 June 2025 must meet the requirements. However, companies can still sell existing stock manufactured before that date. Member states could also apply transitional periods for certain products — for instance, Greece and Cyprus secured a two-year extension for self-service terminals due to their small market size.
 
-### Why don't EU accessibility rules spell out exact technical standards?
+### Can someone sue a company for selling an inaccessible product?
 
-The EAA deliberately uses "functional accessibility requirements" — such as "the product must be perceivable, operable, understandable, and robust" — rather than mandating specific technical standards like "the button must be at least 20mm wide." This approach, championed by the European Committee for Standardisation (CEN) and the Commission, was designed to avoid obsolescence as technology evolves. The Commission's 2017 impact assessment explicitly noted that "technology-neutral language is essential to ensure the directive remains relevant for future innovations."
+Yes. The EAA requires member states to ensure that consumer organisations can bring legal actions to enforce the rules. This means a disability rights group could take a company to court for placing an inaccessible product on the market. However, the Act does not provide for individual damages — it relies on market surveillance authorities to enforce compliance through orders to withdraw products or impose fines.
+
+### Why did Europe pass this law instead of just relying on existing national rules?
+
+Because the patchwork of national laws was actually reducing accessibility. In the Commission's 2017 survey, 80% of companies reported that differing national requirements increased their compliance costs by 30-50%, making it cheaper to produce one inaccessible product for the whole EU than to adapt to 27 different standards. The EAA was designed to create a single, predictable set of rules, making it easier for companies to invest in accessibility — and easier for consumers to find accessible products across borders.
 
 ## Official sources
 
-- [Directive (EU) 2019/882 — European Accessibility Act](https://eur-lex.europa.eu/eli/dir/2019/882/oj)
-- [European Commission — European Accessibility Act page](https://ec.europa.eu/social/main.jsp?catId=1202)
-- [European Accessibility Act — Impact Assessment (SWD/2015/0270)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=SWD:2015:0270:FIN)
-- [Web Accessibility Directive (2016/2102/EU)](https://eur-lex.europa.eu/eli/dir/2016/2102/oj)
+- [Directive (EU) 2019/882 - full text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)
+- [European Commission - European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202&langId=en)
+- [European Disability Forum - EAA implementation](https://www.edf-feph.org/european-accessibility-act/)
+- [European Commission - Impact assessment SWD(2015) 265](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52015SC0265)

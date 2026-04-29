@@ -157,6 +157,7 @@ const DEFAULTS: Record<Provider, string> = {
 function parseArgs(argv: string[]): { provider: Provider; model: string; topic: string; noContext: boolean } {
   const args = argv.slice(2);
   let provider: Provider = 'anthropic';
+  let providerSet = false;
   let model: string | null = null;
   let noContext = false;
   const topicParts: string[] = [];
@@ -169,6 +170,7 @@ function parseArgs(argv: string[]): { provider: Provider; model: string; topic: 
         process.exit(1);
       }
       provider = p;
+      providerSet = true;
     } else if (args[i] === '--model' && args[i + 1]) {
       model = args[++i];
     } else if (args[i] === '--no-context') {
@@ -176,6 +178,12 @@ function parseArgs(argv: string[]): { provider: Provider; model: string; topic: 
     } else {
       topicParts.push(args[i]);
     }
+  }
+
+  // npm/PowerShell can strip flag names and pass only values.
+  // Recover provider if the first positional token is a valid provider.
+  if (!providerSet && topicParts.length > 0 && (topicParts[0] === 'anthropic' || topicParts[0] === 'deepseek')) {
+    provider = topicParts.shift() as Provider;
   }
 
   return {
@@ -201,9 +209,18 @@ export function lookupCandidate(topic: string): CandidateRef | null {
 
   const needle = topic.trim().toLowerCase();
 
-  // 1. Exact directive ref: "2022/2380/EU"
-  if (/^\d{4}\/\d+\/eu$/i.test(topic)) {
-    const hit = candidates.find(c => c.directive?.toLowerCase() === needle);
+  // 1. Directive/regulation ref (supports refs embedded in longer topic text):
+  //    "2022/2380/EU", "2002/584/JHA", "92/85/EEC", "2009/138/EC".
+  //    Prefer the longest match in case multiple refs appear.
+  const directiveMatches = topic.match(/\b\d{2,4}\/\d{1,4}\/[A-Za-z]{2,5}\b/g);
+  if (directiveMatches?.length) {
+    const normalized = directiveMatches
+      .map(s => s.toLowerCase())
+      .sort((a, b) => b.length - a.length);
+    const hit = candidates.find(c => {
+      const d = c.directive?.toLowerCase();
+      return d ? normalized.includes(d) : false;
+    });
     if (hit) return { celex: hit.celex, title: hit.title };
   }
 

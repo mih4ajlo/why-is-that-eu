@@ -48,6 +48,8 @@ scripts/
   draft.ts                 # Single-entry AI drafting (Anthropic or DeepSeek)
   batch-draft.ts           # Batch/parallel drafting for many topics at once
   harvest.ts               # Harvests candidate laws from EUR-Lex SPARQL
+  extract-questions.ts     # Builds data/questions.json from directive entries
+  rewrite-questions.ts     # Rewrites question headings for clarity/consistency
 
 data/
   candidates.json          # Harvested EUR-Lex entries (gitignored output)
@@ -89,6 +91,13 @@ npm run draft -- --provider deepseek "MiFID II"
 npm run draft -- --provider deepseek --model deepseek-reasoner "EU AI Act"
 ```
 
+On some Windows/PowerShell setups, npm can pass positional values instead of named flags.
+The scripts now handle both styles, so this also works:
+
+```bash
+npm run draft -- deepseek "EU AI Act"
+```
+
 ### Batch (many entries at once)
 
 ```bash
@@ -105,6 +114,12 @@ npm run batch-draft -- --provider deepseek
 npm run batch-draft -- --provider deepseek --parallel 10 --topics-file data/topics-batch-2.json
 ```
 
+On some Windows/PowerShell setups, npm may strip option names. This positional form is also supported:
+
+```bash
+npm run batch-draft -- deepseek 10 data/topics-batch-2.json
+```
+
 **Topics file** is a plain JSON array of strings:
 ```json
 ["GDPR", "MiFID II", "Solvency II"]
@@ -116,6 +131,22 @@ Each saved entry gets an `llm:` frontmatter field recording which model drafted 
 
 ```bash
 npm run harvest    # queries EUR-Lex SPARQL, writes data/candidates.json
+```
+
+If drafting logs `No local context candidate`, it means no match was found in `data/candidates.json`.
+Drafting still continues with model knowledge; run `npm run harvest` to refresh candidates and improve context injection coverage.
+
+### Extracting questions
+
+```bash
+# Rebuild data/questions.json from all entries
+npm run extract-questions
+
+# Only include entries matching a specific topics batch
+npm run extract-questions -- --topics-file data/topics-batch-7.json
+
+# Windows/npm positional fallback (also supported)
+npm run extract-questions -- data/topics-batch-7.json
 ```
 
 ---
@@ -143,6 +174,91 @@ llm: "claude-opus-4-7"         # which model drafted this entry
 ## Deploying
 
 Pushes to `main` trigger the GitHub Actions workflow (`.github/workflows/`) which builds the Astro site and publishes to GitHub Pages.
+
+---
+
+## Troubleshooting
+
+### Recommended daily workflow
+
+```bash
+# 1) Refresh candidate context (optional but recommended)
+npm run harvest
+
+# 2) Draft entries from your batch topics
+npm run batch-draft -- --provider deepseek --parallel 8 --topics-file data/topics-batch-7.json
+
+# 3) Rebuild questions dataset for search/Q&A pages
+npm run extract-questions -- --topics-file data/topics-batch-7.json
+```
+
+Fast iteration mode: if you are refining prompts, rerunning failed items, or testing parser changes, you can skip `npm run harvest` and draft directly.
+
+### Quick command cheat sheet
+
+```bash
+# Refresh candidate context from EUR-Lex
+npm run harvest
+
+# Draft one entry with DeepSeek
+npm run draft -- --provider deepseek "EU AI Act"
+
+# Draft one entry with positional fallback (Windows/npm)
+npm run draft -- deepseek "EU AI Act"
+
+# Run batch with DeepSeek from topics file
+npm run batch-draft -- --provider deepseek --parallel 8 --topics-file data/topics-batch-7.json
+
+# Run batch with positional fallback (Windows/npm)
+npm run batch-draft -- deepseek 8 data/topics-batch-7.json
+
+# Extract questions from all directives
+npm run extract-questions
+
+# Extract questions only for one batch
+npm run extract-questions -- --topics-file data/topics-batch-7.json
+```
+
+### `--provider` / `--topics-file` flags seem ignored on Windows
+
+On some npm + PowerShell setups, named flags can be passed positionally to scripts.
+
+If this happens, use positional forms (supported by this repo):
+
+```bash
+# draft.ts
+npm run draft -- deepseek "EU AI Act"
+
+# batch-draft.ts
+npm run batch-draft -- deepseek 8 data/topics-batch-7.json
+
+# extract-questions.ts
+npm run extract-questions -- data/topics-batch-7.json
+```
+
+### `No local context candidate` during drafting
+
+This is non-fatal. It only means that a topic was not matched in `data/candidates.json`,
+so no EUR-Lex/Wikipedia context was injected for that item. The draft still runs.
+
+To improve context coverage:
+
+```bash
+npm run harvest
+```
+
+Then rerun your draft or batch command.
+
+### `extract-questions` touched more files than expected
+
+`npm run extract-questions` rebuilds `data/questions.json` from **all** directive files.
+To focus on one batch, pass a topics file:
+
+```bash
+npm run extract-questions -- --topics-file data/topics-batch-7.json
+```
+
+If your project contains timestamped backup entries in `src/content/directives/`, they can still match batch filters and be included.
 
 ---
 

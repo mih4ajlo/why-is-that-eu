@@ -3,68 +3,74 @@ title: "Corporate Sustainability Reporting Directive (CSRD)"
 directive: "2022/2464/EU"
 category: "Environmental"
 year: 2023
-tags: [esg, sustainability-reporting, corporate-governance, climate-disclosure, double-materiality]
-summary: "The CSRD forces roughly 50,000 EU and non-EU companies to publish audited sustainability data — covering climate, biodiversity, workforce and supply-chain impacts — using mandatory European Sustainability Reporting Standards. It replaces the weaker 2014 Non-Financial Reporting Directive and turns ESG disclosure into a legal obligation on par with financial accounts."
+tags: [esg-reporting, sustainability, greenwashing, non-financial-disclosure, supply-chain, corporate-accountability]
+summary: "The CSRD mandates detailed ESG reporting for approximately 50,000 EU companies, replacing voluntary frameworks with mandatory, audited disclosures — including non-European firms with EU operations."
 status: "in-force"
-related: ["2014/95/EU", "2020/852/EU", "2024/1760/EU"]
-llm: "claude-opus-4-7"
+related: ["2013/34/EU", "2014/95/EU", "2020/852/EU"]
+llm: "deepseek-chat"
 ---
 
 ## What is it?
 
-The Corporate Sustainability Reporting Directive (Directive 2022/2464) is the EU's flagship corporate transparency law on environmental, social and governance matters. It requires large companies and listed SMEs to publish detailed annual reports on how their business affects people and the planet — and how sustainability issues affect the business — following a single set of mandatory European Sustainability Reporting Standards (ESRS) drafted by EFRAG and adopted by the Commission in July 2023.
+The Corporate Sustainability Reporting Directive (CSRD) requires large companies operating in the EU to publish annual reports on environmental, social, and governance (ESG) factors — including greenhouse gas emissions, biodiversity impacts, human rights risks in supply chains, and board diversity — using a single mandatory European Sustainability Reporting Standard (ESRS) developed by the European Financial Reporting Advisory Group (EFRAG). The rules apply not only to EU-headquartered firms but also to non-EU companies with over €150 million in EU turnover.
 
-The directive applies the principle of "double materiality": companies must disclose both their impact on the world (emissions, pollution, labour conditions, human rights in supply chains) and the financial risks that climate change and social trends pose to them. Reports must be digitally tagged in XHTML, included in the management report, and — crucially — assured by a third-party auditor, initially with limited assurance and later moving to reasonable assurance.
-
-CSRD covers around 50,000 companies, up from roughly 11,700 under the predecessor NFRD. It also reaches non-EU parents with significant EU turnover (€150 million) from 2028, dragging American and Asian multinationals into the European disclosure regime.
+The CSRD replaces the Non-Financial Reporting Directive (NFRD, 2014/95/EU), which covered roughly 11,700 companies and allowed them to choose among multiple voluntary frameworks (e.g., Global Reporting Initiative, Sustainability Accounting Standards Board). Under the CSRD, reporting becomes mandatory, audited by third-party assurers, and digitally tagged for machine-readability via the European Single Electronic Format.
 
 ## Why was it introduced?
 
-The 2014 Non-Financial Reporting Directive was widely treated as a failure. A 2019 fitness check by the Commission, plus studies from the Alliance for Corporate Transparency examining 1,000 companies, found that NFRD reports were vague, incomparable and largely useless to investors: only a quarter of companies disclosed clear climate targets, and supply-chain reporting was almost non-existent. Investors led by the Principles for Responsible Investment and asset managers including Amundi and BlackRock complained they could not price climate risk because the data simply did not exist in any standardised form.
+The CSRD was a direct response to the collapse of the "voluntary disclosure" model exposed by the Dieselgate scandal and subsequent investor lawsuits. In 2015, Volkswagen admitted to installing emissions-cheating software in 11 million vehicles worldwide. Over the following years, investors — including the Norwegian sovereign wealth fund (the world's largest at over $1 trillion in assets) — filed suits arguing they had been misled about VW's environmental compliance and faced billions in losses when the scandal erased €30 billion from VW's market value. The result: investors discovered that voluntary sustainability reports systematically omitted material risks, from supply-chain child labour to carbon liabilities.
 
-The political trigger was the European Green Deal. When Ursula von der Leyen took office in December 2019, Executive Vice-President Frans Timmermans made sustainable finance a pillar of the package. The 2018 Sustainable Finance Action Plan and the 2020 Taxonomy Regulation had created legal categories of "green" economic activity, but without company-level data the Taxonomy was unenforceable. Banks subject to the SFDR (Regulation 2019/2088) were being asked by regulators to disclose the sustainability of their portfolios while the underlying companies disclosed nothing comparable. Commissioner Mairead McGuinness, who took over financial services from Valdis Dombrovskis in 2020, framed CSRD explicitly as the "missing piece" that would feed data into the Taxonomy and SFDR.
+The European Commission's own 2020 fitness check of the NFRD found that voluntary frameworks produced "inconsistent, incomparable, and often boilerplate" disclosures. The Commission's impact assessment in 2021 cited that 78% of NFRD reports omitted climate-risk information identified as material by the Task Force on Climate-related Financial Disclosures. Meanwhile, the EU's Sustainable Finance Disclosure Regulation (2020) forced financial institutions to demand ESG data they couldn't actually obtain from companies.
 
-There was also a defensive industrial-policy motive. The IFRS Foundation announced its International Sustainability Standards Board (ISSB) at COP26 in Glasgow in November 2021, and the US SEC was preparing its own climate disclosure rule (proposed March 2022). Brussels feared that without a fast-moving European standard, global ESG reporting would be set in London or Delaware — and would cover only investor-facing financial materiality, not the broader societal impacts the EU wanted disclosed. EFRAG, previously a financial-reporting advisory body, was hastily reconfigured in 2022 with a new sustainability pillar chaired by Patrick de Cambourg to draft the ESRS. The Commission proposed CSRD in April 2021; the Council and Parliament reached political agreement in June 2022, and the directive was signed on 14 December 2022.
+**Timing** was critical. The CSRD was proposed in April 2021 by the von der Leyen Commission, with Executive Vice President Valdis Dombrovskis and Commissioner Mairead McGuinness leading the file. The pandemic had just exposed how fragile global supply chains were, and the European Green Deal — launched in December 2019 — needed enforcement teeth. A coalition of Nordic governments (Denmark, Sweden, Finland), investor groups (including the Institutional Investors Group on Climate Change with €35 trillion in assets under management), and large European multinationals like Unilever and Nestlé pushed for mandatory reporting to level the playing field against companies hiding behind voluntary frameworks.
+
+The bill passed the European Parliament with 525 votes in favour, 60 against, and 28 abstentions in November 2022. The main opposition came from some SME associations (UEAPME) who warned of costs of up to €200,000 per company for first-time compliance, and a handful of conservative MEPs who argued it would burden companies during the energy crisis.
 
 ## Timeline
 
-- **2014** — NFRD (Directive 2014/95/EU) adopted; applies to ~11,700 large public-interest entities.
-- **2019** — Commission fitness check finds NFRD disclosures inadequate; Alliance for Corporate Transparency publishes critical review.
-- **December 2019** — Von der Leyen Commission launches European Green Deal.
-- **April 2021** — Commission publishes CSRD proposal.
-- **June 2022** — Trilogue agreement between Council, Parliament and Commission.
-- **November 2022** — European Parliament adopts text (525 votes in favour, 60 against, 28 abstentions).
-- **14 December 2022** — Directive 2022/2464 signed; enters into force 5 January 2023.
-- **31 July 2023** — Commission adopts the first set of 12 ESRS as a delegated act.
-- **2024** — First reporting year for companies already under NFRD (reports published in 2025).
-- **February 2025** — Commission unveils "Omnibus" simplification package proposing to delay and narrow CSRD scope amid backlash from France, Germany and business federations.
-- **April 2025** — Parliament and Council adopt "stop-the-clock" directive postponing application for waves 2 and 3 by two years.
+- **2014** — NFRD enters force, covering 11,700 large listed companies, with voluntary frameworks
+- **2015** — Volkswagen diesel emissions scandal begins, revealing systemic greenwashing
+- **2019** — European Green Deal announced by von der Leyen Commission; investors begin suing VW and others over omitted ESG risks
+- **2020** — Commission fitness check finds NFRD produces "inconsistent, incomparable" reports
+- **April 2021** — CSRD proposal published by Commission (McGuinness/Dombrovskis)
+- **November 2022** — European Parliament adopts CSRD: 525-60-28
+- **December 2022** — Council formally adopts the directive
+- **January 2023** — CSRD enters into force
+- **2025** — First companies (previously NFRD-covered, 11,700) must report for FY2024
+- **2026** — Large companies not previously covered (approx. 35,000) begin reporting for FY2025
+- **2027** — Listed SMEs begin reporting (with opt-outs until 2028)
+- **2029** — Non-EU companies with €150m+ EU turnover begin reporting
 
 ## Impact and consequences
 
-The compliance bill has been substantial. PwC and EY estimated first-year CSRD readiness costs at €500,000 to several million euros per large group, driven by the need to map thousands of data points across global operations. Companies including LVMH, Siemens, TotalEnergies and Unilever stood up dedicated sustainability-reporting teams numbering in the dozens. The Big Four audit firms moved fast: Deloitte and KPMG reported double-digit revenue growth in their sustainability assurance lines in 2023–24.
+The CSRD increased the number of companies required to report ESG data from 11,700 to approximately 50,000 — a 327% expansion. For the first time, non-EU companies like Apple, Amazon, and Shell face mandatory EU reporting on their entire global supply chains, not just EU operations.
 
-The political backlash arrived almost immediately. French President Emmanuel Macron called for a "regulatory pause" in May 2023, and by late 2024 German Chancellor Olaf Scholz and the BDI industry federation were openly demanding scope cuts. In February 2025, Commissioner Valdis Dombrovskis (returning to the Commission under von der Leyen II) presented the Omnibus package, which proposed to lift the employee threshold from 250 to 1,000 and remove roughly 80% of companies from scope — a remarkable retreat for a directive that had only just begun to apply. The "stop-the-clock" directive adopted in April 2025 delayed reporting for the second and third waves until 2027 and 2028.
+Implementation has been rocky. In 2024, EFRAG published the first set of ESRS standards, but industry groups warned they covered over 1,000 data points per company. The Commission delayed some sector-specific standards to 2026 to reduce burden. The German IFRS-endorsing lobby (Deutsches Rechnungslegungs Standards Committee) had fought for alignment with the International Sustainability Standards Board (ISSB) rather than EU-specific rules.
 
-Outside Europe, CSRD has had extraterritorial bite. US groups including Apple, Google and ExxonMobil with material EU subsidiaries are preparing group-level reports; Japanese and Korean conglomerates have lobbied through the European Round Table for Industry to align ESRS with ISSB standards. The interoperability mapping published jointly by EFRAG and the ISSB in May 2024 was a direct response.
+By mid-2024, only 3 of the 27 member states had fully transposed the CSRD into national law (Germany, France, Sweden), though the deadline was July 2024. The European Commission opened infringement proceedings against 24 member states in November 2024 for non-transposition. Smaller member states like Malta and Cyprus cited limited auditing capacity — the EU estimated needing 15,000 additional sustainability assurance professionals by 2026.
+
+Companies faced an estimated €16,000–€200,000 per reporting cycle depending on size, though the Commission argued the cost of non-disclosure was higher: a 2023 EY survey found 96% of institutional investors said ESG data gaps prevented capital allocation to sustainable firms.
 
 ## Key questions answered
 
-### Why do some sustainability reports have to consider both how the world affects the company and how the company affects the world, when most other countries don't require that?
+### Why did the EU require companies to report on climate and social issues?
 
-The European Parliament, especially Green and S&D MEPs led by rapporteur Pascal Durand, insisted that disclosure should serve citizens and NGOs — not just investors. The ISSB and SEC frameworks cover only "financial materiality" (sustainability issues that affect enterprise value). Brussels deliberately added "impact materiality" so that, for example, a company's contribution to deforestation must be reported even if it poses no financial risk to the firm. This reflects the EU's view that capital markets alone will not deliver the Green Deal.
+Because the voluntary system failed. After Volkswagen's 2015 emissions scandal wiped out €30 billion in market value, investors sued — and discovered that companies' self-selected "sustainability reports" had omitted material risks like pending environmental fines and forced labour in supply chains. The EU's own 2020 review found 78% of voluntary reports omitted climate-risk data investors needed.
 
-### Why do companies based outside the EU have to follow European rules on reporting their environmental and social impact?
+### Do foreign companies have to follow EU sustainability reporting rules?
 
-Without an extraterritorial hook, large multinationals could simply book activities outside the EU and escape disclosure, leaving European competitors at a disadvantage. The €150 million EU-turnover threshold for non-EU parents — applying from financial year 2028 — was inserted during trilogues at the Parliament's insistence. It mirrors the extraterritorial logic of GDPR and is expected to capture several thousand US, UK, Swiss and Asian groups.
+Yes, if they have over €150 million in annual EU turnover. A Chinese steelmaker or US tech giant that sells €200 million in goods in the EU must report on its entire global greenhouse gas emissions, supply-chain human rights practices, and biodiversity impacts — not just its EU operations. This applies from 2029 for fiscal year 2028.
 
-### Why did the European Commission propose to weaken the new corporate sustainability reporting rules just two years after they were passed?
+### How much does this cost companies?
 
-The Draghi report on EU competitiveness (September 2024) and the Letta report on the single market (April 2024) both identified regulatory burden as a drag on European industry. With Donald Trump's re-election and aggressive deregulation in the US, von der Leyen's second Commission pivoted to a "competitiveness compass" agenda. The Omnibus simplification was the first concrete deliverable — politically necessary to keep the EPP and centre-right governments on board, even at the cost of weakening the Green Deal's data backbone.
+First-year compliance costs range from €16,000 for a small listed company to over €200,000 for a large multinational, according to the Commission's 2021 impact assessment. But the Commission argued that the cost of non-compliance — including greenwashing lawsuits, reputational damage, and lost access to sustainable finance markets — was far higher. By 2024, EY found 96% of institutional investors would refuse to invest in firms lacking audited ESG data.
+
+### Why did it take so long to pass this law?
+
+Previous attempts — notably the 2014 NFRD — were blocked by business lobbies (BusinessEurope, SME associations) who argued mandatory ESG reporting would kill competitiveness. The breakthrough came from three simultaneous forces: the Dieselgate investor lawsuits proving voluntary reports were unreliable; the European Green Deal requiring data to enforce climate targets; and the pandemic exposing supply-chain risks that investors demanded transparency on. The 2020 Commission fitness check became the unblocking document, showing voluntary disclosure was failing to produce comparable data.
 
 ## Official sources
 
-- [Directive (EU) 2022/2464 — EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2464)
-- [European Sustainability Reporting Standards (Delegated Regulation 2023/2772)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2772)
-- [European Commission — Corporate sustainability reporting](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en)
-- [EFRAG Sustainability Reporting](https://www.efrag.org/en/sustainability-reporting)
+- [Corporate Sustainability Reporting Directive - Official Journal of the EU](https://eur-lex.europa.eu/eli/dir/2022/2464/oj)
+- [European Commission CSRD page](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en)
+- [EFRAG European Sustainability Reporting Standards (ESRS)](https://www.efrag.org/lab6)
