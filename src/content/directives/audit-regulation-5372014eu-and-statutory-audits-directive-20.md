@@ -7,6 +7,7 @@ tags: [audit-reform, statutory-audit, big-four, corporate-governance, financial-
 summary: "The EU audit reform package tightened rules on statutory audits for public-interest entities, introducing mandatory auditor rotation and restricting non-audit services to reduce conflicts of interest after corporate scandals such as Parmalat and the 2007-2008 financial crisis."
 status: "in-force"
 related: ["2006/43/EC"]
+---
 
 ## What is it?
 
