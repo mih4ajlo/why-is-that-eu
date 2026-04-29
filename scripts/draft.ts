@@ -555,11 +555,12 @@ export function finalize(fullContent: string, model?: string): void {
     throw new Error('Generated content does not contain valid frontmatter.');
   }
   let content = fullContent.slice(fmStart);
+  const fmEndIdx = content.indexOf('\n---', 3);
+  if (fmEndIdx === -1) {
+    throw new Error('Frontmatter block is not closed (missing closing ---).');
+  }
   if (model) {
-    const fmEndIdx = content.indexOf('\n---', 3);
-    if (fmEndIdx !== -1) {
-      content = content.slice(0, fmEndIdx) + `\nllm: "${model}"` + content.slice(fmEndIdx);
-    }
+    content = content.slice(0, fmEndIdx) + `\nllm: "${model}"` + content.slice(fmEndIdx);
   }
   save(content);
 }
