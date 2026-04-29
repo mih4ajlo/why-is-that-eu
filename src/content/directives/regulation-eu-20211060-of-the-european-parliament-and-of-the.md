@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy"
 directive: "2021/1060/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2021
 tags: [cohesion-funds, regional-development, eu-budget, common-provisions-regulation, structural-funds, european-regional-development-fund]
 summary: "The Common Provisions Regulation (CPR) for the 2021-2027 programming period consolidates financial rules for eight EU funds under a single rulebook, aiming to simplify implementation, strengthen the link with EU economic governance, and impose stricter conditions for disbursement, including a new 'enabling conditions' framework and a rule-of-law conditionality mechanism."

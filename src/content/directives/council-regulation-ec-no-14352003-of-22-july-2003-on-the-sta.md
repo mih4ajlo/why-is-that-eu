@@ -1,7 +1,7 @@
 ---
 title: "Council Regulation (EC) No 1435/2003 of 22 July 2003 on the Statute for a European Cooperative Society (SCE)"
 directive: "1435/2003/EC"
-category: "Other"
+category: "Trade & Competition"
 year: 2003
 tags: [worker-cooperatives, cross-border-company, social-economy, eu-company-forms, employee-involvement]
 summary: "Creates a European legal form for cooperative societies, allowing groups from at least two EU countries to form a single company governed by uniform EU rules. The regulation has been used far less than expected, with fewer than 500 SCEs registered by 2020."

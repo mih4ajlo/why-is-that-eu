@@ -1,7 +1,7 @@
 ---
 title: "Erasmus+ Programme Regulation (2021/817/EU)"
 directive: ""
-category: "Other"
+category: "Governance & Institutions"
 year: 2021
 tags: [education, student-mobility, youth, lifelong-learning, european-identity]
 summary: "The Erasmus+ Programme Regulation (2021/817/EU) governs the EU's flagship education, training, youth and sport programme from 2021 to 2027, with a budget double that of its predecessor, aiming to reach 600,000 participants per year and to foster inclusion, digital skills, and the European identity."

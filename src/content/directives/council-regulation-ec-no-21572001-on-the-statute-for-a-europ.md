@@ -1,7 +1,7 @@
 ---
 title: "Council Regulation (EC) No 2157/2001 on the Statute for a European Company (SE)"
 directive: "2157/2001/EC"
-category: "Other"
+category: "Trade & Competition"
 year: 2001
 tags: [company-law, corporate-governance, worker-participation, single-market, se-regulation]
 summary: "The European Company Statute (SE) allows companies from different EU member states to merge into a single legal entity governed by EU law, with the aim of reducing cross-border operational costs and enabling a unified management structure, but its limited adoption has exposed practical and political challenges."

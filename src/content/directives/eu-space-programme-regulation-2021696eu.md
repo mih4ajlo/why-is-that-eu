@@ -1,7 +1,7 @@
 ---
 title: "EU Space Programme Regulation (2021/696/EU)"
 directive: "2021/696/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2021
 tags: [space, galileo, copernicus, security, satellite, sovereignty]
 summary: "Establishes the EU Space Programme, consolidating Galileo, EGNOS, Copernicus, and new components like GOVSATCOM and SST under a single €14.8 billion budget for 2021-2027, aiming to guarantee EU strategic autonomy in space."

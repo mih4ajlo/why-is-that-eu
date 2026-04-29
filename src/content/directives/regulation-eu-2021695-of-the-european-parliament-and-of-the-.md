@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation"
 directive: "2021/695/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2021
 tags: [research-funding, innovation, climate-neutrality, digital-transition, excellence-science, global-challenges]
 summary: "Horizon Europe is the EU's €95.5 billion research and innovation framework programme for 2021-2027, designed to boost the bloc's technological sovereignty, address climate and digital goals, and distribute funding through competitive calls with a new focus on mission-driven innovation."

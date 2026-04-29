@@ -31,6 +31,7 @@ const CATEGORIES = [
   'Labour & Social',
   'Migration & Asylum',
   'Justice & Civil Law',
+  'Governance & Institutions',
   'Sanctions & Foreign Policy',
   'Trade & Competition',
   'Transport',

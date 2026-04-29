@@ -1,7 +1,7 @@
 ---
 title: "Transparency Register for lobbyists Regulation (2021/1263/EU)"
 directive: "2021/1263/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2021
 tags: [lobbying-transparency, eu-institutions, interest-representation, rule-of-law, public-access, ethics]
 summary: "Creates a mandatory transparency register for interest representatives seeking to influence EU institutions, replacing the previous voluntary system with binding rules and stronger enforcement mechanisms."

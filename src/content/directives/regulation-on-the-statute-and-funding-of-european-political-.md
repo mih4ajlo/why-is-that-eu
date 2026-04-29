@@ -1,7 +1,7 @@
 ---
 title: "Regulation on the statute and funding of European political parties and European political foundations (1141/2014/EU)"
 directive: "1141/2014/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2014
 tags: [political-parties, eu-governance, transparency, democracy, funding]
 summary: "This regulation establishes a European legal status for political parties and foundations at the EU level, governs their funding from the EU budget, and imposes rules on transparency, governance, and respect for EU values."

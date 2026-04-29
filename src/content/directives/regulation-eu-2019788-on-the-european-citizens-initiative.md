@@ -1,7 +1,7 @@
 ---
 title: "Regulation (EU) 2019/788 on the European Citizens' Initiative"
 directive: "2019/788/EU"
-category: "Other"
+category: "Governance & Institutions"
 year: 2019
 tags: [citizen-participation, eu-democracy, direct-democracy, petition-rights, civil-society, transparency]
 summary: "The European Citizens' Initiative (ECI) Regulation sets rules for EU citizens to directly propose legislation, requiring one million signatures across at least seven member states. It was introduced to make EU decision-making more democratic and accessible, after the initial 2011 version proved too cumbersome."
