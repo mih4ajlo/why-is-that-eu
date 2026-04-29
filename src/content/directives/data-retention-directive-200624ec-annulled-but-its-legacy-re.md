@@ -5,7 +5,7 @@ category: "Digital & Data"
 year: 2006
 tags: [data-retention, surveillance, privacy, cjeu, digital-rights, charter-of-fundamental-rights]
 summary: "The Data Retention Directive required telecoms and ISPs to store all citizens' communications metadata for up to two years. It was annulled by the CJEU in 2014 for violating fundamental privacy rights, but sparked a decade of legal battles that redefined the balance between surveillance and privacy in EU law."
-status: "annulled"
+status: "repealed"
 related: ["2002/58/EC", "2016/679/EU"]
 llm: "deepseek-chat"
 ---

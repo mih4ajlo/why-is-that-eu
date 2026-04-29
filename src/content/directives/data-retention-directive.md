@@ -5,7 +5,7 @@ category: "Justice & Civil Law"
 year: 2006
 tags: [data-retention, privacy, surveillance, telecommunications, cjeu, fundamental-rights]
 summary: "The Data Retention Directive required EU telecoms and internet providers to store citizens' communications data for up to two years. It was struck down by the Court of Justice of the European Union in 2014 for violating fundamental rights to privacy and data protection, establishing a landmark precedent for EU surveillance law."
-status: "annulled"
+status: "repealed"
 related: ["95/46/EC", "2002/58/EC", "2016/680/EU"]
 llm: "deepseek-chat"
 ---
