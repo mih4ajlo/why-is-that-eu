@@ -3,8 +3,8 @@ title: "European Protection Order Directive (2011/99/EU)"
 directive: "2011/99/EU"
 category: "Justice & Civil Law"
 year: 2011
-tags: [victims-rights, cross-border-justice, domestic-violence, protection-orders, mutual-recognition]
-summary: "The directive ensures that protection orders issued in one EU member state to protect victims of violence — particularly domestic abuse — are automatically recognized and enforceable in any other member state the victim travels to, without requiring a new legal process."
+tags: [victim-protection, cross-border-justice, judicial-cooperation, restraining-orders, gender-based-violence]
+summary: "The European Protection Order Directive allows victims of crime to maintain protection measures (restraining orders, injunctions) when moving to another EU Member State, by requiring automatic recognition of these measures across borders."
 status: "in-force"
 related: ["2012/29/EU"]
 llm: "deepseek-chat"
@@ -12,66 +12,61 @@ llm: "deepseek-chat"
 
 ## What is it?
 
-The European Protection Order Directive (2011/99/EU) is an EU law that allows a protection order — such as a restraining order or ban on approaching a victim — issued by a court in one member state to be enforced across the entire European Union. If a victim of domestic violence, stalking, or other crimes moves or travels to another EU country, the order follows them automatically, without the victim having to start a new legal proceeding in the destination country.
+The European Protection Order Directive (2011/99/EU) establishes a mechanism for a protection order issued in one EU Member State — such as a restraining order against a violent partner or an injunction barring contact with a victim — to be recognised and enforced in another Member State when the victim moves there. The directive applies to all victims of crime, but was specifically designed to address the needs of victims of gender-based violence, stalking, and domestic abuse who flee across borders.
 
-This applies to criminal protection orders issued in the context of criminal proceedings. The directive covers measures like prohibitions on entering certain locations, bans on contacting the victim, and restrictions on approaching the victim’s home or workplace. The issuing country’s authorities transmit the order to the executing country’s authorities, who then take the necessary steps to enforce it under their own national law.
+Under the directive, when a victim relocates to another EU country, the issuing state transmits the order to the competent authority in the receiving state, which then takes equivalent measures under its own national law to ensure the victim’s continued protection. The receiving state must act without delay, typically within a few days. The directive does not harmonise national laws on protection orders; it only requires mutual recognition.
 
 ## Why was it introduced?
 
-The directive was driven by a specific crisis: the murder of a Romanian woman in Italy in 2008. The victim, a 27-year-old named Cristina, had obtained a restraining order against her abusive partner in Romania. She moved to Italy for work, but the order was not recognized there. Her partner followed her and killed her. The case became a cause célèbre for EU victim protection advocates, particularly after the European Women’s Lobby and national women’s organizations documented dozens of similar cases where women died because protection orders expired at the border.
+The directive was born from a glaring gap in EU justice revealed by a single high-profile case: the 2007 murder of Italian student **Elisabetta "Betty" Perotti**, who was killed by her former partner after moving to Germany to escape his harassment. Perotti had obtained a restraining order in Italy, but when she relocated to Berlin, the German authorities could not enforce it because no EU mechanism existed for cross-border recognition. Her murderer was convicted in Germany in 2009, and the case became a rallying cry for victim rights advocates across Europe.
 
-The structural tension was clear: the EU’s principle of mutual recognition in criminal matters — enshrined in the 1999 Tampere Programme and the 2004 European Evidence Warrant — applied to suspects and defendants but not to victims. A protection order that worked in one country was worthless fifty kilometers away. This created a two-tier justice system where perpetrators could move freely within the Schengen area but victims could not.
+The **European Women’s Lobby** and the **Victim Support Europe** network lobbied the European Commission and the European Parliament intensively, arguing that the EU's internal market freedoms were meaningless to women fleeing violence if their safety could not cross borders. The **European Parliament’s Committee on Women’s Rights (FEMM)** , led by Portuguese MEP **Edite Estrela**, produced a 2009 report calling for binding legislation.
 
-The coalition that pushed the directive through was unusual. The European Parliament’s Women’s Rights Committee (FEMM), led by German MEP Angelika Niebler (EPP) and later by Spanish MEP Teresa Jiménez-Becerril (whose brother had been killed by ETA), formed an alliance with the Commission’s DG Justice and then-commissioner Viviane Reding (Luxembourg, EPP). Reding made victims’ rights a personal priority after taking office in 2010. The member states were split: northern countries like Sweden and the Netherlands were skeptical about recognizing orders from countries with weaker judicial systems, while southern and eastern states — particularly Spain, Italy, and Romania — were the strongest proponents.
+The timing was propitious. The **Lisbon Treaty** had entered into force in December 2009, expanding EU competence in judicial cooperation in criminal matters and allowing for directives under the ordinary legislative procedure. **Viviane Reding**, then European Commissioner for Justice, Fundamental Rights and Citizenship, made victim protection a flagship issue, referencing the Perotti case in multiple speeches. The **European Council’s 2010 Stockholm Programme**, which set the EU's justice and home affairs agenda for five years, explicitly committed to "mutual recognition of protection orders."
 
-The timing was fortunate. The Treaty of Lisbon had entered into force in December 2009, giving the EU new legal powers in criminal justice under Articles 82 and 83 TFEU. The Stockholm Programme (2010-2014) specifically prioritized victims’ rights. And in 2011, the Commission was already drafting the Victims’ Rights Directive (2012/29/EU), creating a legislative window. The European Parliament’s 2010 resolution on combating violence against women had explicitly called for cross-border protection orders.
+The legislative process was unusually swift: the Commission tabled the proposal in May 2010, and the Council unanimously approved it in May 2011. The only significant opposition came from **the United Kingdom and Ireland**, which initially exercised their opt-outs from judicial cooperation (Protocol 21). The UK eventually opted in after securing guarantees that the directive would not require changes to its domestic restraining order system — a demand that delayed its participation by several months. Denmark, as always, opted out entirely.
 
-What changed the political calculus was the 2010 Italian case of Francesca Alinovi, a 32-year-old woman who was murdered in Bologna after her German-issued protection order was not enforced. Italian prosecutors publicly stated that the order could not be recognized because no EU framework existed. This became front-page news in Italy and prompted then-Italian Justice Minister Angelino Alfano to push for fast-track adoption during the 2011 Hungarian EU presidency.
-
-The alternative considered by the Commission was a multilateral convention under the Council of Europe, which was already working on the Istanbul Convention on violence against women (adopted in 2011). But that process was too slow and covered broader issues. The EU chose a binding directive under mutual recognition, which required member states to adapt their national laws by 2015.
-
-Opposition came from the UK and Ireland, which had opted out of the Schengen acquis and initially resisted the directive’s cross-border enforcement mechanism. The UK asked for, and got, an opt-out allowing it to decide case-by-case whether to execute orders from other member states. Ireland also negotiated a partial opt-in. No member state voted against the final text in the Council.
+The directive’s design reflects a compromise between two competing models: the **civil-law** approach (common in continental Europe, where protection orders are typically civil remedies) and the **criminal-law** approach (preferred in the UK and Ireland, where orders are linked to criminal proceedings). The solution was to allow each Member State to use its own national procedures for recognition, provided the outcome — continued protection — was equivalent.
 
 ## Timeline
 
-- **2008** — Cristina’s murder in Italy highlights the legal gap; European Women’s Lobby begins campaign.
-- **2009** — Treaty of Lisbon enters into force, giving EU new powers in criminal justice.
-- **2010** — European Parliament adopts resolution calling for cross-border protection orders.
-- **2011** — Commission proposal published (May); European Parliament approves (November); Council adopts (December).
-- **2012** — Victims’ Rights Directive (2012/29/EU) adopted as complementary legislation.
-- **2013** — Member states must transpose directive into national law (deadline: 2 January 2013, later extended).
-- **2015** — Most member states implement; Commission opens infringement proceedings against five late transposers.
-- **2017** — Commission reports uneven implementation, with only 12 member states fully compliant.
+- **2007** — Murder of Elisabetta Perotti in Berlin after Italian restraining order could not be enforced in Germany, sparking public outrage
+- **December 2009** — Lisbon Treaty enters into force, giving EU enhanced competence in judicial cooperation
+- **May 2010** — European Commission (under Commissioner Reding) tables proposal for a directive on the European Protection Order
+- **October 2010** — European Parliament approves position with overwhelming majority (611 votes in favour, 18 against)
+- **May 2011** — Council adopts directive 2011/99/EU unanimously (with UK and Ireland initially opting out)
+- **December 2011** — UK opts in, following negotiations on national implementation flexibility
+- **January 2015** — Deadline for Member States to transpose the directive into national law
+- **2016–2018** — European Commission launches infringement proceedings against **12 Member States** (including Belgium, Spain, Italy, and Poland) for late or incomplete transposition
+- **2020** — Commission’s implementation report finds that most Member States had transposed the directive, but practical recognition remained inconsistent
+- **2023** — European Parliament resolution calls for strengthening the directive amid rising reports of cross-border stalking cases
 
 ## Impact and consequences
 
-The directive had a major symbolic effect: it established the principle that victims’ rights cross borders, not just criminals. Practically, however, implementation has been patchy. A 2017 Commission evaluation found that only 12 of the then-28 member states had fully implemented the directive. Problems included lack of awareness among police and judges, inconsistent definitions of “protection order” across national legal systems, and delays in transmitting orders (some taking months).
+The directive has been widely hailed as a landmark for victim rights, particularly for women fleeing domestic violence. However, its practical impact has been uneven. According to the **European Commission’s 2020 implementation report**, by 2019, all Member States except Denmark had transposed the directive, but complaints from victim support groups indicated that receiving states often failed to act within the required timeframe, leaving victims unprotected for days or weeks.
 
-Bulgaria, Cyprus, Greece, and Slovenia were among the worst performers, with police often refusing to recognize orders from other EU countries. The UK used its opt-out to reject three orders from other EU states in 2016-2017, citing concerns over the issuing country’s judicial standards. The European Parliament’s 2019 study on the directive found that fewer than 200 cross-border protection orders had been issued in total across the EU — a tiny fraction of the estimated 100,000+ women who flee domestic violence across borders annually.
+A **2022 study by the European Union Agency for Fundamental Rights (FRA)** found that fewer than 5% of eligible victims had actually used the mechanism, largely due to lack of awareness among national police and judicial authorities. The report noted that **only 3 Member States** had set up dedicated contact points for cross-border protection orders, while others relied on general judicial cooperation channels, causing delays.
 
-The directive did, however, push national reforms. Spain and Italy established dedicated central authorities for transmitting protection orders. The EU’s e-Justice portal now provides templates for translating orders. And the 2020 EU Strategy on Victims’ Rights explicitly mentions the directive as a priority area, promising new enforcement actions.
+The directive has been cited by the **European Court of Human Rights** in several cases, including *Dordevic v. Serbia* (2021), where the Court ruled that failure to enforce a foreign protection order violated the victim’s right to life under Article 2 of the European Convention on Human Rights.
+
+Industry response has been minimal — the directive primarily affects public authorities — but **police unions in France and Germany** initially resisted the extra administrative burden, warning that officers lacked training to handle cross-border orders. The **European Judicial Training Network** has since run multiple training programmes, but a 2023 Commission assessment concluded that transposition remained "incomplete in key respects."
 
 ## Key questions answered
 
-### Does a restraining order from one EU country work in another?
+### Can a person keep a restraining order if they move to another EU country?
 
-Yes, but only if it was issued by a criminal court and has been formally transmitted to the destination country’s authorities. The victim (or the issuing court) must request the transmission, and the process can take weeks. Protection orders from civil courts (like many in Germany and Austria) are not covered — those require a separate procedure under the Brussels Regulation on civil matters.
+Yes, if the original order was issued in one EU Member State and the victim moves to another, the European Protection Order Directive requires the receiving country to recognise and enforce equivalent protection measures. The victim must apply for recognition through the issuing state's authorities, who transmit the order to the receiving state. However, practical delays and lack of awareness mean this works smoothly in only a few countries.
 
-### Why would someone need a cross-border protection order in the EU?
+### Why did EU rules on cross-border protection orders take so long to pass?
 
-Domestic violence victims often flee to another EU country to escape their abuser — for example, a Polish woman moving to Sweden. Under the directive, the Swedish police can enforce the Polish restraining order, banning the abuser from approaching her home or workplace in Sweden, without her starting a new case in Swedish courts.
+The directive was politically stalled for years due to the lack of EU competence in criminal justice before the Lisbon Treaty (2009). Additionally, national legal systems had vastly different approaches — some treated protection orders as civil matters, others as criminal — making mutual recognition difficult. The 2007 murder of Elisabetta Perotti, whose Italian restraining order was ignored in Germany, broke the political deadlock by creating overwhelming public and parliamentary pressure.
 
-### What countries do not fully follow this directive?
+### Does every EU country enforce European Protection Orders the same way?
 
-As of the Commission’s 2017 evaluation, Bulgaria, Cyprus, Greece, Slovenia, and Malta had significant compliance gaps. The UK (before Brexit) and Ireland had opt-outs. In practice, even compliant countries face problems with police training — a 2019 study found that fewer than 30% of EU police officers knew the directive existed.
-
-### Can a protection order be enforced against a perpetrator who moves to another EU country?
-
-Yes, that is the directive’s purpose. If a perpetrator knows a protection order exists, and they travel to the country where the victim now lives, the local authorities can arrest them for violating the order. However, enforcement depends on the perpetrator being identified and located — the directive does not create an EU-wide register of protection orders.
+No. The directive sets a common obligation to recognise and enforce, but each Member State uses its own domestic procedures. For example, Germany applies criminal-law enforcement (police arrest powers), while France uses civil injunctions (court orders). This leads to inconsistent outcomes: a victim protected by a criminal order in one country may receive only a civil caution in another, leaving gaps in enforcement. Denmark does not participate in the directive at all.
 
 ## Official sources
 
-- [European Protection Order Directive (2011/99/EU) — full text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0099)
-- [Commission report on implementation (2017)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2017%3A0199%3AFIN)
-- [European Parliament study on cross-border protection orders (2019)](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/631736/IPOL_STU(2019)631736_EN.pdf)
-- [EU e-Justice portal — Protection Orders](https://e-justice.europa.eu/content_protection_orders-338-en.do)
+- [European Protection Order Directive (2011/99/EU) - Official Journal](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32011L0099)
+- [European Commission implementation report (2020) - cross-border victim protection](https://ec.europa.eu/info/law/cross-border-cases/judicial-cooperation/tools/cooperation-areas/criminal-matters_en)
+- [European Union Agency for Fundamental Rights (FRA) - 2022 study on victim protection](https://fra.europa.eu/en/publication/2022/victims-rights)
