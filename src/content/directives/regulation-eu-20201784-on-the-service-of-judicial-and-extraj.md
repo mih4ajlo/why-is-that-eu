@@ -68,7 +68,7 @@ Only if you have given your express consent in advance to accept electronic serv
 
 ### Does this regulation apply to criminal cases?
 
-No. Regulation 2020/1784 applies only to civil and commercial matters. Criminal cases are covered by separate EU instruments and conventions on mutual legal assistance. The regulation explicitly excludes criminal proceedings, customs matters, and tax cases.
+No. Regulation 2020/1784 applies only to civil and commercial matters — contracts, debt recovery, family law, and similar disputes between private parties. Criminal cases are governed by separate EU instruments on mutual legal assistance, including the 2000 MLA Convention and its 2001 Protocol. The regulation explicitly excludes criminal proceedings, customs matters, and tax cases, which remain subject to different legal frameworks and bilateral treaties.
 
 ### What happens if a member state does not connect to the digital system?
 

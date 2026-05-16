@@ -59,7 +59,7 @@ Industry impact was indirect but substantial — the system drove a €200 milli
 
 ### Why do asylum seekers have to give their fingerprints to a shared EU database?
 
-Because the Dublin Regulation requires determining which Member State is responsible for an application, and authorities cannot trace previous claims without a shared verification system. Eurodac is the technical enforcer of Dublin.
+Because the Dublin Regulation requires determining which Member State is responsible for an asylum application, and authorities cannot trace previous claims across borders without a shared verification system. Without Eurodac, an applicant rejected in Germany could re-apply in France or Sweden with no record of the prior refusal. Eurodac is the technical enforcer of Dublin: fingerprint matching is what turns the burden-sharing rules into an operational reality.
 
 ### Why were police given access to the EU asylum fingerprint database in 2013?
 
@@ -67,7 +67,7 @@ The 2012 Commission evaluation showed that terrorism suspects were applying for 
 
 ### Why doesn't the EU fingerprint database for asylum seekers prevent people from moving between countries after applying?
 
-Because fingerprint enrollment at borders is inconsistent — the Commission found in 2017 that only 60% of irregular arrivals were fingerprinted, rendering the database only partially useful. Without universal enrollment, Eurodac cannot identify all secondary movers.
+Because fingerprint enrollment at borders is inconsistent — the Commission found in 2017 that only 60% of irregular arrivals were fingerprinted, rendering the database only partially useful. Without universal enrollment, Eurodac cannot identify all secondary movers. The gap is largely a capacity and political problem: overwhelmed border agencies in frontline states like Greece and Italy often prioritised processing over biometric registration, and enforcement of the enrollment obligation remained weak.
 
 ### Why is the minimum age for fingerprinting set at 14 in the EU asylum database?
 

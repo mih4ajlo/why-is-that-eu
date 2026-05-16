@@ -68,7 +68,7 @@ They don't work efficiently. A train crossing from France to Germany must meet t
 
 ### Why were the 2008 EU train compatibility rules replaced so quickly?
 
-The 2008 directive (2008/57/EC) made cross-border authorisation voluntary, and only 12 approvals were granted in 6 years. The 2016 directive makes it mandatory, with ERA taking over national approval powers from 2019, forcing member states to cede authority.
+The 2008 directive (2008/57/EC) made cross-border authorisation voluntary, and only 12 approvals were granted in 6 years. The system failed because member states could still insist on national checks alongside ERA, meaning a manufacturer seeking approval in five countries faced five separate processes. The 2016 directive makes ERA authorisation mandatory and strips national safety authorities of their parallel approval role, forcing member states to cede authority they had retained under the previous text.
 
 ### Why did France and Germany oppose common EU train standards?
 
