@@ -2150,6 +2150,46 @@
     "year": 2005
   },
   {
+    "id": "why-don-t-companies-have-to-ask-brussels-for-permission-before-signing-agreement",
+    "question": "Why don't companies have to ask Brussels for permission before signing agreements anymore?",
+    "answer": "Until 2004, EU rules required firms to notify cooperation agreements to the European Commission and wait for clearance — a system designed for the six-country common market of 1962. By the late 1990s it was overwhelmed and was about to become unworkable across an enlarged Union of 25 Member States. The Commission, under Mario Monti, replaced it with a self-assessment regime: companies and their lawyers now judge for themselves whether an agreement complies with EU competition law, and the Commission concentrates on hunting cartels and abuses of dominance.",
+    "slug": "council-regulation-ec-no-12003-on-the-implementation-of-the-",
+    "title": "Council Regulation (EC) No 1/2003 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty",
+    "directive": "1/2003/EC",
+    "category": "Trade & Competition",
+    "year": 2004
+  },
+  {
+    "id": "can-a-national-competition-authority-enforce-eu-competition-law-or-only-the-comm",
+    "question": "Can a national competition authority enforce EU competition law, or only the Commission?",
+    "answer": "Since 2004, every national competition authority in the EU has both the power and the obligation to apply Articles 101 and 102 TFEU whenever a case affects trade between Member States. They coordinate through the European Competition Network, share evidence, and allocate cases among themselves. The Commission can still pull a case to Brussels, but in practice the vast majority of European antitrust decisions are now taken at national level.",
+    "slug": "council-regulation-ec-no-12003-on-the-implementation-of-the-",
+    "title": "Council Regulation (EC) No 1/2003 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty",
+    "directive": "1/2003/EC",
+    "category": "Trade & Competition",
+    "year": 2004
+  },
+  {
+    "id": "can-victims-of-a-cartel-sue-for-damages-in-europe",
+    "question": "Can victims of a cartel sue for damages in Europe?",
+    "answer": "Yes — and this is a relatively recent development. The Court of Justice's 2001 *Courage* ruling established the principle, the 2003 modernisation made it procedurally workable by ending the Commission's monopoly over exemptions, and the 2014 Damages Directive harmonised the rules. Follow-on actions against cartels in trucks, air cargo, and elevators have produced large settlements, particularly in German, Dutch, and (formerly) UK courts.",
+    "slug": "council-regulation-ec-no-12003-on-the-implementation-of-the-",
+    "title": "Council Regulation (EC) No 1/2003 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty",
+    "directive": "1/2003/EC",
+    "category": "Trade & Competition",
+    "year": 2004
+  },
+  {
+    "id": "why-was-changing-eu-antitrust-enforcement-tied-to-the-2004-enlargement",
+    "question": "Why was changing EU antitrust enforcement tied to the 2004 enlargement?",
+    "answer": "DG Competition concluded it simply could not run a centralised notification system across 25 jurisdictions from Brussels. Decentralising enforcement to national competition authorities was both an efficiency measure and a political necessity: the new Member States from Central and Eastern Europe needed competent national enforcers, and the existing ones had to take on more responsibility. The application date — 1 May 2004 — was deliberately aligned with enlargement day.",
+    "slug": "council-regulation-ec-no-12003-on-the-implementation-of-the-",
+    "title": "Council Regulation (EC) No 1/2003 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty",
+    "directive": "1/2003/EC",
+    "category": "Trade & Competition",
+    "year": 2004
+  },
+  {
     "id": "why-did-eu-fishing-rules-require-satellite-tracking-for-all-boats-longer-than-12",
     "question": "Why did EU fishing rules require satellite tracking for all boats longer than 12 metres?",
     "answer": "The 2006 Court of Auditors report found that paper logbooks were routinely falsified — with Spanish vessels reporting catches from protected areas as coming from outside them, and Irish vessels claiming to have fished in open water when they were actually inside 12-nautical-mile limits. Satellite VMS provided verifiable, real-time data that could be cross-checked against catch reports, making it nearly impossible to claim a false position. The 12-metre threshold was a compromise: full VMS for the 15,000 largest EU vessels that account for 80% of total catch volume, while exempting the 80,000 smaller vessels that caught the remaining 20%.",
@@ -4020,6 +4060,46 @@
     "year": 2011
   },
   {
+    "id": "why-does-an-afghan-get-refugee-status-in-one-eu-country-but-not-another",
+    "question": "Why does an Afghan get refugee status in one EU country but not another?",
+    "answer": "Despite EU-wide rules defining who qualifies as a refugee, national asylum authorities and courts retain significant interpretive latitude — on what counts as persecution, when internal relocation within the home country is \"reasonable\", and how to assess country-of-origin information. Eurostat data has repeatedly shown recognition rates for the same nationality varying by tens of percentage points between member states, which is why the Commission proposed in 2016 to replace the directive with a directly applicable regulation.",
+    "slug": "directive-201195eu-on-standards-for-the-qualification-of-thi",
+    "title": "Directive 2011/95/EU on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection",
+    "directive": "2011/95/EU",
+    "category": "Migration & Asylum",
+    "year": 2011
+  },
+  {
+    "id": "what-is-the-difference-between-refugee-status-and-subsidiary-protection-in-the-e",
+    "question": "What is the difference between refugee status and \"subsidiary protection\" in the EU?",
+    "answer": "Refugee status applies to people facing persecution on grounds of race, religion, nationality, political opinion or membership of a particular social group — the 1951 Geneva Convention definition. Subsidiary protection is an EU-specific status for people who would face the death penalty, torture, or serious harm from indiscriminate violence in armed conflict but do not fit the persecution definition. Since the 2011 recast, the two statuses carry broadly similar rights, though member states retain some discretion over residence permit length and family reunification.",
+    "slug": "directive-201195eu-on-standards-for-the-qualification-of-thi",
+    "title": "Directive 2011/95/EU on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection",
+    "directive": "2011/95/EU",
+    "category": "Migration & Asylum",
+    "year": 2011
+  },
+  {
+    "id": "can-eu-countries-refuse-asylum-to-people-fleeing-war",
+    "question": "Can EU countries refuse asylum to people fleeing war?",
+    "answer": "Not lawfully, where the situation meets the threshold of indiscriminate violence. The Court of Justice clarified in *Elgafaji* (2009) and *Diakité* (2014) that civilians fleeing armed conflict can qualify for subsidiary protection without having to prove they are individually targeted, provided the level of violence in the country or region is sufficiently severe. This was the legal basis for mass grants of protection to Syrians from 2013 onwards.",
+    "slug": "directive-201195eu-on-standards-for-the-qualification-of-thi",
+    "title": "Directive 2011/95/EU on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection",
+    "directive": "2011/95/EU",
+    "category": "Migration & Asylum",
+    "year": 2011
+  },
+  {
+    "id": "why-is-the-eu-replacing-the-directive-with-a-regulation",
+    "question": "Why is the EU replacing the directive with a regulation?",
+    "answer": "Directives must be transposed into national law and leave member states room for interpretation; regulations apply directly and uniformly. Because the 2011 directive failed to eliminate recognition-rate divergences across the EU, the Commission proposed in 2016, and EU legislators adopted in 2024, a Qualification Regulation (EU 2024/1347) that will replace the directive in 2026 as part of the New Pact on Migration and Asylum.",
+    "slug": "directive-201195eu-on-standards-for-the-qualification-of-thi",
+    "title": "Directive 2011/95/EU on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection",
+    "directive": "2011/95/EU",
+    "category": "Migration & Asylum",
+    "year": 2011
+  },
+  {
     "id": "why-are-electronics-manufacturers-forced-to-pay-for-collecting-and-recycling-old",
     "question": "Why are electronics manufacturers forced to pay for collecting and recycling old devices?",
     "answer": "The directive shifts the financial burden from taxpayers to producers through extended producer responsibility. This creates an incentive to design products that are easier to repair, upgrade, and recycle — a concept known as \"ecodesign.\" Before the directive, local authorities paid for recycling, meaning producers had no reason to avoid toxic materials or non-recyclable components. The Commission's 2008 evaluation found that countries with producer-funded systems (Germany, the Netherlands) had collection rates three times higher than those relying on municipal waste services (Greece, Portugal).",
@@ -4088,6 +4168,46 @@
     "directive": "2012/27/EU",
     "category": "Energy",
     "year": 2012
+  },
+  {
+    "id": "why-do-european-oil-companies-publish-what-they-pay-to-foreign-governments",
+    "question": "Why do European oil companies publish what they pay to foreign governments?",
+    "answer": "Since financial year 2015, large EU-based or EU-listed extractive and logging companies have had to publish every payment above €100,000 made to any government, broken down by country and by project. The rule was deliberately modelled on the US Dodd-Frank Act and pushed by anti-corruption NGOs arguing that secrecy around oil and mining deals fuels the \"resource curse\" in producer countries. Industry lobbied for an exemption when host countries forbade disclosure, but the European Parliament refused.",
+    "slug": "directive-201334eu-on-the-annual-financial-statements-consol",
+    "title": "Directive 2013/34/EU on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings",
+    "directive": "2013/34/EU",
+    "category": "Financial",
+    "year": 2013
+  },
+  {
+    "id": "why-did-eu-accounting-rules-need-to-be-rewritten-in-2013",
+    "question": "Why did EU accounting rules need to be rewritten in 2013?",
+    "answer": "The original directives dated from 1978 and 1983, before IFRS, the euro, and the single market as we know it existed. They had been amended more than a dozen times and were widely considered out of step with both modern accounting practice and SME realities. The recast bundled simplification for small firms with new transparency rules for multinationals — a left-right compromise that gave both sides a win.",
+    "slug": "directive-201334eu-on-the-annual-financial-statements-consol",
+    "title": "Directive 2013/34/EU on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings",
+    "directive": "2013/34/EU",
+    "category": "Financial",
+    "year": 2013
+  },
+  {
+    "id": "do-small-businesses-in-europe-have-to-file-the-same-accounts-as-large-companies",
+    "question": "Do small businesses in Europe have to file the same accounts as large companies?",
+    "answer": "No. Since 2013 the EU has had four harmonised size categories — micro, small, medium and large — defined by balance sheet, turnover and headcount. Micro-entities can file drastically abbreviated accounts, and Member States are barred from requiring small companies to disclose more than a capped list of items. The aim was to cut paperwork costs for the millions of small firms that dominate the EU economy.",
+    "slug": "directive-201334eu-on-the-annual-financial-statements-consol",
+    "title": "Directive 2013/34/EU on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings",
+    "directive": "2013/34/EU",
+    "category": "Financial",
+    "year": 2013
+  },
+  {
+    "id": "how-is-this-connected-to-the-eu-s-later-tax-transparency-push",
+    "question": "How is this connected to the EU's later tax transparency push?",
+    "answer": "The 2013 directive established the legal and political precedent for forcing multinationals to publish data on a country-by-country basis. Once that principle was accepted for extractives, the Commission used the same legal instrument as the vehicle for further reforms: non-financial reporting in 2014, public tax CBCR for all large multinationals in 2021, and the full Corporate Sustainability Reporting Directive in 2022. Each was technically an amendment to Directive 2013/34/EU.",
+    "slug": "directive-201334eu-on-the-annual-financial-statements-consol",
+    "title": "Directive 2013/34/EU on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings",
+    "directive": "2013/34/EU",
+    "category": "Financial",
+    "year": 2013
   },
   {
     "id": "what-are-my-rights-to-a-lawyer-when-i-m-arrested-in-an-eu-country",
@@ -4420,43 +4540,43 @@
     "year": 2021
   },
   {
-    "id": "why-did-the-uk-oppose-the-original-eu-rules-on-sending-workers-abroad-temporaril",
-    "question": "Why did the UK oppose the original EU rules on sending workers abroad temporarily?",
-    "answer": "The UK government under John Major argued that the directive would fragment the single market by allowing host states to impose labour standards beyond statutory minimums, undermining the free movement of services. The UK's construction and logistics industries warned the directive would add compliance costs of up to 20% for cross-border projects. The opposition continued through the 2014 and 2018 revisions, with the UK eventually opting out of aspects of the 2020 revisions before Brexit.",
+    "id": "can-a-polish-builder-work-cheaper-than-a-french-builder-on-a-french-construction",
+    "question": "Can a Polish builder work cheaper than a French builder on a French construction site?",
+    "answer": "Much less than before. Since 2020, posted workers must receive the same \"remuneration\" as local workers — including collectively agreed wages, bonuses and allowances, not just the bare statutory minimum. The remaining cost gap is mostly in social security contributions, which are still paid in the home country for up to 24 months, and in housing or travel arrangements. The pure wage arbitrage that drove the \"Polish plumber\" controversy of the mid-2000s has largely been closed in regulated sectors.",
     "slug": "directive-9671ec-concerning-the-posting-of-workers-in-the-fr",
-    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services",
-    "directive": "96/71/EC",
-    "category": "Trade & Competition",
+    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services, as amended by Directive (EU) 2018/957",
+    "directive": "2018/957/EU",
+    "category": "Labour & Social",
     "year": 1996
   },
   {
-    "id": "why-did-the-laval-court-ruling-cause-such-a-crisis-for-eu-rules-on-posted-worker",
-    "question": "Why did the *Laval* court ruling cause such a crisis for EU rules on posted workers?",
-    "answer": "The 2007 *Laval* case (C-341/05) involved a Latvian company building a school in Sweden that refused to apply Swedish collective agreements. The ECJ ruled that Sweden could not enforce its collective bargaining system against a posted worker from a lower-wage state. This outraged Swedish and other Nordic unions, whose labour market models rely on sectoral collective agreements rather than statutory minimums. The ruling effectively told the Nordic social model it was incompatible with EU law, triggering years of political turmoil.",
+    "id": "why-were-eastern-european-countries-so-opposed-to-these-rules",
+    "question": "Why were eastern European countries so opposed to these rules?",
+    "answer": "Posted workers were one of the few areas where central and eastern European economies had a clear competitive edge in the single market. Polish, Romanian, Slovenian and Bulgarian service exporters built substantial businesses on the wage differential. Governments in Warsaw and Budapest argued that the 2018 revision punished their workers for the success of their integration into the western European economy, and that it amounted to disguised protectionism by France and Germany. They lost the political vote and the subsequent court challenge.",
     "slug": "directive-9671ec-concerning-the-posting-of-workers-in-the-fr",
-    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services",
-    "directive": "96/71/EC",
-    "category": "Trade & Competition",
+    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services, as amended by Directive (EU) 2018/957",
+    "directive": "2018/957/EU",
+    "category": "Labour & Social",
     "year": 1996
   },
   {
-    "id": "do-eu-rules-on-temporarily-sending-workers-to-another-country-apply-to-all-indus",
-    "question": "Do EU rules on temporarily sending workers to another country apply to all industries the same way?",
-    "answer": "No. Transport was largely exempt until the 2020 Mobility Package, which extended posting rules to road transport after years of opposition from Central and Eastern European member states. The construction sector is the most heavily affected, accounting for 45% of all posted workers according to Eurostat's 2020 data. The directive's 2018 revision also brought temporary agency workers under its scope.",
+    "id": "what-counts-as-social-dumping-in-the-eu-debate",
+    "question": "What counts as \"social dumping\" in the EU debate?",
+    "answer": "There is no legal definition, but the term is used by trade unions and western European politicians to describe practices where companies exploit cross-border rules to undercut local wages and conditions — using letterbox subsidiaries in low-wage member states, chaining subcontractors, posting workers on long-term assignments at home-country rates, or running drivers on permanent international circuits. The eastern European counter-argument is that \"social dumping\" is simply the label western countries put on legitimate competitive advantages they cannot match.",
     "slug": "directive-9671ec-concerning-the-posting-of-workers-in-the-fr",
-    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services",
-    "directive": "96/71/EC",
-    "category": "Trade & Competition",
+    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services, as amended by Directive (EU) 2018/957",
+    "directive": "2018/957/EU",
+    "category": "Labour & Social",
     "year": 1996
   },
   {
-    "id": "how-are-eu-rules-on-posted-workers-actually-enforced-in-practice",
-    "question": "How are EU rules on posted workers actually enforced in practice?",
-    "answer": "The 2014 Enforcement Directive created mandatory tools: posting declarations, retention of documents up to two years, and national liaison offices. The 2020 establishment of the European Labour Authority (ELA) provides a coordination mechanism for cross-border inspections. However, the Commission's 2022 report found that only nine member states had established functional electronic declaration systems by the deadline, and penalties for non-compliance varied from €500 in some member states to €50,000 in Germany.",
+    "id": "do-these-rules-cover-lorry-drivers",
+    "question": "Do these rules cover lorry drivers?",
+    "answer": "No longer — at least not directly. After years of conflict over Hungarian and Polish trucks driving permanent routes in western Europe, road transport was carved out and given its own regime in the 2020 Mobility Package (Directive 2020/1057). It applies host-country pay to cabotage and most cross-border operations but exempts pure transit and bilateral transport. Poland, Lithuania and several other haulage-exporting states challenged the package at the ECJ and lost most of their claims in 2024.",
     "slug": "directive-9671ec-concerning-the-posting-of-workers-in-the-fr",
-    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services",
-    "directive": "96/71/EC",
-    "category": "Trade & Competition",
+    "title": "Directive 96/71/EC concerning the posting of workers in the framework of the provision of services, as amended by Directive (EU) 2018/957",
+    "directive": "2018/957/EU",
+    "category": "Labour & Social",
     "year": 1996
   },
   {
@@ -5167,6 +5287,46 @@
     "title": "Directive (EU) 2023/2413 on the promotion of energy from renewable sources (RED III)",
     "directive": "2023/2413/EU",
     "category": "Energy",
+    "year": 2023
+  },
+  {
+    "id": "can-european-employers-still-keep-salaries-secret",
+    "question": "Can European employers still keep salaries secret?",
+    "answer": "No — not in the way they used to. Once the directive applies in mid-2026, workers across the EU will have the right to ask their employer about average pay levels for colleagues doing the same job or work of equal value, broken down by sex. Job applicants must be told the pay range before the interview, and contract clauses forbidding employees from discussing their wages are explicitly banned.",
+    "slug": "directive-eu-2023970-on-strengthening-the-application-of-the",
+    "title": "Directive (EU) 2023/970 on strengthening the application of the principle of equal pay for equal work or work of equal value between men and women through pay transparency and enforcement mechanisms",
+    "directive": "2023/970/EU",
+    "category": "Labour & Social",
+    "year": 2023
+  },
+  {
+    "id": "will-i-be-able-to-see-my-colleagues-exact-salaries",
+    "question": "Will I be able to see my colleagues' exact salaries?",
+    "answer": "Not their individual pay. The directive gives workers a right to information about average pay levels for categories of workers, broken down by sex — not a right to look up what the person at the next desk earns. Aggregated reporting is the mechanism: companies publish category-level gaps, and individuals can request the category-level data relevant to them.",
+    "slug": "directive-eu-2023970-on-strengthening-the-application-of-the",
+    "title": "Directive (EU) 2023/970 on strengthening the application of the principle of equal pay for equal work or work of equal value between men and women through pay transparency and enforcement mechanisms",
+    "directive": "2023/970/EU",
+    "category": "Labour & Social",
+    "year": 2023
+  },
+  {
+    "id": "what-happens-if-a-company-has-a-big-gender-pay-gap",
+    "question": "What happens if a company has a big gender pay gap?",
+    "answer": "If a gender pay gap above 5% appears in any category of workers and cannot be justified by objective, gender-neutral factors such as experience or qualifications, the employer must carry out a joint pay assessment with workers' representatives and take remedial action. Member States must also provide for \"effective, proportionate and dissuasive\" penalties, and workers who have suffered pay discrimination are entitled to full compensation, including back pay and bonuses.",
+    "slug": "directive-eu-2023970-on-strengthening-the-application-of-the",
+    "title": "Directive (EU) 2023/970 on strengthening the application of the principle of equal pay for equal work or work of equal value between men and women through pay transparency and enforcement mechanisms",
+    "directive": "2023/970/EU",
+    "category": "Labour & Social",
+    "year": 2023
+  },
+  {
+    "id": "why-did-it-take-the-eu-until-2023-to-do-this-when-equal-pay-has-been-law-since-1",
+    "question": "Why did it take the EU until 2023 to do this when equal pay has been law since 1957?",
+    "answer": "Equal pay as a principle was easy to agree on; equal pay as an enforceable individual right was not. For decades, workers could not prove they were being paid less than colleagues because pay information was confidential, and successive Commissions preferred non-binding recommendations — like the 2014 Recommendation on pay transparency — to avoid antagonising employers. The combination of stalled progress on the gap, the #MeToo political climate, von der Leyen's personal commitment, and a Parliament willing to push hard finally broke the deadlock in 2021–2023.",
+    "slug": "directive-eu-2023970-on-strengthening-the-application-of-the",
+    "title": "Directive (EU) 2023/970 on strengthening the application of the principle of equal pay for equal work or work of equal value between men and women through pay transparency and enforcement mechanisms",
+    "directive": "2023/970/EU",
+    "category": "Labour & Social",
     "year": 2023
   },
   {
@@ -10050,42 +10210,42 @@
     "year": 2007
   },
   {
-    "id": "why-do-eu-rules-give-rare-disease-drugs-10-years-of-market-exclusivity-instead-o",
-    "question": "Why do EU rules give rare disease drugs 10 years of market exclusivity instead of extending their patents?",
-    "answer": "The 10-year exclusivity was a deliberate alternative to patent protection. Unlike patents (which protect an invention for 20 years from filing), orphan market exclusivity prevents the EMA from authorising a \"similar medicinal product\" for the same indication for 10 years from authorisation. This gives manufacturers a reliable, patent-independent period of market monopoly — crucial because many orphan drugs use known biological substances (e.g., enzyme replacement therapies) that cannot be patented, or whose patent protection would run out before the drug reaches the market. The 10-year term was a political compromise between the Parliament (which wanted 10) and the Council (which initially proposed 6), ultimately backed by patient groups who argued longer exclusivity was necessary to attract investment.",
+    "id": "why-do-drug-companies-need-special-incentives-to-research-rare-diseases",
+    "question": "Why do drug companies need special incentives to research rare diseases?",
+    "answer": "The economics don't work without them. Developing a new medicine costs hundreds of millions to over a billion euros, and a disease affecting a few thousand patients across Europe cannot generate enough revenue to recoup that investment at normal prices. The orphan framework gives developers ten years of protection from competing products for the same indication, plus fee waivers and regulatory support, so that even a small patient population can yield a viable business case — usually combined with high per-patient pricing negotiated with national health systems.",
     "slug": "regulation-ec-no-1412000-of-the-european-parliament-and-of-t",
     "title": "Regulation (EC) No 141/2000 of the European Parliament and of the Council on Orphan Medicinal Products",
-    "directive": "EC 141/2000",
+    "directive": "141/2000/EC",
     "category": "Health & Safety",
     "year": 2000
   },
   {
-    "id": "why-do-eu-rare-disease-drug-rules-let-a-second-company-break-exclusivity-if-it-m",
-    "question": "Why do EU rare disease drug rules let a second company break exclusivity if it makes a \"similar\" medicine?",
-    "answer": "Patients with rare diseases may benefit from multiple treatments for the same condition — but the regulation's market exclusivity could block second entrants entirely. To prevent this, Article 8(3) allows a second orphan medicine for the same condition to be authorised if it shows \"significant benefit\" over the first. This clause was heavily lobbied for by large pharmaceutical companies who feared being locked out of important rare-disease markets by first-mover biotech firms. In practice, the COMP has interpreted \"significant benefit\" strictly: the second product must show superior efficacy, safety, or major convenience advantage. As of 2022, only four cases had successfully overcome an existing orphan exclusivity through \"significant benefit,\" according to the EMA's 2022 annual report.",
+    "id": "how-does-europe-define-a-rare-disease",
+    "question": "How does Europe define a \"rare\" disease?",
+    "answer": "EU law uses a prevalence threshold: no more than 5 cases per 10,000 people in the Union. That works out to roughly 250,000 patients or fewer across the EU for any given condition. Alternatively, a product can qualify if the sponsor demonstrates that without incentives it would not be developed because the investment could not be recovered. Conditions covered range from cystic fibrosis and Huntington's disease to ultra-rare genetic disorders affecting only a few dozen people in Europe.",
     "slug": "regulation-ec-no-1412000-of-the-european-parliament-and-of-t",
     "title": "Regulation (EC) No 141/2000 of the European Parliament and of the Council on Orphan Medicinal Products",
-    "directive": "EC 141/2000",
+    "directive": "141/2000/EC",
     "category": "Health & Safety",
     "year": 2000
   },
   {
-    "id": "why-didn-t-eu-rules-for-rare-disease-drugs-also-control-how-much-those-drugs-cos",
-    "question": "Why didn't EU rules for rare disease drugs also control how much those drugs cost?",
-    "answer": "The regulation was designed solely to incentivise development, not to control pricing. The legal basis for the regulation (Article 168 TFEU, public health) explicitly limits EU competence over health policy and pricing, which remains a national prerogative. The Commission's 2019 evaluation noted this gap: \"The regulation has successfully stimulated development, but has not ensured affordable access.\" This creates an asymmetry — the EU incentivises development through market exclusivity, while member states bear the cost. Belgium, Italy, and the Netherlands formed the Beneluxa Initiative in 2016 to jointly negotiate prices, but the European Commission has no legal mechanism to cap orphan drug prices at EU level. This remains the most contentious political issue, with patient groups and some MEPs calling for a mandatory \"fair pricing\" condition in the planned 2024 revision.",
+    "id": "has-the-system-been-abused-by-pharmaceutical-companies",
+    "question": "Has the system been abused by pharmaceutical companies?",
+    "answer": "Critics argue yes — at least in part. The Commission's 2020 evaluation found cases of \"indication slicing,\" where companies obtain multiple orphan designations for narrow sub-populations of broader diseases, stacking exclusivity periods. Some orphan drugs have also become blockbuster products generating revenues that suggest the original market-failure logic no longer applies. The 2023 reform proposal responded by linking exclusivity duration to unmet medical need rather than granting a flat ten years to every product.",
     "slug": "regulation-ec-no-1412000-of-the-european-parliament-and-of-t",
     "title": "Regulation (EC) No 141/2000 of the European Parliament and of the Council on Orphan Medicinal Products",
-    "directive": "EC 141/2000",
+    "directive": "141/2000/EC",
     "category": "Health & Safety",
     "year": 2000
   },
   {
-    "id": "why-was-the-threshold-for-a-rare-disease-set-at-affecting-5-in-10-000-people-in-",
-    "question": "Why was the threshold for a rare disease set at affecting 5 in 10,000 people in the EU?",
-    "answer": "The threshold — diseases affecting no more than 5 people per 10,000 in the EU — was derived from US precedent (the Orphan Drug Act uses a threshold of 200,000 patients nationally, which corresponds roughly to 7.5 per 10,000 in the US population). The EU's slightly lower threshold was a political choice to ensure ultra-rare diseases (affecting 1 per 10,000) were not crowded out by mildly uncommon conditions. The Commission's 1998 proposal contained no threshold at all, but the Parliament inserted the 5/10,000 figure during first reading, arguing it aligned with the definition used by the European Rare Disease Task Force (established 1996). The European Organisation for Rare Diseases lobbied for an even stricter threshold (2-3 per 10,000), but the Parliament settled on 5 as a compromise. The threshold has been controversial since 2010, when large companies began obtaining orphan designations for drugs targeting conditions like HIV/AIDS (which affects approximately 4 per 10,000 in the EU, just under the threshold), raising accusations of \"orphanisation\" of common medicines.",
+    "id": "why-did-europe-wait-seventeen-years-after-the-us-to-act",
+    "question": "Why did Europe wait seventeen years after the US to act?",
+    "answer": "The EU lacked the institutional machinery until the mid-1990s. The European Medicines Agency only began operating in 1995, and a Union-wide marketing authorisation — without which exclusivity across all Member States would have been meaningless — had to come first. Patient advocacy was also less organised at European level until EURORDIS was founded in 1997. Once the centralised procedure existed and a coordinated patient voice emerged, the regulation moved through Brussels in roughly two years.",
     "slug": "regulation-ec-no-1412000-of-the-european-parliament-and-of-t",
     "title": "Regulation (EC) No 141/2000 of the European Parliament and of the Council on Orphan Medicinal Products",
-    "directive": "EC 141/2000",
+    "directive": "141/2000/EC",
     "category": "Health & Safety",
     "year": 2000
   },
@@ -10388,6 +10548,46 @@
     "directive": "(EC) No 223/2009",
     "category": "Governance & Institutions",
     "year": 2009
+  },
+  {
+    "id": "can-you-get-cash-compensation-for-a-delayed-flight-in-europe",
+    "question": "Can you get cash compensation for a delayed flight in Europe?",
+    "answer": "Yes. If your flight departs from an EU airport, or arrives in the EU on an EU-based airline, and you reach your destination more than three hours late, you are entitled to between €250 and €600 in cash compensation — independently of any ticket refund. The airline can only refuse if it proves the delay was caused by extraordinary circumstances such as severe weather, air traffic control strikes, or political instability. Routine technical problems do not count.",
+    "slug": "regulation-ec-no-2612004-establishing-common-rules-on-compen",
+    "title": "Regulation (EC) No 261/2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights",
+    "directive": "261/2004/EC",
+    "category": "Transport",
+    "year": 2005
+  },
+  {
+    "id": "why-do-airlines-fight-passenger-claims-so-aggressively",
+    "question": "Why do airlines fight passenger claims so aggressively?",
+    "answer": "Because the compensation is a flat sum disconnected from ticket price, a €40 Ryanair fare delayed by four hours triggers €250 in compensation — more than six times the revenue from the seat. The Court of Justice's 2009 Sturgeon ruling extending compensation to long delays, not just cancellations, multiplied airline exposure substantially. Carriers also argue the rules incentivise them to cancel weather-affected flights outright rather than try to operate them late.",
+    "slug": "regulation-ec-no-2612004-establishing-common-rules-on-compen",
+    "title": "Regulation (EC) No 261/2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights",
+    "directive": "261/2004/EC",
+    "category": "Transport",
+    "year": 2005
+  },
+  {
+    "id": "what-counts-as-extraordinary-circumstances",
+    "question": "What counts as \"extraordinary circumstances\"?",
+    "answer": "The Court of Justice has read this narrowly. Bird strikes, unexpected airport closures, lightning damage, and political unrest qualify. Crew illness, most technical faults, and strikes by the airline's own staff do not, because they are considered inherent to running an airline. This case-by-case approach has frustrated airlines and is one of the main reasons the Commission has tried — unsuccessfully — to revise the regulation since 2013.",
+    "slug": "regulation-ec-no-2612004-establishing-common-rules-on-compen",
+    "title": "Regulation (EC) No 261/2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights",
+    "directive": "261/2004/EC",
+    "category": "Transport",
+    "year": 2005
+  },
+  {
+    "id": "why-has-the-eu-not-updated-the-rules-despite-all-the-disputes",
+    "question": "Why has the EU not updated the rules despite all the disputes?",
+    "answer": "A revision proposed in 2013 has been blocked in Council for over a decade, originally because of a Spanish–British dispute over whether the rules would apply to Gibraltar airport. Brexit removed that obstacle in 2020, but member states remain split: some want higher delay thresholds to relieve airlines, others want stronger enforcement powers. The result is that the framework remains shaped largely by Court of Justice case law rather than fresh legislation.",
+    "slug": "regulation-ec-no-2612004-establishing-common-rules-on-compen",
+    "title": "Regulation (EC) No 261/2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights",
+    "directive": "261/2004/EC",
+    "category": "Transport",
+    "year": 2005
   },
   {
     "id": "can-i-get-paid-if-my-flight-is-delayed-just-a-few-hours",
@@ -11007,6 +11207,46 @@
     "title": "Regulation (EU) 2016/1011 on indices used as benchmarks in financial instruments and financial contracts",
     "directive": "2016/1011/EU",
     "category": "Financial",
+    "year": 2016
+  },
+  {
+    "id": "can-eu-countries-just-close-their-borders-whenever-they-want",
+    "question": "Can EU countries just close their borders whenever they want?",
+    "answer": "No — but in practice the legal threshold has proved elastic. The Schengen Borders Code allows internal controls only in response to a \"serious threat to public policy or internal security,\" for limited periods, after notifying the Commission. The Court of Justice ruled in 2022 that the same threat cannot justify endless renewals, yet France, Germany, Austria, Denmark and Sweden have maintained controls almost continuously for nearly a decade by reformulating the justification — terrorism, then migration, then Ukraine, then secondary movements.",
+    "slug": "regulation-eu-2016399-of-the-european-parliament-and-of-the-",
+    "title": "Regulation (EU) 2016/399 of the European Parliament and of the Council on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)",
+    "directive": "2016/399/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "why-didn-t-schengen-survive-the-2015-migration-crisis-intact",
+    "question": "Why didn't Schengen survive the 2015 migration crisis intact?",
+    "answer": "It legally survived but politically frayed. When Greece's external border system buckled and over a million people moved north toward Germany and Sweden, transit states reimposed checks unilaterally. The Council then activated Article 29 of the Code in May 2016 — designed for exactly this scenario — to convert improvised national controls into coordinated, Brussels-sanctioned ones. The recodification preserved the principle of free movement on paper, but the era of unmonitored internal travel for the whole Schengen area ended in practice.",
+    "slug": "regulation-eu-2016399-of-the-european-parliament-and-of-the-",
+    "title": "Regulation (EU) 2016/399 of the European Parliament and of the Council on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)",
+    "directive": "2016/399/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "what-happens-at-the-eu-s-external-border-under-these-rules",
+    "question": "What happens at the EU's external border under these rules?",
+    "answer": "Every person entering Schengen from outside must undergo a check: travel document, purpose of stay, sufficient resources, no alert in the Schengen Information System. EU citizens get a \"minimum\" check (identity verification); third-country nationals get a \"thorough\" check including stamping and database queries. Frontex (now the European Border and Coast Guard Agency under Regulation 2019/1896) supports member states but the legal responsibility for the border remains national — a tension the Code does not resolve.",
+    "slug": "regulation-eu-2016399-of-the-european-parliament-and-of-the-",
+    "title": "Regulation (EU) 2016/399 of the European Parliament and of the Council on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)",
+    "directive": "2016/399/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "did-covid-19-change-the-rules",
+    "question": "Did COVID-19 change the rules?",
+    "answer": "Yes — but only retroactively. In March 2020, member states closed borders without legal basis in the Code, which did not list pandemics as grounds for suspension. The Commission tolerated this and issued guidelines on \"green lanes\" for freight. The 2024 amendment (Regulation 2024/1717) formally added \"large-scale public health emergencies\" as a legitimate ground, codifying what governments had already done.",
+    "slug": "regulation-eu-2016399-of-the-european-parliament-and-of-the-",
+    "title": "Regulation (EU) 2016/399 of the European Parliament and of the Council on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code)",
+    "directive": "2016/399/EU",
+    "category": "Migration & Asylum",
     "year": 2016
   },
   {
@@ -11710,9 +11950,9 @@
     "year": 2019
   },
   {
-    "id": "why-did-the-eu-create-a-standing-armed-border-force-instead-of-keeping-the-old-t",
-    "question": "Why did the EU create a standing armed border force instead of keeping the old temporary system?",
-    "answer": "The 2015 migration crisis proved that member states could not be relied upon to protect the EU's external borders collectively. When Greece could not control its sea border, no other member state stepped in with sufficient resources. The Commission argued that the Schengen system required a \"fully operational\" border force, not a \"pool of volunteers.\" The standing corps was designed to prevent a repeat of 2015, where unilateral border closures nearly destroyed Schengen.",
+    "id": "can-eu-border-guards-carry-weapons-and-arrest-people",
+    "question": "Can EU border guards carry weapons and arrest people?",
+    "answer": "Yes — since January 2021, members of the European Border and Coast Guard standing corps wear EU uniforms and carry side arms while deployed in Member States or third countries with status agreements. They can check documents, stamp passports and refuse entry under the authority of the host state. This made Frontex the EU's first armed uniformed service, a constitutional novelty for what had been a coordination body.",
     "slug": "regulation-eu-20191896-on-the-european-border-and-coast-guar",
     "title": "Regulation (EU) 2019/1896 on the European Border and Coast Guard",
     "directive": "2019/1896/EU",
@@ -11720,9 +11960,9 @@
     "year": 2019
   },
   {
-    "id": "why-do-eu-border-rules-include-a-way-to-complain-about-rights-violations-if-thos",
-    "question": "Why do EU border rules include a way to complain about rights violations if those complaints are almost never accepted?",
-    "answer": "The mechanism was a political compromise essential to secure the European Parliament's support, particularly from the S&D and Greens/EFA groups. Without it, the 2019 parliamentary vote would likely have failed. MEPs like Sophia in 't Veld demanded the mechanism after Frontex's involvement in pushback allegations in Greece and the Aegean Sea. The low acceptance rate has led to controversy: the European Ombudsman opened a strategic inquiry in 2021 into the mechanism's effectiveness, concluding in 2023 that it \"lacked independence and effectiveness.\"",
+    "id": "why-did-europe-build-a-10-000-strong-border-force",
+    "question": "Why did Europe build a 10,000-strong border force?",
+    "answer": "The 2015 Schengen crisis exposed that Europe's external border — particularly the Greek islands facing Turkey — depended on whichever Member State happened to be there, with only ad hoc reinforcement. When Greece was overwhelmed, internal Schengen borders began to reappear and the free-travel area nearly collapsed. The standing corps was designed so that the EU would never again be dependent on Member State volunteers showing up; the Commission could deploy its own permanent force.",
     "slug": "regulation-eu-20191896-on-the-european-border-and-coast-guar",
     "title": "Regulation (EU) 2019/1896 on the European Border and Coast Guard",
     "directive": "2019/1896/EU",
@@ -11730,9 +11970,9 @@
     "year": 2019
   },
   {
-    "id": "why-hasn-t-the-eu-reached-its-goal-of-having-10-000-permanent-border-guards-read",
-    "question": "Why hasn't the EU reached its goal of having 10,000 permanent border guards ready to deploy?",
-    "answer": "Multiple factors combined: national governments were reluctant to release their best border guards for EU service; fundamental rights vetting delayed recruitment; and the COVID-19 pandemic paused personnel deployments. The Commission's 2023 progress report also cited \"insufficient financial incentives\" — member states were paid only €16,000 per year per seconded officer, below many national salaries. The European Court of Auditors noted that the target was \"politically driven, not operationally based.\"",
+    "id": "has-frontex-been-involved-in-illegal-pushbacks",
+    "question": "Has Frontex been involved in illegal pushbacks?",
+    "answer": "The OLAF anti-fraud investigation, completed in 2022, examined Frontex management's handling of incidents in the Aegean involving Greek coast guard pushbacks of asylum-seekers. The leaked findings led directly to Executive Director Fabrice Leggeri's resignation in April 2022 and to the European Parliament refusing budget discharge. Multiple inquiries by the European Ombudsman have examined the agency's fundamental-rights complaint mechanisms; reform is ongoing under successor Hans Leijtens.",
     "slug": "regulation-eu-20191896-on-the-european-border-and-coast-guar",
     "title": "Regulation (EU) 2019/1896 on the European Border and Coast Guard",
     "directive": "2019/1896/EU",
@@ -11740,9 +11980,9 @@
     "year": 2019
   },
   {
-    "id": "can-the-eu-border-agency-actually-overrule-a-country-s-own-decisions-about-its-b",
-    "question": "Can the EU border agency actually overrule a country's own decisions about its borders?",
-    "answer": "Theoretically, yes: under Article 42, if a member state's border controls are seriously deficient and it fails to comply with a vulnerability assessment recommendation, the Council can adopt a decision authorising Frontex to intervene. But this requires a qualified majority vote, and in practice has never been attempted. The provision's political unfeasibility has drawn criticism from the Parliament, with MEPs calling for a simpler trigger mechanism.",
+    "id": "can-frontex-operate-outside-the-eu",
+    "question": "Can Frontex operate outside the EU?",
+    "answer": "Yes — the 2019 regulation introduced \"status agreements\" allowing Frontex officers with full executive powers to operate on the territory of non-EU countries. Agreements are in force with Western Balkan states including Albania, Serbia, Montenegro and North Macedonia, and with Moldova. This was politically sensitive because it embeds armed EU officers in third-country sovereign operations, but the Commission argued it was essential to manage migration routes upstream of the EU border.",
     "slug": "regulation-eu-20191896-on-the-european-border-and-coast-guar",
     "title": "Regulation (EU) 2019/1896 on the European Border and Coast Guard",
     "directive": "2019/1896/EU",
@@ -14317,6 +14557,46 @@
     "title": "Regulation (EU) No 603/2013 on the Establishment of Eurodac (Eurodac Regulation)",
     "directive": "603/2013/EU",
     "category": "Digital & Data",
+    "year": 2013
+  },
+  {
+    "id": "why-does-the-country-where-a-refugee-first-arrives-in-europe-have-to-handle-thei",
+    "question": "Why does the country where a refugee first arrives in Europe have to handle their asylum claim?",
+    "answer": "The rule dates back to the 1990 Dublin Convention, when EU governments wanted to prevent \"asylum shopping\" — applicants lodging claims in multiple countries — and to assign clear responsibility within the emerging Schengen area without internal borders. The logic was that whichever country let someone enter the common area should be accountable for processing them. The unintended consequence was to load almost all responsibility onto the states with external sea or land borders, which is why Italy, Greece, Spain and Malta have spent over three decades trying to renegotiate it.",
+    "slug": "regulation-eu-no-6042013-establishing-the-criteria-and-mecha",
+    "title": "Regulation (EU) No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection (Dublin III)",
+    "directive": "604/2013/EU",
+    "category": "Migration & Asylum",
+    "year": 2013
+  },
+  {
+    "id": "why-did-the-eu-asylum-system-collapse-in-2015",
+    "question": "Why did the EU asylum system collapse in 2015?",
+    "answer": "Dublin III had no mechanism for sharing applicants when one country was overwhelmed. When more than a million people crossed the Mediterranean in 2015 — most landing in Greece — the \"first country of entry\" rule became physically impossible to apply. Greece could not register, house, or process them all, and other member states could not legally send people back to Greece because EU courts had already ruled conditions there were inhuman. The emergency relocation scheme the Commission pushed through was rejected by Hungary, Poland, Czechia and Slovakia, and the system effectively ceased to function as designed.",
+    "slug": "regulation-eu-no-6042013-establishing-the-criteria-and-mecha",
+    "title": "Regulation (EU) No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection (Dublin III)",
+    "directive": "604/2013/EU",
+    "category": "Migration & Asylum",
+    "year": 2013
+  },
+  {
+    "id": "what-replaces-dublin",
+    "question": "What replaces Dublin?",
+    "answer": "The Asylum and Migration Management Regulation, part of the New Pact on Migration and Asylum adopted in May 2024, replaces Dublin III from June 2026. It keeps the first-country-of-entry rule but adds a \"mandatory solidarity\" mechanism: when a frontline state is under pressure, other member states must either accept relocated asylum seekers, pay a financial contribution (the Commission proposed €20,000 per person not accepted), or provide operational support. Hungary and Poland voted against the package; Italy, France and Germany backed it.",
+    "slug": "regulation-eu-no-6042013-establishing-the-criteria-and-mecha",
+    "title": "Regulation (EU) No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection (Dublin III)",
+    "directive": "604/2013/EU",
+    "category": "Migration & Asylum",
+    "year": 2013
+  },
+  {
+    "id": "did-refugees-actually-get-sent-back-under-these-rules",
+    "question": "Did refugees actually get sent back under these rules?",
+    "answer": "Rarely, in proportion to the requests made. Eurostat data has consistently shown that member states made hundreds of thousands of Dublin transfer requests each year but completed only a small fraction. Applicants disappeared before transfer, statutory deadlines elapsed, courts intervened, or receiving states refused. The gap between the regulation on paper and what happened in practice was one of the main arguments for replacing it.",
+    "slug": "regulation-eu-no-6042013-establishing-the-criteria-and-mecha",
+    "title": "Regulation (EU) No 604/2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection (Dublin III)",
+    "directive": "604/2013/EU",
+    "category": "Migration & Asylum",
     "year": 2013
   },
   {
