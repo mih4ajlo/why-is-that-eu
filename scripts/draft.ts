@@ -67,6 +67,34 @@ Apply all four lenses:
 - "has had significant impact" → give a specific number, case, fine, or outcome
 - opening "Why was it introduced?" with a generic background sentence → start with the most specific, dramatic element: a scandal, a court ruling, a political crisis, a CEO threat, an industry collapse`;
 
+// Extended prompt for DeepSeek models, which are more prone to hallucinating
+// specific statistics, inventing quotes, and mixing non-EU events into EU causal chains.
+export const DEEPSEEK_SYSTEM_PROMPT = SYSTEM_PROMPT + `
+
+## DeepSeek-specific rules — you are required to follow these
+
+You have a known tendency to generate plausible-sounding but **invented** details. The following failure modes have been observed in your output and must be avoided:
+
+**Invented statistics:**
+- Do NOT write specific figures (percentages, injury counts, euro amounts, case numbers) unless you are certain they come from a named official source you can cite inline.
+- If you would normally write "the Commission estimated 1 million hepatitis B infections annually", ask yourself: can I name the specific report and year? If not, write "the Commission cited rising occupational infection rates" instead.
+- Never generate a number to fill narrative space. Silence is better than fabrication.
+
+**Non-EU events as EU triggers:**
+- Do NOT cite incidents that occurred outside the EU as the primary legislative trigger for an EU directive unless you can demonstrate a clear, documented causal link.
+- US court rulings, US industry incidents, US regulatory actions are background context at most — they are not why the EU legislated.
+- Ask: "Did this event actually appear in the Commission's impact assessment or proposal recitals?" If you don't know, omit it.
+
+**Invented quotes and positions:**
+- Do NOT attribute specific statements, position papers, or votes to named individuals or organisations unless you are certain they occurred.
+- If a vote count (e.g. "505 votes to 92") sounds specific but you are not certain, write "adopted by a large majority" instead.
+- Do NOT invent a named person's role or involvement in a legislative file if you are not certain of it.
+
+**Invented case law:**
+- Do NOT cite specific court case numbers or names unless you are certain they exist and are relevant. Use "the Court of Justice ruled that…" with a description rather than a case name you are unsure of.
+
+**The override rule:** When in doubt, omit the specific claim and describe qualitatively. A well-written entry with no invented details is always better than a detailed entry with fabricated evidence.`;
+
 export const ENTRY_PROMPT = (topic: string, context?: string) => `Write a knowledge base entry about: "${topic}"
 ${context ? `
 ## Source documents

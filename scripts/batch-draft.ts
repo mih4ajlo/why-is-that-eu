@@ -25,7 +25,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-import { lookupCandidate, fetchContext, SYSTEM_PROMPT, ENTRY_PROMPT, finalize } from './draft.js';
+import { lookupCandidate, fetchContext, SYSTEM_PROMPT, DEEPSEEK_SYSTEM_PROMPT, ENTRY_PROMPT, finalize } from './draft.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const BATCH_STATE_FILE = path.join(__dirname, '..', 'data', 'batch-state.json');
@@ -403,7 +403,7 @@ async function submitDeepSeekParallel(
       max_tokens: 8192,
       stream: false,
       messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'system', content: DEEPSEEK_SYSTEM_PROMPT },
         { role: 'user', content: ENTRY_PROMPT(topic, ctx) },
       ],
     });
