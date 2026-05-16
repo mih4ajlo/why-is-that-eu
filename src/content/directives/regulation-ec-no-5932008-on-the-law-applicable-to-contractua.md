@@ -2,84 +2,81 @@
 title: "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)"
 directive: "593/2008/EC"
 category: "Justice & Civil Law"
-year: 2008
-tags: [conflict-of-laws, private-international-law, cross-border-contracts, internal-market, e-commerce, legal-certainty]
-summary: "Rome I determines which country’s law applies to a cross-border contract in the EU, replacing a patchwork of national interpretation of an earlier convention and cutting legal costs for businesses."
+year: 2009
+tags: [private-international-law, contract-law, single-market, conflict-of-laws, judicial-cooperation]
+summary: "Rome I sets uniform rules across the EU for deciding which country's law governs a cross-border contract, replacing the 1980 Rome Convention with a directly applicable regulation that gives consumers and weaker parties stronger protections."
 status: "in-force"
-related: ["864/2007/EC (Rome II)", "1215/2012/EU (Brussels I recast)"]
-llm: "deepseek-reasoner"
+related: ["864/2007/EC", "1215/2012/EU"]
+llm: "claude-opus-4-7"
 eval_errors: 0
 eval_warnings: 2
 eval_summary: 5
-eval_why: 4
+eval_why: 5
 eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 
 ## What is it?
 
-The Rome I Regulation lays down uniform rules for deciding the law applicable to contractual obligations in civil and commercial matters within the European Union. When parties from different EU countries enter a contract—say, a German buyer and a French seller—Rome I tells them which national law will govern the agreement if a dispute arises. It respects party autonomy: businesses can choose the applicable law themselves. If no choice is made, the regulation provides default rules based on the habitual residence of the party that must perform the contract’s characteristic performance.
+Rome I is the EU's rulebook for answering a deceptively simple question: when a French supplier and a Polish buyer fall out over a contract, whose law decides the dispute? The regulation tells every court in the EU (except Denmark, which opted out) to apply the same conflict-of-laws rules, so the outcome no longer depends on where the lawsuit is filed.
 
-Rome I transformed a 1980 international convention (the Rome Convention) into a directly applicable EU regulation. That shift meant uniform interpretation by the European Court of Justice (ECJ), faster amendment procedures, and automatic application in all Member States without requiring national ratification.
+The core principle is party autonomy: businesses can choose the governing law in the contract. Where they have not, Rome I sets default rules — the seller's law for sale of goods, the service provider's law for services, the law of the property's location for real estate, and so on. For "weaker parties" — consumers, employees, insured persons, passengers — the regulation overrides freedom of contract: a chosen foreign law cannot strip a consumer of the mandatory protections of their home country.
+
+Crucially, Rome I is a regulation, not a directive or a convention. It applies directly in national courts, it is interpreted by the Court of Justice of the EU in Luxembourg, and member states cannot tweak it in transposition.
 
 ## Why was it introduced?
 
-The simplest answer is that the 1980 Rome Convention had become a hostage of its own success—and its weaknesses. The Convention was an intergovernmental treaty that required unanimous ratification by each new EU member. Each country’s courts interpreted its provisions independently, leading to diverging outcomes for identical contracts. A UK court applying the Convention might reach a different conclusion from a Spanish court on the same dispute. That uncertainty undermined the very legal certainty the Convention was supposed to provide.
+By the mid-2000s, the 1980 Rome Convention had become an embarrassment for the single market. It was a classical international treaty: each new member state had to negotiate accession, ratification dragged for years, and — most awkwardly — the Court of Justice could only interpret it after two separate protocols entered into force in 2004, nearly a quarter-century after the Convention was signed. For decades, French, German and Dutch courts had been free to read the same text in incompatible ways.
 
-The structural tension was clear: the internal market demanded uniform rules for cross-border contracts, but the Convention’s treaty-based framework could not deliver them. As e‑commerce exploded in the early 2000s, the problem became acute. A small online retailer in Belgium selling across borders had no way of knowing which Member State’s law a court would apply—and that risk deterred cross‑border trade.
+The deeper structural problem was that the Convention had been drafted before the single market existed in its modern form. It said little about consumer contracts concluded online, almost nothing useful about insurance, and its treatment of mandatory overriding rules ("lois de police") was so opaque that the German and English schools of private international law had been arguing about it for twenty years. The Commission's 2002 Green Paper on converting the Convention into a Community instrument, launched under Justice Commissioner António Vitorino, catalogued the divergences and found that even seasoned practitioners could not predict which law a court would apply to a cross-border B2C contract.
 
-The political push for a regulation began in the late 1990s. In 1998 the Council’s Group on Private International Law drafted a preliminary proposal, but the project stalled until the Treaty of Amsterdam (1999) gave the EU legislative competence to adopt measures in judicial cooperation in civil matters. The Commission under Justice and Home Affairs Commissioner António Vitorino (1999–2004) then started preparing a formal proposal. His successor, Franco Frattini, presented the final text in December 2005.
+Three forces converged to push reform through. First, the Amsterdam Treaty (1999) had moved judicial cooperation in civil matters into the Community pillar, giving the Commission the legal base to legislate directly — something it had lacked in 1980. Second, the e-commerce boom exposed how badly the Convention's consumer-protection rules fit a world where a Belgian shopper routinely bought from a website hosted in Ireland. Third, "Rome II" on non-contractual obligations was already being negotiated in parallel, and leaving contractual obligations behind in a creaking 1980 treaty made no sense.
 
-The timing was critical. The 2004 enlargement brought ten new Member States, each of which had to ratify the Rome Convention separately—a slow, politically fragile process. Meanwhile the e‑commerce directive (2000/31/EC) had created a legal framework for information‑society services, but it did not address applicable law for contracts. Business associations such as the European Company Lawyers Association (ECLA) and the International Chamber of Commerce (ICC) repeatedly called for clear, uniform rules. In its 2005 impact assessment, the Commission estimated that inconsistent rules cost businesses at least €600 million per year in legal fees and lost opportunities.
+The negotiations were not smooth. The UK initially refused to opt in, primarily because the City of London feared the Commission's original draft of Article 4 (default applicable law) and Article 5 (consumer contracts) would disrupt financial markets and the assignment of receivables. After the text was redrafted — preserving more deference to party autonomy in financial instruments and clarifying the consumer-contract scope — the UK government opted in in 2008. Denmark, bound by its Maastricht opt-out on justice and home affairs, stayed out and continues to apply the 1980 Convention. Ireland opted in from the start.
 
-The coalition that pushed Rome I through was unusually broad: pro‑market Member States (UK, Netherlands, Germany) wanted legal certainty for business; consumer‑protection advocates wanted weak parties shielded; the European Parliament’s rapporteur Diana Wallis (ALDE, UK) helped broker a compromise that balanced freedom of choice with mandatory protection for consumers and employees. The final text was adopted on 17 June 2008 by 633 votes in favour, 23 against, and 26 abstentions. Only a handful of MEPs from the Green‑EFA group opposed, arguing that consumer protections were insufficient.
-
-What finally unblocked the earlier deadlock was the ECJ’s 2004 ruling in *Commission v. Germany* (Case C‑469/00), which confirmed that the EU could legislate on private international law under the Treaty’s judicial cooperation provisions. That removed any lingering doubt about legal competence.
+The other live battle was over employment contracts and overriding mandatory provisions. France, backed by Belgium and Luxembourg, wanted broad scope for a court to apply third-country mandatory rules; Germany and the UK wanted that door narrowed. The compromise in Article 9 — limiting third-country overriding rules to those of the country of performance, and only where they render performance unlawful — bears the marks of that fight.
 
 ## Timeline
 
-- **1980** — The Rome Convention on the law applicable to contractual obligations is opened for signature.
-- **1991** — Convention enters into force after ratification by seven original Member States.
-- **1999** — Treaty of Amsterdam gives the EU legislative competence in civil judicial cooperation; the Council’s private international law group starts drafting a conversion to a regulation.
-- **2004** — ECJ ruling in *Commission v. Germany* confirms EU legislative authority over conflict‑of‑law rules.
-- **2005** — European Commission, under Commissioner Franco Frattini, publishes the proposed Rome I Regulation (COM(2005) 650).
-- **2007** — European Parliament adopts its first‑reading position on 29 November; Council reaches political agreement in December.
-- **2008** — Final text adopted on 17 June; published in the Official Journal on 4 July.
-- **2009** — Regulation enters into force on 17 December 2009, applying to all contracts concluded after that date.
-- **2016** — ECJ gives first interpretation of Rome I in *Ergo Insurance* (Case C‑359/14 and C‑475/14) on insurance contracts.
-- **2022** — Commission publishes a report on the application of Rome I, concluding it has improved legal certainty but noting challenges with online contracts and mandatory consumer rules.
+- **1980** — Rome Convention on the law applicable to contractual obligations signed by the original EEC member states.
+- **1991** — Convention enters into force after ratifications.
+- **1999** — Amsterdam Treaty brings judicial cooperation in civil matters into Community competence.
+- **2002** — Commission Green Paper on converting the Rome Convention into a Community instrument.
+- **2004** — Protocols giving the Court of Justice jurisdiction to interpret the Convention finally enter into force.
+- **2005** — Commission proposes a Rome I Regulation (COM(2005) 650).
+- **2008** — Council and Parliament adopt Regulation 593/2008 on 17 June; UK confirms opt-in.
+- **2009** — Regulation applies from 17 December to contracts concluded after that date.
+- **2016 onward** — Court of Justice begins issuing a steady stream of preliminary rulings clarifying Articles 3, 4, 6 and 9 (e.g. *Nikiforidis* C-135/15 on overriding mandatory provisions).
 
 ## Impact and consequences
 
-Rome I eliminated the legal fragmentation that had plagued the Rome Convention. Because the regulation is directly applicable and subject to ECJ jurisdiction, businesses no longer needed to check whether a particular Member State had ratified amendments or how its national courts interpreted the Convention. Legal costs for cross‑border contracts fell, especially for small and medium‑sized enterprises that could not afford multi‑jurisdictional legal advice.
+For business lawyers, Rome I made cross-border contracting in the EU substantially more predictable. A choice-of-law clause selecting English or German law now produces broadly the same result in any EU court, and the default rules in Article 4 give parties a usable fallback when they forget to choose. The European Commission's evaluations of judicial cooperation instruments have consistently identified Rome I as one of the more uncontroversial successes of the civil-justice acquis.
 
-The regulation’s consumer‑protection provisions had a notable practical effect: if a business directs its activities to a consumer’s home country, the consumer retains the protection of the mandatory rules of that country, even if the contract nominally chooses another law. This rule became a standard compliance point for e‑commerce companies.
+The consumer-protection rule in Article 6 has had real teeth. Online sellers who "direct" their activities at consumers in another member state cannot escape that state's mandatory consumer law by inserting a choice-of-law clause — a point the Court of Justice reinforced in *Verein für Konsumenteninformation v Amazon* (C-191/15, 2016), where Amazon's general terms selecting Luxembourg law were held to be unfair to the extent they misled Austrian consumers about the protections of their home law. The ruling effectively forced large e-commerce platforms to rewrite their EU-wide terms.
 
-Industry adaptation was swift. Standard contract clauses began routinely specifying a governing law, and law firms built internal checklists for Rome I compliance. The European Commission’s 2022 report found that 87% of business contracts in cross‑border transactions now contain an express choice of law, compared to an estimated 55% under the Convention era.
-
-One persistent unintended consequence: the regulation’s rules for insurance contracts are complex and have generated litigation. The *Ergo Insurance* case (2016) involved a lorry accident in Poland involving a Hungarian insurer and a Czech trucking company, leading the ECJ to clarify how Rome I interacts with the Insolvency Regulation. National courts in several Member States—notably Spain and Poland—initially applied diverging interpretations of Article 6 (consumer contracts) until the ECJ provided guidance.
+Brexit reopened part of the system: the UK retained Rome I as "assimilated" domestic law (now "Rome I as retained"), so English courts still apply the same conflict rules, but UK choices of law and judgments no longer benefit from the EU framework on the other side. For continental businesses, this has shifted some contracting practice toward Irish, Dutch and French law and forum clauses.
 
 ## Key questions answered
 
-### If a German company sells to a French customer, which country’s law applies?
+### If I buy something online from another EU country and there's a dispute, whose law applies?
 
-If the parties do not specify a law in the contract, Rome I defaults to the law of the seller’s habitual residence—German law—because performance of the characteristic obligation (delivering goods) is in Germany. However, if the French customer is a consumer and the German company actively sells to France (for example, through a French‑language website), the consumer keeps the protection of French mandatory rules, such as longer withdrawal periods or stricter liability standards.
+If the seller directs its business at your country (advertises in your language, ships there, accepts your currency), you keep the mandatory consumer protections of your home country — even if the seller's terms and conditions say otherwise. The contract can be governed by the seller's chosen law for most purposes, but a clause that strips you of protections your national law gives you cannot be enforced against you.
 
-### Can two businesses choose the law of any country, even outside the EU?
+### Can two companies in different EU countries just pick whichever law they want for their contract?
 
-Yes. Rome I fully respects party autonomy for commercial contracts. A Swedish company and an Italian company can validly choose the law of New York or Singapore. The only limit is that all mandatory rules of the country where all the facts of the case are located cannot be avoided by a choice of a third-country law.
+Yes, broadly. EU private international law treats freedom of choice as the starting point for commercial contracts, and parties routinely pick English, Swiss, German or New York law for international deals. The main limits are mandatory "overriding" rules of countries closely connected to the contract — for example, export controls or sanctions of the country where performance happens — and specific protective regimes for consumers, employees, insured persons and carriage passengers.
 
-### Does Rome I cover every type of contract?
+### Why did Europe replace a perfectly functional 1980 treaty?
 
-No. The regulation excludes certain matters such as family‑law obligations (marriage, inheritance), negotiable instruments, arbitration agreements, and company‑law issues like share transfers. Those are governed by other EU instruments or national rules. It also does not apply to Denmark, which opted out of the former Title IV of the Treaty, though Denmark later concluded a bilateral agreement to apply similar rules.
+Because the 1980 Rome Convention was an ordinary international treaty, the Court of Justice had no automatic power to interpret it, and the same clauses were being read differently by French, German and English courts. The Amsterdam Treaty gave the EU competence to legislate on civil-justice matters directly, and converting the Convention into a regulation made the rules uniform, directly applicable, and subject to a single supreme interpreter in Luxembourg.
 
-### Why did the EU need a regulation instead of just updating the old convention?
+### Does this apply in every EU country?
 
-A convention requires unanimous ratification by every Member State. The 2004 enlargement would have meant waiting for ten new states to ratify separately—a process that could take years and could be blocked by a single national parliament. A regulation applies automatically and uniformly in all Member States (except Denmark) from its entry into force, and the ECJ can ensure consistent interpretation, which the Convention’s interpretative protocols had failed to guarantee.
+No — Denmark opted out of the EU's justice-and-home-affairs acquis at Maastricht and continues to apply the 1980 Rome Convention. The UK and Ireland exercised their opt-in and were bound by Rome I until Brexit; the UK retained the substance of the rules in domestic law after leaving. Every other member state applies Rome I directly.
 
 ## Official sources
 
-- [Rome I Regulation (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32008R0593)
-- [Commission Report on the application of Rome I (2022)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM:2022:361:FIN)
-- [European Parliament legislative resolution on the Rome I proposal (2007)](https://www.europarl.europa.eu/doceo/document/TA-6-2007-0530_EN.html)
+- [Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0593)
+- [Commission Green Paper on the conversion of the Rome Convention of 1980 (COM(2002) 654 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52002DC0654)
+- [Commission proposal for a Regulation on the law applicable to contractual obligations (COM(2005) 650 final)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52005PC0650)

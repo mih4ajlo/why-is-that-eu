@@ -1720,6 +1720,86 @@
     "year": 2004
   },
   {
+    "id": "does-europe-have-an-equivalent-of-the-us-h-1b-visa",
+    "question": "Does Europe have an equivalent of the US H-1B visa?",
+    "answer": "Yes — the EU Blue Card is the closest functional equivalent, offering highly qualified non-EU nationals a combined work-and-residence permit with family rights and the ability to move between Member States. Unlike the H-1B, it has no annual numerical cap at EU level (though Member States may set quotas), is employer-sponsored but not lottery-based, and leads to long-term residence after five years. In practice, however, it has historically issued far fewer permits than the H-1B and competes with national skilled-worker schemes inside the EU itself.",
+    "slug": "council-directive-200950ec-on-the-conditions-of-entry-and-re",
+    "title": "Council Directive 2009/50/EC on the conditions of entry and residence of third-country nationals for the purposes of highly qualified employment",
+    "directive": "2009/50/EC",
+    "category": "Migration & Asylum",
+    "year": 2009
+  },
+  {
+    "id": "why-didn-t-the-eu-s-skilled-migration-scheme-attract-more-workers",
+    "question": "Why didn't the EU's skilled migration scheme attract more workers?",
+    "answer": "The original 2009 design carried several handicaps: a salary threshold set at 1.5 times the national average priced out many qualified candidates in high-wage countries, Member States kept running competing national permits that were often cheaper or faster, and moving between EU countries on the card required a fresh application rather than free movement. Only Germany used the scheme at scale. The 2021 recast was an explicit attempt to fix these design flaws.",
+    "slug": "council-directive-200950ec-on-the-conditions-of-entry-and-re",
+    "title": "Council Directive 2009/50/EC on the conditions of entry and residence of third-country nationals for the purposes of highly qualified employment",
+    "directive": "2009/50/EC",
+    "category": "Migration & Asylum",
+    "year": 2009
+  },
+  {
+    "id": "can-a-blue-card-holder-move-to-another-eu-country",
+    "question": "Can a Blue Card holder move to another EU country?",
+    "answer": "Yes, but with conditions. Under the 2009 directive, after 18 months of legal residence in the first Member State a Blue Card holder could move to another participating country and apply for a Blue Card there, subject to that country's rules. The 2021 recast shortened this period to 12 months and streamlined the procedure, though full free movement comparable to that enjoyed by EU citizens still does not apply.",
+    "slug": "council-directive-200950ec-on-the-conditions-of-entry-and-re",
+    "title": "Council Directive 2009/50/EC on the conditions of entry and residence of third-country nationals for the purposes of highly qualified employment",
+    "directive": "2009/50/EC",
+    "category": "Migration & Asylum",
+    "year": 2009
+  },
+  {
+    "id": "did-the-uk-ever-participate-in-the-blue-card",
+    "question": "Did the UK ever participate in the Blue Card?",
+    "answer": "No. The UK, Ireland and Denmark exercised their treaty opt-outs from EU justice and home affairs measures and never joined the scheme. The UK ran its own Tier 1 and Tier 2 skilled-worker routes, and after Brexit operates an entirely separate points-based system. Ireland has since indicated some interest in skilled-migration alignment but remains outside the directive.",
+    "slug": "council-directive-200950ec-on-the-conditions-of-entry-and-re",
+    "title": "Council Directive 2009/50/EC on the conditions of entry and residence of third-country nationals for the purposes of highly qualified employment",
+    "directive": "2009/50/EC",
+    "category": "Migration & Asylum",
+    "year": 2009
+  },
+  {
+    "id": "does-the-eu-have-the-power-to-shut-down-an-unsafe-nuclear-reactor",
+    "question": "Does the EU have the power to shut down an unsafe nuclear reactor?",
+    "answer": "No. The directive sets binding safety objectives and requires independent regulators, but the decision to license, operate or close an individual reactor remains with national authorities. The Commission can take a member state to the Court of Justice for failing to apply the rules, and can extract closure commitments as a condition of EU membership (as it did with Ignalina, Kozloduy and Bohunice), but it cannot directly order an existing reactor offline.",
+    "slug": "council-directive-200971euratom-establishing-a-community-fra",
+    "title": "Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations, as amended by Council Directive 2014/87/Euratom",
+    "directive": "2009/71/Euratom",
+    "category": "Energy",
+    "year": 2009
+  },
+  {
+    "id": "what-changed-after-fukushima-for-european-nuclear-plants",
+    "question": "What changed after Fukushima for European nuclear plants?",
+    "answer": "EU-wide stress tests identified hundreds of safety upgrades, and most operators invested billions in backup power, emergency cooling, bunkered control facilities and on-site emergency response centres. The 2014 revision of the directive then made many of these post-Fukushima practices legally binding, including a high-level objective to avoid early or large radioactive releases, six-yearly topical peer reviews, and stricter regulator independence.",
+    "slug": "council-directive-200971euratom-establishing-a-community-fra",
+    "title": "Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations, as amended by Council Directive 2014/87/Euratom",
+    "directive": "2009/71/Euratom",
+    "category": "Energy",
+    "year": 2009
+  },
+  {
+    "id": "why-are-countries-without-reactors-covered-by-eu-nuclear-safety-law",
+    "question": "Why are countries without reactors covered by EU nuclear safety law?",
+    "answer": "Because they may still host research reactors, fuel cycle facilities, radioactive waste storage, or nuclear transports, and because radiation does not respect borders. The directive requires every member state to maintain a competent independent regulator and a national framework even if the country is non-nuclear, which is why states like Ireland and Austria have nuclear safety authorities despite having no power reactors.",
+    "slug": "council-directive-200971euratom-establishing-a-community-fra",
+    "title": "Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations, as amended by Council Directive 2014/87/Euratom",
+    "directive": "2009/71/Euratom",
+    "category": "Energy",
+    "year": 2009
+  },
+  {
+    "id": "are-cross-border-nuclear-safety-disputes-like-germany-versus-belgium-over-tihang",
+    "question": "Are cross-border nuclear safety disputes — like Germany versus Belgium over Tihange — settled by EU law?",
+    "answer": "Only partly. Neighbouring states have rights to information and consultation under EU law, and environmental impact assessment rules can be enforced through the Court of Justice, as Belgium discovered in the Doel 1/2 case. But the substantive decision on whether a specific reactor is safe enough to operate remains with the host state's regulator, leaving cross-border complaints largely diplomatic rather than legal.",
+    "slug": "council-directive-200971euratom-establishing-a-community-fra",
+    "title": "Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations, as amended by Council Directive 2014/87/Euratom",
+    "directive": "2009/71/Euratom",
+    "category": "Energy",
+    "year": 2009
+  },
+  {
     "id": "does-the-eu-require-countries-to-bury-their-nuclear-waste-underground",
     "question": "Does the EU require countries to bury their nuclear waste underground?",
     "answer": "No — the directive does not mandate a specific disposal method. It requires each country to adopt a national policy and a programme that “demonstrates that the planned final solution is technically feasible and achievable within a reasonable period.” That can be deep geological disposal, but also long‑term storage in monitored surface facilities, as long as the country explains why that is preferable and how it will eventually move to disposal.",
@@ -2380,6 +2460,46 @@
     "year": 2019
   },
   {
+    "id": "can-the-eu-sanction-individual-foreign-officials-for-human-rights-abuses",
+    "question": "Can the EU sanction individual foreign officials for human rights abuses?",
+    "answer": "Yes. Since December 2020 the EU has had a standing framework to impose asset freezes and travel bans on individuals and entities responsible for serious human rights violations anywhere in the world, without needing to establish a country-wide sanctions regime first. It has been used against Russian, Chinese, Iranian, Myanmar and other officials.",
+    "slug": "council-regulation-eu-20201998-concerning-restrictive-measur",
+    "title": "Council Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+    "directive": "2020/1998/EU",
+    "category": "Sanctions & Foreign Policy",
+    "year": 2020
+  },
+  {
+    "id": "why-doesn-t-the-eu-sanction-corrupt-officials-the-same-way",
+    "question": "Why doesn't the EU sanction corrupt officials the same way?",
+    "answer": "The 2020 regime deliberately excluded corruption, after France and several southern Member States resisted bundling it with human rights. The Commission proposed a separate anti-corruption sanctions instrument in May 2023, but it requires unanimity in the Council and as of writing has not been adopted.",
+    "slug": "council-regulation-eu-20201998-concerning-restrictive-measur",
+    "title": "Council Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+    "directive": "2020/1998/EU",
+    "category": "Sanctions & Foreign Policy",
+    "year": 2020
+  },
+  {
+    "id": "why-did-the-eu-s-xinjiang-sanctions-cause-such-a-big-diplomatic-crisis-with-chin",
+    "question": "Why did the EU's Xinjiang sanctions cause such a big diplomatic crisis with China?",
+    "answer": "The March 2021 listings of four Chinese officials over Uyghur detention were the first EU sanctions on Chinese individuals since the post-Tiananmen arms embargo of 1989. Beijing retaliated by sanctioning MEPs, academics and a major think tank — which prompted the European Parliament to freeze ratification of the EU-China investment agreement Angela Merkel had concluded months earlier. That deal has never been revived.",
+    "slug": "council-regulation-eu-20201998-concerning-restrictive-measur",
+    "title": "Council Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+    "directive": "2020/1998/EU",
+    "category": "Sanctions & Foreign Policy",
+    "year": 2020
+  },
+  {
+    "id": "why-does-any-single-eu-country-get-to-block-a-sanctions-listing",
+    "question": "Why does any single EU country get to block a sanctions listing?",
+    "answer": "EU foreign policy decisions, including individual sanctions designations, require unanimity in the Council under the Treaty on European Union. Commission President von der Leyen proposed moving human rights sanctions to qualified-majority voting in her 2020 State of the Union address, but Hungary and other capitals have blocked any treaty-level or \"passerelle\" change, meaning a single Member State can still veto a name being added to the list.",
+    "slug": "council-regulation-eu-20201998-concerning-restrictive-measur",
+    "title": "Council Regulation (EU) 2020/1998 concerning restrictive measures against serious human rights violations and abuses",
+    "directive": "2020/1998/EU",
+    "category": "Sanctions & Foreign Policy",
+    "year": 2020
+  },
+  {
     "id": "why-can-hungary-keep-buying-russian-oil-when-the-rest-of-the-eu-cannot",
     "question": "Why can Hungary keep buying Russian oil when the rest of the EU cannot?",
     "answer": "When the EU agreed its oil embargo in June 2022, Viktor Orbán threatened to veto the entire sixth sanctions package unless landlocked countries dependent on the Druzhba pipeline — Hungary, Slovakia and Czechia — were exempted. The compromise allowed pipeline crude to keep flowing while banning seaborne imports, which accounted for the large majority of EU purchases. Hungary has since used each subsequent package as leverage, delaying agreement and extracting further carve-outs, including on nuclear cooperation with Rosatom for the Paks II reactor.",
@@ -2970,9 +3090,9 @@
     "year": 2000
   },
   {
-    "id": "what-biosafety-level-is-used-for-sars-cov-2-in-eu-labs",
-    "question": "What biosafety level is used for SARS-CoV-2 in EU labs?",
-    "answer": "SARS-CoV-2 is classified as a Group 3 biological agent under Directive 2000/54/EC. This means EU laboratories handling live virus must use containment level 3 facilities: negative air pressure, double-door access, full-body protective equipment, and approved disinfection procedures. Inactivated samples may be handled at lower containment levels.",
+    "id": "what-protections-do-european-hospital-workers-have-against-catching-hiv-or-hepat",
+    "question": "What protections do European hospital workers have against catching HIV or hepatitis on the job?",
+    "answer": "EU law requires healthcare employers to assess the risk of exposure to blood-borne viruses, provide safer needles and sharps disposal systems, offer hepatitis B vaccination free of charge, and keep medical surveillance records for workers who may have been exposed. A specific 2010 directive on sharps injuries strengthened these rules further, after years of pressure from hospital unions who argued needle-stick injuries were chronically under-reported.",
     "slug": "directive-200054ec-on-the-protection-of-workers-from-risks-r",
     "title": "Directive 2000/54/EC on the protection of workers from risks related to exposure to biological agents at work",
     "directive": "2000/54/EC",
@@ -2980,9 +3100,9 @@
     "year": 2000
   },
   {
-    "id": "do-eu-healthcare-workers-have-the-right-to-refuse-treatment-of-infectious-patien",
-    "question": "Do EU healthcare workers have the right to refuse treatment of infectious patients?",
-    "answer": "The directive does not give workers a right to refuse care, but it requires employers to provide adequate protective equipment and vaccination. If an employer fails to conduct a risk assessment or provide appropriate containment measures, the worker has the right to refuse exposure under the Framework Directive (89/391/EEC) without penalty. National courts in France and Germany have upheld this right in cases involving tuberculosis and ebola care.",
+    "id": "how-did-the-mad-cow-crisis-change-workplace-safety-rules",
+    "question": "How did the mad cow crisis change workplace safety rules?",
+    "answer": "The 1996 link between BSE and variant Creutzfeldt-Jakob disease forced the EU to recognise that slaughterhouse workers, renderers, vets and neuropathology lab staff faced occupational exposure to a transmissible agent with no treatment. Within a year, the EU amended its biological agents rules to explicitly cover prion diseases and assign them risk classifications, with corresponding containment requirements for laboratories.",
     "slug": "directive-200054ec-on-the-protection-of-workers-from-risks-r",
     "title": "Directive 2000/54/EC on the protection of workers from risks related to exposure to biological agents at work",
     "directive": "2000/54/EC",
@@ -2990,9 +3110,9 @@
     "year": 2000
   },
   {
-    "id": "does-the-directive-cover-agricultural-workers-exposed-to-animal-pathogens",
-    "question": "Does the directive cover agricultural workers exposed to animal pathogens?",
-    "answer": "Yes, but only if the risk is occupational. Farmers handling livestock known to be infected with zoonotic agents (e.g., brucellosis in sheep, avian influenza in poultry) fall under the directive's scope. The employer must classify the biological agent, provide appropriate vaccination, and maintain exposure records. The European Agency for Safety and Health at Work found in 2017 that 30% of EU farms with livestock had not conducted the required risk assessments.",
+    "id": "why-does-the-eu-classify-viruses-and-bacteria-into-risk-groups",
+    "question": "Why does the EU classify viruses and bacteria into risk groups?",
+    "answer": "The four-group classification — from harmless microbes (Group 1) to lethal pathogens with no vaccine or treatment (Group 4, like Ebola) — determines what physical containment, protective equipment, medical surveillance and waste handling rules apply. It is the same logic used by the World Health Organization and national biosafety frameworks. When COVID-19 emerged, the Commission added SARS-CoV-2 to Group 3 in 2020, which automatically triggered legal obligations on employers across Europe.",
     "slug": "directive-200054ec-on-the-protection-of-workers-from-risks-r",
     "title": "Directive 2000/54/EC on the protection of workers from risks related to exposure to biological agents at work",
     "directive": "2000/54/EC",
@@ -3000,9 +3120,9 @@
     "year": 2000
   },
   {
-    "id": "can-member-states-adopt-stricter-biosafety-rules-than-the-directive",
-    "question": "Can member states adopt stricter biosafety rules than the directive?",
-    "answer": "Yes. Directive 2000/54/EC sets minimum standards; member states can impose additional measures. Sweden, for example, requires annual psychological fitness checks for BSL-4 laboratory workers — a requirement not found in the directive. The Netherlands and Denmark also require written, signed consent from the local community before a BSL-4 lab can be built, which has delayed construction by three years on average.",
+    "id": "do-employers-have-to-pay-for-workers-vaccinations",
+    "question": "Do employers have to pay for workers' vaccinations?",
+    "answer": "Yes, where effective vaccines exist for biological agents that workers are exposed to in their job — most importantly hepatitis B for healthcare staff — the employer must offer vaccination free of charge. This obligation has been in EU law since 1990 and was a central reason hepatitis B vaccination became universal among European hospital workers in the 1990s.",
     "slug": "directive-200054ec-on-the-protection-of-workers-from-risks-r",
     "title": "Directive 2000/54/EC on the protection of workers from risks related to exposure to biological agents at work",
     "directive": "2000/54/EC",
@@ -3730,41 +3850,41 @@
     "year": 2009
   },
   {
-    "id": "why-don-t-all-companies-have-to-set-up-a-europe-wide-employee-council",
-    "question": "Why don't all companies have to set up a Europe-wide employee council?",
-    "answer": "The directive requires a threshold of 1,000 employees in total, with 150 in each of two countries. This excludes small and medium enterprises (SMEs), which the Commission’s impact assessment argued would face disproportionate administrative costs. The ETUCC campaigned for a lower threshold in 2009 but lost, as Germany and France — with large SMEs — opposed.",
+    "id": "can-a-european-multinational-close-a-factory-without-telling-its-workers-first",
+    "question": "Can a European multinational close a factory without telling its workers first?",
+    "answer": "Not legally, if it has a European Works Council and the closure affects workers in at least two Member States. The company must inform and consult the EWC at a time and in a manner that allows employee representatives to express an opinion that can still influence the decision. The Renault Vilvoorde case in 1997, where 3,000 Belgian workers learned of their plant's closure from the press, is precisely what the rules — and the 2009 recast — were designed to prevent.",
     "slug": "directive-200938ec-on-the-establishment-of-a-european-works-",
-    "title": "Directive 2009/38/EC on the establishment of a European Works Council",
+    "title": "Directive 2009/38/EC on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (recast)",
     "directive": "2009/38/EC",
     "category": "Labour & Social",
     "year": 2009
   },
   {
-    "id": "why-do-uk-workers-still-have-the-right-to-a-european-employee-council-after-brex",
-    "question": "Why do UK workers still have the right to a European employee council after Brexit?",
-    "answer": "The UK initially opted out in 1994 but joined in 1998. After Brexit, the UK repealed the 1994 directive transposition (the Transnational Information and Consultation of Employees Regulations 1999) effective from 1 January 2021. As of 2024, UK-only workers are no longer part of EU EWCs, but UK companies still operating in the EU must negotiate new agreements that exclude their British workforce.",
+    "id": "do-ewc-rules-apply-to-american-or-japanese-companies-operating-in-europe",
+    "question": "Do EWC rules apply to American or Japanese companies operating in Europe?",
+    "answer": "Yes. The trigger is the workforce in the EEA, not the location of the parent company. Any group employing at least 1,000 workers in the EEA, with at least 150 in each of two or more Member States, falls within scope — meaning US firms like Ford, IBM and McDonald's, Japanese firms like Toyota, and Swiss groups like Nestlé all run European Works Councils. The directive designates a \"representative agent\" in the EU when the parent is based abroad.",
     "slug": "directive-200938ec-on-the-establishment-of-a-european-works-",
-    "title": "Directive 2009/38/EC on the establishment of a European Works Council",
+    "title": "Directive 2009/38/EC on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (recast)",
     "directive": "2009/38/EC",
     "category": "Labour & Social",
     "year": 2009
   },
   {
-    "id": "why-did-eastern-european-countries-oppose-rules-for-cross-border-worker-represen",
-    "question": "Why did Eastern European countries oppose rules for cross-border worker representation?",
-    "answer": "In the 2004 enlargement, Poland, Hungary, and the Czech Republic viewed EWCs as \"EU bureaucracy\" imposed by Western unions. Poland’s labour minister in 2003, Jerzy Hausner, argued that EWCs would deter foreign investment. Transposition was delayed until 2009. The European Social Partners (ETUC, BusinessEurope) ultimately brokered a compromise that allowed Central European companies to delay compliance.",
+    "id": "what-happens-if-a-company-ignores-its-european-works-council",
+    "question": "What happens if a company ignores its European works council?",
+    "answer": "That depends on the country: sanctions are national, and they range from modest administrative fines to court orders suspending corporate decisions. French and Belgian courts have been the most willing to grant injunctions; in other Member States, penalties are widely regarded as too low to deter large multinationals. This enforcement gap is the central reason the Commission tabled a further revision in January 2024.",
     "slug": "directive-200938ec-on-the-establishment-of-a-european-works-",
-    "title": "Directive 2009/38/EC on the establishment of a European Works Council",
+    "title": "Directive 2009/38/EC on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (recast)",
     "directive": "2009/38/EC",
     "category": "Labour & Social",
     "year": 2009
   },
   {
-    "id": "why-can-companies-and-workers-choose-to-negotiate-their-own-deal-instead-of-foll",
-    "question": "Why can companies and workers choose to negotiate their own deal instead of following the standard rules?",
-    "answer": "The recast preserved the 1994 principle of \"negotiated flexibility\" – companies and workers can write their own EWC agreement. This was a concession to BusinessEurope, which argued that a one-size-fits-all model would be unworkable. Critics say this allows large companies to agree to weak, convenient councils. The Commission’s 2018 evaluation confirmed that 15% of EWCs meet only once a year and have no right to expert advice.",
+    "id": "why-were-these-rules-tightened-in-2009-instead-of-1997-right-after-renault",
+    "question": "Why were these rules tightened in 2009 instead of 1997, right after Renault?",
+    "answer": "Because the Commission initially hoped that the courts and social partners would close the gaps in the 1994 directive on their own, and because employer federation UNICE/BusinessEurope resisted reopening the text throughout the early 2000s. It took a decade of unsatisfactory case law, a series of further high-profile restructurings, and a determined French Council Presidency in 2008 to assemble the political coalition — Commissioner Vladimír Špidla, the Parliament and most national governments — needed to push the recast through.",
     "slug": "directive-200938ec-on-the-establishment-of-a-european-works-",
-    "title": "Directive 2009/38/EC on the establishment of a European Works Council",
+    "title": "Directive 2009/38/EC on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (recast)",
     "directive": "2009/38/EC",
     "category": "Labour & Social",
     "year": 2009
@@ -4530,6 +4650,46 @@
     "year": 2016
   },
   {
+    "id": "can-a-foreign-student-stay-in-europe-after-graduating-to-look-for-a-job",
+    "question": "Can a foreign student stay in Europe after graduating to look for a job?",
+    "answer": "Yes. EU rules require Member States to give non-EU graduates of master's and doctoral programmes, as well as researchers completing their projects, at least nine months to remain in the host country to search for employment or set up a business. Some countries grant longer periods — Germany, for instance, allows 18 months — but nine months is the EU-wide floor.",
+    "slug": "directive-eu-2016801-on-the-conditions-of-entry-and-residenc",
+    "title": "Directive (EU) 2016/801 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing",
+    "directive": "2016/801/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "why-does-europe-make-it-easier-for-foreign-researchers-to-move-between-countries",
+    "question": "Why does Europe make it easier for foreign researchers to move between countries than for other migrants?",
+    "answer": "The EU treats researcher and student mobility as a building block of the European Research Area and the single market for knowledge, not primarily as immigration policy. Successive Commissions have argued that fragmented national rules were costing Europe top talent to the US and Canada, and that without intra-EU mobility a researcher hired in one Member State could not realistically collaborate across borders. The political coalition behind this — universities, research funders, the Parliament's liberal centre — was strong enough to push through mobility rights that Member States resisted for other migration files.",
+    "slug": "directive-eu-2016801-on-the-conditions-of-entry-and-residenc",
+    "title": "Directive (EU) 2016/801 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing",
+    "directive": "2016/801/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "does-the-directive-apply-everywhere-in-the-eu",
+    "question": "Does the directive apply everywhere in the EU?",
+    "answer": "No. Denmark and Ireland exercised their treaty opt-outs from EU justice and home affairs measures and are not bound by it. They run separate national regimes for student and researcher admission. All other 25 Member States are required to apply the directive, although the Commission has flagged uneven implementation.",
+    "slug": "directive-eu-2016801-on-the-conditions-of-entry-and-residenc",
+    "title": "Directive (EU) 2016/801 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing",
+    "directive": "2016/801/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
+    "id": "are-au-pairs-covered-by-eu-migration-rules",
+    "question": "Are au pairs covered by EU migration rules?",
+    "answer": "Partially. The 2016 directive was the first EU instrument to address au pairs at all, but coverage is optional — Member States choose whether to apply the relevant provisions. Where they do, the directive sets minimum standards on contracts, working time, board and lodging, and protection against exploitation, responding to long-standing concerns from labour inspectorates and NGOs about abuses in the au pair sector.",
+    "slug": "directive-eu-2016801-on-the-conditions-of-entry-and-residenc",
+    "title": "Directive (EU) 2016/801 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing",
+    "directive": "2016/801/EU",
+    "category": "Migration & Asylum",
+    "year": 2016
+  },
+  {
     "id": "does-eu-law-criminalise-travelling-abroad-to-join-isis-or-other-militant-groups",
     "question": "Does EU law criminalise travelling abroad to join ISIS or other militant groups?",
     "answer": "Yes. The directive created a specific offence for travelling to another country for the purpose of committing, planning, or participating in terrorist acts, or providing training. This was designed to close the loophole for \"foreign fighters\" who passed through EU transit countries on their way to Syria or Iraq but had not committed an attack in Europe.",
@@ -4557,6 +4717,46 @@
     "title": "Directive (EU) 2017/541 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA",
     "directive": "2017/541/EU",
     "category": "Justice & Civil Law",
+    "year": 2017
+  },
+  {
+    "id": "can-shareholders-in-europe-vote-on-how-much-ceos-are-paid",
+    "question": "Can shareholders in Europe vote on how much CEOs are paid?",
+    "answer": "Yes — since 2019, shareholders in EU-listed companies vote on both the company's remuneration policy (typically every four years) and on the annual remuneration report. Whether the vote is binding or advisory depends on the country: the Netherlands, Sweden and Germany made the policy vote binding, while others kept it advisory. Even where votes are non-binding, large \"no\" votes have forced boards to redesign pay packages — most public after Renault's 2016 Ghosn revolt and several FTSE 100 rebellions.",
+    "slug": "directive-eu-2017828-on-the-encouragement-of-long-term-share",
+    "title": "Directive (EU) 2017/828 on the encouragement of long-term shareholder engagement (Shareholder Rights Directive II)",
+    "directive": "2017/828/EU",
+    "category": "Financial",
+    "year": 2017
+  },
+  {
+    "id": "why-did-eu-regulators-start-telling-pension-funds-how-to-vote-their-shares",
+    "question": "Why did EU regulators start telling pension funds how to vote their shares?",
+    "answer": "Because the financial crisis exposed institutional investors as absentee owners. After bank collapses in 2008-2011, the Commission concluded that asset managers and pension funds had failed to scrutinise the companies whose shares they held on behalf of millions of savers. The rules now require them to publish an engagement policy or explain why they don't, and to report annually on how they voted and engaged — modelled on the UK Stewardship Code.",
+    "slug": "directive-eu-2017828-on-the-encouragement-of-long-term-share",
+    "title": "Directive (EU) 2017/828 on the encouragement of long-term shareholder engagement (Shareholder Rights Directive II)",
+    "directive": "2017/828/EU",
+    "category": "Financial",
+    "year": 2017
+  },
+  {
+    "id": "what-stops-a-controlling-shareholder-from-siphoning-value-out-of-a-listed-compan",
+    "question": "What stops a controlling shareholder from siphoning value out of a listed company?",
+    "answer": "The related-party transaction rules require listed companies to publicly announce material deals with insiders — controlling shareholders, directors, their families and affiliated entities — and put them to board or general meeting approval. Member states define the \"materiality\" threshold, which means protection varies: minority investors in Italian or French companies with dominant families still face weaker safeguards than in jurisdictions like the Netherlands, but the disclosure obligation alone has made tunnelling harder to hide.",
+    "slug": "directive-eu-2017828-on-the-encouragement-of-long-term-share",
+    "title": "Directive (EU) 2017/828 on the encouragement of long-term shareholder engagement (Shareholder Rights Directive II)",
+    "directive": "2017/828/EU",
+    "category": "Financial",
+    "year": 2017
+  },
+  {
+    "id": "why-are-firms-like-iss-and-glass-lewis-controversial-in-europe",
+    "question": "Why are firms like ISS and Glass Lewis controversial in Europe?",
+    "answer": "These two US-headquartered proxy advisors effectively decide how a large share of global institutional capital votes at European AGMs by issuing recommendations. The 2017 directive requires them to disclose their methodology and any conflicts of interest, but on a comply-or-explain basis — which ESMA and several MEPs consider inadequate given the duopoly's influence over outcomes that can sink board candidates or compensation plans.",
+    "slug": "directive-eu-2017828-on-the-encouragement-of-long-term-share",
+    "title": "Directive (EU) 2017/828 on the encouragement of long-term shareholder engagement (Shareholder Rights Directive II)",
+    "directive": "2017/828/EU",
+    "category": "Financial",
     "year": 2017
   },
   {
@@ -5010,6 +5210,46 @@
     "year": 2024
   },
   {
+    "id": "can-i-force-a-company-to-repair-my-phone-in-europe",
+    "question": "Can I force a company to repair my phone in Europe?",
+    "answer": "Once national laws transposing the directive apply (from mid-2026), yes — for products covered by EU repairability rules, including smartphones, tablets, washing machines and several other categories. The manufacturer must repair on request at a reasonable price, even after the legal guarantee has expired, and cannot refuse on the grounds that the parts are no longer made if EU ecodesign rules required them to keep parts available.",
+    "slug": "directive-eu-20241799-on-common-rules-promoting-the-repair-o",
+    "title": "Directive (EU) 2024/1799 on common rules promoting the repair of goods",
+    "directive": "2024/1799/EU",
+    "category": "Consumer Electronics",
+    "year": 2024
+  },
+  {
+    "id": "is-planned-obsolescence-illegal-in-the-eu",
+    "question": "Is planned obsolescence illegal in the EU?",
+    "answer": "The EU has not (yet) created a single criminal offence of planned obsolescence the way France did in 2015, but the combined effect of the Right to Repair Directive, the Ecodesign for Sustainable Products Regulation and the 2024 directive on \"empowering consumers for the green transition\" makes most of its standard tactics unlawful: software updates that degrade performance without consent, parts pairing that blocks legitimate repairs, and marketing claims about durability that cannot be substantiated.",
+    "slug": "directive-eu-20241799-on-common-rules-promoting-the-repair-o",
+    "title": "Directive (EU) 2024/1799 on common rules promoting the repair of goods",
+    "directive": "2024/1799/EU",
+    "category": "Consumer Electronics",
+    "year": 2024
+  },
+  {
+    "id": "why-can-t-i-use-cheap-third-party-parts-to-fix-my-iphone-or-tractor",
+    "question": "Why can't I use cheap third-party parts to fix my iPhone or tractor?",
+    "answer": "Until now, manufacturers like Apple and John Deere used \"parts pairing\" — cryptographic checks that warned or disabled functions when non-original parts were installed — and tightly controlled service manuals. The directive restricts these practices: manufacturers can no longer contractually or technically prevent independent repairers from using compatible, second-hand or 3D-printed parts unless they can prove a specific safety or functional justification.",
+    "slug": "directive-eu-20241799-on-common-rules-promoting-the-repair-o",
+    "title": "Directive (EU) 2024/1799 on common rules promoting the repair of goods",
+    "directive": "2024/1799/EU",
+    "category": "Consumer Electronics",
+    "year": 2024
+  },
+  {
+    "id": "does-this-mean-products-will-become-more-expensive-in-europe",
+    "question": "Does this mean products will become more expensive in Europe?",
+    "answer": "Manufacturers, particularly in consumer electronics and home appliances, argued during the legislative process that designing for repair, stocking spare parts for seven to ten years and providing repair documentation will raise costs. The Commission's impact assessment estimated net consumer savings over product lifetimes because repair is cheaper than replacement, but acknowledged some upfront price effects. The real test will come as ecodesign rules expand the list of covered products through the late 2020s.",
+    "slug": "directive-eu-20241799-on-common-rules-promoting-the-repair-o",
+    "title": "Directive (EU) 2024/1799 on common rules promoting the repair of goods",
+    "directive": "2024/1799/EU",
+    "category": "Consumer Electronics",
+    "year": 2024
+  },
+  {
     "id": "what-are-the-new-eu-air-pollution-limits-for-cities",
     "question": "What are the new EU air pollution limits for cities?",
     "answer": "The 2024 directive sets an annual limit of 10 µg/m³ for fine particulate matter (PM2.5) and 20 µg/m³ for nitrogen dioxide (NO2), down from previous limits of 25 µg/m³ and 40 µg/m³, respectively. These align with the stricter WHO guidelines issued in 2021. The targets must be met by 1 January 2030.",
@@ -5128,46 +5368,6 @@
     "directive": "2013/11/EU",
     "category": "Justice & Civil Law",
     "year": 2013
-  },
-  {
-    "id": "why-do-eu-repair-rules-only-cover-certain-types-of-products",
-    "question": "Why do EU repair rules only cover certain types of products?",
-    "answer": "It is tied to the EU's ecodesign framework, which sets reparability requirements product-by-product through detailed technical regulations. Mandating repair only makes sense where spare parts, technical documentation, and repair feasibility have already been defined. As ecodesign expands (e.g., to textiles, furniture, more electronics), the scope of the right to repair will automatically grow.",
-    "slug": "directive-on-common-rules-promoting-the-repair-of-goods",
-    "title": "Directive on Common Rules Promoting the Repair of Goods",
-    "directive": "2024/1799/EU",
-    "category": "Consumer Electronics",
-    "year": 2024
-  },
-  {
-    "id": "why-didn-t-the-eu-just-ban-planned-obsolescence-outright",
-    "question": "Why didn't the EU just ban planned obsolescence outright?",
-    "answer": "Proving deliberate obsolescence in court is notoriously hard — France's pioneering law has produced very few prosecutions. The EU instead chose a structural approach: make repair easy, cheap, and legally enforceable, so that obsolescence becomes commercially unattractive rather than criminally prohibited.",
-    "slug": "directive-on-common-rules-promoting-the-repair-of-goods",
-    "title": "Directive on Common Rules Promoting the Repair of Goods",
-    "directive": "2024/1799/EU",
-    "category": "Consumer Electronics",
-    "year": 2024
-  },
-  {
-    "id": "why-do-eu-repair-rules-allow-third-party-and-used-spare-parts",
-    "question": "Why do EU repair rules allow third-party and used spare parts?",
-    "answer": "Manufacturers had increasingly used \"part pairing\" — software locks tying a specific component (battery, screen, camera) to a specific device serial number — to force consumers into official channels. The directive treats this as an anti-competitive obstacle to repair, ensuring that independent shops, refurbishers, and even 3D-printed parts can keep older devices alive.",
-    "slug": "directive-on-common-rules-promoting-the-repair-of-goods",
-    "title": "Directive on Common Rules Promoting the Repair of Goods",
-    "directive": "2024/1799/EU",
-    "category": "Consumer Electronics",
-    "year": 2024
-  },
-  {
-    "id": "why-is-this-a-directive-that-each-country-has-to-turn-into-its-own-law-instead-o",
-    "question": "Why is this a directive that each country has to turn into its own law, instead of a single rule for everyone?",
-    "answer": "A directive sets binding objectives but lets each Member State adapt the rules to its legal system, consumer protection traditions, and existing repair-bonus schemes. Many Member States (France, Austria, Germany, Sweden) already had partial frameworks, and a directive avoids overriding them while ensuring a common floor of consumer rights.",
-    "slug": "directive-on-common-rules-promoting-the-repair-of-goods",
-    "title": "Directive on Common Rules Promoting the Repair of Goods",
-    "directive": "2024/1799/EU",
-    "category": "Consumer Electronics",
-    "year": 2024
   },
   {
     "id": "why-do-platforms-have-to-use-upload-filters-to-check-everything-you-post-even-th",
@@ -7922,7 +8122,7 @@
   {
     "id": "why-were-the-2008-eu-train-compatibility-rules-replaced-so-quickly",
     "question": "Why were the 2008 EU train compatibility rules replaced so quickly?",
-    "answer": "The 2008 directive (2008/57/EC) made cross-border authorisation voluntary, and only 12 approvals were granted in 6 years. The 2016 directive makes it mandatory, with ERA taking over national approval powers from 2019, forcing member states to cede authority.",
+    "answer": "The 2008 directive (2008/57/EC) made cross-border authorisation voluntary, and only 12 approvals were granted in 6 years. The system failed because member states could still insist on national checks alongside ERA, meaning a manufacturer seeking approval in five countries faced five separate processes. The 2016 directive makes ERA authorisation mandatory and strips national safety authorities of their parallel approval role, forcing member states to cede authority they had retained under the previous text.",
     "slug": "interoperability-of-the-rail-system-directive",
     "title": "Interoperability of the Rail System Directive",
     "directive": "2016/797/EU",
@@ -9510,42 +9710,42 @@
     "year": 2023
   },
   {
-    "id": "can-i-see-documents-from-eu-decision-makers",
-    "question": "Can I see documents from EU decision-makers?",
-    "answer": "Yes. As an EU citizen or resident, you can request any document held by the European Commission, Council, or Parliament under Regulation 1049/2001. You do not need to give a reason. The institution must respond within 15 working days and either provide the document or justify any redactions or refusals.",
+    "id": "can-ordinary-people-request-documents-from-the-eu",
+    "question": "Can ordinary people request documents from the EU?",
+    "answer": "Yes. Any EU citizen and any person living in the EU can ask the Parliament, Council or Commission for any document they hold, in any language, without giving a reason. The institution has 15 working days to reply and must justify any refusal with reference to a specific listed exception. Requests are typically free; only large reproductions can be charged.",
     "slug": "regulation-ec-no-10492001-regarding-public-access-to-europea",
     "title": "Regulation (EC) No 1049/2001 regarding public access to European Parliament, Council and Commission documents",
-    "directive": "",
+    "directive": "1049/2001/EC",
     "category": "Governance & Institutions",
     "year": 2001
   },
   {
-    "id": "what-kind-of-documents-can-eu-institutions-keep-secret",
-    "question": "What kind of documents can EU institutions keep secret?",
-    "answer": "Institutions can refuse access if disclosure would harm public security, defence, international relations, the privacy of individuals, commercial interests, or the institution’s own decision-making process (for sensitive ongoing negotiations). However, the European Court of Justice has repeatedly ruled that these exceptions must be interpreted strictly — the institution must show a \"foreseeable and not purely hypothetical\" risk of harm.",
+    "id": "why-are-eu-institutions-seen-as-so-secretive-despite-transparency-rules",
+    "question": "Why are EU institutions seen as so secretive despite transparency rules?",
+    "answer": "Because the rules contain wide exceptions and because much of EU decision-making happens in informal settings the rules barely cover: trilogue meetings between Parliament and Council negotiators, expert groups, comitology committees, and increasingly text messages and instant messaging. The Court of Justice has expanded access through case law — notably the 2018 *De Capitani* ruling on trilogues — but the Council still routinely withholds Member States' negotiating positions until after a file is closed, and the Commission's record on informal communications remains contested by the European Ombudsman.",
     "slug": "regulation-ec-no-10492001-regarding-public-access-to-europea",
     "title": "Regulation (EC) No 1049/2001 regarding public access to European Parliament, Council and Commission documents",
-    "directive": "",
+    "directive": "1049/2001/EC",
     "category": "Governance & Institutions",
     "year": 2001
   },
   {
-    "id": "who-uses-this-right-the-most",
-    "question": "Who uses this right the most?",
-    "answer": "Journalists, academic researchers, and civil society organisations are the most active users. The Commission’s own application reports show that around 40% of requests come from academia, 20% from journalists, and 15% from NGOs. Lobbying firms and law firms also use the regulation, often to access competitor documents or to monitor regulatory processes.",
+    "id": "what-did-the-danish-no-vote-actually-change-about-how-brussels-works",
+    "question": "What did the Danish 'No' vote actually change about how Brussels works?",
+    "answer": "The 1992 Danish referendum was the moment EU institutions accepted that their old habits of confidentiality were politically unsustainable. It produced the Edinburgh declarations on openness, the 1993 Code of Conduct, the Amsterdam Treaty's right of access, and ultimately Regulation 1049/2001. It also embedded a permanent Nordic-led transparency caucus inside the Council that has shaped every subsequent reform debate — including ongoing battles over lobbying registers and conflict-of-interest rules.",
     "slug": "regulation-ec-no-10492001-regarding-public-access-to-europea",
     "title": "Regulation (EC) No 1049/2001 regarding public access to European Parliament, Council and Commission documents",
-    "directive": "",
+    "directive": "1049/2001/EC",
     "category": "Governance & Institutions",
     "year": 2001
   },
   {
-    "id": "how-long-does-it-take-to-get-the-documents",
-    "question": "How long does it take to get the documents?",
-    "answer": "By law, the institution must respond within 15 working days. In practice, it often takes longer — exceptions can extend the deadline to 30 days. For complex requests (large volumes or many exceptions), waiting several months is not uncommon. You can complain to the European Ombudsman if an institution misses the deadline without justification.",
+    "id": "can-you-get-hold-of-contracts-the-eu-signs-with-private-companies",
+    "question": "Can you get hold of contracts the EU signs with private companies?",
+    "answer": "In principle yes, but commercial confidentiality is one of the listed exceptions and is invoked aggressively. The Commission's COVID-19 vaccine contracts were released only in heavily redacted form, and the European Ombudsman found maladministration in how the Commission handled requests for text messages between Commission President von der Leyen and Pfizer's CEO. Several cases on contract transparency are pending or have produced partial disclosures after litigation by MEPs, journalists and NGOs.",
     "slug": "regulation-ec-no-10492001-regarding-public-access-to-europea",
     "title": "Regulation (EC) No 1049/2001 regarding public access to European Parliament, Council and Commission documents",
-    "directive": "",
+    "directive": "1049/2001/EC",
     "category": "Governance & Institutions",
     "year": 2001
   },
@@ -10300,44 +10500,44 @@
     "year": 2005
   },
   {
-    "id": "if-a-german-company-sells-to-a-french-customer-which-country-s-law-applies",
-    "question": "If a German company sells to a French customer, which country’s law applies?",
-    "answer": "If the parties do not specify a law in the contract, Rome I defaults to the law of the seller’s habitual residence—German law—because performance of the characteristic obligation (delivering goods) is in Germany. However, if the French customer is a consumer and the German company actively sells to France (for example, through a French‑language website), the consumer keeps the protection of French mandatory rules, such as longer withdrawal periods or stricter liability standards.",
+    "id": "if-i-buy-something-online-from-another-eu-country-and-there-s-a-dispute-whose-la",
+    "question": "If I buy something online from another EU country and there's a dispute, whose law applies?",
+    "answer": "If the seller directs its business at your country (advertises in your language, ships there, accepts your currency), you keep the mandatory consumer protections of your home country — even if the seller's terms and conditions say otherwise. The contract can be governed by the seller's chosen law for most purposes, but a clause that strips you of protections your national law gives you cannot be enforced against you.",
     "slug": "regulation-ec-no-5932008-on-the-law-applicable-to-contractua",
     "title": "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)",
     "directive": "593/2008/EC",
     "category": "Justice & Civil Law",
-    "year": 2008
+    "year": 2009
   },
   {
-    "id": "can-two-businesses-choose-the-law-of-any-country-even-outside-the-eu",
-    "question": "Can two businesses choose the law of any country, even outside the EU?",
-    "answer": "Yes. Rome I fully respects party autonomy for commercial contracts. A Swedish company and an Italian company can validly choose the law of New York or Singapore. The only limit is that all mandatory rules of the country where all the facts of the case are located cannot be avoided by a choice of a third-country law.",
+    "id": "can-two-companies-in-different-eu-countries-just-pick-whichever-law-they-want-fo",
+    "question": "Can two companies in different EU countries just pick whichever law they want for their contract?",
+    "answer": "Yes, broadly. EU private international law treats freedom of choice as the starting point for commercial contracts, and parties routinely pick English, Swiss, German or New York law for international deals. The main limits are mandatory \"overriding\" rules of countries closely connected to the contract — for example, export controls or sanctions of the country where performance happens — and specific protective regimes for consumers, employees, insured persons and carriage passengers.",
     "slug": "regulation-ec-no-5932008-on-the-law-applicable-to-contractua",
     "title": "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)",
     "directive": "593/2008/EC",
     "category": "Justice & Civil Law",
-    "year": 2008
+    "year": 2009
   },
   {
-    "id": "does-rome-i-cover-every-type-of-contract",
-    "question": "Does Rome I cover every type of contract?",
-    "answer": "No. The regulation excludes certain matters such as family‑law obligations (marriage, inheritance), negotiable instruments, arbitration agreements, and company‑law issues like share transfers. Those are governed by other EU instruments or national rules. It also does not apply to Denmark, which opted out of the former Title IV of the Treaty, though Denmark later concluded a bilateral agreement to apply similar rules.",
+    "id": "why-did-europe-replace-a-perfectly-functional-1980-treaty",
+    "question": "Why did Europe replace a perfectly functional 1980 treaty?",
+    "answer": "Because the 1980 Rome Convention was an ordinary international treaty, the Court of Justice had no automatic power to interpret it, and the same clauses were being read differently by French, German and English courts. The Amsterdam Treaty gave the EU competence to legislate on civil-justice matters directly, and converting the Convention into a regulation made the rules uniform, directly applicable, and subject to a single supreme interpreter in Luxembourg.",
     "slug": "regulation-ec-no-5932008-on-the-law-applicable-to-contractua",
     "title": "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)",
     "directive": "593/2008/EC",
     "category": "Justice & Civil Law",
-    "year": 2008
+    "year": 2009
   },
   {
-    "id": "why-did-the-eu-need-a-regulation-instead-of-just-updating-the-old-convention",
-    "question": "Why did the EU need a regulation instead of just updating the old convention?",
-    "answer": "A convention requires unanimous ratification by every Member State. The 2004 enlargement would have meant waiting for ten new states to ratify separately—a process that could take years and could be blocked by a single national parliament. A regulation applies automatically and uniformly in all Member States (except Denmark) from its entry into force, and the ECJ can ensure consistent interpretation, which the Convention’s interpretative protocols had failed to guarantee.",
+    "id": "does-this-apply-in-every-eu-country",
+    "question": "Does this apply in every EU country?",
+    "answer": "No — Denmark opted out of the EU's justice-and-home-affairs acquis at Maastricht and continues to apply the 1980 Rome Convention. The UK and Ireland exercised their opt-in and were bound by Rome I until Brexit; the UK retained the substance of the rules in domestic law after leaving. Every other member state applies Rome I directly.",
     "slug": "regulation-ec-no-5932008-on-the-law-applicable-to-contractua",
     "title": "Regulation (EC) No 593/2008 on the law applicable to contractual obligations (Rome I)",
     "directive": "593/2008/EC",
     "category": "Justice & Civil Law",
-    "year": 2008
+    "year": 2009
   },
   {
     "id": "what-is-the-eu-flower-label-on-products",
@@ -10490,44 +10690,44 @@
     "year": 2007
   },
   {
-    "id": "if-someone-is-hurt-in-a-road-accident-in-another-eu-country-which-country-s-law-",
-    "question": "If someone is hurt in a road accident in another EU country, which country’s law applies?",
-    "answer": "The law of the country where the accident happens – the “place of damage” – generally applies under Rome II’s default rule. So if a Dutch driver crashes into a Belgian cyclist in France, French law governs liability and damages. The rule applies even if both parties are resident in another country, unless there is a “manifestly closer connection” to another country.",
+    "id": "if-i-m-injured-in-a-car-crash-abroad-in-the-eu-which-country-s-law-decides-my-co",
+    "question": "If I'm injured in a car crash abroad in the EU, which country's law decides my compensation?",
+    "answer": "As a rule, the law of the country where the accident — and the direct injury — occurred. So a Belgian tourist hit by a car in Spain will, in most cases, have damages calculated under Spanish law even if they sue in a Belgian court. The exception is when both driver and victim habitually reside in the same country, in which case that shared home-country law applies. Several older Member States are also still bound by a 1971 Hague Convention that can lead to slightly different outcomes.",
     "slug": "regulation-ec-no-8642007-on-the-law-applicable-to-non-contra",
     "title": "Regulation (EC) No 864/2007 on the law applicable to non-contractual obligations (Rome II)",
     "directive": "864/2007/EC",
     "category": "Justice & Civil Law",
-    "year": 2007
+    "year": 2009
   },
   {
-    "id": "why-does-eu-law-not-cover-online-defamation-cross-border",
-    "question": "Why does EU law not cover online defamation cross-border?",
-    "answer": "The Rome II Regulation explicitly excludes “non-contractual obligations arising out of violations of privacy and rights relating to personality, including defamation” (Article 1(2)(g)). This was a political compromise: media groups and publishers warned that a single uniform rule could force European journalists to comply with multiple libel laws, while some governments (notably Germany and the UK) wanted to keep their own strong protections. As a result, national conflict-of-law rules still apply to online defamation – and the victim can often pick the most favourable forum.",
+    "id": "why-can-you-still-sue-british-tabloids-for-libel-under-english-law-over-articles",
+    "question": "Why can you still sue British tabloids for libel under English law over articles read across Europe?",
+    "answer": "Because defamation was deliberately left out of the EU's choice-of-law rules. The Parliament and Council could not agree on how to balance press freedom against privacy protection, so each Member State applies its own national conflict rules to libel and privacy claims. That allowed \"libel tourism\" to flourish in London until the UK's own 2013 reform, and the gap has fed into the EU's more recent debate over strategic lawsuits against journalists (SLAPPs).",
     "slug": "regulation-ec-no-8642007-on-the-law-applicable-to-non-contra",
     "title": "Regulation (EC) No 864/2007 on the law applicable to non-contractual obligations (Rome II)",
     "directive": "864/2007/EC",
     "category": "Justice & Civil Law",
-    "year": 2007
+    "year": 2009
   },
   {
-    "id": "does-rome-ii-apply-in-all-eu-countries",
-    "question": "Does Rome II apply in all EU countries?",
-    "answer": "No – Denmark does not participate (it negotiated an opt-out), and the United Kingdom left the EU in 2020, so it no longer applies. Ireland chose to opt in. For the remaining 26 member states, Rome II is binding and directly applicable. Courts in those countries must apply the Regulation even if the dispute involves a party from a non-participating country.",
+    "id": "can-companies-pick-which-country-s-tort-law-applies-to-their-disputes-in-advance",
+    "question": "Can companies pick which country's tort law applies to their disputes in advance?",
+    "answer": "Yes, in most commercial settings. Businesses dealing with each other can agree before or after a dispute arises which national law will govern non-contractual claims between them — a useful tool for supply contracts where claims may sound in both contract and tort. The freedom does not extend to disputes over competition law or intellectual property, and weaker parties such as consumers cannot be bound by pre-dispute choice-of-law agreements.",
     "slug": "regulation-ec-no-8642007-on-the-law-applicable-to-non-contra",
     "title": "Regulation (EC) No 864/2007 on the law applicable to non-contractual obligations (Rome II)",
     "directive": "864/2007/EC",
     "category": "Justice & Civil Law",
-    "year": 2007
+    "year": 2009
   },
   {
-    "id": "can-parties-choose-a-different-law-after-the-damage-occurs",
-    "question": "Can parties choose a different law after the damage occurs?",
-    "answer": "Yes – Article 14 allows the parties to agree, after the event giving rise to the damage occurred, to submit the dispute to a law of their choice. This is intended to facilitate settlements and avoids the risk that a stronger party imposes an unfavourable law on a weaker party before any dispute arises. The choice cannot prejudice the rights of third parties (such as insurers or co-tortfeasors).",
+    "id": "does-this-apply-if-the-law-chosen-is-from-outside-the-eu",
+    "question": "Does this apply if the law chosen is from outside the EU?",
+    "answer": "Yes. The regulation is \"universal\" — when its rules point to the law of, say, Switzerland, Brazil or the United States, the EU court must apply that foreign law to the merits. Courts can refuse only on narrow grounds, mainly public-policy exceptions or where a Member State's overriding mandatory rules demand otherwise.",
     "slug": "regulation-ec-no-8642007-on-the-law-applicable-to-non-contra",
     "title": "Regulation (EC) No 864/2007 on the law applicable to non-contractual obligations (Rome II)",
     "directive": "864/2007/EC",
     "category": "Justice & Civil Law",
-    "year": 2007
+    "year": 2009
   },
   {
     "id": "which-country-s-social-security-system-applies-when-i-work-in-another-eu-country",
@@ -11842,7 +12042,7 @@
   {
     "id": "does-this-regulation-apply-to-criminal-cases",
     "question": "Does this regulation apply to criminal cases?",
-    "answer": "No. Regulation 2020/1784 applies only to civil and commercial matters. Criminal cases are covered by separate EU instruments and conventions on mutual legal assistance. The regulation explicitly excludes criminal proceedings, customs matters, and tax cases.",
+    "answer": "No. Regulation 2020/1784 applies only to civil and commercial matters — contracts, debt recovery, family law, and similar disputes between private parties. Criminal cases are governed by separate EU instruments on mutual legal assistance, including the 2000 MLA Convention and its 2001 Protocol. The regulation explicitly excludes criminal proceedings, customs matters, and tax cases, which remain subject to different legal frameworks and bilateral treaties.",
     "slug": "regulation-eu-20201784-on-the-service-of-judicial-and-extraj",
     "title": "Regulation (EU) 2020/1784 on the Service of Judicial and Extrajudicial Documents in Civil or Commercial Matters",
     "directive": "2020/1784/EU",
@@ -14082,7 +14282,7 @@
   {
     "id": "why-do-asylum-seekers-have-to-give-their-fingerprints-to-a-shared-eu-database",
     "question": "Why do asylum seekers have to give their fingerprints to a shared EU database?",
-    "answer": "Because the Dublin Regulation requires determining which Member State is responsible for an application, and authorities cannot trace previous claims without a shared verification system. Eurodac is the technical enforcer of Dublin.",
+    "answer": "Because the Dublin Regulation requires determining which Member State is responsible for an asylum application, and authorities cannot trace previous claims across borders without a shared verification system. Without Eurodac, an applicant rejected in Germany could re-apply in France or Sweden with no record of the prior refusal. Eurodac is the technical enforcer of Dublin: fingerprint matching is what turns the burden-sharing rules into an operational reality.",
     "slug": "regulation-eu-no-6032013-on-the-establishment-of-eurodac-for",
     "title": "Regulation (EU) No 603/2013 on the Establishment of Eurodac (Eurodac Regulation)",
     "directive": "603/2013/EU",
@@ -14102,7 +14302,7 @@
   {
     "id": "why-doesn-t-the-eu-fingerprint-database-for-asylum-seekers-prevent-people-from-m",
     "question": "Why doesn't the EU fingerprint database for asylum seekers prevent people from moving between countries after applying?",
-    "answer": "Because fingerprint enrollment at borders is inconsistent — the Commission found in 2017 that only 60% of irregular arrivals were fingerprinted, rendering the database only partially useful. Without universal enrollment, Eurodac cannot identify all secondary movers.",
+    "answer": "Because fingerprint enrollment at borders is inconsistent — the Commission found in 2017 that only 60% of irregular arrivals were fingerprinted, rendering the database only partially useful. Without universal enrollment, Eurodac cannot identify all secondary movers. The gap is largely a capacity and political problem: overwhelmed border agencies in frontline states like Greece and Italy often prioritised processing over biometric registration, and enforcement of the enrollment obligation remained weak.",
     "slug": "regulation-eu-no-6032013-on-the-establishment-of-eurodac-for",
     "title": "Regulation (EU) No 603/2013 on the Establishment of Eurodac (Eurodac Regulation)",
     "directive": "603/2013/EU",
@@ -14160,41 +14360,41 @@
     "year": 2013
   },
   {
-    "id": "why-did-the-uk-choose-not-to-take-part-in-the-eu-s-common-rules-on-cross-border-",
-    "question": "Why did the UK choose not to take part in the EU's common rules on cross-border inheritance?",
-    "answer": "The UK opted out because its trust and estate planning industry, worth an estimated £1.5 billion annually according to a 2011 House of Lords report, feared that the habitual residence rule would cause wealthy individuals to be subject to continental forced-heirship rules, reducing demand for UK-based trust services. The UK government also objected to the regulation's treatment of trusts — the original proposal did not recognise them, and while the final text included a \"compromise\" allowing trusts to exist as \"fiduciary relationships,\" the UK Law Society deemed it insufficient.",
+    "id": "if-i-retire-to-spain-or-portugal-which-country-s-inheritance-law-applies-when-i-",
+    "question": "If I retire to Spain or Portugal, which country's inheritance law applies when I die?",
+    "answer": "By default, the law of your last habitual residence — so Spanish or Portuguese law would govern your entire estate, including property back home. But you can override this by stating in your will that you choose the law of a country of your nationality. For Britons, Germans, Dutch or Scandinavians on the Mediterranean, a one-line choice-of-law clause can be the difference between freely disposing of your estate and being bound by continental forced-heirship rules that reserve fixed shares for children.",
     "slug": "regulation-eu-no-6502012-on-jurisdiction-applicable-law-reco",
-    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession",
+    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession",
     "directive": "650/2012/EU",
     "category": "Justice & Civil Law",
     "year": 2012
   },
   {
-    "id": "why-did-it-take-14-years-for-eu-countries-to-agree-on-a-single-set-of-rules-for-",
-    "question": "Why did it take 14 years for EU countries to agree on a single set of rules for inheriting property across borders?",
-    "answer": "The 14-year gap was due to three factors: the requirement for unanimity in private international law before the Lisbon Treaty (2009); deep disagreement over the connecting factor (habitual residence vs. nationality); and opposition from the UK, which blocked progress until its opt-out was formalised. The Lisbon Treaty’s introduction of qualified majority voting for judicial cooperation in civil matters (Article 81 TFEU) removed the unanimity requirement, enabling the final push.",
+    "id": "can-i-disinherit-my-children-if-i-live-in-a-country-with-forced-heirship",
+    "question": "Can I disinherit my children if I live in a country with forced heirship?",
+    "answer": "If you are a national of a country that allows free testamentary disposition (such as the UK or Ireland) and you choose its law in your will, yes — even if you live in France, Spain or Germany. The Court of Justice has rejected attempts to use \"public policy\" to override such choices simply because forced heirship is a long-standing tradition in the forum state. The choice must be express and made in a valid will.",
     "slug": "regulation-eu-no-6502012-on-jurisdiction-applicable-law-reco",
-    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession",
+    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession",
     "directive": "650/2012/EU",
     "category": "Justice & Civil Law",
     "year": 2012
   },
   {
-    "id": "why-does-an-eu-wide-inheritance-certificate-exist-if-each-country-s-own-inherita",
-    "question": "Why does an EU-wide inheritance certificate exist if each country's own inheritance documents are still accepted?",
-    "answer": "The ECS was created to solve a practical problem: national certificates were often not recognised across borders, forcing heirs to obtain multiple certificates from different countries. The ECS provides a single, standardised, multilingual document that is automatically recognised in all participating Member States, reducing time and cost. It is optional because some legal systems (e.g., France) already had robust national systems; the Commission deliberately avoided making it mandatory to allow a gradual transition.",
+    "id": "what-is-a-european-certificate-of-succession-and-why-does-it-matter",
+    "question": "What is a European Certificate of Succession and why does it matter?",
+    "answer": "It is a single document, issued by a notary or court in one EU country, that proves who the heirs are and what they are entitled to. Banks, land registries and authorities across participating member states must accept it without further formalities — no apostille, no parallel local probate. Before 2015, sorting out a holiday home in France for German heirs could require months of duplicated procedures; the certificate replaces that with one piece of paper.",
     "slug": "regulation-eu-no-6502012-on-jurisdiction-applicable-law-reco",
-    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession",
+    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession",
     "directive": "650/2012/EU",
     "category": "Justice & Civil Law",
     "year": 2012
   },
   {
-    "id": "why-don-t-eu-inheritance-rules-cover-every-kind-of-asset-someone-might-own",
-    "question": "Why don't EU inheritance rules cover every kind of asset someone might own?",
-    "answer": "The regulation explicitly excludes \"rights in property\" created by operation of law (e.g., certain matrimonial property regimes), as well as gifts and lifetime trusts. This was a political compromise: France pushed for exclusion of marital property regimes (covered later by Regulation 2016/1103), while the UK insisted on excluding trusts. The result is that assets held in trusts, or subject to pre-existing marital property agreements, fall outside the regulation’s scope, sometimes requiring separate legal proceedings.",
+    "id": "why-don-t-the-rules-apply-in-ireland",
+    "question": "Why don't the rules apply in Ireland?",
+    "answer": "Ireland (along with the UK before Brexit) used its Title V opt-out and chose not to participate, partly because of unease about the *habitual residence* default catching Irish citizens living abroad in forced-heirship regimes, and partly because the regulation does not recognise trusts — a central tool of common-law estate planning. Denmark is excluded by its general opt-out from EU civil-justice cooperation.",
     "slug": "regulation-eu-no-6502012-on-jurisdiction-applicable-law-reco",
-    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession",
+    "title": "Regulation (EU) No 650/2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession",
     "directive": "650/2012/EU",
     "category": "Justice & Civil Law",
     "year": 2012
@@ -15098,36 +15298,6 @@
     "directive": "2012/18/EU",
     "category": "Health & Safety",
     "year": 2012
-  },
-  {
-    "id": "why-did-the-eu-decide-to-specifically-limit-how-much-companies-can-pay-their-top",
-    "question": "Why did the EU decide to specifically limit how much companies can pay their top executives?",
-    "answer": "The 2014 Volkswagen pension scandal exposed a structural gap: existing EU company law did not require shareholder approval for pay policies. The Commission’s 2015 impact assessment cited a 2013 study by the European Trade Union Institute showing that the CEO-to-worker pay ratio in the EU reached 30:1 in 2012, up from 15:1 in 2000. Without binding shareholder votes, boards could award bonuses even when profits fell — as VW did in 2014.",
-    "slug": "shareholder-rights-directive-ii-2017828eu",
-    "title": "Shareholder Rights Directive II (2017/828/EU)",
-    "directive": "2017/828/EU",
-    "category": "Financial",
-    "year": 2017
-  },
-  {
-    "id": "why-did-the-eu-s-new-rules-on-executive-pay-also-apply-to-pension-funds-and-insu",
-    "question": "Why did the EU's new rules on executive pay also apply to pension funds and insurance companies?",
-    "answer": "The 2011 “shareholder spring” protests in the UK revealed that institutional investors like pension funds and asset managers often voted in favour of management proposals without scrutiny. The Commission’s 2016 analysis showed that BlackRock, Vanguard, and State Street collectively held 25% of voting rights in Stoxx Europe 600 companies but voted with management 98% of the time. The directive forces them to publish an engagement policy and disclose how they voted.",
-    "slug": "shareholder-rights-directive-ii-2017828eu",
-    "title": "Shareholder Rights Directive II (2017/828/EU)",
-    "directive": "2017/828/EU",
-    "category": "Financial",
-    "year": 2017
-  },
-  {
-    "id": "why-did-it-take-five-years-for-the-eu-s-rules-on-executive-pay-to-actually-take-",
-    "question": "Why did it take five years for the EU's rules on executive pay to actually take full effect?",
-    "answer": "The 2019 transposition deadline was extended because member states such as Germany and Austria argued that their two-tier board systems (supervisory and management boards) needed legal adjustments to implement binding say-on-pay. The 2020-2021 COVID-19 pandemic also slowed legislative processes. The Commission’s 2023 report found that 14 of 28 member states missed the deadline by at least one year.",
-    "slug": "shareholder-rights-directive-ii-2017828eu",
-    "title": "Shareholder Rights Directive II (2017/828/EU)",
-    "directive": "2017/828/EU",
-    "category": "Financial",
-    "year": 2017
   },
   {
     "id": "why-did-europe-s-plan-to-unify-its-air-traffic-control-system-fail-to-deliver-on",
