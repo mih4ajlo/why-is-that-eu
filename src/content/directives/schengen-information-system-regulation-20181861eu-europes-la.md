@@ -8,6 +8,9 @@ summary: "This regulation overhauls the Schengen Information System (SIS), the E
 status: "in-force"
 related: ["2018/1860/EU", "2018/1862/EU", "2016/679/EU", "2019/818/EU", "2019/817/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

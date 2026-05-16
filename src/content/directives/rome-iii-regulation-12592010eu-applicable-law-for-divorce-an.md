@@ -8,6 +8,9 @@ summary: "The Rome III Regulation establishes a common set of rules for determin
 status: "in-force"
 related: ["2201/2003/EC (Brussels II bis) on jurisdiction and recognition of judgments in matrimonial matters", "2016/1103/EU on matrimonial property regimes"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

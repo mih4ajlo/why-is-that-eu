@@ -8,6 +8,9 @@ summary: "The EU directive that prohibits discrimination against fixed-term work
 status: "in-force"
 related: ["97/81/EC", "2008/104/EC", "2010/18/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

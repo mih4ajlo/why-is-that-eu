@@ -8,6 +8,9 @@ summary: "Establishes minimum rights for passengers on sea and inland waterway v
 status: "in-force"
 related: ["261/2004/EC", "1107/2006/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

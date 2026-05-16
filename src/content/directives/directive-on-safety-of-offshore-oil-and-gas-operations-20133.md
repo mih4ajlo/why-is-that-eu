@@ -8,6 +8,9 @@ summary: "The Offshore Safety Directive sets EU-wide binding rules for preventin
 status: "in-force"
 related: ["2004/35/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

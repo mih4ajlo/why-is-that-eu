@@ -8,6 +8,9 @@ summary: "EU directive establishing a 'right to repair' framework that obliges m
 status: "in-force"
 related: []
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

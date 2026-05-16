@@ -8,6 +8,9 @@ summary: "A uniform EU procedure that allows creditors to obtain an enforceable 
 status: "in-force"
 related: ["861/2007/EC", "1215/2012/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

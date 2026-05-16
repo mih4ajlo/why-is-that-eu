@@ -8,6 +8,9 @@ summary: "The Insurance Distribution Directive (IDD) replaced the Insurance Medi
 status: "in-force"
 related: ["2002/92/EC", "2014/65/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

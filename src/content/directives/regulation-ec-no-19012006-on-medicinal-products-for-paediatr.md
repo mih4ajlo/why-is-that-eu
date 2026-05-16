@@ -8,6 +8,9 @@ summary: "The Paediatric Regulation requires pharmaceutical companies to develop
 status: "in-force"
 related: ["2001/83/EC", "2005/28/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

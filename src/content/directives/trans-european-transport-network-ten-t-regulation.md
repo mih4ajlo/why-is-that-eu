@@ -8,6 +8,9 @@ summary: "The TEN-T Regulation establishes a unified, multimodal transport netwo
 status: "in-force"
 related: ["2021/1187/EU", "2021/1153/EU (CEF Regulation)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

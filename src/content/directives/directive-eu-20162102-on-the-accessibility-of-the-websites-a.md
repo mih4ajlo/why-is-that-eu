@@ -8,6 +8,9 @@ summary: "The Web Accessibility Directive requires EU public sector websites and
 status: "in-force"
 related: ["2019/882/EU", "2010/13/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

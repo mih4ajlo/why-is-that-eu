@@ -8,6 +8,9 @@ summary: "The revision of the Combined Transport Directive aims to make multimod
 status: "proposed"
 related: ["2022/2380/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

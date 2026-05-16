@@ -8,6 +8,9 @@ summary: "The AIFMD review tightens liquidity management rules for alternative i
 status: "in-force"
 related: ["2011/61/EU", "2021/2260/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

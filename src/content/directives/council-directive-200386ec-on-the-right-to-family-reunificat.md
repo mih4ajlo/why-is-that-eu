@@ -8,6 +8,9 @@ summary: "The Family Reunification Directive establishes a common EU framework f
 status: "in-force"
 related: ["2003/109/EC", "2011/98/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

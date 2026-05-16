@@ -8,6 +8,9 @@ summary: "The directive replaced the 1990 GMO release rules, introducing a case-
 status: "in-force"
 related: ["1829/2003/EC", "1830/2003/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

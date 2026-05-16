@@ -8,6 +8,9 @@ summary: "The UCPD bans misleading and aggressive marketing across the EU, creat
 status: "in-force"
 related: ["2006/2004/EC", "2011/83/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

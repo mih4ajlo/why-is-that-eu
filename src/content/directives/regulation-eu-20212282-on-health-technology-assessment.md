@@ -8,6 +8,9 @@ summary: "The Health Technology Assessment Regulation (HTAR) harmonises national
 status: "in-force"
 related: ["2001/83/EC", "726/2004/EC", "2017/745/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

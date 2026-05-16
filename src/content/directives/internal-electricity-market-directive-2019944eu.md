@@ -8,6 +8,9 @@ summary: "The directive reforms EU electricity markets to give households the ri
 status: "in-force"
 related: [2009/72/EC, 2019/943/EU, 2018/2001/EU]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

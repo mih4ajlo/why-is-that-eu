@@ -8,6 +8,9 @@ summary: "The EU Work-Life Balance Directive establishes minimum standards for p
 status: "in-force"
 related: ["2006/54/EC", "2010/18/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

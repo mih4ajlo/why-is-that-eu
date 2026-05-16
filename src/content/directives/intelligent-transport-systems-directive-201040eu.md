@@ -8,6 +8,9 @@ summary: "The ITS Directive established a legal framework for deploying interope
 status: "in-force"
 related: ["2015/962/EU", "2017/1926/EU", "2022/612/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

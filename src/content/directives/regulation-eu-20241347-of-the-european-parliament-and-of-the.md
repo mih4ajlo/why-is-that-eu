@@ -8,6 +8,9 @@ summary: "This regulation establishes uniform criteria for granting refugee or s
 status: "in-force"
 related: ["2011/95/EU", "2024/1348/EU", "2024/1349/EU", "2024/1350/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

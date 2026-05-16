@@ -8,6 +8,9 @@ summary: "The EU's foundational health and safety at work directive, establishin
 status: "in-force"
 related: ["89/654/EEC", "91/383/EEC", "92/57/EEC", "93/104/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

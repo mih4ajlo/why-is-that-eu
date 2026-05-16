@@ -8,6 +8,9 @@ summary: "This regulation establishes the EU system for Protected Designations o
 status: "in-force"
 related: ["Regulation (EU) 2024/1143", "Regulation (EC) No 510/2006", "Regulation (EU) 1308/2013"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

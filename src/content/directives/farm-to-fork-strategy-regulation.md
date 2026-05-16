@@ -8,6 +8,9 @@ summary: "A comprehensive EU strategy to reshape food systems for sustainability
 status: "in-force"
 related: ["2019/2021 of the European Parliament and of the Council on the European Green Deal", "2021/2117 on the common agricultural policy (CAP Strategic Plans Regulation)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

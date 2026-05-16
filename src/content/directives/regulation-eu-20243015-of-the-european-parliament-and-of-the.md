@@ -8,6 +8,9 @@ summary: "The Forced Labour Regulation prohibits placing and making available on
 status: "in-force"
 related: ["2022/2465/EU", "2024/1760/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

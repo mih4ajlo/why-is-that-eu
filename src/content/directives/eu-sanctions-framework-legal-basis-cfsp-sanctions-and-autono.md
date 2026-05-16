@@ -8,6 +8,9 @@ summary: "The EU sanctions framework, rooted in the Common Foreign and Security 
 status: "in-force"
 related: ["2017/821/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

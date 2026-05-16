@@ -8,6 +8,9 @@ summary: "Euro 7 sets stricter emission limits for cars, vans, buses, and trucks
 status: "in-force"
 related: ["2018/858/EU", "2023/1542/EU", "2035/zero-emission-vehicles"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

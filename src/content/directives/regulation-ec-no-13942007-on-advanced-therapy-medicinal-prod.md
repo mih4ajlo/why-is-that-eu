@@ -8,6 +8,9 @@ summary: "Establishes a centralised EU marketing authorisation procedure for gen
 status: "in-force"
 related: ["2001/83/EC", "726/2004/EC", "EC/141/2000"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

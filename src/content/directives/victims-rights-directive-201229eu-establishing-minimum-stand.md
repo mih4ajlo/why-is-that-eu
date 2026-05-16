@@ -8,6 +8,9 @@ summary: "The Victims' Rights Directive sets binding EU-wide minimum standards f
 status: "in-force"
 related: ["2004/80/EC", "2011/99/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

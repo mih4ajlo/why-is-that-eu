@@ -8,6 +8,9 @@ summary: "A landmark EU directive that tightened rules on the manufacture, prese
 status: "in-force"
 related: ["2003/33/EC", "2001/37/EC", "2012/9/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

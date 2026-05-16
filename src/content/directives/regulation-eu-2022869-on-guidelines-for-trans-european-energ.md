@@ -1,87 +1,73 @@
 ---
-title: "Regulation (EU) 2022/869 on guidelines for trans-European energy infrastructure"
+title: "Regulation (EU) 2022/869 on Guidelines for Trans-European Energy Infrastructure (TEN-E)"
 directive: "2022/869/EU"
 category: "Energy"
 year: 2022
-tags: [energy-infrastructure, cross-border-projects, energy-union, renewable-energy, pci-list, climate-neutrality]
-summary: "The TEN-E Regulation revamps rules for selecting and funding cross-border energy projects, dropping natural gas and oil from eligibility while prioritising hydrogen, offshore wind, and smart grids to align with the EU's 2050 climate neutrality goal."
+tags: [energy-infrastructure, decarbonisation, gas-phaseout, hydrogen, cross-border-projects, electricity-grids]
+summary: "The revised TEN-E Regulation overhauls how the EU identifies, plans and fast-tracks cross-border energy infrastructure, ending eligibility for oil and gas projects and redirecting Projects of Common Interest funding to electricity grids, offshore wind, hydrogen, smart networks and CO₂ transport."
 status: "in-force"
-related: [347/2013/EU, 2018/1999/EU]
-llm: "deepseek-chat"
+related: ["2013/347/EU", "2021/1119/EU", "2018/1999/EU"]
+llm: "claude-opus-4-7"
 ---
 
 ## What is it?
 
-The TEN-E Regulation (2022/869/EU) sets out the EU's framework for identifying and funding Projects of Common Interest (PCIs) — cross-border energy infrastructure deemed critical for completing the internal energy market and achieving climate goals. PCIs benefit from streamlined permitting, single national regulatory contact points, cost-sharing mechanisms, and eligibility for €5.8 billion in Connecting Europe Facility (CEF) funding for the 2021-2027 period.
+TEN-E is the EU's rulebook for deciding which cross-border energy projects qualify for accelerated permitting, regulatory cooperation across borders, and access to grants under the Connecting Europe Facility. Every two years the Commission publishes a list of "Projects of Common Interest" (PCIs) — and, since 2022, "Projects of Mutual Interest" (PMIs) with third countries — that benefit from binding three-and-a-half-year permitting deadlines, a single competent national authority, and priority status under environmental law.
 
-The regulation defines priority corridors and thematic areas: offshore wind grids in each sea basin, hydrogen networks and electrolysers, smart electricity grids, and cross-border carbon dioxide transport and storage infrastructure. Projects must be included on a Union-wide list adopted by the Commission every two years, after a transparent selection process involving regional groups of Member States, the European Network of Transmission System Operators (ENTSOs), and the Agency for the Cooperation of Energy Regulators (ACER).
+Regulation 2022/869 replaces the 2013 TEN-E Regulation (347/2013). The headline change: natural gas and oil infrastructure are no longer eligible categories. Instead, the regulation creates new priority corridors and thematic areas for offshore renewable grids, hydrogen networks and electrolysers, smart electricity and gas grids, and cross-border CO₂ transport. Hydrogen-ready repurposing of existing gas pipelines remains eligible, and a narrow, time-limited derogation allows certain projects in Cyprus and Malta — the EU's only member states not yet connected to the trans-European gas network — to keep PCI status temporarily.
 
-The key break from the previous 2013 regulation is the exclusion of natural gas and oil infrastructure from PCI eligibility. Existing gas projects already on the 5th PCI list could continue development, but no new gas or oil projects could apply. The regulation also introduces stronger sustainability criteria — projects must demonstrate "significant" contributions to climate neutrality — and provisions for public participation and environmental assessment.
+The regulation also tightens governance: project promoters must demonstrate consistency with the EU's 2030 and 2050 climate targets, and all PCIs must pass a sustainability assessment based on greenhouse-gas footprint over their lifetime.
 
 ## Why was it introduced?
 
-The immediate trigger was the European Green Deal, announced by Commission President Ursula von der Leyen in December 2019. The 2013 TEN-E Regulation (347/2013/EU) had been designed in a different era — after the 2009 gas supply crisis between Russia and Ukraine, when EU energy policy prioritised diversifying away from Russian gas via pipelines like Nord Stream and Southern Gas Corridor. By 2019, the political calculus had flipped: the European Council had just adopted a 2050 climate neutrality target in December 2019, and the Commission's February 2020 Impact Assessment (SWD(2020) 346) explicitly stated that the existing regulation "does not provide sufficient incentives to decarbonise the energy system."
+By the time the Commission tabled its TEN-E revision in December 2020, the 2013 regulation looked spectacularly out of step with the European Green Deal. Of the roughly 200 projects on the fifth PCI list, dozens were gas pipelines and LNG terminals — eligible for EU grants under a regulation drafted when "security of supply" still meant building more import capacity from Russia and the Caspian. The Court of Auditors, in a 2022 special report on the PCI process, criticised the framework for picking too many projects of dubious necessity and for lagging behind decarbonisation goals. The European Court of Auditors had earlier flagged that fossil-gas PCIs absorbed a substantial share of CEF energy grants in 2014–2020 while many never reached final investment decision.
 
-The structural tension was clear: under the old rules, gas pipelines received privileged access to fast-track permitting and EU funding, even as the EU committed to slashing fossil fuel use. The Commission found that between 2014 and 2019, 30 gas PCIs had been approved, locking in long-term methane infrastructure the EU would later need to strand. Environmental NGOs, led by Transport & Environment and ClientEarth, had campaigned aggressively since 2018, publishing reports showing that over 80% of gas PCIs under construction would be incompatible with a 1.5°C pathway.
+The political opening came from three directions at once. First, the European Climate Law (Regulation 2021/1119) made the 2050 net-zero target legally binding in June 2021, making it untenable to continue subsidising new fossil infrastructure with EU money. Second, Frans Timmermans, the Commission Executive Vice-President for the Green Deal, and Energy Commissioner Kadri Simson pushed a "do no significant harm" logic across all Green Deal files; gas exclusion in TEN-E was the natural counterpart to the taxonomy debate. Third, NGO campaigning — including a long-running Friends of the Earth Europe and CAN Europe push to "kill the PCI list" — and reporting on stranded-asset risk had eroded the political cover that gas TSOs (via ENTSOG) and operators such as Snam, Gas Connect Austria, and DESFA had relied on to keep projects on the list.
 
-The coalition that got the reform passed was built on the Green Deal's momentum and parliamentary balance. The Commission's February 2020 proposal was shepherded by Energy Commissioner Kadri Simson (Estonia). In the European Parliament, the lead rapporteur was Zdzisław Krasnodębski (ECR, Poland), a climate-sceptic, but the negotiations were dominated by the centre-right EPP, Socialists & Democrats, Renew Europe, and the Greens/EFA — all of whom backed gas exclusion. The final Parliament vote in April 2021 was 461 in favour, 157 against, and 32 abstentions. Opposition came overwhelmingly from MEPs in Poland, Hungary, and Czechia — countries heavily reliant on Russian gas and fearing stranded assets.
+The Russian invasion of Ukraine in February 2022 hit during the final trilogue phase. Negotiators had already agreed in December 2021 to exclude oil and natural gas; the war did not reopen that decision but sharpened the debate over hydrogen and over the Cyprus/Malta carve-out. Some member states, led by Italy and Greece, argued for re-admitting gas in light of REPowerEU and the scramble to replace Russian pipeline supply; the Commission held the line, arguing — correctly, as it turned out — that any new gas infrastructure built now would be locked in for decades and that the short-term answer was LNG terminals funded outside TEN-E, demand reduction, and faster renewables build-out. The Council and Parliament adopted the regulation in May 2022 with broad majorities; the Greens, S&D and Renew formed the core coalition in Parliament, with EPP support secured in exchange for the hydrogen-readiness flexibility and the limited derogations.
 
-Gas industry lobbying was intense. Eurogas, the main association, argued in position papers that hydrogen would initially need natural gas blending and that "excluding gas infrastructure could delay the hydrogen transition." The International Association of Oil & Gas Producers (IOGP) warned of "significant adverse impacts on energy security" for countries like Bulgaria and Romania. Poland's state-controlled PGNiG and Hungary's MOL directly lobbied national governments to block the reform in Council. They nearly succeeded: in June 2020, a majority of Member States had not yet committed, and a blocking minority of 10 countries formed, led by Poland, Hungary, Czechia, and Slovakia.
-
-What broke the deadlock was the May 2021 ruling by the Hague District Court in the *Milieudefensie et al. v. Royal Dutch Shell* case, which ordered Shell to cut its CO₂ emissions by 45% by 2030. Though legally specific to Shell, the ruling sent shockwaves through gas industry boardrooms and EU capitals. Within weeks, Germany (which had previously been ambivalent about hydrogen-only projects) and the Netherlands (the case's home) shifted to support total gas exclusion. At the June 2021 Energy Council, the 27 Member States adopted their position by qualified majority — only Poland, Hungary, and Czechia voted against.
-
-The timing also mattered geopolitically. Russia's February 2022 full-scale invasion of Ukraine came while the regulation was in final negotiations between Parliament and Council. The invasion ended any remaining gas arguments — the trilogue in April 2022 saw previously resistant countries like Germany push for even faster implementation of offshore wind provisions. The regulation was formally adopted in May 2022 and entered into force in June 2022.
+The structural tension the regulation resolved was a familiar one in EU energy policy: a 2013 instrument designed to integrate national grids and reduce dependence on a single supplier had, by 2020, become a vehicle for entrenching that very dependence. The 2022 revision realigned the planning framework with the political objective the EU had adopted in the meantime — climate neutrality by 2050 — and, after February 2022, with the parallel objective of ending Russian fossil imports.
 
 ## Timeline
 
-- **2008** — European Council calls for a "European Energy Security and Infrastructure Instrument" after the January 2009 Russia-Ukraine gas crisis.
-- **2013** — Regulation 347/2013/EU adopted, creating the PCI system with gas pipeline eligibility.
-- **2014** — First PCI list approved; 107 projects, including 30 gas and 6 oil.
-- **December 2019** — European Green Deal announced; von der Leyen commits to "zero tolerance for fossil fuel subsidies."
-- **February 2020** — Commission publishes Impact Assessment SWD(2020) 346, recommending gas exclusion.
-- **December 2020** — 5th PCI list adopted (the last to include gas projects).
-- **April 2021** — European Parliament adopts its position (461-157) excluding gas.
-- **May 2021** — Hague District Court orders Shell emissions reduction — shifts corporate and government positions.
-- **June 2021** — Energy Council adopts Council position by QMV; Poland, Hungary, Czechia dissenting.
-- **February 2022** — Russia invades Ukraine; trilogue accelerates.
-- **April 2022** — Final trilogue agreement reached.
-- **May 2022** — Formal adoption by Council and Parliament.
-- **June 2022** — Entry into force.
-- **November 2023** — First PCI list under new regulation published (166 projects, all hydrogen, grid, offshore, CO₂).
+- **2013** — Regulation 347/2013 (the original TEN-E) enters into force, establishing the PCI mechanism with gas, oil, electricity and smart-grid categories.
+- **December 2019** — Commission President Ursula von der Leyen launches the European Green Deal; the Commission announces TEN-E will be revised.
+- **December 2020** — Commission tables the TEN-E recast proposal (COM/2020/824), excluding oil and natural gas infrastructure from future PCI eligibility.
+- **November 2021** — Fifth PCI list adopted under the old regulation — the last to include gas projects.
+- **December 2021** — Council and Parliament negotiators reach political agreement in trilogue.
+- **February 2022** — Russia invades Ukraine; pressure to reopen the gas exclusion is rebuffed.
+- **May 2022** — Regulation 2022/869 adopted; enters into force on 23 June 2022.
+- **November 2023** — First Union list of PCIs and PMIs under the new regulation adopted; no new fossil-gas projects included; the list features electricity, offshore, hydrogen, and CO₂ projects.
 
 ## Impact and consequences
 
-The direct effect was immediate: from June 2022, no new gas or oil project could apply for PCI status. 36 planned gas projects that had been in development under the old regime — including expansions of the Trans-Adriatic Pipeline (TAP) and the Greece-Bulgaria Interconnector (IGB) — could not apply. The Commission estimated in 2022 that this would prevent €12 billion in stranded assets by 2050.
+The most immediate effect was the disappearance of fossil-gas pipelines and LNG terminals from the PCI list. The Commission's first Union list under the new regulation, adopted in late 2023, contained no new oil or natural gas projects — a clean break from every previous list. Hydrogen infrastructure projects, virtually absent before, appeared in significant numbers, reflecting the lobbying success of the European Hydrogen Backbone initiative led by gas TSOs seeking to repurpose existing assets.
 
-For hydrogen, the regulation sparked a boom in project applications. By November 2023, the first PCI list under the new rules included 65 hydrogen-related projects, including 4 large electrolysers, 33 hydrogen pipelines, and 8 hydrogen storage sites. The European Hydrogen Backbone initiative — a consortium of 31 gas TSOs — cited the regulation as enabling their €80 billion pipeline vision.
+National permitting authorities have had to adapt to the binding timelines and the "one-stop-shop" requirement. Implementation has been uneven: Germany, the Netherlands and Denmark have moved quickly on offshore grid coordination, while permitting bottlenecks persist in southern member states. ACER, the EU energy regulator, was given a stronger role in scrutinising the ten-year network development plans produced by ENTSO-E and ENTSOG, partly to address Court of Auditors criticism that the plans were drafted by the same operators who stood to build the projects.
 
-National implementation has been uneven. As of 2024, 8 Member States — including Poland, Bulgaria, and Romania — had not fully transposed the regulation's public participation provisions into national law. The Commission opened infringement proceedings against Poland and Bulgaria in September 2023 for failing to set up the required single contact points.
-
-Offshore wind grid development accelerated. The regulation's specific corridor for North Sea offshore grids (NSOG) helped the 9-nation Ostend Declaration of April 2023, which committed to 120 GW of offshore wind by 2030. The European Network of Transmission System Operators for Electricity (ENTSO-E) estimated in its 2024 Ten-Year Network Development Plan (TYNDP) that the new rules would enable €45 billion in cross-border offshore grid investment by 2030.
-
-Critics note that the regulation's permitting streamlining has yet to deliver: the Commission's 2024 Progress Report on PCI implementation found that average permitting time for a hydrogen project remained 3.5 years, compared to the regulation's target of 2 years. ACER's 2024 monitoring report flagged that only 12 of the 166 first-list PCIs had completed preliminary design by December 2024.
+For gas TSOs, the regulation was a watershed: companies that had built their business cases around continuous expansion now had to pivot to hydrogen and repurposing or accept asset retirement. For the offshore wind sector, the new "offshore grid for renewables" priority corridor unlocked a planning framework for hybrid interconnectors — projects like the Bornholm Energy Island that combine wind generation with cross-border transmission.
 
 ## Key questions answered
 
-### Does EU law still fund new natural gas pipelines across borders?
+### Why did the EU stop funding new gas pipelines?
 
-No, not since June 2022. The TEN-E Regulation explicitly excludes natural gas and oil infrastructure from eligibility for Projects of Common Interest (PCIs), which means no new gas pipelines can get EU fast-track permitting or EU funding. Existing gas projects already on the PCI list before June 2022 could be completed, but no new ones can apply.
+Because the 2050 climate-neutrality target, written into binding law in 2021, made it incoherent to spend EU money on infrastructure that would either operate beyond 2050 in breach of climate goals or become stranded assets paid for by taxpayers and bill-payers. The Commission also concluded, supported by Court of Auditors findings, that many gas PCIs had never been needed and that Europe's gas import capacity was already sufficient — a judgement the 2022–2023 winter, weathered without Russian pipeline gas, broadly vindicated.
 
-### Which countries opposed stopping EU support for gas infrastructure?
+### Did the war in Ukraine change EU plans to phase out fossil-fuel infrastructure?
 
-Poland, Hungary, and Czechia voted against the gas exclusion in the Council, arguing they needed gas infrastructure as a transition fuel away from coal. They were joined by MEPs from Bulgaria, Romania, and Slovakia in the European Parliament. The gas industry, including Eurogas and the IOGP, lobbied heavily against the change, warning it would harm energy security.
+Not for TEN-E. The political deal to exclude gas was struck in December 2021, before the invasion, and survived the subsequent pressure to reopen it. The Commission's response to the energy crisis — REPowerEU — instead emphasised LNG (funded outside TEN-E), demand reduction, accelerated renewables, and hydrogen, all consistent with the revised regulation. A narrow exception kept some gas projects alive for Cyprus and Malta, the only EU member states not yet connected to the European gas grid.
 
-### What kind of energy projects can now get EU priority status?
+### How does the EU decide which energy projects get fast-tracked?
 
-Hydrogen pipelines, electrolysers, and storage; offshore wind grid connections in each EU sea basin; smart electricity grids that enable cross-border electricity flow; and carbon dioxide transport and storage networks. Each project must also pass a "sustainability test" showing it contributes significantly to the EU's 2050 climate neutrality goal.
+Every two years the Commission, working with regional groups of member states, transmission operators and regulators, selects projects from candidate lists submitted by promoters. To qualify, a project must be cross-border (or have significant cross-border impact), contribute to market integration and security of supply, and now also pass a sustainability test aligned with the 2030 and 2050 climate targets. Selected projects get binding permitting deadlines, a single national contact authority, and access to Connecting Europe Facility grants.
 
-### How much EU funding is available for cross-border energy projects?
+### What is a hydrogen backbone and why does it matter?
 
-Under the 2021-2027 budget, the Connecting Europe Facility for energy has €5.8 billion. Projects of Common Interest are the main beneficiaries. Individual grants vary, but hydrogen and offshore grid projects have received between €20 million and €800 million per project in the first two application rounds under the new regulation.
+The "European Hydrogen Backbone" is a plan, developed by Europe's gas pipeline operators, to repurpose roughly two-thirds of the existing gas grid to carry hydrogen by mid-century. The 2022 TEN-E makes hydrogen networks and electrolysers a priority category, so backbone projects can qualify for fast-track permitting and EU funding. Critics argue this risks locking in oversized hydrogen infrastructure for sectors that could electrify directly; supporters argue it preserves the value of existing assets and enables industrial decarbonisation in steel, chemicals, and heavy transport.
 
 ## Official sources
 
-- [Regulation (EU) 2022/869 - full text](https://eur-lex.europa.eu/eli/reg/2022/869)
-- [Commission guidance on PCI selection](https://energy.ec.europa.eu/topics/infrastructure/projects-common-interest_en)
-- [Connecting Europe Facility for energy](https://cinea.ec.europa.eu/programmes/connecting-europe-facility/cef-energy_en)
-- [ACER monitoring of PCIs](https://www.acer.europa.eu/electricity/infrastructure)
+- [Regulation (EU) 2022/869 — full text on EUR-Lex](https://eur-lex.europa.eu/eli/reg/2022/869/oj)
+- [European Commission — Trans-European Networks for Energy](https://energy.ec.europa.eu/topics/infrastructure/trans-european-networks-energy_en)
+- [European Court of Auditors — Special Report 09/2022 on climate spending and Special Report on cross-border energy infrastructure](https://www.eca.europa.eu/)
+- [First Union list of Projects of Common Interest and Projects of Mutual Interest (2023)](https://energy.ec.europa.eu/topics/infrastructure/projects-common-interest_en)

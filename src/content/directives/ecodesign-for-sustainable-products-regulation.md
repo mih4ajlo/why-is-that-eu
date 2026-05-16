@@ -8,6 +8,9 @@ summary: "The Ecodesign for Sustainable Products Regulation expands EU ecodesign
 status: "in-force"
 related: [2009/125/EC, 2020/1828/EU, 2022/2380/EU]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

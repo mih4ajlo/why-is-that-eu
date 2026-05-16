@@ -8,6 +8,9 @@ summary: "A directive that strengthened rules to prevent fraud and abuse in the 
 status: "in-force"
 related: ["96/71/EC", "2018/957/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Regulation (EC) 1/2005 sets uniform EU rules for the transport of live
 status: "in-force"
 related: ["2007/43/EC", "1099/2009/EC", "2016/429/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Established mandatory registration, governance rules, and transparency
 status: "in-force"
 related: ["513/2011/EU", "462/2013/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

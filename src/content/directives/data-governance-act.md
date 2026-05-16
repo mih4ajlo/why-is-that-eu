@@ -8,6 +8,9 @@ summary: "A regulation establishing a framework for trusted data sharing across 
 status: "in-force"
 related: ["2025/45/EU", "2016/679/EU", "2022/2557/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

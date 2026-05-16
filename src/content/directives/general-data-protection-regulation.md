@@ -8,6 +8,9 @@ summary: "The GDPR is a landmark EU regulation that overhauled data protection l
 status: "in-force"
 related: ["ePrivacy Directive 2002/58/EC", "Data Governance Act 2022/868/EU", "Data Act 2023/2854/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Harmonises EU safety standards for explosives used in construction, mi
 status: "in-force"
 related: ["2013/29/EU", "2008/43/EC", "2014/58/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The EU's revised Generalised Scheme of Preferences (GSP) strengthens t
 status: "in-force"
 related: ["2017/0235(COD)", "Regulation (EU) No 978/2012"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

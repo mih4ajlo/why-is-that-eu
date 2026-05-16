@@ -8,6 +8,9 @@ summary: "The EU's comprehensive plant health law, strengthened after the Xylell
 status: "in-force"
 related: []
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

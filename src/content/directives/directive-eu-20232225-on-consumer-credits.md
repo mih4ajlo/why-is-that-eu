@@ -8,6 +8,9 @@ summary: "An updated EU directive replacing the 2008 Consumer Credit Directive, 
 status: "in-force"
 related: ["2008/48/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

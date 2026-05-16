@@ -8,6 +8,9 @@ summary: "This directive updates four existing consumer protection directives to
 status: "in-force"
 related: ["2005/29/EC", "2011/83/EU", "93/13/EEC", "98/6/EC", "2019/770/EU", "2019/771/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

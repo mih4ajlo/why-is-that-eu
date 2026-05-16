@@ -8,6 +8,9 @@ summary: "A landmark EU law that established a comprehensive framework for prote
 status: "in-force"
 related: ["91/271/EEC", "98/83/EC", "2006/118/EC", "2008/105/EC", "2013/39/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

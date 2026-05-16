@@ -8,6 +8,9 @@ summary: "Harmonises criminal offences and sanctions for money laundering across
 status: "in-force"
 related: ["2015/849/EU", "2018/843/EU", "2024/1624/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

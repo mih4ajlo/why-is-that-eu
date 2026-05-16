@@ -9,6 +9,9 @@ status: "in-force"
 related: ["1896/2006/EC (European Enforcement Order)", "861/2007/EC (European Small Claims Procedure)", "1215/2012/EU (Brussels I Recast)"]
 
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

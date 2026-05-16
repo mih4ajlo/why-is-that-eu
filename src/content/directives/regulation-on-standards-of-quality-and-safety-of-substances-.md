@@ -8,6 +8,9 @@ summary: "A new EU regulation overhauling the rules for blood, tissues, cells, a
 status: "in-force"
 related: ["2002/98/EC", "2004/23/EC", "2006/17/EC", "2006/86/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

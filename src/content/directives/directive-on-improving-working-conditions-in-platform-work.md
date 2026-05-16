@@ -8,6 +8,9 @@ summary: "The Platform Work Directive creates a presumption of employment for pl
 status: "in-force"
 related: [2019/1152/EU, 2003/88/EC]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

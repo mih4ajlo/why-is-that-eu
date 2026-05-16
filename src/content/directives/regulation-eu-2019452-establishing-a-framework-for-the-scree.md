@@ -8,6 +8,9 @@ summary: "An EU regulation creating a cooperation mechanism for member states to
 status: "in-force"
 related: ["2022/2560/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

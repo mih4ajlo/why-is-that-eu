@@ -8,6 +8,9 @@ summary: "This directive extends the principle of equal treatment between men an
 status: "in-force"
 related: ["2006/54/EC", "2010/41/EU", "79/7/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

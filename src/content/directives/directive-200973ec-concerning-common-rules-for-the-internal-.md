@@ -8,6 +8,9 @@ summary: "The Gas Directive (2009/73/EC) required the ownership unbundling of ga
 status: "in-force"
 related: ["2009/72/EC", "714/2009/EC", "715/2009/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

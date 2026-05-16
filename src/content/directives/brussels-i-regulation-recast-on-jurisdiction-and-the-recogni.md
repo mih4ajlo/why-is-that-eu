@@ -8,6 +8,9 @@ summary: "The Brussels I Regulation (recast) governs which EU member state’s c
 status: "in-force"
 related: ["44/2001/EC", "2201/2003/EC", "593/2008/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

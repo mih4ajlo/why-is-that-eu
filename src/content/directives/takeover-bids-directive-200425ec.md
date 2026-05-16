@@ -8,6 +8,9 @@ summary: "The Takeover Bids Directive introduced a mandatory bid rule and common
 status: "in-force"
 related: ["2007/36/EC", "2017/828/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

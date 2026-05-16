@@ -8,6 +8,9 @@ summary: "Rome II establishes uniform rules for determining which national law a
 status: "in-force"
 related: [593/2008/EC, 1215/2012/EU, 2016/679/EU]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

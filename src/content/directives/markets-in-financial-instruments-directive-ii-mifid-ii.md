@@ -8,6 +8,9 @@ summary: "MiFID II overhauled EU securities markets by introducing mandatory tra
 status: "in-force"
 related: ["2014/65/EU", "600/2014/EU", "2004/39/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

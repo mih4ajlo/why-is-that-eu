@@ -8,6 +8,9 @@ summary: "Requires all EU member states to set up guarantee institutions that pa
 status: "in-force"
 related: ["2002/74/EC", "80/987/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

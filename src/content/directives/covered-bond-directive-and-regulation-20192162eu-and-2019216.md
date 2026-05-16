@@ -8,6 +8,9 @@ summary: "The Covered Bond Directive and Regulation harmonise EU rules for cover
 status: "in-force"
 related: [2013/36/EU, 575/2013/EU]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

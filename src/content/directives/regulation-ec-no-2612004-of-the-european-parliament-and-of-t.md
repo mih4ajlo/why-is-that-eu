@@ -8,6 +8,9 @@ summary: "Establishes a minimum standard of compensation and assistance for air 
 status: "in-force"
 related: ["2021/267/EC", "889/2002/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

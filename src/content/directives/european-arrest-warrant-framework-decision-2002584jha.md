@@ -8,6 +8,9 @@ summary: "The European Arrest Warrant (EAW) replaced lengthy extradition procedu
 status: "in-force"
 related: ["2008/909/JHA", "2008/947/JHA", "2009/829/JHA"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

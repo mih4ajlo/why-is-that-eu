@@ -8,6 +8,9 @@ summary: "This regulation establishes a European legal status for political part
 status: "in-force"
 related: ["2004/2003/EC", "2018/673/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

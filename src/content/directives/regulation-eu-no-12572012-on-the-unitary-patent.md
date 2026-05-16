@@ -8,6 +8,9 @@ summary: "Establishes a single, uniform patent right valid across 25 EU Member S
 status: "in-force"
 related: ["Regulation (EU) No 1260/2012", "Agreement on a Unified Patent Court"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

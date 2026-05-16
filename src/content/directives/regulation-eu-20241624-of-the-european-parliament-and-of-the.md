@@ -8,6 +8,9 @@ summary: "This single rulebook regulation harmonises anti-money laundering requi
 status: "in-force"
 related: ["2015/849/EU", "2018/843/EU", "2021/776/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

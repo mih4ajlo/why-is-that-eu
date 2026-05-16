@@ -8,6 +8,9 @@ summary: "Harmonises national deposit guarantee schemes across the EU, setting a
 status: "in-force"
 related: ["2009/14/EC", "2014/59/EU", "2014/49/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

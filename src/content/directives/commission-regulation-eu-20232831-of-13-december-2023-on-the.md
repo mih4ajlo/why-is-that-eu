@@ -8,6 +8,9 @@ summary: "The EU's de minimis regulation exempts small amounts of state aid from
 status: "in-force"
 related: ["1407/2013/EU", "651/2014/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

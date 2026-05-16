@@ -8,6 +8,9 @@ summary: "A Council recommendation aimed at ensuring every child at risk of pove
 status: "in-force"
 related: ["2019/1398/EU", "2022/112/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

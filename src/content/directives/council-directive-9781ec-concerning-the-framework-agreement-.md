@@ -8,6 +8,9 @@ summary: "Directive that implements a framework agreement between European socia
 status: "in-force"
 related: ["2008/104/EC", "2010/18/EU", "2019/1158/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

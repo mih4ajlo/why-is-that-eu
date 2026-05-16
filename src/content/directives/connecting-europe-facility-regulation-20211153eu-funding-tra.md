@@ -8,6 +8,9 @@ summary: "The Connecting Europe Facility (CEF) is the EU's main funding programm
 status: "in-force"
 related: ["1316/2013/EU", "1315/2013/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

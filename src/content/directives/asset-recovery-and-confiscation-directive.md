@@ -8,6 +8,9 @@ summary: "EU-wide rules to trace, freeze, manage and confiscate criminal assets,
 status: "in-force"
 related: ["2014/42/EU", "2018/1805/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

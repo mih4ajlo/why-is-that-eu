@@ -8,6 +8,9 @@ summary: "The Landfill Directive sets strict operational and environmental stand
 status: "in-force"
 related: ["2008/98/EC", "2018/850/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

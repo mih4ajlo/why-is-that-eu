@@ -8,6 +8,9 @@ summary: "A regulation that overhauls the Dublin system by introducing a mandato
 status: "in-force"
 related: ["2024/1349/EU", "2024/1348/EU", "2024/1350/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

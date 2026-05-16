@@ -8,6 +8,9 @@ summary: "The reformed CAP for 2023-2027 is the EU's flagship agricultural subsi
 status: "in-force"
 related: ["2024/3019/EU", "2018/848/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

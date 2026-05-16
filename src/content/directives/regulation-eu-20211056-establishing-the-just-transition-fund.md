@@ -8,6 +8,9 @@ summary: "The Just Transition Fund provides €17.5 billion to help EU regions d
 status: "in-force"
 related: ["2018/1999/EU", "2021/1119/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

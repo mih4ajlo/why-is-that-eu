@@ -8,6 +8,9 @@ summary: "REMIT prohibits insider trading and market manipulation in European wh
 status: "in-force"
 related: ["2009/72/EC", "2009/73/EC", "596/2014/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

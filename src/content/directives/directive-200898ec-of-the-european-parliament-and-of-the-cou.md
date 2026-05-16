@@ -8,6 +8,9 @@ summary: "The EU's cornerstone waste law that codified the waste hierarchy (prev
 status: "in-force"
 related: ["2018/851/EU", "94/62/EC", "1999/31/EC", "2002/96/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "A regulation harmonising rules on which national courts handle cross-b
 status: "in-force"
 related: ["2016/1103/EU", "2016/1104/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

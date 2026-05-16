@@ -8,6 +8,9 @@ summary: "The 2022 Roaming Regulation permanently enshrines the 'Roam Like at Ho
 status: "in-force"
 related: ["531/2012/EU", "2017/920/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

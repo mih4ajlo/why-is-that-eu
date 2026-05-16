@@ -8,6 +8,9 @@ summary: "EU-wide rules protecting whistleblowers who report breaches of EU law,
 status: "in-force"
 related: ["2024/1226/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

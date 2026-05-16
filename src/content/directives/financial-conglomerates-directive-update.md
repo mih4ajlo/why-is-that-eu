@@ -8,6 +8,9 @@ summary: "An update to EU rules on supervising financial groups operating across
 status: "in-force"
 related: ["2002/87/EC", "2013/36/EU", "2009/138/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

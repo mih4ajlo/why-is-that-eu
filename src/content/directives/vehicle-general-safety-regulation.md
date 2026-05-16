@@ -8,6 +8,9 @@ summary: "The Vehicle General Safety Regulation updates mandatory safety feature
 status: "in-force"
 related: ["2018/858/EU", "2022/1426/EU", "2021/555/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

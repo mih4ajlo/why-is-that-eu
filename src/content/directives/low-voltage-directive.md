@@ -8,6 +8,9 @@ summary: "The EU's central legislative framework ensuring electrical equipment o
 status: "in-force"
 related: ["2006/42/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

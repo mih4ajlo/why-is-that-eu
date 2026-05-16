@@ -8,6 +8,9 @@ summary: "Transferred direct supervision of the eurozone's largest banks from na
 status: "in-force"
 related: ["2014/59/EU", "806/2014/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

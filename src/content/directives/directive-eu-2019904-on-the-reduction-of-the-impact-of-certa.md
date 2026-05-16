@@ -8,6 +8,9 @@ summary: "EU law banning or restricting the most commonly littered single-use pl
 status: "in-force"
 related: ["2018/851/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

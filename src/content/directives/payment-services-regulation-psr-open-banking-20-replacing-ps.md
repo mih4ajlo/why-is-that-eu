@@ -8,6 +8,9 @@ summary: "The PSR is a European Commission proposal from June 2023 to replace th
 status: "proposed"
 related: ["2015/2366/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

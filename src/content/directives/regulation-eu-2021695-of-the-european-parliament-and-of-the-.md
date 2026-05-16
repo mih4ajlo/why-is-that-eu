@@ -8,6 +8,9 @@ summary: "Horizon Europe is the EU's €95.5 billion research and innovation fra
 status: "in-force"
 related: ["2014/99/EU", "2013/743/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

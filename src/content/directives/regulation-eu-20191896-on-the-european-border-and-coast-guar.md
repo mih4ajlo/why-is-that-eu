@@ -8,6 +8,9 @@ summary: "This regulation transformed Frontex into a standing European Border an
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

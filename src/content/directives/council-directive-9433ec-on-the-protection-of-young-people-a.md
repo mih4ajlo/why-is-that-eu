@@ -8,6 +8,9 @@ summary: "Sets the minimum age for employment at 15, bans hazardous work for und
 status: "in-force"
 related: ["89/391/EEC", "2003/88/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

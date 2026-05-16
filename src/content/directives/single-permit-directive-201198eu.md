@@ -8,6 +8,9 @@ summary: "Establishes a single application procedure for a combined work and res
 status: "in-force"
 related: ["2009/50/EC", "2003/109/EC", "2014/36/EU", "2016/801/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

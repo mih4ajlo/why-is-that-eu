@@ -8,6 +8,9 @@ summary: "The EU's first binding law requiring member states to restore degraded
 status: "in-force"
 related: ["2023/2418/EU", "2000/60/EC", "2009/147/EC", "92/43/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

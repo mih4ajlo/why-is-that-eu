@@ -8,6 +8,9 @@ summary: "Establishes an EU-wide certification framework for carbon removal acti
 status: "in-force"
 related: ["2023/2419/EU", "2021/1119/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

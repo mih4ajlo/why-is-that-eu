@@ -8,6 +8,9 @@ summary: "The Market Abuse Regulation (MAR) harmonises rules against insider dea
 status: "in-force"
 related: ["2014/57/EU", "2003/6/EC", "2003/124/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The EU's flagship air quality law setting binding limits for fine part
 status: "in-force"
 related: ["2016/2284/EU", "2004/107/EC", "2024/2881/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

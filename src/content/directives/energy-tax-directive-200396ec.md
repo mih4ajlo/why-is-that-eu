@@ -8,6 +8,9 @@ summary: "The Energy Tax Directive restructured EU energy taxation by setting mi
 status: "in-force"
 related: ["2008/118/EC", "2014/40/EU", "2021/0205(COD)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

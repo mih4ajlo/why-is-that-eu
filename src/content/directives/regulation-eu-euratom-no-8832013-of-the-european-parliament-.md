@@ -8,6 +8,9 @@ summary: "Strengthened the legal framework for OLAF to investigate fraud, corrup
 status: "in-force"
 related: ["1073/1999/EC", "2185/96/Euratom", "2017/1939/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

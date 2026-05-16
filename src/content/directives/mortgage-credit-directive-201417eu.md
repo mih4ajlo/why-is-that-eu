@@ -8,6 +8,9 @@ summary: "The Mortgage Credit Directive harmonises EU rules on residential mortg
 status: "in-force"
 related: ["2008/48/EC", "2014/17/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

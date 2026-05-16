@@ -8,6 +8,9 @@ summary: "A regulation setting progressively stricter limits on the greenhouse g
 status: "in-force"
 related: ["EU ETS Directive 2003/87/EC as amended for maritime", "Renewable Energy Directive (RED III) 2023/2413/EU", "Alternative Fuels Infrastructure Regulation (AFIR) 2023/1804/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

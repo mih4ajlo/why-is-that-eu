@@ -8,6 +8,9 @@ summary: "Establishes the mutual recognition of driving licences across EU count
 status: "in-force"
 related: ["2006/126/EC", "2012/36/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The Package Travel Directive modernises consumer protections for packa
 status: "in-force"
 related: ["2008/122/EC", "261/2004"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

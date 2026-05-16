@@ -8,6 +8,9 @@ summary: "The Wine Market Organisation (CMO) establishes EU-wide rules for wine 
 status: "in-force"
 related: ["Regulation (EU) No 1306/2013", "Regulation (EU) 2021/2117"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

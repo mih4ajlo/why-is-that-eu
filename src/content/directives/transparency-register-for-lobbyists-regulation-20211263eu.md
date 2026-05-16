@@ -8,6 +8,9 @@ summary: "Creates a mandatory transparency register for interest representatives
 status: "in-force"
 related: [2014/908/EU]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

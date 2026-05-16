@@ -8,6 +8,9 @@ summary: "The International Procurement Instrument (IPI) allows the EU to restri
 status: "in-force"
 related: ["2014/24/EU", "2014/25/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

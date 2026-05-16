@@ -8,6 +8,9 @@ summary: "The 2024 Product Liability Directive updates EU liability rules to cov
 status: "in-force"
 related: ["85/374/EEC", "2022/2065/EU", "2024/1689/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

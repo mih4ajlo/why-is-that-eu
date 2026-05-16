@@ -8,6 +8,9 @@ summary: "The recast of the EU Product Liability Directive brings software and A
 status: "in-force"
 related: ["85/374/EEC", "2019/770/EU", "2019/771/EU", "2022/2555/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

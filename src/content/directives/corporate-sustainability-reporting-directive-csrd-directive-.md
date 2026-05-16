@@ -8,6 +8,9 @@ summary: "The CSRD radically expands mandatory ESG reporting requirements to ove
 status: "in-force"
 related: ["2013/34/EU", "2014/95/EU", "2020/852/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

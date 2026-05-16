@@ -8,6 +8,9 @@ summary: "Harmonises EU crowdfunding rules, allowing platforms to operate across
 status: "in-force"
 related: ["2014/65/EU", "2017/1129/EU", "2020/1504/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "A major recast of the EU's flagship building energy law, setting a 205
 status: "in-force"
 related: ["2018/844/EU", "2010/31/EU", "2023/1791/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

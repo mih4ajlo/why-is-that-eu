@@ -8,6 +8,9 @@ summary: "The European Labour Authority (ELA) is an EU agency created to coordin
 status: "in-force"
 related: ["96/71/EC", "2014/67/EU", "2008/104/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

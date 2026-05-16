@@ -8,6 +8,9 @@ summary: "The revised Renewable Energy Directive raises the EU's binding renewab
 status: "in-force"
 related: ["2018/2001/EU", "2022/0347(COD)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

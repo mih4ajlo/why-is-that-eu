@@ -8,6 +8,9 @@ summary: "The Database Directive created a new, exclusive intellectual property 
 status: "in-force"
 related: ["2001/29/EC", "2016/679/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

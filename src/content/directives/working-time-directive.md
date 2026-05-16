@@ -8,6 +8,9 @@ summary: "The Working Time Directive sets EU-wide limits on maximum weekly worki
 status: "in-force"
 related: ["93/104/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

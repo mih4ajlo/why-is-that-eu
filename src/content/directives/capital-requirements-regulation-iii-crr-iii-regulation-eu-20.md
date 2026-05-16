@@ -8,6 +8,9 @@ summary: "The final EU implementation of the Basel III international banking sta
 status: "in-force"
 related: ["CRR II (2019/876/EU)", "CRD VI (Directive 2024/1619/EU)", "CRR (2013/575/EU)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

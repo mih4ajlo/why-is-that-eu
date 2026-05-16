@@ -8,6 +8,9 @@ summary: "A framework to reform European air traffic management by fragmenting n
 status: "in-force"
 related: ["1070/2009/EC", "598/2014/EU", "2021/2073/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

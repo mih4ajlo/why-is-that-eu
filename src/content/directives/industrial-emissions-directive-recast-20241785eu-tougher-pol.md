@@ -8,6 +8,9 @@ summary: "A major update to EU industrial pollution rules, tightening emission l
 status: "in-force"
 related: ["2010/75/EU", "2016/2284/EU", "2021/1119/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

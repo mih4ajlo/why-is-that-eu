@@ -8,6 +8,9 @@ summary: "The directive strengthens EU rules to combat human trafficking by expl
 status: "in-force"
 related: ["2011/36/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

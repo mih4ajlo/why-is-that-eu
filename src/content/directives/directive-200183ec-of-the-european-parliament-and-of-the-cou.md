@@ -8,6 +8,9 @@ summary: "Directive 2001/83/EC consolidates and replaces earlier national and EU
 status: "in-force"
 related: ["726/2004/EC", "2010/84/EU", "2011/62/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Harmonises EU rules on periodic financial reporting and major sharehol
 status: "in-force"
 related: ["2003/6/EC", "2003/71/EC", "2013/50/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

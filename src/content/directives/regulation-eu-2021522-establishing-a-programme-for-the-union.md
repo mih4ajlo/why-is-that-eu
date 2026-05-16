@@ -8,6 +8,9 @@ summary: "The EU4Health Programme is a standalone EU health funding programme wi
 status: "in-force"
 related: ["Regulation (EU) 2022/2371 on serious cross-border threats to health", "Regulation (EU) 2022/2372 on Council recommendations on a coordinated approach to travel measures"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

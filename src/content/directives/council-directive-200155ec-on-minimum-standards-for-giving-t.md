@@ -8,6 +8,9 @@ summary: "The Temporary Protection Directive establishes a mechanism for providi
 status: "in-force"
 related: ["2024/1341/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

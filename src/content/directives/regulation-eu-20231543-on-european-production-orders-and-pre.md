@@ -8,6 +8,9 @@ summary: "A regulation enabling EU judicial authorities to issue production and 
 status: "in-force"
 related: [2016/679/EU, 2022/2555/EU, 2008/977/JHA]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

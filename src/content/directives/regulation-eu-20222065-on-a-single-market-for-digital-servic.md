@@ -8,6 +8,9 @@ summary: "The Digital Services Act (DSA) establishes a comprehensive framework f
 status: "in-force"
 related: ["2016/679/EU", "2022/1925/EU", "2000/31/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

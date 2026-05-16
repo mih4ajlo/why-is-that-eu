@@ -8,6 +8,9 @@ summary: "Establishes a framework for environmental liability based on the 'poll
 status: "in-force"
 related: ["2013/30/EU", "2008/98/EC", "2010/75/EU", "2001/42/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

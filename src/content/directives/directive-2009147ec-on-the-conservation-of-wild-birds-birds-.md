@@ -8,6 +8,9 @@ summary: "The Birds Directive is the EU's oldest piece of nature legislation, pr
 status: "in-force"
 related: ["92/43/EEC", "2000/60/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

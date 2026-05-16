@@ -8,6 +8,9 @@ summary: "The WEEE Directive requires EU member states to collect, treat, and re
 status: "in-force"
 related: ["2002/96/EC", "2011/65/EU", "2008/98/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

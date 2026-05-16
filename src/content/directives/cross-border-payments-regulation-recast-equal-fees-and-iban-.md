@@ -8,6 +8,9 @@ summary: "An EU regulation that bans banks and payment providers from charging h
 status: "in-force"
 related: ["2015/2366/EU", "924/2009/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

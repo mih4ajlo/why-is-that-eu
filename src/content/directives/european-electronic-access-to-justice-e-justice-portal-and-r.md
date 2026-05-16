@@ -8,6 +8,9 @@ summary: "The e-Justice portal and supporting regulations aim to simplify cross-
 status: "in-force"
 related: ["2003/8/EC (legal aid directive)", "1215/2012/EU (Brussels I recast)", "2016/679/EU (GDPR)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

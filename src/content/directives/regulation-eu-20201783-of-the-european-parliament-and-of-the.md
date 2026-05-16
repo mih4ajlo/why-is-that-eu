@@ -8,6 +8,9 @@ summary: "This Regulation modernises cross-border evidence gathering in EU civil
 status: "in-force"
 related: ["1215/2012/EU", "1393/2007/EC", "1896/2006/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

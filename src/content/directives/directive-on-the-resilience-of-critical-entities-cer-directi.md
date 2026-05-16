@@ -8,6 +8,9 @@ summary: "The CER Directive requires EU member states to identify and protect cr
 status: "in-force"
 related: ["2022/2381/EU", "2024/2841/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

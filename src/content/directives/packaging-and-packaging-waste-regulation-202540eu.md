@@ -8,6 +8,9 @@ summary: "The Packaging and Packaging Waste Regulation sets mandatory reuse and 
 status: "in-force"
 related: ["2019/904/EU", "2018/852/EU", "2008/98/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

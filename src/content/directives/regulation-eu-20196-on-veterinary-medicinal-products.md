@@ -8,6 +8,9 @@ summary: "Overhauls EU rules on veterinary medicines to curb antimicrobial resis
 status: "in-force"
 related: ["2001/82/EC", "2019/4/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

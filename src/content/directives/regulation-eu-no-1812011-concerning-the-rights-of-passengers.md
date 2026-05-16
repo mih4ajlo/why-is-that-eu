@@ -8,6 +8,9 @@ summary: "Establishes minimum rights for bus and coach passengers in the EU, inc
 status: "in-force"
 related: ["261/2004/EC", "1371/2007/EC", "1177/2010/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

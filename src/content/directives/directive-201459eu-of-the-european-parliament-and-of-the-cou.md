@@ -8,6 +8,9 @@ summary: "The BRRD gives authorities common powers and tools to prevent bank fai
 status: "in-force"
 related: ["2013/36/EU", "575/2013/EU", "806/2014/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The Directive amends EU consumer law to ban generic environmental clai
 status: "in-force"
 related: ["2005/29/EC", "2019/2161/EU", "2022/2065/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

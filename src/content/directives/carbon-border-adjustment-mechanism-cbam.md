@@ -8,6 +8,9 @@ summary: "The world's first carbon border tariff, requiring importers of cement,
 status: "in-force"
 related: ["2003/87/EC", "2021/1119/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

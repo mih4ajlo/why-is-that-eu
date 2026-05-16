@@ -6,7 +6,8 @@
  * LLM evaluation runs on flagged/sampled entries (uses Anthropic API).
  *
  * Run:
- *   npm run evaluate                          # heuristics only, all entries
+ *   npm run evaluate                          # heuristics on all entries, writes stats to frontmatter
+ *   npm run evaluate -- --no-write           # heuristics only, no file changes
  *   npm run evaluate -- --llm                # + LLM eval on all heuristic failures
  *   npm run evaluate -- --llm --sample 20    # + LLM eval on 20 random entries
  *   npm run evaluate -- --llm --file adequate-minimum-wages-directive
@@ -371,6 +372,7 @@ interface Args {
   targetFile: string | null;
   model: string;
   out: string;
+  write: boolean;
 }
 
 function parseArgs(argv: string[]): Args {
@@ -380,16 +382,55 @@ function parseArgs(argv: string[]): Args {
   let targetFile: string | null = null;
   let model = 'claude-haiku-4-5-20251001';
   let out = DEFAULT_OUT;
+  let write = true;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--llm') useLLM = true;
+    else if (args[i] === '--no-write') write = false;
     else if (args[i] === '--sample' && args[i + 1]) sampleSize = parseInt(args[++i], 10);
     else if (args[i] === '--file' && args[i + 1]) targetFile = args[++i];
     else if (args[i] === '--model' && args[i + 1]) model = args[++i];
     else if (args[i] === '--out' && args[i + 1]) out = args[++i];
   }
 
-  return { useLLM, sampleSize, targetFile, model, out };
+  return { useLLM, sampleSize, targetFile, model, out, write };
+}
+
+// ── frontmatter write-back ────────────────────────────────────────────────────
+
+function writeEvalStats(entry: DirectiveEntry, report: EntryReport): void {
+  const match = entry.raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!match) return;
+
+  const [, fm, body] = match;
+
+  // Strip any existing eval_* lines
+  const cleanFm = fm.split('\n').filter(l => !l.startsWith('eval_')).join('\n');
+
+  const errors = report.heuristicFlags.filter(f => f.severity === 'error').length;
+  const warnings = report.heuristicFlags.filter(f => f.severity === 'warn').length;
+
+  const lines = [
+    `eval_errors: ${errors}`,
+    `eval_warnings: ${warnings}`,
+  ];
+
+  if (report.llmEval) {
+    lines.push(`eval_summary: ${report.llmEval.summaryScore}`);
+    lines.push(`eval_why: ${report.llmEval.whyScore}`);
+    const qs = report.llmEval.questions;
+    if (qs.length) {
+      const avgRel = qs.reduce((s, q) => s + q.relevance, 0) / qs.length;
+      const avgSpe = qs.reduce((s, q) => s + q.specificity, 0) / qs.length;
+      lines.push(`eval_qa_relevance: ${avgRel.toFixed(1)}`);
+      lines.push(`eval_qa_specificity: ${avgSpe.toFixed(1)}`);
+    }
+  }
+
+  lines.push(`eval_date: "${new Date().toISOString().slice(0, 10)}"`);
+
+  const newContent = `---\n${cleanFm.trimEnd()}\n${lines.join('\n')}\n---\n${body}`;
+  fs.writeFileSync(path.join(DIR, entry.file), newContent, 'utf8');
 }
 
 // ── reporting ─────────────────────────────────────────────────────────────────
@@ -552,7 +593,18 @@ if (args.useLLM) {
   }
 }
 
-// Output
+// Write stats back to frontmatter
+if (args.write) {
+  const entryMap = new Map(entries.map(e => [e.slug, e]));
+  let written = 0;
+  for (const report of reports) {
+    const entry = entryMap.get(report.slug);
+    if (entry) { writeEvalStats(entry, report); written++; }
+  }
+  console.log(`\nWrote eval stats to ${written} directive files.`);
+}
+
+// Output report
 fs.mkdirSync(path.dirname(args.out), { recursive: true });
 fs.writeFileSync(args.out, JSON.stringify(reports, null, 2), 'utf8');
 

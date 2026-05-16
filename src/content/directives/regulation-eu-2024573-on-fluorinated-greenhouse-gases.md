@@ -8,6 +8,9 @@ summary: "The F-Gas Regulation tightens the EU's phase-down of hydrofluorocarbon
 status: "in-force"
 related: ["517/2014/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

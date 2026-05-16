@@ -9,6 +9,9 @@ status: "in-force"
 related: ["1346/2000/EC"]
 
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

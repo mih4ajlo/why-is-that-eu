@@ -8,6 +8,9 @@ summary: "This regulation establishes a unified EU-wide list of permitted food a
 status: "in-force"
 related: ["1169/2011/EU", "1331/2008/EC", "1334/2008/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

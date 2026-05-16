@@ -8,6 +8,9 @@ summary: "This regulation determines which EU/EEA country’s social security sy
 status: "in-force"
 related: ["987/2009/EC", "1231/2010/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

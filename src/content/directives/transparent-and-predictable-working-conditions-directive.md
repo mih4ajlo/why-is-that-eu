@@ -8,6 +8,9 @@ summary: "This directive mandates that all workers in the EU receive a written s
 status: "in-force"
 related: ["2019/1158/EU", "2003/88/EC", "91/533/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

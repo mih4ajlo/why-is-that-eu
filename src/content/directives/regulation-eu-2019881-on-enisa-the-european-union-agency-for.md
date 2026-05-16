@@ -8,6 +8,9 @@ summary: "The Cybersecurity Act establishes a permanent mandate for ENISA, the E
 status: "in-force"
 related: ["2016/1148/EU", "2022/2555/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

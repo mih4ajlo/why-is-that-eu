@@ -8,6 +8,9 @@ summary: "The Transfer of Undertakings (Protection of Employment) Directive, kno
 status: "in-force"
 related: ["77/187/EEC", "98/50/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

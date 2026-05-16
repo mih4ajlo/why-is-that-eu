@@ -8,6 +8,9 @@ summary: "The EU's main instrument to co‑finance retraining and job‑search s
 status: "in-force"
 related: ["1309/2013/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

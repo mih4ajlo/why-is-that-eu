@@ -8,6 +8,9 @@ summary: "A pair of EU regulations that tightened budgetary surveillance for Eur
 status: "in-force"
 related: ["1175/2011/EU", "1466/97/EC", "1177/2011/EU", "1174/2011/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

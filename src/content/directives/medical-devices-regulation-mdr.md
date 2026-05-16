@@ -8,6 +8,9 @@ summary: "The MDR replaced the EU's Medical Devices Directive (MDD) and Active I
 status: "in-force"
 related: ["2017/746/EU (IVDR)", "93/42/EEC (MDD - repealed)", "90/385/EEC (AIMDD - repealed)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

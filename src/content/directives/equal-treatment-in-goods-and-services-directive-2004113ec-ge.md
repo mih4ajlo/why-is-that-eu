@@ -8,6 +8,9 @@ summary: "This directive prohibits sex discrimination in access to goods and ser
 status: "in-force"
 related: ["2006/54/EC", "79/7/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

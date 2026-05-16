@@ -8,6 +8,9 @@ summary: "The Marine Strategy Framework Directive requires EU member states to a
 status: "in-force"
 related: ["2000/60/EC", "92/43/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

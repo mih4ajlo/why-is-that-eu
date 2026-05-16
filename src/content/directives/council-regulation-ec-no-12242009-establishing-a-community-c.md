@@ -8,6 +8,9 @@ summary: "The EU's comprehensive fisheries control regime, introducing mandatory
 status: "in-force"
 related: ["1005/2008/EC", "1380/2013/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

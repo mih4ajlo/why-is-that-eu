@@ -8,6 +8,9 @@ summary: "Requires payment service providers in the EU to offer instant credit t
 status: "in-force"
 related: [(EU) 2018/389, (EU) 2021/1230]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

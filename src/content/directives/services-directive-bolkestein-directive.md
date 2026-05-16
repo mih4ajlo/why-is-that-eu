@@ -8,6 +8,9 @@ summary: "A landmark EU directive aimed at creating a single market for services
 status: "in-force"
 related: ["96/71/EC", "2014/67/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

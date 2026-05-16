@@ -8,6 +8,9 @@ summary: "A short-term EU regulation to incentivise EU member states to jointly 
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

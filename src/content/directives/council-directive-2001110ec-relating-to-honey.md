@@ -8,6 +8,9 @@ summary: "Sets EU-wide rules on honey composition, labelling, and quality, requi
 status: "in-force"
 related: ["2000/13/EC", "1169/2011/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

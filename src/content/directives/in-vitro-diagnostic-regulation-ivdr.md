@@ -8,6 +8,9 @@ summary: "The In Vitro Diagnostic Regulation overhauls the EU's system for appro
 status: "in-force"
 related: ["2017/745/EU", "98/79/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

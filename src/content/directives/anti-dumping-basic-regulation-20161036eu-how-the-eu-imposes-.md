@@ -8,6 +8,9 @@ summary: "This regulation lays down the EU's rules for investigating and imposin
 status: "in-force"
 related: []
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

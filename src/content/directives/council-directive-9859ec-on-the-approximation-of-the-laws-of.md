@@ -8,6 +8,9 @@ summary: "The Collective Redundancies Directive (98/59/EC) harmonises EU rules o
 status: "in-force"
 related: ["2002/14/EC", "2001/23/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

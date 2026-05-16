@@ -8,6 +8,9 @@ summary: "The EU Pay Transparency Directive requires companies to disclose salar
 status: "in-force"
 related: ["2006/54/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

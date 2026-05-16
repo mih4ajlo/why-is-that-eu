@@ -8,6 +8,9 @@ summary: "Creates a European legal form for cooperative societies, allowing grou
 status: "in-force"
 related: ["2157/2001/EC", "2003/72/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

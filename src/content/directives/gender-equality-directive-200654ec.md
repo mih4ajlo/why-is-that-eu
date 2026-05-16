@@ -8,6 +8,9 @@ summary: "The Gender Equality Directive recasts and consolidates prior EU laws o
 status: "in-force"
 related: ["92/85/EEC", "2004/113/EC", "2010/41/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The Habitats Directive establishes a EU-wide system for protecting end
 status: "in-force"
 related: ["79/409/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

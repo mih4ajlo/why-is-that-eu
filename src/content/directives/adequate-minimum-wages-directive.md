@@ -8,6 +8,9 @@ summary: "Sets EU-level framework to ensure minimum wages are adequate through c
 status: "in-force"
 related: ["2019/1152/EU", "2019/1158/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

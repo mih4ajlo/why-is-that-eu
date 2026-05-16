@@ -8,6 +8,9 @@ summary: "The European Investigation Order (EIO) Directive creates a single, str
 status: "in-force"
 related: ["2008/978/JHA", "Framework Decision 2003/577/JHA"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

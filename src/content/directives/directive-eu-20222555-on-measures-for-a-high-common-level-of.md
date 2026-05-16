@@ -8,6 +8,9 @@ summary: "The NIS2 Directive is an EU cybersecurity law that requires essential 
 status: "in-force"
 related: ["2019/881/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

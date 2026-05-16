@@ -8,6 +8,9 @@ summary: "A comprehensive regulation that harmonises safety assessment, labellin
 status: "in-force"
 related: []
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

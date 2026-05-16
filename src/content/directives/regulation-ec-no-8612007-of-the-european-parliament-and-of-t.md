@@ -8,6 +8,9 @@ summary: "The European Small Claims Procedure allows individuals and businesses 
 status: "in-force"
 related: ["1215/2012/EU", "1896/2006/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

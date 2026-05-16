@@ -8,6 +8,9 @@ summary: "A proposed revision of the 1992 Combined Transport Directive aimed at 
 status: "proposed"
 related: ["1992/106/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

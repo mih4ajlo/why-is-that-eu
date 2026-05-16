@@ -8,6 +8,9 @@ summary: "The foundational EU regulation for civil aviation safety, expanding EA
 status: "in-force"
 related: ["216/2008/EC", "3922/91/EEC", "1592/2002/EC", "2020/469/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

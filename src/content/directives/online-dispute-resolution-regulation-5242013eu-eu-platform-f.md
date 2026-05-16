@@ -8,6 +8,9 @@ summary: "Establishes an EU-wide online platform for consumers and traders to re
 status: "in-force"
 related: [2013/11/EU]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

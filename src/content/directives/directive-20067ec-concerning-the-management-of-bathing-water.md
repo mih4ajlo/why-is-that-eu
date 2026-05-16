@@ -8,6 +8,9 @@ summary: "The Bathing Water Directive sets EU-wide standards for monitoring and 
 status: "in-force"
 related: ["2000/60/EC", "91/271/EEC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

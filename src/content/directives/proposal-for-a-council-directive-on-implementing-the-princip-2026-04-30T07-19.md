@@ -8,6 +8,9 @@ summary: "A proposed EU directive to prohibit discrimination based on religion, 
 status: "proposed"
 related: ["2000/78/EC", "2000/43/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

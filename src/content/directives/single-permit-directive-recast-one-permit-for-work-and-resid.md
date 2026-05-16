@@ -8,6 +8,9 @@ summary: "The recast of the Single Permit Directive establishes a streamlined pr
 status: "in-force"
 related: ["2011/98/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

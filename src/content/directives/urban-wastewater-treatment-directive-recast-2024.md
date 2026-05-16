@@ -8,6 +8,9 @@ summary: "The recast Urban Wastewater Treatment Directive tightens pollution lim
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

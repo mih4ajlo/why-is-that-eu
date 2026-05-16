@@ -8,6 +8,9 @@ summary: "The fifth Capital Requirements Directive transposes the final elements
 status: "in-force"
 related: ["2013/36/EU", "575/2013", "2014/59/EU", "2019/876/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The first EU-wide cybersecurity law requiring Member States to set bas
 status: "in-force"
 related: ["2022/2555/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

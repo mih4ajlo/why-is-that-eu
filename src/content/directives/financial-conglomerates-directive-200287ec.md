@@ -8,6 +8,9 @@ summary: "The Financial Conglomerates Directive introduced supplementary supervi
 status: "in-force"
 related: ["2006/48/EC", "2006/49/EC", "2009/138/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

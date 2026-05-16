@@ -8,6 +8,9 @@ summary: "A harmonised EU framework imposing transparency requirements and restr
 status: "in-force"
 related: ["2014/65/EU", "596/2014/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

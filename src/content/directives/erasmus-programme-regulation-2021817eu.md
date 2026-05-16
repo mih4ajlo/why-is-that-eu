@@ -8,6 +8,9 @@ summary: "The Erasmus+ Programme Regulation (2021/817/EU) governs the EU's flags
 status: "in-force"
 related: []
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

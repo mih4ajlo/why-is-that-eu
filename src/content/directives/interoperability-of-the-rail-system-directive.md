@@ -8,6 +8,9 @@ summary: "A recast directive establishing a harmonised regulatory framework for 
 status: "in-force"
 related: ["2008/57/EC", "2016/798/EU", "2004/49/EC", "2012/34/EU"]
 llm: "deepseek-chat"
+eval_errors: 1
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The Orphan Medicines Regulation created EU-wide incentives to develop 
 status: "in-force"
 related: ["2004/27/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

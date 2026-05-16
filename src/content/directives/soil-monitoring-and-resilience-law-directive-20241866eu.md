@@ -8,6 +8,9 @@ summary: "The EU's first comprehensive legal framework for monitoring and improv
 status: "in-force"
 related: ["2008/50/EC", "2018/1999/EU", "2020/852/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

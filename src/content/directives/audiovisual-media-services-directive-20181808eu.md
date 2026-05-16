@@ -8,6 +8,9 @@ summary: "An update to the 2010 AVMSD that extended EU media rules—covering ha
 status: "in-force"
 related: ["2010/13/EU", "2007/65/EC", "2022/2065/EU (DSA)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

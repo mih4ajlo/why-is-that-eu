@@ -8,6 +8,9 @@ summary: "The directive establishes a system for mutual recognition of professio
 status: "in-force"
 related: ["2006/123/EC", "2013/55/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

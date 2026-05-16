@@ -8,6 +8,9 @@ summary: "The Animal Health Law overhauled 40 years of fragmented EU animal heal
 status: "in-force"
 related: ["2019/2035/EU", "2020/689/EU", "2020/687/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

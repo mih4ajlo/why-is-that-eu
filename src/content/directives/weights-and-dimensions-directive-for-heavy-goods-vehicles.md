@@ -8,6 +8,9 @@ summary: "Sets maximum authorised weights and dimensions for heavy goods vehicle
 status: "in-force"
 related: ["2024/2774/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

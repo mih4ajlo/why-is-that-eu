@@ -8,6 +8,9 @@ summary: "A major overhaul of EU rail passenger rules, introduced after years of
 status: "in-force"
 related: ["1371/2007/EC", "181/2011/EU", "EC/261/2004"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

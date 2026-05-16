@@ -8,6 +8,9 @@ summary: "Regulation (EU) 2015/2120 established the first EU‑wide rules for op
 status: "in-force"
 related: []
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

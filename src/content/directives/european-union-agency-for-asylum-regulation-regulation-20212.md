@@ -8,6 +8,9 @@ summary: "The EUAA Regulation transforms the former European Asylum Support Offi
 status: "in-force"
 related: ["2024/1351/EU", "2024/1347/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

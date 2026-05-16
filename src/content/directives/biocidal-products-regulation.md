@@ -8,6 +8,9 @@ summary: "The Biocidal Products Regulation (BPR) harmonises the EU market for bi
 status: "in-force"
 related: ["1907/2006/EC (REACH)", "1272/2008/EC (CLP)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

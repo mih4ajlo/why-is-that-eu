@@ -8,6 +8,9 @@ summary: "The Common Provisions Regulation (CPR) for the 2021-2027 programming p
 status: "in-force"
 related: ["2021/1058/EU", "2021/1057/EU", "2021/1139/EU", "2020/2092/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

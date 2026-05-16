@@ -8,6 +8,9 @@ summary: "The Digital Content Directive harmonises EU consumer contract law for 
 status: "in-force"
 related: ["2019/771/EU", "2011/83/EU", "2022/2065/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Requires member states to assess the environmental effects of major pu
 status: "in-force"
 related: ["2014/52/EU", "2001/42/EC", "92/43/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

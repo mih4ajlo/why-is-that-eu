@@ -8,6 +8,9 @@ summary: "Sets the legal framework for the European Statistical System, establis
 status: "in-force"
 related: ["Regulation (EU) 2019/1240", "Regulation (EU) 2015/759"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

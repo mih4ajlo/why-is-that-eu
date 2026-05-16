@@ -8,6 +8,9 @@ summary: "Framework regulation setting safety requirements for all materials and
 status: "in-force"
 related: ["2023/2006/EC", "10/2011/EU", "450/2009/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

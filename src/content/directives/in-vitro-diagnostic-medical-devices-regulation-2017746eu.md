@@ -8,6 +8,9 @@ summary: "The IVDR fundamentally overhauls EU rules for diagnostic tests like HI
 status: "in-force"
 related: ["2017/745/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The UCITS Directive sets harmonised rules for investment funds that ca
 status: "in-force"
 related: ["2014/91/EU", "2011/61/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

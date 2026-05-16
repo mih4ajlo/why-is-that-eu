@@ -8,6 +8,9 @@ summary: "Sets common EU rules for admitting third-country seasonal workers, req
 status: "in-force"
 related: ["2009/52/EC", "2014/54/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

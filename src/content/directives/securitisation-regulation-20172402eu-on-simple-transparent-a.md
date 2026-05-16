@@ -8,6 +8,9 @@ summary: "Establishes a common EU framework for securitisation, including a new 
 status: "in-force"
 related: ["575/2013/EU", "2018/1624/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

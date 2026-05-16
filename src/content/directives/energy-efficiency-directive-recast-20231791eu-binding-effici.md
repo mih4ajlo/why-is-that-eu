@@ -8,6 +8,9 @@ summary: "The recast Energy Efficiency Directive makes energy savings legally bi
 status: "in-force"
 related: ["2018/2002/EU", "2012/27/EU", "2024/1275/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Establishes EU-wide maximum residue levels (MRLs) for pesticides in fo
 status: "in-force"
 related: ["91/414/EEC", "2009/128/EC", "1107/2009/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

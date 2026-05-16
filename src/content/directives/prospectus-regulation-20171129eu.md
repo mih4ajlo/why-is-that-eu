@@ -8,6 +8,9 @@ summary: "The Prospectus Regulation replaced the earlier Prospectus Directive to
 status: "in-force"
 related: ["2003/71/EC", "2014/65/EU", "2017/1132/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

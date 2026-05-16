@@ -8,6 +8,9 @@ summary: "PSD2 transformed European payments by requiring banks to open customer
 status: "in-force"
 related: ["2016/679/EU", "2007/64/EC", "2018/389/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The General Block Exemption Regulation (GBER) declares entire categori
 status: "in-force"
 related: ["1407/2013/EU", "2015/1589/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

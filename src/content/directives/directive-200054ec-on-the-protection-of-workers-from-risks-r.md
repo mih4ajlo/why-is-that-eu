@@ -8,6 +8,9 @@ summary: "Directive 2000/54/EC establishes a four-tier classification system for
 status: "in-force"
 related: ["89/391/EEC", "2000/39/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

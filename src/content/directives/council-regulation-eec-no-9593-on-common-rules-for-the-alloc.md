@@ -8,6 +8,9 @@ summary: "EU rules governing how airport take-off and landing slots are allocate
 status: "in-force"
 related: ["2017/1929/EU", "2020/459/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

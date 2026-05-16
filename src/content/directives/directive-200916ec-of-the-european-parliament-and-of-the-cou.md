@@ -8,6 +8,9 @@ summary: "This directive establishes a harmonised EU system for inspecting forei
 status: "in-force"
 related: ["Directive 2001/106/EC (amending 95/21/EC)", "Regulation (EU) 2019/219 (amendments to 2009/16/EC)", "Directive 2013/38/EU (amending 2009/16/EC)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The EUDR bans seven commodities — cattle, cocoa, coffee, oil palm, r
 status: "in-force"
 related: ["2024/1760/EU", "2023/956/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

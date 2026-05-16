@@ -8,6 +8,9 @@ summary: "The EU's Anti-Tax Avoidance Directive establishes a minimum level of p
 status: "in-force"
 related: ["2017/952/EU", "2016/881/EU", "2011/16/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

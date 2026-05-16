@@ -8,6 +8,9 @@ summary: "Reinstated the A-G closed scale for EU energy labels, scrapping the A+
 status: "in-force"
 related: ["2009/125/EC", "2010/30/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "EU Regulation (EU) 2019/1021 recasts and strengthens the EU's rules on
 status: "in-force"
 related: ["1907/2006/EC (REACH)", "2008/98/EC (Waste Framework Directive)", "2019/1021/EU (POPs Recast)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

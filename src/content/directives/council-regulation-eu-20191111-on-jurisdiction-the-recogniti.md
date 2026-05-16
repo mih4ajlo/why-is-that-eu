@@ -8,6 +8,9 @@ summary: "This recast regulation strengthens children’s right to be heard in c
 status: "in-force"
 related: ["2201/2003/EC", "Hague Convention on the Civil Aspects of International Child Abduction (1980)"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

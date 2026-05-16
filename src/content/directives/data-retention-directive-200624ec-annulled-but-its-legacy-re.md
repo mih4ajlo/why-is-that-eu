@@ -8,6 +8,9 @@ summary: "The Data Retention Directive required telecoms and ISPs to store all c
 status: "repealed"
 related: ["2002/58/EC", "2016/679/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

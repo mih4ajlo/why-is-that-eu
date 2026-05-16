@@ -8,6 +8,9 @@ summary: "Sets minimum employment terms and conditions for workers temporarily p
 status: "in-force"
 related: ["2014/67/EU", "2018/957/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

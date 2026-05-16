@@ -8,6 +8,9 @@ summary: "Two EU regulations require the bloc's separate border, visa, and asylu
 status: "in-force"
 related: ["2017/2226/EU", "2018/1860/EU", "603/2013/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

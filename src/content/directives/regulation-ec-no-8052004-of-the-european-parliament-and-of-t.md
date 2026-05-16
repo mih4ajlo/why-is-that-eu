@@ -8,6 +8,9 @@ summary: "The Regulation abolished the exequatur procedure — a slow, costly in
 status: "in-force"
 related: ["1896/2006/EC", "861/2007/EC", "1215/2012/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

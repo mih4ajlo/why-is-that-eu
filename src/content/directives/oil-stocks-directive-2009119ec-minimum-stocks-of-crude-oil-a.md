@@ -8,6 +8,9 @@ summary: "The directive requires EU member states to maintain emergency oil stoc
 status: "in-force"
 related: ["1998/93/EC", "2006/67/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 6
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

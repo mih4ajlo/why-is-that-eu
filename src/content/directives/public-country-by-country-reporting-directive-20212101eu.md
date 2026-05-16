@@ -8,6 +8,9 @@ summary: "Requires large multinational corporations operating in the EU to publi
 status: "in-force"
 related: ["2013/34/EU", "2016/881/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "A recast of the 2011 Construction Products Regulation aimed at simplif
 status: "in-force"
 related: ["305/2011/EU", "765/2008/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

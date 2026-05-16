@@ -8,6 +8,9 @@ summary: "A package of legislative measures to simplify listing rules, reduce co
 status: "in-force"
 related: ["2017/1129/EU", "596/2014/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "This directive facilitates claims for damages by victims of antitrust 
 status: "in-force"
 related: ["1/2003/EC", "2019/1/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

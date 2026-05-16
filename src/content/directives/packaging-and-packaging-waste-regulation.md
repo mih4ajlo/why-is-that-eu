@@ -8,6 +8,9 @@ summary: "The Packaging and Packaging Waste Regulation (PPWR) replaces the 1994 
 status: "in-force"
 related: ["94/62/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

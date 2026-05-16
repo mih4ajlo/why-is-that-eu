@@ -8,6 +8,9 @@ summary: "The directive implements the OECD's global minimum corporate tax rate 
 status: "in-force"
 related: ["2016/1164/EU", "2021/514/EU", "2011/16/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

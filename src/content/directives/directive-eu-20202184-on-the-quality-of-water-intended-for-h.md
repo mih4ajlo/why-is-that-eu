@@ -8,6 +8,9 @@ summary: "The recast Drinking Water Directive introduces the EU's first legally 
 status: "in-force"
 related: ["2000/60/EC", "2008/105/EC", "2021/1767/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

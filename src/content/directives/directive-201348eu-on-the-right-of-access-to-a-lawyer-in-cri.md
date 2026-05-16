@@ -8,6 +8,9 @@ summary: "This directive guarantees every person suspected or accused of a crime
 status: "in-force"
 related: ["2010/64/EU", "2012/13/EU", "2016/343/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

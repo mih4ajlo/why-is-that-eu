@@ -8,6 +8,9 @@ summary: "The Clean Vehicles Directive requires public authorities in EU member 
 status: "in-force"
 related: ["2019/1161/EU", "2014/24/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The Radio Equipment Directive (RED) harmonises EU rules for products t
 status: "in-force"
 related: ["2014/53/EU", "2022/2380/EU", "2009/125/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

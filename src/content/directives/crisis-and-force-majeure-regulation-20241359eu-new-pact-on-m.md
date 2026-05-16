@@ -8,6 +8,9 @@ summary: "EU regulation establishing exceptional procedures for asylum, border m
 status: "in-force"
 related: ["2024/1358/EU", "2024/1356/EU", "2024/1357/EU", "EU-2020/1363"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The EU's new Ambient Air Quality Directive sets legally binding limits
 status: "in-force"
 related: ["2008/50/EC", "2004/107/EC", "(EU) 2023/2469"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Tightened EU nuclear safety rules after the Fukushima disaster, mandat
 status: "in-force"
 related: ["2009/71/Euratom", "2011/70/Euratom"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

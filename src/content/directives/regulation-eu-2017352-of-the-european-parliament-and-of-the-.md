@@ -8,6 +8,9 @@ summary: "This regulation opens EU port services to competition by forbidding di
 status: "in-force"
 related: ["2016/679/EU (data protection – port user data exemptions included)", "1234/2008/EC (review of port services)"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

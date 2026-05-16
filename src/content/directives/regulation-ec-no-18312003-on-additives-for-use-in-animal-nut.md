@@ -8,6 +8,9 @@ summary: "Banning the use of antibiotics as growth promoters in animal feed acro
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

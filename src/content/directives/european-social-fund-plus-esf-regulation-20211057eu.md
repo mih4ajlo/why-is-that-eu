@@ -8,6 +8,9 @@ summary: "The ESF+ Regulation establishes the main EU financial instrument for i
 status: "in-force"
 related: ["1303/2013/EU", "2021/1060/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

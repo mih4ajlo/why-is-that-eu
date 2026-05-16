@@ -8,6 +8,9 @@ summary: "InvestEU consolidates 13 previous EU financial instruments into a sing
 status: "in-force"
 related: ["2015/1017/EU", "2017/72/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

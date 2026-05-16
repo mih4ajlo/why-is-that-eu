@@ -8,6 +8,9 @@ summary: "Regulation allowing EU consumers to access their online content subscr
 status: "in-force"
 related: ["2018/302/EU", "2019/790/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

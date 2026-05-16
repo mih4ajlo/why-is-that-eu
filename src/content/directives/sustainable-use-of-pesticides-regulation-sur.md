@@ -8,6 +8,9 @@ summary: "A proposed EU regulation to reduce the use and risk of chemical pestic
 status: "withdrawn"
 related: ["1107/2009/EC", "2009/128/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

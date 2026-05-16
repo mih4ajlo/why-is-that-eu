@@ -8,6 +8,9 @@ summary: "A cornerstone of EU occupational safety law, the directive sets bindin
 status: "in-force"
 related: ["89/391/EEC", "98/24/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

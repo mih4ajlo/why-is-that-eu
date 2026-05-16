@@ -8,6 +8,9 @@ summary: "Establishes a common EU framework for assessing and managing environme
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

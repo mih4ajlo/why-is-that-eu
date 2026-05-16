@@ -8,6 +8,9 @@ summary: "The CSDDD requires large EU and non-EU companies to identify, prevent,
 status: "in-force"
 related: ["2022/2464/EU", "2019/1937/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

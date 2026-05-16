@@ -8,6 +8,9 @@ summary: "This regulation revises the ELTIF framework to make long-term investme
 status: "in-force"
 related: ["2011/61/EU", "2015/760/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

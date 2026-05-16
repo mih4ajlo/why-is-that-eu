@@ -8,6 +8,9 @@ summary: "The EU Trade Secrets Directive harmonises national laws against the mi
 status: "in-force"
 related: ["2004/48/EC", "2019/790/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

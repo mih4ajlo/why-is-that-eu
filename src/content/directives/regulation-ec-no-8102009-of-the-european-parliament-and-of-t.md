@@ -8,6 +8,9 @@ summary: "The Visa Code harmonises procedures and conditions for issuing short-s
 status: "in-force"
 related: ["562/2006/EC", "767/2008/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

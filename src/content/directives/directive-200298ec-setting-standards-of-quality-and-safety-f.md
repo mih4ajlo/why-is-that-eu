@@ -8,6 +8,9 @@ summary: "Sets mandatory EU-wide quality and safety standards for all stages of 
 status: "in-force"
 related: ["2004/23/EC", "2010/45/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

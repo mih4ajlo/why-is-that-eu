@@ -8,6 +8,9 @@ summary: "The EU's central framework for reviewing large mergers and acquisition
 status: "in-force"
 related: ["Regulation 4064/89/EEC", "Directive 2014/104/EU", "Article 101 TFEU", "Article 102 TFEU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

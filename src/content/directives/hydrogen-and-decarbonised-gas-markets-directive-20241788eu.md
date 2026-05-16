@@ -8,6 +8,9 @@ summary: "This directive integrates hydrogen and decarbonised gases into EU ener
 status: "in-force"
 related: ["2024/1791/EU", "2009/73/EC", "2018/2001/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

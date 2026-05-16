@@ -8,6 +8,9 @@ summary: "Extends EU-wide geographical indication (GI) protection to non-agricul
 status: "in-force"
 related: ["2012/1151/EU", "2017/1001/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

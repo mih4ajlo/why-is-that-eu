@@ -8,6 +8,9 @@ summary: "The directive sets minimum EU-wide standards for employers to inform a
 status: "in-force"
 related: ["98/59/EC", "2001/86/EC", "2009/38/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

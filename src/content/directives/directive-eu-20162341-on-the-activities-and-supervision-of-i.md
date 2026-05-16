@@ -8,6 +8,9 @@ summary: "The IORP II Directive updated EU rules for occupational pension funds,
 status: "in-force"
 related: ["2003/41/EC", "2009/138/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

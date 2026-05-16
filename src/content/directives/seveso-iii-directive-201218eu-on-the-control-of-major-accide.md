@@ -8,6 +8,9 @@ summary: "The Seveso III Directive sets requirements for land-use planning and e
 status: "in-force"
 related: ["2003/105/EC", "96/82/EC", "82/501/EEC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The EPPO is an independent EU body that investigates and prosecutes cr
 status: "in-force"
 related: ["2017/1371/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

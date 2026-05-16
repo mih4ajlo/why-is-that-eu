@@ -8,6 +8,9 @@ summary: "The Machinery Regulation modernises 2006 machinery safety rules for th
 status: "in-force"
 related: ["2006/42/EC", "2024/2740/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

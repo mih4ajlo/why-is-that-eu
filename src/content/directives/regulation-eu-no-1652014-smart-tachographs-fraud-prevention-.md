@@ -8,6 +8,9 @@ summary: "The EU Tachograph Regulation modernises mandatory recording equipment 
 status: "in-force"
 related: ["561/2006/EC", "3821/85/EEC", "2020/1054/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

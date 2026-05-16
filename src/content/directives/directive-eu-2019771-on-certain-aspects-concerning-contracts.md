@@ -8,6 +8,9 @@ summary: "The Sale of Goods Directive harmonises EU rules for consumer purchases
 status: "in-force"
 related: ["2011/83/EU", "2019/770/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

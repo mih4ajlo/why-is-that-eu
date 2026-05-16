@@ -8,6 +8,9 @@ summary: "The Screening Regulation makes identity, health, and security checks m
 status: "in-force"
 related: ["2024/1351/EU", "2024/1358/EU", "2024/1359/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

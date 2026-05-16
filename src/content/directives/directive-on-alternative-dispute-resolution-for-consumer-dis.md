@@ -8,6 +8,9 @@ summary: "Requires EU Member States to ensure that for virtually all consumer co
 status: "in-force"
 related: ["2008/52/EC", "524/2013/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

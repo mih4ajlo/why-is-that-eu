@@ -8,6 +8,9 @@ summary: "Establishes a centralised resolution authority (the Single Resolution 
 status: "in-force"
 related: ["2014/59/EU", "1024/2013/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

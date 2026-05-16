@@ -8,6 +8,9 @@ summary: "The Instant Payments Regulation requires all EU payment service provid
 status: "in-force"
 related: ["2015/2366/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

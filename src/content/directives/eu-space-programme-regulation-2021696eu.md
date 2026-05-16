@@ -8,6 +8,9 @@ summary: "Establishes the EU Space Programme, consolidating Galileo, EGNOS, Cope
 status: "in-force"
 related: ["1285/2013/EU", "377/2014/EU", "2018/841/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

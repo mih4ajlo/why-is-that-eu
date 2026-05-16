@@ -8,6 +8,9 @@ summary: "EU rules governing the transport of live animals for economic purposes
 status: "in-force"
 related: ["EU 2017/625", "EC 1099/2009"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

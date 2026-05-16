@@ -8,6 +8,9 @@ summary: "Establishes a standardised EU-wide Disability Card and Parking Card, e
 status: "in-force"
 related: ["Directive (EU) 2019/882 on accessibility requirements for products and services", "Regulation (EC) 883/2004 on social security coordination"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "The European Accessibility Act harmonizes accessibility requirements f
 status: "in-force"
 related: ["2000/31/EC", "2016/2102/EU", "2016/679/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 6
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

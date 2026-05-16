@@ -8,6 +8,9 @@ summary: "Creates a voluntary EU Green Bond (EuGB) label requiring that 100% of 
 status: "in-force"
 related: ["2020/852/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 3
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

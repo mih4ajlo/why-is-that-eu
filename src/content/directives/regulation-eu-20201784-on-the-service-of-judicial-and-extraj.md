@@ -8,6 +8,9 @@ summary: "The regulation modernises the rules for serving legal documents across
 status: "in-force"
 related: ["1215/2012/EU", "861/2007/EC"]
 llm: "deepseek-chat"
+eval_errors: 1
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

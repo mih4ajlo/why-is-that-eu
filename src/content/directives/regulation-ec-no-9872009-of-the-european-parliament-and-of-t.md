@@ -8,6 +8,9 @@ summary: "Sets out the procedural rules for how EU countries must coordinate soc
 status: "in-force"
 related: ["883/2004/EC", "1231/2010/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "A comprehensive revision of EU pharmaceutical rules to make medicines 
 status: "in-force"
 related: ["2001/83/EC", "726/2004/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

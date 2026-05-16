@@ -8,6 +8,9 @@ summary: "This directive mandates USB-C as the common charging port for most por
 status: "in-force"
 related: []
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

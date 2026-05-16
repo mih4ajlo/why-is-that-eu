@@ -8,6 +8,9 @@ summary: "The world's first comprehensive horizontal law on artificial intellige
 status: "in-force"
 related: ["2016/679/EU", "2022/2065/EU", "2022/1925/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

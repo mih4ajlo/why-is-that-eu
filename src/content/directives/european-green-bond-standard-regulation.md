@@ -8,6 +8,9 @@ summary: The EU Green Bond Standard creates a voluntary, high-quality benchmark 
 status: in-force
 related: [2020/852/EU]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

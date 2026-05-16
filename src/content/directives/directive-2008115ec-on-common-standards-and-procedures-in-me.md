@@ -8,6 +8,9 @@ summary: "The Return Directive establishes common EU standards and procedures fo
 status: "in-force"
 related: ["2004/81/EC", "2011/36/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 2
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

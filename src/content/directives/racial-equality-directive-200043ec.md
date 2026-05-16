@@ -8,6 +8,9 @@ summary: "A landmark EU law prohibiting discrimination on grounds of race or eth
 status: "in-force"
 related: ["2000/78/EC", "2006/54/EC"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

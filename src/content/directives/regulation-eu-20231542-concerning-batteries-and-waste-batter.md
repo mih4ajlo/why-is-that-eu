@@ -8,6 +8,9 @@ summary: "A comprehensive EU regulation covering the entire lifecycle of batteri
 status: "in-force"
 related: ["2012/19/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

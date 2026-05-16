@@ -8,6 +8,9 @@ summary: "These laws mandate EU-wide monitoring and reduction targets for zoonot
 status: "in-force"
 related: ["178/2002/EC", "853/2004/EC", "2073/2005/EC"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 4
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

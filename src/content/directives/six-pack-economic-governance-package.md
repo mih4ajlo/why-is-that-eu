@@ -8,6 +8,9 @@ summary: "A set of five regulations and one directive that strengthened EU fisca
 status: "in-force"
 related: ["472/2013/EU", "473/2013/EU"]
 llm: "deepseek-chat"
+eval_errors: 0
+eval_warnings: 0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

@@ -8,6 +8,9 @@ summary: "Establishes market-based rules for the EU’s internal electricity mar
 status: "in-force"
 related: ["2019/944/EU", "2018/2001/EU", "2018/1999/EU"]
 llm: "deepseek-reasoner"
+eval_errors: 0
+eval_warnings: 1
+eval_date: "2026-05-16"
 ---
 
 ## What is it?
