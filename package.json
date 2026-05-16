@@ -11,7 +11,8 @@
     "harvest": "tsx scripts/harvest.ts",
     "patch-llm": "tsx scripts/patch-llm.ts",
     "extract-questions": "tsx scripts/extract-questions.ts",
-    "rewrite-questions": "tsx scripts/rewrite-questions.ts"
+    "rewrite-questions": "tsx scripts/rewrite-questions.ts",
+    "evaluate": "tsx scripts/evaluate.ts"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
