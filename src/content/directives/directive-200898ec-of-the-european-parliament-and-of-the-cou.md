@@ -10,6 +10,10 @@ related: ["2018/851/EU", "94/62/EC", "1999/31/EC", "2002/96/EC"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 1
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

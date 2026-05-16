@@ -10,6 +10,10 @@ related: ["Regulation (EU) No 1260/2012", "Agreement on a Unified Patent Court"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 4
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 4.8
+eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

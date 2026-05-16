@@ -10,6 +10,10 @@ related: ["2002/475/JHA", "2005/671/JHA"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 3
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

@@ -10,6 +10,10 @@ related: ["2001/18/EC", "1830/2003/EC"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 3
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

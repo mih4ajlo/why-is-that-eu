@@ -10,6 +10,10 @@ related: ["2018/858/EU", "2023/1542/EU", "2035/zero-emission-vehicles"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 1
+eval_summary: 5
+eval_why: 4
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

@@ -10,6 +10,10 @@ related: ["2009/72/EC", "2009/73/EC", "596/2014/EU"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 4.5
 eval_date: "2026-05-16"
 ---
 

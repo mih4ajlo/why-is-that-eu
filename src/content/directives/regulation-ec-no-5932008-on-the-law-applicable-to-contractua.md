@@ -10,6 +10,10 @@ related: ["864/2007/EC (Rome II)", "1215/2012/EU (Brussels I recast)"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 2
+eval_summary: 5
+eval_why: 4
+eval_qa_relevance: 5.0
+eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

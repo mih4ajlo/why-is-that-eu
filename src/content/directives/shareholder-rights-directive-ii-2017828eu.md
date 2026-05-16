@@ -10,6 +10,8 @@ related: ["2007/36/EC", "2014/95/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 1
+eval_summary: 4
+eval_why: 2
 eval_date: "2026-05-16"
 ---
 

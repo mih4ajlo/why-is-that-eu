@@ -10,6 +10,10 @@ related: ["CRR II (2019/876/EU)", "CRD VI (Directive 2024/1619/EU)", "CRR (2013/
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 2
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

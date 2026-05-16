@@ -10,6 +10,10 @@ related: [593/2008/EC, 1215/2012/EU, 2016/679/EU]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 3
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

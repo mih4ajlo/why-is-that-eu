@@ -10,6 +10,10 @@ related: ["2024/1358/EU", "2024/1356/EU", "2024/1357/EU", "EU-2020/1363"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

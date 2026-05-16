@@ -10,6 +10,10 @@ related: ["91/271/EEC", "98/83/EC", "2006/118/EC", "2008/105/EC", "2013/39/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

@@ -10,6 +10,10 @@ related: ["1907/2006/EC (REACH)", "2008/98/EC (Waste Framework Directive)", "201
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

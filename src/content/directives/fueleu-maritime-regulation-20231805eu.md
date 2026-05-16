@@ -10,6 +10,10 @@ related: ["EU ETS Directive 2003/87/EC as amended for maritime", "Renewable Ener
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 2
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

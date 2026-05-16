@@ -10,6 +10,10 @@ related: ["2015/849/EU", "2018/843/EU", "2021/776/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 4
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 
