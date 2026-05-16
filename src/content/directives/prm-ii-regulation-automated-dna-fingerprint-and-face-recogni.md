@@ -10,10 +10,6 @@ related: ["2008/615/JHA", "2008/616/JHA"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 4
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

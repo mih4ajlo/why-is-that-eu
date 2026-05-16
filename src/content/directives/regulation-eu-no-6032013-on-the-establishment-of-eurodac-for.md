@@ -8,12 +8,8 @@ summary: "The Eurodac Regulation established a centralised EU-wide database of f
 status: "in-force"
 related: ["604/2013/EU (Dublin III)", "656/2014/EU", "2016/679/EU"]
 llm: "deepseek-chat"
-eval_errors: 2
-eval_warnings: 2
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 4.8
-eval_qa_specificity: 4.5
+eval_errors: 0
+eval_warnings: 4
 eval_date: "2026-05-16"
 ---
 

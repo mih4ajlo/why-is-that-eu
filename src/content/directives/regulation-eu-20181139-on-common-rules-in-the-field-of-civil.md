@@ -10,10 +10,6 @@ related: ["216/2008/EC", "3922/91/EEC", "1592/2002/EC", "2020/469/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

@@ -10,10 +10,6 @@ related: ["1073/1999/EC", "2185/96/Euratom", "2017/1939/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

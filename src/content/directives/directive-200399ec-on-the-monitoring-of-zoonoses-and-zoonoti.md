@@ -10,10 +10,6 @@ related: ["178/2002/EC", "853/2004/EC", "2073/2005/EC"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 4
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

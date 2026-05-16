@@ -10,10 +10,6 @@ related: ["2019/944/EU", "2018/2001/EU", "2018/1999/EU"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 1
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

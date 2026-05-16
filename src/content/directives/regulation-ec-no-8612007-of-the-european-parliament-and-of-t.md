@@ -10,10 +10,6 @@ related: ["1215/2012/EU", "1896/2006/EC"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 4
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

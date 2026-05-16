@@ -10,10 +10,6 @@ related: ["726/2004/EC", "2010/84/EU", "2011/62/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 1
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

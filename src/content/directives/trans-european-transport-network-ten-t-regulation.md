@@ -10,10 +10,6 @@ related: ["2021/1187/EU", "2021/1153/EU (CEF Regulation)"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

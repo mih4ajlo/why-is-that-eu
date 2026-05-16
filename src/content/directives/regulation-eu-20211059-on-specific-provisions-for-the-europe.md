@@ -10,10 +10,6 @@ related: ["2021/1060/EU (Common Provisions Regulation)", "2021/1058/EU (ERDF and
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 3
-eval_summary: 5
-eval_why: 4
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.3
 eval_date: "2026-05-16"
 ---
 

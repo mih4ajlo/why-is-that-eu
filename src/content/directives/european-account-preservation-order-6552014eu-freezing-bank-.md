@@ -11,10 +11,6 @@ related: ["1896/2006/EC (European Enforcement Order)", "861/2007/EC (European Sm
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 4
-eval_qa_relevance: 4.8
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

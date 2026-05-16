@@ -10,10 +10,6 @@ related: ["2016/1148/EU", "2022/2555/EU"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 3
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.7
 eval_date: "2026-05-16"
 ---
 

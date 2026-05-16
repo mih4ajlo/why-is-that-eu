@@ -10,10 +10,6 @@ related: ["2020/2094/EU", "2020/2092/EU"]
 llm: "claude-opus-4-7"
 eval_errors: 0
 eval_warnings: 5
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

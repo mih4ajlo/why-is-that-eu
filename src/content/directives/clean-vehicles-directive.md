@@ -10,10 +10,6 @@ related: ["2019/1161/EU", "2014/24/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 1
-eval_summary: 5
-eval_why: 4
-eval_qa_relevance: 4.0
-eval_qa_specificity: 3.7
 eval_date: "2026-05-16"
 ---
 

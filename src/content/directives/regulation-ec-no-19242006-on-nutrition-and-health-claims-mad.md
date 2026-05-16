@@ -10,10 +10,6 @@ related: ["1169/2011/EU", "EC/2007/105", "EU/2019/517"]
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

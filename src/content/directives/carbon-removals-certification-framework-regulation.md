@@ -10,10 +10,6 @@ related: ["2023/2419/EU", "2021/1119/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

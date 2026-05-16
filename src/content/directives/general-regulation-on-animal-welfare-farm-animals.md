@@ -10,10 +10,6 @@ related: ["2005/1/EC", "2004/33/EC", "2019/6/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 4
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.7
 eval_date: "2026-05-16"
 ---
 

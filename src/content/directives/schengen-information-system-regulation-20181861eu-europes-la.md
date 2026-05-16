@@ -10,10 +10,6 @@ related: ["2018/1860/EU", "2018/1862/EU", "2016/679/EU", "2019/818/EU", "2019/81
 llm: "deepseek-reasoner"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.8
 eval_date: "2026-05-16"
 ---
 

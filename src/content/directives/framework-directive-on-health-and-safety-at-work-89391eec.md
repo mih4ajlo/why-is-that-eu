@@ -10,10 +10,6 @@ related: ["89/654/EEC", "91/383/EEC", "92/57/EEC", "93/104/EC"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 0
-eval_summary: 4
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 4.7
 eval_date: "2026-05-16"
 ---
 

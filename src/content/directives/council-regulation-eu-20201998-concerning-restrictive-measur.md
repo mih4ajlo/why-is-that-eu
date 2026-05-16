@@ -10,10 +10,6 @@ related: []
 llm: "claude-opus-4-7"
 eval_errors: 0
 eval_warnings: 4
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

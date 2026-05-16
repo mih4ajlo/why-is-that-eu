@@ -10,10 +10,6 @@ related: ["2008/50/EC", "2018/1999/EU", "2020/852/EU"]
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 5
-eval_summary: 5
-eval_why: 4
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 

@@ -10,10 +10,6 @@ related: ["2015/2120/EU", "2002/21/EC", "2002/20/EC", "2002/19/EC", "2002/22/EC"
 llm: "deepseek-chat"
 eval_errors: 0
 eval_warnings: 5
-eval_summary: 5
-eval_why: 5
-eval_qa_relevance: 5.0
-eval_qa_specificity: 5.0
 eval_date: "2026-05-16"
 ---
 
