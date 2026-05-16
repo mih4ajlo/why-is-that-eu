@@ -8,6 +8,13 @@ summary: "The EU's sectoral sanctions regime against Russia, originally adopted 
 status: "in-force"
 related: [269/2014/EU, 692/2014/EU, 2022/263/EU]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 1
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

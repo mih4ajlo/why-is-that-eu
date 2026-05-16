@@ -8,6 +8,13 @@ summary: "The Recovery and Resilience Facility is the €723 billion centrepiece
 status: "in-force"
 related: ["2020/2094/EU", "2020/2092/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 5
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 5.0
+eval_date: "2026-05-16"
 ---
 
 ## What is it?

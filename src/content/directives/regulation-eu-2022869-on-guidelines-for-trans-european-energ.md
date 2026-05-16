@@ -8,6 +8,13 @@ summary: "The revised TEN-E Regulation overhauls how the EU identifies, plans an
 status: "in-force"
 related: ["2013/347/EU", "2021/1119/EU", "2018/1999/EU"]
 llm: "claude-opus-4-7"
+eval_errors: 0
+eval_warnings: 0
+eval_summary: 5
+eval_why: 5
+eval_qa_relevance: 5.0
+eval_qa_specificity: 4.5
+eval_date: "2026-05-16"
 ---
 
 ## What is it?
